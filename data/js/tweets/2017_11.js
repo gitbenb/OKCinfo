@@ -1,6 +1,353 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Wed Nov 22 13:39:35 +0000 2017",
+		"id": 933329110641860600,
+		"id_str": "933329110641860614",
+		"text": "RT @PolBegov: Pénurie de juge pour l'appel @OKCinformation, les victimes ont attendu 19 ans, il serait peut être temps de clôturer cette ho…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PolBegov",
+					"name": "Veille infopol 🇧🇪",
+					"id": 2359778089,
+					"id_str": "2359778089",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "OKCinformation",
+					"name": "#OKCinfo",
+					"id": 3309353195,
+					"id_str": "3309353195",
+					"indices": [
+						43,
+						58
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 civil parties initiatives to drag Ogyen Kunzang Choling/Spatz @ogyenkun to Justice | Spatzism is not #Buddhism! okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149,
+			"friends_count": 297,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 175,
+			"utc_offset": 3600,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 603,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1509464581",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 22 13:28:46 +0000 2017",
+			"id": 933326390883180500,
+			"id_str": "933326390883180544",
+			"text": "Pénurie de juge pour l'appel @OKCinformation, les victimes ont attendu 19 ans, il serait peut être temps de clôture… https://t.co/ddmdDXxZ0M",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OKCinformation",
+						"name": "#OKCinfo",
+						"id": 3309353195,
+						"id_str": "3309353195",
+						"indices": [
+							29,
+							44
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ddmdDXxZ0M",
+						"expanded_url": "https://twitter.com/i/web/status/933326390883180544",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2359778089,
+				"id_str": "2359778089",
+				"name": "Veille infopol 🇧🇪",
+				"screen_name": "PolBegov",
+				"location": "Bruxelles",
+				"description": "NewsBot Veille informative (Politique Économie Région) \nRT = Relais \ncommentaires/editeur @rMdes_",
+				"url": "https://t.co/n4x0sSwFK2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/n4x0sSwFK2",
+								"expanded_url": "http://begov.euwatch.eu/news/",
+								"display_url": "begov.euwatch.eu/news/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2955,
+				"friends_count": 1511,
+				"listed_count": 240,
+				"created_at": "Mon Feb 24 16:54:12 +0000 2014",
+				"favourites_count": 1626,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 104219,
+				"lang": "fr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/669196505388032001/PeINVkDm.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/669196505388032001/PeINVkDm.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/830406487851802625/x_YH1yml_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/830406487851802625/x_YH1yml_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2359778089/1448275480",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 933325674236072000,
+			"quoted_status_id_str": "933325674236071936",
+			"quoted_status": {
+				"created_at": "Wed Nov 22 13:25:55 +0000 2017",
+				"id": 933325674236072000,
+				"id_str": "933325674236071936",
+				"text": "C’est maintenant au tour de @Koen_Geens1 de répondre aux questions en com #Justice ea s/ pénurie magistrats francop… https://t.co/dtuin0ALz7",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "Justice",
+							"indices": [
+								74,
+								82
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "Koen_Geens1",
+							"name": "Koen Geens",
+							"id": 1585166444,
+							"id_str": "1585166444",
+							"indices": [
+								28,
+								40
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/dtuin0ALz7",
+							"expanded_url": "https://twitter.com/i/web/status/933325674236071936",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 288776272,
+					"id_str": "288776272",
+					"name": "QuidàlaChambre",
+					"screen_name": "LaChambreBE",
+					"location": "1008 Bruxelles",
+					"description": "La Chambre des représentants de Belgique - Parlement fédéral belge",
+					"url": "http://t.co/sfPzZNs99z",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/sfPzZNs99z",
+									"expanded_url": "http://www.lachambre.be",
+									"display_url": "lachambre.be",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 4080,
+					"friends_count": 1,
+					"listed_count": 140,
+					"created_at": "Wed Apr 27 13:10:56 +0000 2011",
+					"favourites_count": 15,
+					"utc_offset": 3600,
+					"time_zone": "Brussels",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 3796,
+					"lang": "fr",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1328072995/logo_twitter_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1328072995/logo_twitter_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/288776272/1486127724",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "fr"
+			},
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 933325674236072000,
+		"quoted_status_id_str": "933325674236071936",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr"
+	},
+	{
 		"created_at": "Tue Nov 21 19:51:35 +0000 2017",
 		"id": 933060340547506200,
 		"id_str": "933060340547506176",
