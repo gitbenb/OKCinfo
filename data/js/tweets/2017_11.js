@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Thu Nov 23 22:13:53 +0000 2017",
+		"id": 933820928068333600,
+		"id_str": "933820928068333568",
+		"text": "RT @benborges_: Quite fed-up with the comments getting out of various blogs talking about #rigpa, it's like Buddhist prefer to argue about…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rigpa",
+					"indices": [
+						90,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "benborges_",
+					"name": "Ben Borges",
+					"id": 6590,
+					"id_str": "6590",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 civil parties initiatives to drag Ogyen Kunzang Choling/Spatz @ogyenkun to Justice | Spatzism is not #Buddhism! okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149,
+			"friends_count": 297,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 175,
+			"utc_offset": 3600,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 604,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1509464581",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 23 22:13:16 +0000 2017",
+			"id": 933820772963020800,
+			"id_str": "933820772963020801",
+			"text": "Quite fed-up with the comments getting out of various blogs talking about #rigpa, it's like Buddhist prefer to argu… https://t.co/We3fbHj9Sq",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "rigpa",
+						"indices": [
+							74,
+							80
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/We3fbHj9Sq",
+						"expanded_url": "https://twitter.com/i/web/status/933820772963020801",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6590,
+				"id_str": "6590",
+				"name": "Ben Borges",
+				"screen_name": "benborges_",
+				"location": "Internet",
+				"description": "OKC/Spatz Survivor | information activist | agitator | disruptor of social injustice | mail: email@benborges.xyz | chat/otr: chat@benborges.xyz",
+				"url": "https://t.co/brLVXiDBoA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/brLVXiDBoA",
+								"expanded_url": "https://www.benborges.xyz/",
+								"display_url": "benborges.xyz",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3444,
+				"friends_count": 3883,
+				"listed_count": 367,
+				"created_at": "Thu Sep 21 18:27:47 +0000 2006",
+				"favourites_count": 3987,
+				"utc_offset": 3600,
+				"time_zone": "Europe/Luxembourg",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 91888,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/512557034235899904/eJwTzSUx.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/512557034235899904/eJwTzSUx.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/790929077737820160/Th_OgLbt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/790929077737820160/Th_OgLbt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6590/1482232382",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Nov 22 13:39:35 +0000 2017",
 		"id": 933329110641860600,
 		"id_str": "933329110641860614",
