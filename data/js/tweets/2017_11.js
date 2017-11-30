@@ -1,6 +1,508 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Wed Nov 29 17:14:14 +0000 2017",
+		"id": 935919847703306200,
+		"id_str": "935919847703306240",
+		"text": "Controversial monk and Dalai Lama aide replaced amid corruption accusations https://t.co/8aRqHrEf1u #Buddhism #Tibet https://t.co/nfOaCdcAAS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Buddhism",
+					"indices": [
+						100,
+						109
+					]
+				},
+				{
+					"text": "Tibet",
+					"indices": [
+						110,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8aRqHrEf1u",
+					"expanded_url": "https://www.theguardian.com/world/2017/nov/29/tenzin-dhonden-dalai-lama-corruption-celebrity-investigation",
+					"display_url": "theguardian.com/world/2017/nov…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 935919845626875900,
+					"id_str": "935919845626875904",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DP0OJBDUEAAEhqu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DP0OJBDUEAAEhqu.jpg",
+					"url": "https://t.co/nfOaCdcAAS",
+					"display_url": "pic.twitter.com/nfOaCdcAAS",
+					"expanded_url": "https://twitter.com/OKCinformation/status/935919847703306240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 935919845626875900,
+					"id_str": "935919845626875904",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DP0OJBDUEAAEhqu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DP0OJBDUEAAEhqu.jpg",
+					"url": "https://t.co/nfOaCdcAAS",
+					"display_url": "pic.twitter.com/nfOaCdcAAS",
+					"expanded_url": "https://twitter.com/OKCinformation/status/935919847703306240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twibble.io\" rel=\"nofollow\">Twibble.io</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 civil parties initiatives to drag Ogyen Kunzang Choling/Spatz @ogyenkun to Justice | Spatzism is not #Buddhism! okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149,
+			"friends_count": 298,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 178,
+			"utc_offset": 3600,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 607,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1509464581",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 29 15:00:31 +0000 2017",
+		"id": 935886195065802800,
+		"id_str": "935886195065802752",
+		"text": "RT @sex_abuse_news: The sexual harassment conversation needs to move to the next level https://t.co/SZlmCL7Tpg #rape #sexualabuse https://t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rape",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "sexualabuse",
+					"indices": [
+						117,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sex_abuse_news",
+					"name": "SexualAbuseWatch",
+					"id": 871023491893612500,
+					"id_str": "871023491893612545",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SZlmCL7Tpg",
+					"expanded_url": "https://www.washingtonpost.com/opinions/the-sexual-harassment-conversation-needs-to-move-to-the-next-level/2017/11/28/dee090b0-d397-11e7-95bf-df7c19270879_story.html",
+					"display_url": "washingtonpost.com/opinions/the-s…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 civil parties initiatives to drag Ogyen Kunzang Choling/Spatz @ogyenkun to Justice | Spatzism is not #Buddhism! okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149,
+			"friends_count": 298,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 178,
+			"utc_offset": 3600,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 607,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1509464581",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Nov 28 23:39:20 +0000 2017",
+			"id": 935654370364084200,
+			"id_str": "935654370364084227",
+			"text": "The sexual harassment conversation needs to move to the next level https://t.co/SZlmCL7Tpg #rape #sexualabuse https://t.co/AakY7b6fy8",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "rape",
+						"indices": [
+							91,
+							96
+						]
+					},
+					{
+						"text": "sexualabuse",
+						"indices": [
+							97,
+							109
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SZlmCL7Tpg",
+						"expanded_url": "https://www.washingtonpost.com/opinions/the-sexual-harassment-conversation-needs-to-move-to-the-next-level/2017/11/28/dee090b0-d397-11e7-95bf-df7c19270879_story.html",
+						"display_url": "washingtonpost.com/opinions/the-s…",
+						"indices": [
+							67,
+							90
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 935654367188754400,
+						"id_str": "935654367188754433",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/DPwcsIzUIAE-6TC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPwcsIzUIAE-6TC.jpg",
+						"url": "https://t.co/AakY7b6fy8",
+						"display_url": "pic.twitter.com/AakY7b6fy8",
+						"expanded_url": "https://twitter.com/sex_abuse_news/status/935654370364084227/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1484,
+								"h": 989,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 935654367188754400,
+						"id_str": "935654367188754433",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/DPwcsIzUIAE-6TC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPwcsIzUIAE-6TC.jpg",
+						"url": "https://t.co/AakY7b6fy8",
+						"display_url": "pic.twitter.com/AakY7b6fy8",
+						"expanded_url": "https://twitter.com/sex_abuse_news/status/935654370364084227/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1484,
+								"h": 989,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twibble.io\" rel=\"nofollow\">Twibble.io</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 871023491893612500,
+				"id_str": "871023491893612545",
+				"name": "SexualAbuseWatch",
+				"screen_name": "sex_abuse_news",
+				"location": "Abused Planet",
+				"description": "Tweeting sexual abuses News as they go out in the Media hence only a fraction of the sexual abuse epidemic going on Worldwide - #awareness #sexualabuse",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 159,
+				"friends_count": 148,
+				"listed_count": 2,
+				"created_at": "Sat Jun 03 15:19:18 +0000 2017",
+				"favourites_count": 31,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9892,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/871029574154498050/TTDmJFzH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/871029574154498050/TTDmJFzH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/871023491893612545/1496504593",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Nov 28 12:13:02 +0000 2017",
 		"id": 935481659603935200,
 		"id_str": "935481659603935232",
