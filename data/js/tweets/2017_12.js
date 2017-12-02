@@ -1,6 +1,1146 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sat Dec 02 03:12:29 +0000 2017",
+		"id": 936795174939762700,
+		"id_str": "936795174939762688",
+		"text": "@matthieu_ricard Maybe @MatthieuRicard would be so kind to explain to Rabjam Rimpoché \"as a spiritual director\" of… https://t.co/LLLAnrYv8A",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "matthieu_ricard",
+					"name": "Matthieu Ricard (EN)",
+					"id": 2898824212,
+					"id_str": "2898824212",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						23,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LLLAnrYv8A",
+					"expanded_url": "https://twitter.com/i/web/status/936795174939762688",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 936794055207403500,
+		"in_reply_to_status_id_str": "936794055207403520",
+		"in_reply_to_user_id": 2898824212,
+		"in_reply_to_user_id_str": "2898824212",
+		"in_reply_to_screen_name": "matthieu_ricard",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 civil parties initiatives to drag Ogyen Kunzang Choling/Spatz @ogyenkun to Justice | Spatzism is not #Buddhism! okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150,
+			"friends_count": 298,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 181,
+			"utc_offset": 3600,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 615,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1509464581",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 936792979523608600,
+		"quoted_status_id_str": "936792979523608576",
+		"quoted_status": {
+			"created_at": "Sat Dec 02 03:03:45 +0000 2017",
+			"id": 936792979523608600,
+			"id_str": "936792979523608576",
+			"text": "Un document Face cachée sur la secte d'inspiration Bouddhiste OKC @ogyenkun aka Ogyen Kunzang Choling (entre autre)… https://t.co/hIWUnWMjVc",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OgyenKun",
+						"name": "OKC",
+						"id": 3665270417,
+						"id_str": "3665270417",
+						"indices": [
+							66,
+							75
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/hIWUnWMjVc",
+						"expanded_url": "https://twitter.com/i/web/status/936792979523608576",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3309353195,
+				"id_str": "3309353195",
+				"name": "#OKCinfo",
+				"screen_name": "OKCinformation",
+				"location": "Belgique",
+				"description": "#OKCinfo is a 2015 civil parties initiatives to drag Ogyen Kunzang Choling/Spatz @ogyenkun to Justice | Spatzism is not #Buddhism! okcinfor@gmail.com",
+				"url": "https://t.co/iXnsHdew7Q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iXnsHdew7Q",
+								"expanded_url": "http://www.okcinfo.news/",
+								"display_url": "okcinfo.news",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 150,
+				"friends_count": 298,
+				"listed_count": 7,
+				"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+				"favourites_count": 181,
+				"utc_offset": 3600,
+				"time_zone": "Brussels",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 615,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1509464581",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Dec 02 03:03:45 +0000 2017",
+		"id": 936792979523608600,
+		"id_str": "936792979523608576",
+		"text": "Un document Face cachée sur la secte d'inspiration Bouddhiste OKC @ogyenkun aka Ogyen Kunzang Choling (entre autre)… https://t.co/hIWUnWMjVc",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OgyenKun",
+					"name": "OKC",
+					"id": 3665270417,
+					"id_str": "3665270417",
+					"indices": [
+						66,
+						75
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hIWUnWMjVc",
+					"expanded_url": "https://twitter.com/i/web/status/936792979523608576",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 civil parties initiatives to drag Ogyen Kunzang Choling/Spatz @ogyenkun to Justice | Spatzism is not #Buddhism! okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150,
+			"friends_count": 298,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 181,
+			"utc_offset": 3600,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 615,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1509464581",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr"
+	},
+	{
+		"created_at": "Sat Dec 02 00:57:14 +0000 2017",
+		"id": 936761139584630800,
+		"id_str": "936761139584630784",
+		"text": "Devoir d'enquête - OKC/Ogyen Kunzang Choling  : Les enfants oubliés #OKCinfo: https://t.co/VzjCqAScil",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OKCinfo",
+					"indices": [
+						68,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VzjCqAScil",
+					"expanded_url": "http://www.okcinfo.news/2015/devoir-denqute---okcogyen-kunzang-choling-les-enfants-oublis-okcinfo",
+					"display_url": "okcinfo.news/2015/devoir-de…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://withknown.com/\" rel=\"nofollow\">Known Twitter Syndication</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 civil parties initiatives to drag Ogyen Kunzang Choling/Spatz @ogyenkun to Justice | Spatzism is not #Buddhism! okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150,
+			"friends_count": 298,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 181,
+			"utc_offset": 3600,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 615,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1509464581",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr"
+	},
+	{
+		"created_at": "Sat Dec 02 00:43:52 +0000 2017",
+		"id": 936757774972747800,
+		"id_str": "936757774972747776",
+		"text": "Les dérives sectaires Dans les griffes du gourou ‹ RTLTVI: https://t.co/PQlOxoblFN via @YouTube",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						87,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PQlOxoblFN",
+					"expanded_url": "http://youtu.be/0t4-nHuRdOI?a",
+					"display_url": "youtu.be/0t4-nHuRdOI?a",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 civil parties initiatives to drag Ogyen Kunzang Choling/Spatz @ogyenkun to Justice | Spatzism is not #Buddhism! okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150,
+			"friends_count": 298,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 181,
+			"utc_offset": 3600,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 615,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1509464581",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr"
+	},
+	{
+		"created_at": "Fri Dec 01 19:10:58 +0000 2017",
+		"id": 936673998162800600,
+		"id_str": "936673998162800640",
+		"text": "RT @JulieDenayer: Ne manquez pas le nouveau numéro de \"Face cachée\" ce soir à 19h45 sur @RTLTVI ! 😉📺 #facecachee #rtltvi #dérivessectaires…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "facecachee",
+					"indices": [
+						101,
+						112
+					]
+				},
+				{
+					"text": "rtltvi",
+					"indices": [
+						113,
+						120
+					]
+				},
+				{
+					"text": "dérivessectaires",
+					"indices": [
+						121,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JulieDenayer",
+					"name": "Julie Denayer",
+					"id": 442126276,
+					"id_str": "442126276",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "RTLTVI",
+					"name": "RTL TVI",
+					"id": 243183436,
+					"id_str": "243183436",
+					"indices": [
+						88,
+						95
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 civil parties initiatives to drag Ogyen Kunzang Choling/Spatz @ogyenkun to Justice | Spatzism is not #Buddhism! okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150,
+			"friends_count": 298,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 181,
+			"utc_offset": 3600,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 615,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1509464581",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 01 18:02:30 +0000 2017",
+			"id": 936656766741475300,
+			"id_str": "936656766741475331",
+			"text": "Ne manquez pas le nouveau numéro de \"Face cachée\" ce soir à 19h45 sur @RTLTVI ! 😉📺 #facecachee #rtltvi… https://t.co/02aQ3OrSJL",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "facecachee",
+						"indices": [
+							83,
+							94
+						]
+					},
+					{
+						"text": "rtltvi",
+						"indices": [
+							95,
+							102
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RTLTVI",
+						"name": "RTL TVI",
+						"id": 243183436,
+						"id_str": "243183436",
+						"indices": [
+							70,
+							77
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/02aQ3OrSJL",
+						"expanded_url": "https://twitter.com/i/web/status/936656766741475331",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							104,
+							127
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 442126276,
+				"id_str": "442126276",
+				"name": "Julie Denayer",
+				"screen_name": "JulieDenayer",
+				"location": "Belgium",
+				"description": "Productrice & Journaliste & Présentatrice RTL-TVI #Indices #Faceaujuge #Facecachée #Cestgravedocteur #RTLinfo #RTLTVI",
+				"url": "https://t.co/HE0LviUyL7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HE0LviUyL7",
+								"expanded_url": "http://www.rtl.be",
+								"display_url": "rtl.be",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2830,
+				"friends_count": 919,
+				"listed_count": 62,
+				"created_at": "Tue Dec 20 19:42:41 +0000 2011",
+				"favourites_count": 1821,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2971,
+				"lang": "fr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/522380749744267264/p46EIBvs_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/522380749744267264/p46EIBvs_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/442126276/1399374508",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 936618217916829700,
+			"quoted_status_id_str": "936618217916829696",
+			"quoted_status": {
+				"created_at": "Fri Dec 01 15:29:19 +0000 2017",
+				"id": 936618217916829700,
+				"id_str": "936618217916829696",
+				"text": "@JulieDenayer présente l'émission \"Face Cachée\" diffusée sur @RTLTVI ce 1/12 à 19h45\nhttps://t.co/KZC2A1WgxL",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "JulieDenayer",
+							"name": "Julie Denayer",
+							"id": 442126276,
+							"id_str": "442126276",
+							"indices": [
+								0,
+								13
+							]
+						},
+						{
+							"screen_name": "RTLTVI",
+							"name": "RTL TVI",
+							"id": 243183436,
+							"id_str": "243183436",
+							"indices": [
+								61,
+								68
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/KZC2A1WgxL",
+							"expanded_url": "http://www.rtl.be/info/belgique/societe/un-charlatan-promet-de-guerir-sa-mere-une-simple-boule-au-sein-est-devenue-une-plaie-beante-mais-elle-y-a-cru-jusqu-au-bout--975596.aspx",
+							"display_url": "rtl.be/info/belgique/…",
+							"indices": [
+								85,
+								108
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": 442126276,
+				"in_reply_to_user_id_str": "442126276",
+				"in_reply_to_screen_name": "JulieDenayer",
+				"user": {
+					"id": 3370422910,
+					"id_str": "3370422910",
+					"name": "marie",
+					"screen_name": "MarieMarilou_",
+					"location": "",
+					"description": "",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 167,
+					"friends_count": 13,
+					"listed_count": 65,
+					"created_at": "Sat Jul 11 06:38:38 +0000 2015",
+					"favourites_count": 87,
+					"utc_offset": -28800,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 86211,
+					"lang": "fr",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/936105840100237314/zCmnEc2Z_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/936105840100237314/zCmnEc2Z_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/3370422910/1512021601",
+					"profile_link_color": "1B95E0",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 1,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "fr"
+			},
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 936618217916829700,
+		"quoted_status_id_str": "936618217916829696",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr"
+	},
+	{
+		"created_at": "Fri Dec 01 18:44:41 +0000 2017",
+		"id": 936667384537948200,
+		"id_str": "936667384537948160",
+		"text": "Ce soir Face Cachée: dérive sectaire, dans les griffes du gourou #RTLTVI #facecachée #Belgique #secte https://t.co/NOdPLmjKDT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RTLTVI",
+					"indices": [
+						65,
+						72
+					]
+				},
+				{
+					"text": "facecachée",
+					"indices": [
+						73,
+						84
+					]
+				},
+				{
+					"text": "Belgique",
+					"indices": [
+						85,
+						94
+					]
+				},
+				{
+					"text": "secte",
+					"indices": [
+						95,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 936667382180855800,
+					"id_str": "936667382180855808",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/DP-2BXuVwAAjEof.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DP-2BXuVwAAjEof.jpg",
+					"url": "https://t.co/NOdPLmjKDT",
+					"display_url": "pic.twitter.com/NOdPLmjKDT",
+					"expanded_url": "https://twitter.com/OKCinformation/status/936667384537948160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 818,
+							"h": 530,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 441,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 818,
+							"h": 530,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 936667382180855800,
+					"id_str": "936667382180855808",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/DP-2BXuVwAAjEof.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DP-2BXuVwAAjEof.jpg",
+					"url": "https://t.co/NOdPLmjKDT",
+					"display_url": "pic.twitter.com/NOdPLmjKDT",
+					"expanded_url": "https://twitter.com/OKCinformation/status/936667384537948160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 818,
+							"h": 530,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 441,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 818,
+							"h": 530,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://withknown.com/\" rel=\"nofollow\">Known Twitter Syndication</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 civil parties initiatives to drag Ogyen Kunzang Choling/Spatz @ogyenkun to Justice | Spatzism is not #Buddhism! okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150,
+			"friends_count": 298,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 181,
+			"utc_offset": 3600,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 615,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1509464581",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr"
+	},
+	{
 		"created_at": "Fri Dec 01 08:17:49 +0000 2017",
 		"id": 936509628334133200,
 		"id_str": "936509628334133248",
