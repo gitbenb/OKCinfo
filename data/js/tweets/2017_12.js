@@ -1,6 +1,597 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Tue Dec 26 08:10:16 +0000 2017",
+		"id": 945567426225287200,
+		"id_str": "945567426225287168",
+		"text": "Abuse and #Buddhism - Behind the Smiling Facade : https://t.co/rd2Z7yCS0n #RIGPA #OKCinfo #OKC #Spatz #LamaKunzang #metoo",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Buddhism",
+					"indices": [
+						10,
+						19
+					]
+				},
+				{
+					"text": "RIGPA",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "OKCinfo",
+					"indices": [
+						81,
+						89
+					]
+				},
+				{
+					"text": "OKC",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "Spatz",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "LamaKunzang",
+					"indices": [
+						102,
+						114
+					]
+				},
+				{
+					"text": "metoo",
+					"indices": [
+						115,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rd2Z7yCS0n",
+					"expanded_url": "https://www.info-buddhism.com/Abuse_and_Buddhism-Behind_the_Smiling_Facade-Anna_Sawerthal.html",
+					"display_url": "info-buddhism.com/Abuse_and_Budd…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://postcron.com\" rel=\"nofollow\">Postcron App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 civil parties initiatives to drag Ogyen Kunzang Choling/Spatz @ogyenkun to Justice | Spatzism is not #Buddhism! okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150,
+			"friends_count": 296,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 185,
+			"utc_offset": 3600,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 639,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1509464581",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Dec 25 18:03:59 +0000 2017",
+		"id": 945354452185305100,
+		"id_str": "945354452185305088",
+		"text": "Le genre de truc qui ne va jamais arriver avec la justice Belge @Koen_Geens1 https://t.co/Yu9sHTNZuY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Koen_Geens1",
+					"name": "Koen Geens",
+					"id": 1585166444,
+					"id_str": "1585166444",
+					"indices": [
+						64,
+						76
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Yu9sHTNZuY",
+					"expanded_url": "https://twitter.com/sex_abuse_news/status/945324676544425984",
+					"display_url": "twitter.com/sex_abuse_news…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 civil parties initiatives to drag Ogyen Kunzang Choling/Spatz @ogyenkun to Justice | Spatzism is not #Buddhism! okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150,
+			"friends_count": 296,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 185,
+			"utc_offset": 3600,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 639,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1509464581",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 945324676544426000,
+		"quoted_status_id_str": "945324676544425984",
+		"quoted_status": {
+			"created_at": "Mon Dec 25 16:05:40 +0000 2017",
+			"id": 945324676544426000,
+			"id_str": "945324676544425984",
+			"text": "Priest who sexually abused boys at London school jailed for 18 years https://t.co/BOsYCBjrCv #rape #sexualabuse",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "rape",
+						"indices": [
+							93,
+							98
+						]
+					},
+					{
+						"text": "sexualabuse",
+						"indices": [
+							99,
+							111
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BOsYCBjrCv",
+						"expanded_url": "http://www.bishop-accountability.org/AbuseTrackerArchive/2017/12/#146076",
+						"display_url": "bishop-accountability.org/AbuseTrackerAr…",
+						"indices": [
+							69,
+							92
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twibble.io\" rel=\"nofollow\">Twibble.io</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 871023491893612500,
+				"id_str": "871023491893612545",
+				"name": "SexualAbuseWatch",
+				"screen_name": "sex_abuse_news",
+				"location": "Abused Planet",
+				"description": "Tweeting sexual abuses News as they go out in the Media hence only a fraction of the sexual abuse epidemic going on Worldwide - #awareness #sexualabuse",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 183,
+				"friends_count": 147,
+				"listed_count": 2,
+				"created_at": "Sat Jun 03 15:19:18 +0000 2017",
+				"favourites_count": 37,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13603,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/871029574154498050/TTDmJFzH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/871029574154498050/TTDmJFzH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/871023491893612545/1496504593",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr"
+	},
+	{
+		"created_at": "Mon Dec 25 11:19:00 +0000 2017",
+		"id": 945252535153188900,
+		"id_str": "945252535153188867",
+		"text": "Protip: Belgian sexual abuser, condemned to 4 years suspended sentence is still sexually abusing at least 1 or 2 gi… https://t.co/cp9iPHNVIQ",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cp9iPHNVIQ",
+					"expanded_url": "https://twitter.com/i/web/status/945252535153188867",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 civil parties initiatives to drag Ogyen Kunzang Choling/Spatz @ogyenkun to Justice | Spatzism is not #Buddhism! okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150,
+			"friends_count": 296,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 185,
+			"utc_offset": 3600,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 639,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1509464581",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 944870265564962800,
+		"quoted_status_id_str": "944870265564962817",
+		"quoted_status": {
+			"created_at": "Sun Dec 24 10:00:00 +0000 2017",
+			"id": 944870265564962800,
+			"id_str": "944870265564962817",
+			"text": "Our security cameras have spotted today this suspicious individual just outside our headquarters in The Hague. We a… https://t.co/bksq0WR2kk",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bksq0WR2kk",
+						"expanded_url": "https://twitter.com/i/web/status/944870265564962817",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 988900345,
+				"id_str": "988900345",
+				"name": "Europol",
+				"screen_name": "Europol",
+				"location": "The Hague, The Netherlands",
+				"description": "Official Twitter of the EU Agency for Law Enforcement Cooperation. Folllow us on https://t.co/w65HP1tlZz & https://t.co/9tbKZpWqoW",
+				"url": "https://t.co/fWgb0OiZaY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fWgb0OiZaY",
+								"expanded_url": "http://www.europol.europa.eu",
+								"display_url": "europol.europa.eu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/w65HP1tlZz",
+								"expanded_url": "https://www.facebook.com/europol",
+								"display_url": "facebook.com/europol",
+								"indices": [
+									81,
+									104
+								]
+							},
+							{
+								"url": "https://t.co/9tbKZpWqoW",
+								"expanded_url": "https://www.instagram.com/europol.eu",
+								"display_url": "instagram.com/europol.eu",
+								"indices": [
+									107,
+									130
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 60907,
+				"friends_count": 801,
+				"listed_count": 1109,
+				"created_at": "Tue Dec 04 14:34:22 +0000 2012",
+				"favourites_count": 6477,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3213,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "286BB9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/741710428/5e5db4f4a469fc55ddf414fa46604377.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/741710428/5e5db4f4a469fc55ddf414fa46604377.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/857253330791395330/ztj1ZDlf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/857253330791395330/ztj1ZDlf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/988900345/1512988655",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 682,
+			"favorite_count": 1517,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Dec 25 08:10:18 +0000 2017",
 		"id": 945205044936364000,
 		"id_str": "945205044936364033",
