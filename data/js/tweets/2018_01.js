@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Thu Jan 18 08:47:57 +0000 2018",
+		"id": 953911827980832800,
+		"id_str": "953911827980832769",
+		"text": "Il vaut mieux le préciser en effet dans un pays où la défense OKC se permet d'invoquer le Bouddhisme pour justifier… https://t.co/hLjkNqMLVE",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hLjkNqMLVE",
+					"expanded_url": "https://twitter.com/i/web/status/953911827980832769",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 civil parties initiatives to drag Ogyen Kunzang Choling/Spatz @ogyenkun to Justice | Spatzism is not #Buddhism! okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 152,
+			"friends_count": 302,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 198,
+			"utc_offset": 3600,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 653,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1509464581",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 953876605839069200,
+		"quoted_status_id_str": "953876605839069184",
+		"quoted_status": {
+			"created_at": "Thu Jan 18 06:27:59 +0000 2018",
+			"id": 953876605839069200,
+			"id_str": "953876605839069184",
+			"text": "Les libéraux voudraient voir ceci figurer dans la constitution : « La loi civile prime sur toute loi religieuse » https://t.co/lUNirZqXaf",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/lUNirZqXaf",
+						"expanded_url": "http://plus.lesoir.be/134667/article/2018-01-18/la-loi-civile-prime-sur-toute-loi-religieuse",
+						"display_url": "plus.lesoir.be/134667/article…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 126589855,
+				"id_str": "126589855",
+				"name": "Bernard Demonty",
+				"screen_name": "bdemonty",
+				"location": "Brussels",
+				"description": "Chef du service politique @lesoir",
+				"url": "https://t.co/kPNwc7dQ09",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kPNwc7dQ09",
+								"expanded_url": "http://www.lesoir.be",
+								"display_url": "lesoir.be",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8292,
+				"friends_count": 1916,
+				"listed_count": 222,
+				"created_at": "Fri Mar 26 10:32:50 +0000 2010",
+				"favourites_count": 627,
+				"utc_offset": 3600,
+				"time_zone": "Brussels",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3464,
+				"lang": "fr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/100443057/060509_tf_newsdesk1.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/100443057/060509_tf_newsdesk1.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/656770394200915968/5LKy7MsA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/656770394200915968/5LKy7MsA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/126589855/1351612939",
+				"profile_link_color": "D42026",
+				"profile_sidebar_border_color": "E02A2A",
+				"profile_sidebar_fill_color": "A3C0E0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr"
+	},
+	{
 		"created_at": "Mon Jan 15 16:19:42 +0000 2018",
 		"id": 952938352554242000,
 		"id_str": "952938352554242048",
