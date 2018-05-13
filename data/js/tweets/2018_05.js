@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Sat May 12 11:29:59 +0000 2018",
+		"id": 995264823280582700,
+		"id_str": "995264823280582657",
+		"text": "A group of young victims of the sectarian drifts of a Buddhist community and its guru's abuses won the first round… https://t.co/giMYWOntj3",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/giMYWOntj3",
+					"expanded_url": "https://twitter.com/i/web/status/995264823280582657",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.1-m.cc\" rel=\"nofollow\">1-m.cc</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 civil parties initiatives to drag Ogyen Kunzang Choling/Spatz @ogyenkun to Justice | Spatzism is not #Buddhism! okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149,
+			"friends_count": 308,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 201,
+			"utc_offset": 7200,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 676,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1525445689",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat May 12 10:30:15 +0000 2018",
+		"id": 995249790740041700,
+		"id_str": "995249790740041730",
+		"text": "RT @AnonMohandas: Help the OKC cult born kids, now adults, speak out and reclaim #Justice read their story here https://t.co/cpg4IK4HgZ and…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Justice",
+					"indices": [
+						81,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AnonMohandas",
+					"name": "#YAND",
+					"id": 1545289382,
+					"id_str": "1545289382",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cpg4IK4HgZ",
+					"expanded_url": "http://www.okcinfo.news/en",
+					"display_url": "okcinfo.news/en",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 civil parties initiatives to drag Ogyen Kunzang Choling/Spatz @ogyenkun to Justice | Spatzism is not #Buddhism! okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149,
+			"friends_count": 308,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 201,
+			"utc_offset": 7200,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 676,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1525445689",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 12 10:28:43 +0000 2018",
+			"id": 995249404230750200,
+			"id_str": "995249404230750208",
+			"text": "Help the OKC cult born kids, now adults, speak out and reclaim #Justice read their story here… https://t.co/HkJ5sZXFYV",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Justice",
+						"indices": [
+							63,
+							71
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HkJ5sZXFYV",
+						"expanded_url": "https://twitter.com/i/web/status/995249404230750208",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							95,
+							118
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1545289382,
+				"id_str": "1545289382",
+				"name": "#YAND",
+				"screen_name": "AnonMohandas",
+				"location": "somewhere in the rainbow cloud",
+				"description": "Your Anonymous News Decentralized network amplifying platform - Prototype in alpha #YAND",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2940,
+				"friends_count": 2377,
+				"listed_count": 152,
+				"created_at": "Tue Jun 25 09:41:25 +0000 2013",
+				"favourites_count": 2144,
+				"utc_offset": 7200,
+				"time_zone": "Brussels",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 60878,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000109605445/ca6d86eca4252805af88e6f23079616b.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000109605445/ca6d86eca4252805af88e6f23079616b.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/732593210166382592/8AjKqhcP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/732593210166382592/8AjKqhcP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1545289382/1463499016",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri May 11 19:19:58 +0000 2018",
 		"id": 995020711143067600,
 		"id_str": "995020711143067648",
