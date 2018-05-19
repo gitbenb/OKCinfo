@@ -1,6 +1,1506 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Fri May 18 17:11:07 +0000 2018",
+		"id": 997524998481989600,
+		"id_str": "997524998481989632",
+		"text": "1840€ / 30K https://t.co/96KCX5azvQ https://t.co/0RQoK5VVca https://t.co/DFq3n5BsiY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/96KCX5azvQ",
+					"expanded_url": "https://www.gofundme.com/okcinfo",
+					"display_url": "gofundme.com/okcinfo",
+					"indices": [
+						12,
+						35
+					]
+				},
+				{
+					"url": "https://t.co/0RQoK5VVca",
+					"expanded_url": "https://www.thunderclap.it/projects/70050-justice-for-okc-cult-survivors",
+					"display_url": "thunderclap.it/projects/70050…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 997524955930619900,
+					"id_str": "997524955930619904",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/DdfrqYzU8AA1SGv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DdfrqYzU8AA1SGv.jpg",
+					"url": "https://t.co/DFq3n5BsiY",
+					"display_url": "pic.twitter.com/DFq3n5BsiY",
+					"expanded_url": "https://twitter.com/OKCinformation/status/997524998481989632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 967,
+							"h": 685,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 482,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 967,
+							"h": 685,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 997524955930619900,
+					"id_str": "997524955930619904",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/DdfrqYzU8AA1SGv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DdfrqYzU8AA1SGv.jpg",
+					"url": "https://t.co/DFq3n5BsiY",
+					"display_url": "pic.twitter.com/DFq3n5BsiY",
+					"expanded_url": "https://twitter.com/OKCinformation/status/997524998481989632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 967,
+							"h": 685,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 482,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 967,
+							"h": 685,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 997401687496241200,
+		"in_reply_to_status_id_str": "997401687496241152",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151,
+			"friends_count": 332,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 210,
+			"utc_offset": 7200,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 697,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Fri May 18 13:15:34 +0000 2018",
+		"id": 997465721545244700,
+		"id_str": "997465721545244672",
+		"text": "Breaking the Silence on Sexual Misconduct in Buddhist cults (read Sexual Abuses) #meetoo\n https://t.co/wft85KDA2l (https://t.co/u2frVXzeJh)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "meetoo",
+					"indices": [
+						81,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wft85KDA2l",
+					"expanded_url": "https://www.lionsroar.com/breaking-the-silence-on-sexual-misconduct/",
+					"display_url": "lionsroar.com/breaking-the-s…",
+					"indices": [
+						90,
+						113
+					]
+				},
+				{
+					"url": "https://t.co/u2frVXzeJh",
+					"expanded_url": "https://www.okcinfo.news/archives/s/A00pL",
+					"display_url": "okcinfo.news/archives/s/A00…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.okcinfo.news/archives\" rel=\"nofollow\">okcinfo</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151,
+			"friends_count": 332,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 210,
+			"utc_offset": 7200,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 697,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 18 12:24:17 +0000 2018",
+		"id": 997452816691146800,
+		"id_str": "997452816691146754",
+		"text": "RT @benborges_: I just supported Justice for OKC cult survivors on @ThunderclapIt // @OKCinformation https://t.co/AeK049Vjvo",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "benborges_",
+					"name": "BenB",
+					"id": 6590,
+					"id_str": "6590",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "ThunderclapIt",
+					"name": "Thunderclap",
+					"id": 561518048,
+					"id_str": "561518048",
+					"indices": [
+						67,
+						81
+					]
+				},
+				{
+					"screen_name": "OKCinformation",
+					"name": "#OKCinfo",
+					"id": 3309353195,
+					"id_str": "3309353195",
+					"indices": [
+						85,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AeK049Vjvo",
+					"expanded_url": "http://thndr.me/3zTem8",
+					"display_url": "thndr.me/3zTem8",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151,
+			"friends_count": 332,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 210,
+			"utc_offset": 7200,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 697,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 18 09:45:38 +0000 2018",
+			"id": 997412887835611100,
+			"id_str": "997412887835611136",
+			"text": "I just supported Justice for OKC cult survivors on @ThunderclapIt // @OKCinformation https://t.co/AeK049Vjvo",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ThunderclapIt",
+						"name": "Thunderclap",
+						"id": 561518048,
+						"id_str": "561518048",
+						"indices": [
+							51,
+							65
+						]
+					},
+					{
+						"screen_name": "OKCinformation",
+						"name": "#OKCinfo",
+						"id": 3309353195,
+						"id_str": "3309353195",
+						"indices": [
+							69,
+							84
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/AeK049Vjvo",
+						"expanded_url": "http://thndr.me/3zTem8",
+						"display_url": "thndr.me/3zTem8",
+						"indices": [
+							85,
+							108
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6590,
+				"id_str": "6590",
+				"name": "BenB",
+				"screen_name": "benborges_",
+				"location": "Internet",
+				"description": "OKC/Spatz cult Survivor | information activist | agitator | disruptor of social injustice | mail: email@benborges.xyz | chat/otr: chat@benborges.xyz",
+				"url": "https://t.co/brLVXiDBoA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/brLVXiDBoA",
+								"expanded_url": "https://www.benborges.xyz/",
+								"display_url": "benborges.xyz",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3435,
+				"friends_count": 3895,
+				"listed_count": 359,
+				"created_at": "Thu Sep 21 18:27:47 +0000 2006",
+				"favourites_count": 4023,
+				"utc_offset": 7200,
+				"time_zone": "Europe/Luxembourg",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 95960,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/512557034235899904/eJwTzSUx.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/512557034235899904/eJwTzSUx.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/790929077737820160/Th_OgLbt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/790929077737820160/Th_OgLbt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6590/1526664070",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 18 12:24:13 +0000 2018",
+		"id": 997452797229654000,
+		"id_str": "997452797229654019",
+		"text": "RT @BuddhismScandal: I just supported Justice for OKC cult survivors on @ThunderclapIt // @OKCinformation https://t.co/GEmT0gjkBY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BuddhismScandal",
+					"name": "Democratic Sangha",
+					"id": 890549322240196600,
+					"id_str": "890549322240196612",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "ThunderclapIt",
+					"name": "Thunderclap",
+					"id": 561518048,
+					"id_str": "561518048",
+					"indices": [
+						72,
+						86
+					]
+				},
+				{
+					"screen_name": "OKCinformation",
+					"name": "#OKCinfo",
+					"id": 3309353195,
+					"id_str": "3309353195",
+					"indices": [
+						90,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GEmT0gjkBY",
+					"expanded_url": "http://thndr.me/3zTem8",
+					"display_url": "thndr.me/3zTem8",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151,
+			"friends_count": 332,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 210,
+			"utc_offset": 7200,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 697,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 18 10:14:47 +0000 2018",
+			"id": 997420223698436100,
+			"id_str": "997420223698436097",
+			"text": "I just supported Justice for OKC cult survivors on @ThunderclapIt // @OKCinformation https://t.co/GEmT0gjkBY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ThunderclapIt",
+						"name": "Thunderclap",
+						"id": 561518048,
+						"id_str": "561518048",
+						"indices": [
+							51,
+							65
+						]
+					},
+					{
+						"screen_name": "OKCinformation",
+						"name": "#OKCinfo",
+						"id": 3309353195,
+						"id_str": "3309353195",
+						"indices": [
+							69,
+							84
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/GEmT0gjkBY",
+						"expanded_url": "http://thndr.me/3zTem8",
+						"display_url": "thndr.me/3zTem8",
+						"indices": [
+							85,
+							108
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 890549322240196600,
+				"id_str": "890549322240196612",
+				"name": "Democratic Sangha",
+				"screen_name": "BuddhismScandal",
+				"location": "WorldWide",
+				"description": "I'm a bot amplifying comments & news regarding Tibetan Buddhist abuses until the informal hierarchy take a formal position\nHot: RIGPA & OKC\nrun by @benborges_",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44,
+				"friends_count": 229,
+				"listed_count": 1,
+				"created_at": "Thu Jul 27 12:27:58 +0000 2017",
+				"favourites_count": 40,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6367,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/890595925365805058/gPTc9UGe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/890595925365805058/gPTc9UGe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/890549322240196612/1506004227",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 18 12:24:08 +0000 2018",
+		"id": 997452776593600500,
+		"id_str": "997452776593600512",
+		"text": "RT @StreamerBot: I just supported Justice for OKC cult survivors on @ThunderclapIt // @OKCinformation https://t.co/CnNF5y0DJa",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StreamerBot",
+					"name": "Streamer bot",
+					"id": 791590447,
+					"id_str": "791590447",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "ThunderclapIt",
+					"name": "Thunderclap",
+					"id": 561518048,
+					"id_str": "561518048",
+					"indices": [
+						68,
+						82
+					]
+				},
+				{
+					"screen_name": "OKCinformation",
+					"name": "#OKCinfo",
+					"id": 3309353195,
+					"id_str": "3309353195",
+					"indices": [
+						86,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CnNF5y0DJa",
+					"expanded_url": "http://thndr.me/3zTem8",
+					"display_url": "thndr.me/3zTem8",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151,
+			"friends_count": 332,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 210,
+			"utc_offset": 7200,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 697,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 18 10:21:59 +0000 2018",
+			"id": 997422035163910100,
+			"id_str": "997422035163910144",
+			"text": "I just supported Justice for OKC cult survivors on @ThunderclapIt // @OKCinformation https://t.co/CnNF5y0DJa",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ThunderclapIt",
+						"name": "Thunderclap",
+						"id": 561518048,
+						"id_str": "561518048",
+						"indices": [
+							51,
+							65
+						]
+					},
+					{
+						"screen_name": "OKCinformation",
+						"name": "#OKCinfo",
+						"id": 3309353195,
+						"id_str": "3309353195",
+						"indices": [
+							69,
+							84
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/CnNF5y0DJa",
+						"expanded_url": "http://thndr.me/3zTem8",
+						"display_url": "thndr.me/3zTem8",
+						"indices": [
+							85,
+							108
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 791590447,
+				"id_str": "791590447",
+				"name": "Streamer bot",
+				"screen_name": "StreamerBot",
+				"location": "Worldwide",
+				"description": "We amplify #Streamers! Are you on the front line? connect your social accounts to your app & get RT when you go Live! https://t.co/bvrxaTuP4K",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/bvrxaTuP4K",
+								"expanded_url": "http://telegram.me/streamerbot",
+								"display_url": "telegram.me/streamerbot",
+								"indices": [
+									118,
+									141
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 956,
+				"friends_count": 705,
+				"listed_count": 137,
+				"created_at": "Thu Aug 30 13:20:52 +0000 2012",
+				"favourites_count": 153,
+				"utc_offset": 7200,
+				"time_zone": "Brussels",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 76349,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/446760027798241280/uOrT4wIZ_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/446760027798241280/uOrT4wIZ_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/791590447/1429194465",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 18 10:42:43 +0000 2018",
+		"id": 997427255289700400,
+		"id_str": "997427255289700353",
+		"text": "Dear People of the Internet, Ben Borges from #OKCinfo really needs your help, would you lend your profile for a one… https://t.co/oEXSYXSOYZ",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OKCinfo",
+					"indices": [
+						45,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oEXSYXSOYZ",
+					"expanded_url": "https://twitter.com/i/web/status/997427255289700353",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.1-m.cc\" rel=\"nofollow\">1-m.cc</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151,
+			"friends_count": 332,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 210,
+			"utc_offset": 7200,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 697,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 18 10:12:48 +0000 2018",
+		"id": 997419728040849400,
+		"id_str": "997419728040849408",
+		"text": "I just supported Justice for OKC cult survivors on @ThunderclapIt // @OKCinformation https://t.co/bpkPlWzUgz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ThunderclapIt",
+					"name": "Thunderclap",
+					"id": 561518048,
+					"id_str": "561518048",
+					"indices": [
+						51,
+						65
+					]
+				},
+				{
+					"screen_name": "OKCinformation",
+					"name": "#OKCinfo",
+					"id": 3309353195,
+					"id_str": "3309353195",
+					"indices": [
+						69,
+						84
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bpkPlWzUgz",
+					"expanded_url": "http://thndr.me/3zTem8",
+					"display_url": "thndr.me/3zTem8",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151,
+			"friends_count": 332,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 210,
+			"utc_offset": 7200,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 697,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 18 09:05:15 +0000 2018",
+		"id": 997402728040222700,
+		"id_str": "997402728040222720",
+		"text": "Justice for OKCvictims #MeToo #Cult https://t.co/lzBfSeCIKR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MeToo",
+					"indices": [
+						23,
+						29
+					]
+				},
+				{
+					"text": "Cult",
+					"indices": [
+						30,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lzBfSeCIKR",
+					"expanded_url": "https://www.gofundme.com/okcinfo?pc=tw_dn_cpgntopnavlarge_r&rcid=r01-152663405318-44e14048c2284f42",
+					"display_url": "gofundme.com/okcinfo?pc=tw_…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151,
+			"friends_count": 332,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 210,
+			"utc_offset": 7200,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 697,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 18 09:01:07 +0000 2018",
+		"id": 997401687496241200,
+		"id_str": "997401687496241152",
+		"text": "1640€ / 30K \nhttps://t.co/ErzXf4Y6m0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ErzXf4Y6m0",
+					"expanded_url": "https://gofundme.com/okcinfo",
+					"display_url": "gofundme.com/okcinfo",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 996012186035261400,
+		"in_reply_to_status_id_str": "996012186035261440",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151,
+			"friends_count": 332,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 210,
+			"utc_offset": 7200,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 697,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Tue May 15 08:09:32 +0000 2018",
 		"id": 996301542759239700,
 		"id_str": "996301542759239680",
