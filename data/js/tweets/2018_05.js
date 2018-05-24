@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Wed May 23 19:23:05 +0000 2018",
+		"id": 999370148275544000,
+		"id_str": "999370148275544064",
+		"text": "RT @Gauvain_D_Santo: I just supported Justice for OKC cult survivors on @ThunderclapIt // @OKCinformation https://t.co/FTA8IArGPI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gauvain_D_Santo",
+					"name": "G. Dos Santos",
+					"id": 198424843,
+					"id_str": "198424843",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "ThunderclapIt",
+					"name": "Thunderclap",
+					"id": 561518048,
+					"id_str": "561518048",
+					"indices": [
+						72,
+						86
+					]
+				},
+				{
+					"screen_name": "OKCinformation",
+					"name": "#OKCinfo",
+					"id": 3309353195,
+					"id_str": "3309353195",
+					"indices": [
+						90,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FTA8IArGPI",
+					"expanded_url": "http://thndr.me/3zTem8",
+					"display_url": "thndr.me/3zTem8",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151,
+			"friends_count": 332,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 210,
+			"utc_offset": 7200,
+			"time_zone": "Brussels",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 698,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 21 09:35:17 +0000 2018",
+			"id": 998497448753496000,
+			"id_str": "998497448753496066",
+			"text": "I just supported Justice for OKC cult survivors on @ThunderclapIt // @OKCinformation https://t.co/FTA8IArGPI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ThunderclapIt",
+						"name": "Thunderclap",
+						"id": 561518048,
+						"id_str": "561518048",
+						"indices": [
+							51,
+							65
+						]
+					},
+					{
+						"screen_name": "OKCinformation",
+						"name": "#OKCinfo",
+						"id": 3309353195,
+						"id_str": "3309353195",
+						"indices": [
+							69,
+							84
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/FTA8IArGPI",
+						"expanded_url": "http://thndr.me/3zTem8",
+						"display_url": "thndr.me/3zTem8",
+						"indices": [
+							85,
+							108
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 198424843,
+				"id_str": "198424843",
+				"name": "G. Dos Santos",
+				"screen_name": "Gauvain_D_Santo",
+				"location": "Bruxelles - Lisbonne - Cotonou",
+				"description": "Sérendipité et journalisme @FR_newsmonkey / Je pratique beaucoup l'outil Internet.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 842,
+				"friends_count": 909,
+				"listed_count": 41,
+				"created_at": "Mon Oct 04 08:11:05 +0000 2010",
+				"favourites_count": 1417,
+				"utc_offset": 7200,
+				"time_zone": "Brussels",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9889,
+				"lang": "fr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/926381326789480448/wtsgbgGc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/926381326789480448/wtsgbgGc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/198424843/1447117459",
+				"profile_link_color": "252FE6",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "D6DEE6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri May 18 17:11:07 +0000 2018",
 		"id": 997524998481989600,
 		"id_str": "997524998481989632",
