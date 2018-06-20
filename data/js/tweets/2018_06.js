@@ -1,6 +1,560 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Tue Jun 19 12:19:05 +0000 2018",
+		"id": 1009047919834665000,
+		"id_str": "1009047919834664962",
+		"text": "RT @MR_officiel: Stop à la désinformation : La réforme de la #justice est indispensable pour garantir son avenir ! Tout savoir sur la réfor…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "justice",
+					"indices": [
+						61,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MR_officiel",
+					"name": "MR",
+					"id": 102018086,
+					"id_str": "102018086",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149,
+			"friends_count": 338,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 720,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 18 11:53:56 +0000 2018",
+			"id": 1008679200394547200,
+			"id_str": "1008679200394547205",
+			"text": "Stop à la désinformation : La réforme de la #justice est indispensable pour garantir son avenir ! Tout savoir sur l… https://t.co/z3mLNlIj17",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "justice",
+						"indices": [
+							44,
+							52
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/z3mLNlIj17",
+						"expanded_url": "https://twitter.com/i/web/status/1008679200394547205",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 102018086,
+				"id_str": "102018086",
+				"name": "MR",
+				"screen_name": "MR_officiel",
+				"location": "Belgium",
+				"description": "La liberté est le fil conducteur de l'action politique du Mouvement Réformateur. Elle garantit la solidarité et l'épanouissement de chacun et chacune.",
+				"url": "https://t.co/JHC98IXfdk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JHC98IXfdk",
+								"expanded_url": "http://www.mr.be",
+								"display_url": "mr.be",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21458,
+				"friends_count": 441,
+				"listed_count": 416,
+				"created_at": "Tue Jan 05 09:51:59 +0000 2010",
+				"favourites_count": 194,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12084,
+				"lang": "fr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/864475266957025280/HdOO0Vif_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/864475266957025280/HdOO0Vif_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/102018086/1527061567",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 7,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "fr"
+	},
+	{
+		"created_at": "Tue Jun 19 12:18:50 +0000 2018",
+		"id": 1009047854239899600,
+		"id_str": "1009047854239899648",
+		"text": "RT @PolBegov: En effet, 20 ans pour le procès @OKCinformation c'est une justice de niveau type pays misérable en voie de développement et p…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PolBegov",
+					"name": "Veille infopol 🇧🇪",
+					"id": 2359778089,
+					"id_str": "2359778089",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "OKCinformation",
+					"name": "#OKCinfo",
+					"id": 3309353195,
+					"id_str": "3309353195",
+					"indices": [
+						46,
+						61
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149,
+			"friends_count": 338,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 720,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 19 12:10:30 +0000 2018",
+			"id": 1009045757863907300,
+			"id_str": "1009045757863907329",
+			"text": "En effet, 20 ans pour le procès @OKCinformation c'est une justice de niveau type pays misérable en voie de développ… https://t.co/8ZjhmzUFyp",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OKCinformation",
+						"name": "#OKCinfo",
+						"id": 3309353195,
+						"id_str": "3309353195",
+						"indices": [
+							32,
+							47
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/8ZjhmzUFyp",
+						"expanded_url": "https://twitter.com/i/web/status/1009045757863907329",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2359778089,
+				"id_str": "2359778089",
+				"name": "Veille infopol 🇧🇪",
+				"screen_name": "PolBegov",
+				"location": "Bloqué par Théo Francken ",
+				"description": "NewsBot Veille informative (Politique Économie Région) \nRT = Relais \ncommentaires/editeur @rMdes_",
+				"url": "https://t.co/jOuFUMehGh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jOuFUMehGh",
+								"expanded_url": "https://www.euwatch.eu/politique-belge-begov/",
+								"display_url": "euwatch.eu/politique-belg…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3404,
+				"friends_count": 1754,
+				"listed_count": 238,
+				"created_at": "Mon Feb 24 16:54:12 +0000 2014",
+				"favourites_count": 2428,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 132463,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/830406487851802625/x_YH1yml_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/830406487851802625/x_YH1yml_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2359778089/1448275480",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1008679200394547200,
+			"quoted_status_id_str": "1008679200394547205",
+			"quoted_status": {
+				"created_at": "Mon Jun 18 11:53:56 +0000 2018",
+				"id": 1008679200394547200,
+				"id_str": "1008679200394547205",
+				"text": "Stop à la désinformation : La réforme de la #justice est indispensable pour garantir son avenir ! Tout savoir sur l… https://t.co/z3mLNlIj17",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "justice",
+							"indices": [
+								44,
+								52
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/z3mLNlIj17",
+							"expanded_url": "https://twitter.com/i/web/status/1008679200394547205",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 102018086,
+					"id_str": "102018086",
+					"name": "MR",
+					"screen_name": "MR_officiel",
+					"location": "Belgium",
+					"description": "La liberté est le fil conducteur de l'action politique du Mouvement Réformateur. Elle garantit la solidarité et l'épanouissement de chacun et chacune.",
+					"url": "https://t.co/JHC98IXfdk",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/JHC98IXfdk",
+									"expanded_url": "http://www.mr.be",
+									"display_url": "mr.be",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 21458,
+					"friends_count": 441,
+					"listed_count": 416,
+					"created_at": "Tue Jan 05 09:51:59 +0000 2010",
+					"favourites_count": 194,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 12084,
+					"lang": "fr",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/864475266957025280/HdOO0Vif_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/864475266957025280/HdOO0Vif_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/102018086/1527061567",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 7,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "fr"
+			},
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1008679200394547200,
+		"quoted_status_id_str": "1008679200394547205",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "fr"
+	},
+	{
 		"created_at": "Sun Jun 17 13:39:34 +0000 2018",
 		"id": 1008343397499842600,
 		"id_str": "1008343397499842562",
