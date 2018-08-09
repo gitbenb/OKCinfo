@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Wed Aug 08 21:12:37 +0000 2018",
+		"id": 1027301578481590300,
+		"id_str": "1027301578481590272",
+		"text": "RT @nktsas: 9 days later and still no response.\n\nAgain.\n\nDear @Kadampa, \n\nIn light of #metoo, Rigpa, #shambhalametoo, and Tritana, what pol…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "metoo",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "shambhalametoo",
+					"indices": [
+						101,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nktsas",
+					"name": "New Kadampa Tradition Survivors",
+					"id": 3283097492,
+					"id_str": "3283097492",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "Kadampa",
+					"name": "Kadampa Buddhism",
+					"id": 268445263,
+					"id_str": "268445263",
+					"indices": [
+						62,
+						70
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151,
+			"friends_count": 357,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 742,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 07 19:21:08 +0000 2018",
+			"id": 1026911137764233200,
+			"id_str": "1026911137764233216",
+			"text": "9 days later and still no response.\n\nAgain.\n\nDear @Kadampa, \n\nIn light of #metoo, Rigpa, #shambhalametoo, and Trita… https://t.co/2fxjPlpAp1",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "metoo",
+						"indices": [
+							74,
+							80
+						]
+					},
+					{
+						"text": "shambhalametoo",
+						"indices": [
+							89,
+							104
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Kadampa",
+						"name": "Kadampa Buddhism",
+						"id": 268445263,
+						"id_str": "268445263",
+						"indices": [
+							50,
+							58
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/2fxjPlpAp1",
+						"expanded_url": "https://twitter.com/i/web/status/1026911137764233216",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3283097492,
+				"id_str": "3283097492",
+				"name": "New Kadampa Tradition Survivors",
+				"screen_name": "nktsas",
+				"location": "World Wide",
+				"description": "We support each other in understanding, analyzing and raising awareness on issues concerning a new religious movement called the New Kadampa Tradition. #metoo",
+				"url": "https://t.co/UvJjW9bWMX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UvJjW9bWMX",
+								"expanded_url": "https://www.facebook.com/NewKadampaSurvivorActvists",
+								"display_url": "facebook.com/NewKadampaSurv…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 199,
+				"friends_count": 655,
+				"listed_count": 12,
+				"created_at": "Sat Jul 18 06:32:40 +0000 2015",
+				"favourites_count": 376,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 903,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/622294317932003328/i1_iapy3_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/622294317932003328/i1_iapy3_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3283097492/1495089489",
+				"profile_link_color": "57A4A0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Aug 06 19:29:14 +0000 2018",
 		"id": 1026550787697139700,
 		"id_str": "1026550787697139718",
