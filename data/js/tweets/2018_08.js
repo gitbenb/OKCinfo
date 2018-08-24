@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Thu Aug 23 09:21:42 +0000 2018",
+		"id": 1032558488323543000,
+		"id_str": "1032558488323543040",
+		"text": "Tibetan Buddhism lost its compass to the point its #China doing the necessary to clean the house of Buddha. What an… https://t.co/4FvCVb3Pwa",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "China",
+					"indices": [
+						51,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4FvCVb3Pwa",
+					"expanded_url": "https://twitter.com/i/web/status/1032558488323543040",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151,
+			"friends_count": 357,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 221,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 747,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1032510770804715500,
+		"quoted_status_id_str": "1032510770804715520",
+		"quoted_status": {
+			"created_at": "Thu Aug 23 06:12:05 +0000 2018",
+			"id": 1032510770804715500,
+			"id_str": "1032510770804715520",
+			"text": "China investigates top Buddhist leader for sexual assault https://t.co/vRrCROULq6 https://t.co/ztGN8ljC9l",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vRrCROULq6",
+						"expanded_url": "http://f24.my/3RWH.t",
+						"display_url": "f24.my/3RWH.t",
+						"indices": [
+							58,
+							81
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1032510768846012400,
+						"id_str": "1032510768846012416",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/DlQ3EuPVAAAfa0A.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DlQ3EuPVAAAfa0A.jpg",
+						"url": "https://t.co/ztGN8ljC9l",
+						"display_url": "pic.twitter.com/ztGN8ljC9l",
+						"expanded_url": "https://twitter.com/FRANCE24/status/1032510770804715520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1032510768846012400,
+						"id_str": "1032510768846012416",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/DlQ3EuPVAAAfa0A.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DlQ3EuPVAAAfa0A.jpg",
+						"url": "https://t.co/ztGN8ljC9l",
+						"display_url": "pic.twitter.com/ztGN8ljC9l",
+						"expanded_url": "https://twitter.com/FRANCE24/status/1032510770804715520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1994321,
+				"id_str": "1994321",
+				"name": "FRANCE 24",
+				"screen_name": "FRANCE24",
+				"location": "Paris, France",
+				"description": "🌍 International News 24/7, 4 languages:\n@France24_fr - @France24_en - 🆕 @France24_es - @France24_ar \n📱 https://t.co/xDU6EWz22o\n✉️ https://t.co/ZaaXsh7FeN",
+				"url": "https://t.co/voM2SW5JHQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/voM2SW5JHQ",
+								"expanded_url": "http://www.france24.com",
+								"display_url": "france24.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/xDU6EWz22o",
+								"expanded_url": "http://f24.my/app",
+								"display_url": "f24.my/app",
+								"indices": [
+									103,
+									126
+								]
+							},
+							{
+								"url": "https://t.co/ZaaXsh7FeN",
+								"expanded_url": "http://f24.my/contact-us",
+								"display_url": "f24.my/contact-us",
+								"indices": [
+									130,
+									153
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3002906,
+				"friends_count": 443,
+				"listed_count": 10192,
+				"created_at": "Fri Mar 23 09:40:48 +0000 2007",
+				"favourites_count": 1003,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 311891,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875646402247901184/N4GGER3R_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875646402247901184/N4GGER3R_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1994321/1496153302",
+				"profile_link_color": "00A7E3",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "CADAEB",
+				"profile_text_color": "013D83",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 15 08:22:06 +0000 2018",
 		"id": 1029644385703604200,
 		"id_str": "1029644385703604224",
