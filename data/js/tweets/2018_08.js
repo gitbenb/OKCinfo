@@ -1,6 +1,929 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Wed Aug 29 20:01:04 +0000 2018",
+		"id": 1034893717759557600,
+		"id_str": "1034893717759557632",
+		"text": "Dude, the church and organized religion in general is aware of abuses. The Catholic church is aware since maybe wha… https://t.co/sGu9CkX6RB",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sGu9CkX6RB",
+					"expanded_url": "https://twitter.com/i/web/status/1034893717759557632",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150,
+			"friends_count": 357,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 226,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 750,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1034860874236870700,
+		"quoted_status_id_str": "1034860874236870657",
+		"quoted_status": {
+			"created_at": "Wed Aug 29 17:50:33 +0000 2018",
+			"id": 1034860874236870700,
+			"id_str": "1034860874236870657",
+			"text": "\"It is impossible to correct abuses unless we know that they are going on. If we are to produce a civilized society… https://t.co/EacA7w1z9K",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EacA7w1z9K",
+						"expanded_url": "https://twitter.com/i/web/status/1034860874236870657",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16589206,
+				"id_str": "16589206",
+				"name": "WikiLeaks",
+				"screen_name": "wikileaks",
+				"location": "Everywhere",
+				"description": "We open governments // Contact: https://t.co/676V6mooDV // PGP: A04C 5E09 ED02 B328 03EB 6116 93ED 732E // Shop: @WikiLeaksShop // Artwork: @WLArtForce",
+				"url": "https://t.co/maw0wih6t6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/maw0wih6t6",
+								"expanded_url": "https://wikileaks.org",
+								"display_url": "wikileaks.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/676V6mooDV",
+								"expanded_url": "https://wikileaks.org/#submit",
+								"display_url": "wikileaks.org/#submit",
+								"indices": [
+									32,
+									55
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5445527,
+				"friends_count": 7525,
+				"listed_count": 56290,
+				"created_at": "Sat Oct 04 06:41:05 +0000 2008",
+				"favourites_count": 105,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 49278,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/512138307870785536/Fe00yVS2_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/512138307870785536/Fe00yVS2_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16589206/1402313050",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1326,
+			"favorite_count": 2199,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 29 14:32:27 +0000 2018",
+		"id": 1034811017509957600,
+		"id_str": "1034811017509957632",
+		"text": "RT @projsunshinecf: The Buddhist sexual abuse crisis will not be over until the enablers are also held accountable. Sexual predators can't…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "projsunshinecf",
+					"name": "Buddhist Project Sunshine",
+					"id": 983479253571338200,
+					"id_str": "983479253571338240",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150,
+			"friends_count": 357,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 226,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 750,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 29 14:31:56 +0000 2018",
+			"id": 1034810891286401000,
+			"id_str": "1034810891286401025",
+			"text": "The Buddhist sexual abuse crisis will not be over until the enablers are also held accountable. Sexual predators ca… https://t.co/fzkKXlbUl0",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fzkKXlbUl0",
+						"expanded_url": "https://twitter.com/i/web/status/1034810891286401025",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 983479253571338200,
+				"id_str": "983479253571338240",
+				"name": "Buddhist Project Sunshine",
+				"screen_name": "projsunshinecf",
+				"location": "",
+				"description": "Buddhist Project Sunshine is a grass roots initiative to bring healing light to sexualized violence in the Shambhala Buddhist community",
+				"url": "https://t.co/cNqV8rEiid",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cNqV8rEiid",
+								"expanded_url": "http://buddhistprojectsunshine.org",
+								"display_url": "buddhistprojectsunshine.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 318,
+				"friends_count": 298,
+				"listed_count": 5,
+				"created_at": "Mon Apr 09 22:58:21 +0000 2018",
+				"favourites_count": 407,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 580,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/983484689242406912/CKWlfEd7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/983484689242406912/CKWlfEd7_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1034799060044017700,
+			"quoted_status_id_str": "1034799060044017664",
+			"quoted_status": {
+				"created_at": "Wed Aug 29 13:44:56 +0000 2018",
+				"id": 1034799060044017700,
+				"id_str": "1034799060044017664",
+				"text": "@_RefugeRecovery Noah Levine is still CEO of for-profit Refuge Recovery Treatment Center in #LosAngeles. 7-10 women… https://t.co/rGE0rjnv4x",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "LosAngeles",
+							"indices": [
+								92,
+								103
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "_RefugeRecovery",
+							"name": "RefugeRecoveryCenter",
+							"id": 2533806152,
+							"id_str": "2533806152",
+							"indices": [
+								0,
+								16
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/rGE0rjnv4x",
+							"expanded_url": "https://twitter.com/i/web/status/1034799060044017664",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": 1034584774399029200,
+				"in_reply_to_status_id_str": "1034584774399029249",
+				"in_reply_to_user_id": 2533806152,
+				"in_reply_to_user_id_str": "2533806152",
+				"in_reply_to_screen_name": "_RefugeRecovery",
+				"user": {
+					"id": 27282113,
+					"id_str": "27282113",
+					"name": "Nancy Levine",
+					"screen_name": "nancylevine",
+					"location": "San Francisco, CA",
+					"description": "Author The Tao of Pug (4-book series) @PenguinBooks @skyhorsepub | Freelance writer @SInow @Salon @AlterNet | #VoteBlue #MeToo #BLM",
+					"url": "https://t.co/zk8DutfQXS",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/zk8DutfQXS",
+									"expanded_url": "http://skyhorsepublishing.com/titles/12053-9781510714410-tao-of-pug",
+									"display_url": "skyhorsepublishing.com/titles/12053-9…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 5048,
+					"friends_count": 4305,
+					"listed_count": 147,
+					"created_at": "Sat Mar 28 18:38:06 +0000 2009",
+					"favourites_count": 64235,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 67668,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "709397",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1013607533422899200/E_YrivCV_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013607533422899200/E_YrivCV_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/27282113/1472069313",
+					"profile_link_color": "1B95E0",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "A0C5C7",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 1,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 5,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1034799060044017700,
+		"quoted_status_id_str": "1034799060044017664",
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 29 14:28:51 +0000 2018",
+		"id": 1034810113062789100,
+		"id_str": "1034810113062789120",
+		"text": "RT @PolBegov: J'irais jusqu'à dire que séparer les enfants des parents est à proscrire en toute situation.\n\nOsé Demander à un adulte @OKCin…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PolBegov",
+					"name": "Veille infopol 🇧🇪",
+					"id": 2359778089,
+					"id_str": "2359778089",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150,
+			"friends_count": 357,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 226,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 750,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 29 14:22:01 +0000 2018",
+			"id": 1034808392844562400,
+			"id_str": "1034808392844562432",
+			"text": "J'irais jusqu'à dire que séparer les enfants des parents est à proscrire en toute situation.\n\nOsé Demander à un adu… https://t.co/fSfva5dWy0",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fSfva5dWy0",
+						"expanded_url": "https://twitter.com/i/web/status/1034808392844562432",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2359778089,
+				"id_str": "2359778089",
+				"name": "Veille infopol 🇧🇪",
+				"screen_name": "PolBegov",
+				"location": "Bloqué par Théo Francken ",
+				"description": "NewsBot Veille informative (Politique Économie Région) \nRT = Relais \ncommentaires/editeur @rMdes_",
+				"url": "https://t.co/jOuFUMehGh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jOuFUMehGh",
+								"expanded_url": "https://www.euwatch.eu/politique-belge-begov/",
+								"display_url": "euwatch.eu/politique-belg…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3480,
+				"friends_count": 1825,
+				"listed_count": 239,
+				"created_at": "Mon Feb 24 16:54:12 +0000 2014",
+				"favourites_count": 2725,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 144034,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/830406487851802625/x_YH1yml_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/830406487851802625/x_YH1yml_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2359778089/1448275480",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1034806521715142700,
+			"quoted_status_id_str": "1034806521715142656",
+			"quoted_status": {
+				"created_at": "Wed Aug 29 14:14:35 +0000 2018",
+				"id": 1034806521715142700,
+				"id_str": "1034806521715142656",
+				"text": "Une pédiatre a rencontré les enfants enfermés au centre 127bis https://t.co/BqoZKdT3wr https://t.co/Qa52aexe84",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/BqoZKdT3wr",
+							"expanded_url": "https://ift.tt/2wrZoti",
+							"display_url": "ift.tt/2wrZoti",
+							"indices": [
+								63,
+								86
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 1034806520259792900,
+							"id_str": "1034806520259792898",
+							"indices": [
+								87,
+								110
+							],
+							"media_url": "http://pbs.twimg.com/media/DlxfDCtX0AI_ZTF.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DlxfDCtX0AI_ZTF.jpg",
+							"url": "https://t.co/Qa52aexe84",
+							"display_url": "pic.twitter.com/Qa52aexe84",
+							"expanded_url": "https://twitter.com/TwitPolitique/status/1034806521715142656/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 770,
+									"h": 432,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 382,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 770,
+									"h": 432,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 1034806520259792900,
+							"id_str": "1034806520259792898",
+							"indices": [
+								87,
+								110
+							],
+							"media_url": "http://pbs.twimg.com/media/DlxfDCtX0AI_ZTF.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DlxfDCtX0AI_ZTF.jpg",
+							"url": "https://t.co/Qa52aexe84",
+							"display_url": "pic.twitter.com/Qa52aexe84",
+							"expanded_url": "https://twitter.com/TwitPolitique/status/1034806521715142656/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 770,
+									"h": 432,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 382,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 770,
+									"h": 432,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 271385094,
+					"id_str": "271385094",
+					"name": "TwitPolitique - RTBF",
+					"screen_name": "TwitPolitique",
+					"location": "Belgique",
+					"description": "Le compte de la cellule politique de la RTBF - Rédactrice en chef : @JohanneMontay | Adjoint radio : @PhWalkowiak | Editorialiste : @BertrandHenne",
+					"url": "http://t.co/BwHFVAhKW5",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/BwHFVAhKW5",
+									"expanded_url": "http://www.rtbf.be",
+									"display_url": "rtbf.be",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 26673,
+					"friends_count": 1262,
+					"listed_count": 678,
+					"created_at": "Thu Mar 24 11:59:14 +0000 2011",
+					"favourites_count": 144,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 46113,
+					"lang": "fr",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/745622054599335937/wIajAuJ8_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/745622054599335937/wIajAuJ8_normal.jpg",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 2,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "fr"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1034806521715142700,
+		"quoted_status_id_str": "1034806521715142656",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr"
+	},
+	{
 		"created_at": "Thu Aug 23 09:21:42 +0000 2018",
 		"id": 1032558488323543000,
 		"id_str": "1032558488323543040",
