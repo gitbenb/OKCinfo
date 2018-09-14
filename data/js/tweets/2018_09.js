@@ -1,6 +1,630 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Fri Sep 14 07:16:40 +0000 2018",
+		"id": 1040499557463932900,
+		"id_str": "1040499557463932929",
+		"text": "Help survivors support the Dalai Lama's effort to remedy sexual abuse @DalaiLama\n\n#MeToo #metooguru \nhttps://t.co/gIDuuW4e5A via @Change",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MeToo",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "metooguru",
+					"indices": [
+						89,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DalaiLama",
+					"name": "Dalai Lama",
+					"id": 20609518,
+					"id_str": "20609518",
+					"indices": [
+						70,
+						80
+					]
+				},
+				{
+					"screen_name": "Change",
+					"name": "Change.org",
+					"id": 15947602,
+					"id_str": "15947602",
+					"indices": [
+						129,
+						136
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gIDuuW4e5A",
+					"expanded_url": "https://www.change.org/p/help-survivors-support-the-dalai-lama-s-effort-to-remedy-sexual-abuse?recruiter=566026415&utm_campaign=signature_receipt&utm_medium=twitter&utm_source=share_petition",
+					"display_url": "change.org/p/help-survivo…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151,
+			"friends_count": 361,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 759,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 14 07:08:52 +0000 2018",
+		"id": 1040497595469234200,
+		"id_str": "1040497595469234176",
+		"text": "RT @PolBegov: Une dizaine de personnes de différents pays d'Europe, dont un portugais qui représente @OKCinformation (belge) en route vers…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PolBegov",
+					"name": "Veille infopol 🇧🇪",
+					"id": 2359778089,
+					"id_str": "2359778089",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "OKCinformation",
+					"name": "#OKCinfo",
+					"id": 3309353195,
+					"id_str": "3309353195",
+					"indices": [
+						101,
+						116
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151,
+			"friends_count": 361,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 759,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 14 07:07:48 +0000 2018",
+			"id": 1040497323200180200,
+			"id_str": "1040497323200180224",
+			"text": "Une dizaine de personnes de différents pays d'Europe, dont un portugais qui représente @OKCinformation (belge) en r… https://t.co/hqcO3HzHfM",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OKCinformation",
+						"name": "#OKCinfo",
+						"id": 3309353195,
+						"id_str": "3309353195",
+						"indices": [
+							87,
+							102
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/hqcO3HzHfM",
+						"expanded_url": "https://twitter.com/i/web/status/1040497323200180224",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2359778089,
+				"id_str": "2359778089",
+				"name": "Veille infopol 🇧🇪",
+				"screen_name": "PolBegov",
+				"location": "Bloqué par Théo Francken ",
+				"description": "NewsBot Veille informative (Politique Économie Région) \nRT = Relais \ncommentaires/editeur @rMdes_",
+				"url": "https://t.co/jOuFUMehGh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jOuFUMehGh",
+								"expanded_url": "https://www.euwatch.eu/politique-belge-begov/",
+								"display_url": "euwatch.eu/politique-belg…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3517,
+				"friends_count": 1854,
+				"listed_count": 241,
+				"created_at": "Mon Feb 24 16:54:12 +0000 2014",
+				"favourites_count": 2778,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 144869,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/830406487851802625/x_YH1yml_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/830406487851802625/x_YH1yml_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2359778089/1448275480",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1040487717413576700,
+			"quoted_status_id_str": "1040487717413576704",
+			"quoted_status": {
+				"created_at": "Fri Sep 14 06:29:37 +0000 2018",
+				"id": 1040487717413576700,
+				"id_str": "1040487717413576704",
+				"text": "Heading to #rotterdam to present #metooguru to #dalailama with other #metoo warriors, in our case I also represent… https://t.co/eEUrIMElrz",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "rotterdam",
+							"indices": [
+								11,
+								21
+							]
+						},
+						{
+							"text": "metooguru",
+							"indices": [
+								33,
+								43
+							]
+						},
+						{
+							"text": "dalailama",
+							"indices": [
+								47,
+								57
+							]
+						},
+						{
+							"text": "metoo",
+							"indices": [
+								69,
+								75
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/eEUrIMElrz",
+							"expanded_url": "https://twitter.com/i/web/status/1040487717413576704",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 3309353195,
+					"id_str": "3309353195",
+					"name": "#OKCinfo",
+					"screen_name": "OKCinformation",
+					"location": "Belgique",
+					"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | okcinfor@gmail.com",
+					"url": "https://t.co/iXnsHdew7Q",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/iXnsHdew7Q",
+									"expanded_url": "http://www.okcinfo.news/",
+									"display_url": "okcinfo.news",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 151,
+					"friends_count": 361,
+					"listed_count": 7,
+					"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+					"favourites_count": 229,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 759,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+					"profile_link_color": "DD2E44",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1040487717413576700,
+		"quoted_status_id_str": "1040487717413576704",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr"
+	},
+	{
+		"created_at": "Fri Sep 14 06:29:37 +0000 2018",
+		"id": 1040487717413576700,
+		"id_str": "1040487717413576704",
+		"text": "Heading to #rotterdam to present #metooguru to #dalailama with other #metoo warriors, in our case I also represent… https://t.co/eEUrIMElrz",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rotterdam",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"text": "metooguru",
+					"indices": [
+						33,
+						43
+					]
+				},
+				{
+					"text": "dalailama",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"text": "metoo",
+					"indices": [
+						69,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eEUrIMElrz",
+					"expanded_url": "https://twitter.com/i/web/status/1040487717413576704",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | okcinfor@gmail.com",
+			"url": "https://t.co/iXnsHdew7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXnsHdew7Q",
+							"expanded_url": "http://www.okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151,
+			"friends_count": 361,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 759,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 11 13:53:47 +0000 2018",
 		"id": 1039512331409969200,
 		"id_str": "1039512331409969152",
