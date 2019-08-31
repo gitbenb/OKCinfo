@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 30 18:17:57 +0000 2019",
+		"id": 1167501612715249700,
+		"id_str": "1167501728859721729",
+		"full_text": "Tibetan Buddhism need a Hall of shame of current \"Buddhist masters\" publicly endorsing and beatificating @SogyalRinpoche or Lama Kunzang @OgyenKun for that matter. \n\nLet's start with these compromised \"teachers\" : until money flows dry and you'll be putting ethics values first https://t.co/Cuj5q3eqAn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SogyalRinpoche",
+					"name": "Sogyal Rinpoche",
+					"id": 238832165,
+					"id_str": "238832165",
+					"indices": [
+						105,
+						120
+					]
+				},
+				{
+					"screen_name": "OgyenKun",
+					"name": "OKC",
+					"id": 3665270417,
+					"id_str": "3665270417",
+					"indices": [
+						137,
+						146
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1167501595740967000,
+					"id_str": "1167501595740966912",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EDPMhADXkAAIKzD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDPMhADXkAAIKzD.jpg",
+					"url": "https://t.co/Cuj5q3eqAn",
+					"display_url": "pic.twitter.com/Cuj5q3eqAn",
+					"expanded_url": "https://twitter.com/BuddhistLeaks/status/1167501612715249664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 416,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1167501595740967000,
+					"id_str": "1167501595740966912",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EDPMhADXkAAIKzD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDPMhADXkAAIKzD.jpg",
+					"url": "https://t.co/Cuj5q3eqAn",
+					"display_url": "pic.twitter.com/Cuj5q3eqAn",
+					"expanded_url": "https://twitter.com/BuddhistLeaks/status/1167501612715249664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 416,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1167501600044310500,
+					"id_str": "1167501600044310528",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EDPMhQFXYAA6Dhx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDPMhQFXYAA6Dhx.jpg",
+					"url": "https://t.co/Cuj5q3eqAn",
+					"display_url": "pic.twitter.com/Cuj5q3eqAn",
+					"expanded_url": "https://twitter.com/BuddhistLeaks/status/1167501612715249664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 374,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 212,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 639,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 890549322240196600,
+			"id_str": "890549322240196612",
+			"name": "Tibetan Buddhism Leaks",
+			"screen_name": "BuddhistLeaks",
+			"location": "WorldWide",
+			"description": "Newsbot amplifying comments & news regarding Tibetan Buddhist sexual abuses allegations until the informal hierarchy wake-up. Hot:  Shambhala, RIGPA, FWBO, OKC",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 95,
+			"friends_count": 412,
+			"listed_count": 4,
+			"created_at": "Thu Jul 27 12:27:58 +0000 2017",
+			"favourites_count": 85,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8180,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/890595925365805058/gPTc9UGe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/890595925365805058/gPTc9UGe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/890549322240196612/1506004227",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tibetan Buddhism need a Hall of shame of current \"Buddhist masters\" publicly endorsing and beatificating @SogyalRinpoche or Lama Kunzang @OgyenKun for that matter. \n\nLet's start with these compromised \"teachers\" : until money flows dry and you'll be putting ethics values first https://t.co/Cuj5q3eqAn"
+	},
+	{
 		"created_at": "Wed Aug 28 16:23:23 +0000 2019",
 		"id": 1162056412647891000,
 		"id_str": "1166748119498969089",
