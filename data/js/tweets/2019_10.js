@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 19 08:56:25 +0000 2019",
+		"id": 1185479807246786600,
+		"id_str": "1185479807246786560",
+		"full_text": "Tellement émerveillé le @MatthieuRicard qu'il se pavane à Nyigma Dzong \"a la demande de Rabjam Rimpoche\" dans le déni total du fait que Ogyen Kunzang Choling est en justice depuis 3 ans (après 20 ans d'instruction) bref autant de contradictions entre le scientifique et le moine https://t.co/JOi8sK890R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						24,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JOi8sK890R",
+					"expanded_url": "https://twitter.com/inter_presse/status/1185218983181467648",
+					"display_url": "twitter.com/inter_presse/s…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgium",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | FF @okcinfor",
+			"url": "https://t.co/7CidVABWxf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7CidVABWxf",
+							"expanded_url": "http://www.okcinfo.news/archives",
+							"display_url": "okcinfo.news/archives",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150,
+			"friends_count": 355,
+			"listed_count": 8,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 861,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1185218983181467600,
+		"quoted_status_id_str": "1185218983181467648",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JOi8sK890R",
+			"expanded": "https://twitter.com/inter_presse/status/1185218983181467648",
+			"display": "twitter.com/inter_presse/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 18 15:40:00 +0000 2019",
+			"id": 1185218983181467600,
+			"id_str": "1185218983181467648",
+			"full_text": "🙏 #UneSemaineEnFrance \n\n@ClaireServajean reçoit @MatthieuRicard pour 𝑬𝒎𝒆𝒓𝒗𝒆𝒊𝒍𝒍𝒆𝒎𝒆𝒏𝒕 aux @ed_lamartiniere\n\n📻 18h15 @franceinter \n\n#Le1820Inter\n\nhttps://t.co/FLDIRstO88",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				166
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "UneSemaineEnFrance",
+						"indices": [
+							2,
+							21
+						]
+					},
+					{
+						"text": "Le1820Inter",
+						"indices": [
+							129,
+							141
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ClaireServajean",
+						"name": "Claire Servajean",
+						"id": 1968844255,
+						"id_str": "1968844255",
+						"indices": [
+							24,
+							40
+						]
+					},
+					{
+						"screen_name": "MatthieuRicard",
+						"name": "Matthieu Ricard",
+						"id": 181228051,
+						"id_str": "181228051",
+						"indices": [
+							48,
+							63
+						]
+					},
+					{
+						"screen_name": "ed_lamartiniere",
+						"name": "Éditions de La Martinière",
+						"id": 998208980,
+						"id_str": "998208980",
+						"indices": [
+							88,
+							104
+						]
+					},
+					{
+						"screen_name": "franceinter",
+						"name": "France Inter",
+						"id": 34867057,
+						"id_str": "34867057",
+						"indices": [
+							114,
+							126
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/FLDIRstO88",
+						"expanded_url": "https://www.franceinter.fr/emissions/une-semaine-en-france/une-semaine-en-france-18-octobre-2019",
+						"display_url": "franceinter.fr/emissions/une-…",
+						"indices": [
+							143,
+							166
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 882399637,
+				"id_str": "882399637",
+				"name": "France Inter Presse",
+				"screen_name": "inter_presse",
+				"location": "Paris, France",
+				"description": "Compte officiel du Service de presse @franceinter",
+				"url": "https://t.co/UGB0aa5MCL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UGB0aa5MCL",
+								"expanded_url": "http://www.franceinter.fr/espace-presse",
+								"display_url": "franceinter.fr/espace-presse",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8109,
+				"friends_count": 711,
+				"listed_count": 162,
+				"created_at": "Mon Oct 15 14:10:12 +0000 2012",
+				"favourites_count": 4954,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10355,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "090A0A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/837601055324188673/L3JtzyKk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/837601055324188673/L3JtzyKk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/882399637/1568976507",
+				"profile_link_color": "E00937",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 31,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Tellement émerveillé le @MatthieuRicard qu'il se pavane à Nyigma Dzong \"a la demande de Rabjam Rimpoche\" dans le déni total du fait que Ogyen Kunzang Choling est en justice depuis 3 ans (après 20 ans d'instruction) bref autant de contradictions entre le scientifique et le moine https://t.co/JOi8sK890R"
+	},
+	{
 		"created_at": "Wed Oct 16 17:09:01 +0000 2019",
 		"id": 1184053888669892600,
 		"id_str": "1184516609928503296",
