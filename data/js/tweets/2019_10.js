@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 28 18:49:37 +0000 2019",
+		"id": 1188886636869890000,
+		"id_str": "1188890580383928321",
+		"full_text": "On pourrait dire la même chose de la Belgique où depuis 2016 les avocats de Spatz et OKC utilise le Bouddhisme pour justifier des \"initiations\" sur des mineurs avec aggravation d'abus d'autorités, stigmatisation des victimes et mensonge face à la cour. https://t.co/ZpAi7TuSzu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZpAi7TuSzu",
+					"expanded_url": "https://twitter.com/Asso_AIVI/status/1188441530010390528",
+					"display_url": "twitter.com/Asso_AIVI/stat…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "An initiative to restore the truths against the toxic OKC Cult where physical, sexual & mental abuses enfolded for decades. Trial & Appeal ongoing check website",
+			"url": "https://t.co/feER16PibH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/feER16PibH",
+							"expanded_url": "https://www.okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50,
+			"friends_count": 236,
+			"listed_count": 1,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 264,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1562445469",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1188441530010390500,
+		"quoted_status_id_str": "1188441530010390528",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZpAi7TuSzu",
+			"expanded": "https://twitter.com/Asso_AIVI/status/1188441530010390528",
+			"display": "twitter.com/Asso_AIVI/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 27 13:05:15 +0000 2019",
+			"id": 1188441530010390500,
+			"id_str": "1188441530010390528",
+			"full_text": "500 professionnels signent la tribune \"Justice sans #psychanalyse\" qui dénonce l'usage de théories sans fondement scientifique dans les tribunaux français.\n\nhttps://t.co/9mqweUSRGI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				180
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "psychanalyse",
+						"indices": [
+							52,
+							65
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9mqweUSRGI",
+						"expanded_url": "https://www.justicesanspsychanalyse.com/",
+						"display_url": "justicesanspsychanalyse.com",
+						"indices": [
+							157,
+							180
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 420679089,
+				"id_str": "420679089",
+				"name": "AIVI #inceste #MeToo",
+				"screen_name": "Asso_AIVI",
+				"location": "Paris",
+				"description": "L'Association Internationale des Victimes de l'Inceste milite depuis 2000 pour protéger les enfants victimes d'inceste et de pédocriminalité.",
+				"url": "https://t.co/ivB1QLOWsU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ivB1QLOWsU",
+								"expanded_url": "http://aivi.org",
+								"display_url": "aivi.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3298,
+				"friends_count": 1277,
+				"listed_count": 25,
+				"created_at": "Thu Nov 24 23:20:41 +0000 2011",
+				"favourites_count": 14537,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19375,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1068252443509698575/9W0ibc6G_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068252443509698575/9W0ibc6G_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/420679089/1546966524",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "On pourrait dire la même chose de la Belgique où depuis 2016 les avocats de Spatz et OKC utilise le Bouddhisme pour justifier des \"initiations\" sur des mineurs avec aggravation d'abus d'autorités, stigmatisation des victimes et mensonge face à la cour. https://t.co/ZpAi7TuSzu"
+	},
+	{
 		"created_at": "Sat Oct 26 07:44:36 +0000 2019",
 		"id": 1187423173186379800,
 		"id_str": "1187998449633026053",
