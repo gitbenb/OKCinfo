@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 23 13:58:36 +0000 2019",
+		"id": 1198234290456334300,
+		"id_str": "1198239426440318976",
+		"full_text": "☑️1er procès 2016 = condamné à 4 ans avec sursis + indemnités\n❌1er appel 2017 = remporté par OKC-Spatz (vices de procédures instruction 97-2013)\n☑️1er contre-appel en cassation 2019 = remporté par les parties civiles et l'état belge\n✅2ème procès 2020 : tout reste à faire. https://t.co/Z5lhqC4O01",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1198234287713276000,
+					"id_str": "1198234287713275905",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EKD7vHTX0AEfLau.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKD7vHTX0AEfLau.jpg",
+					"url": "https://t.co/Z5lhqC4O01",
+					"display_url": "pic.twitter.com/Z5lhqC4O01",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1198234290456334339/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 620,
+							"h": 310,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 620,
+							"h": 310,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 620,
+							"h": 310,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198234287713276000,
+					"id_str": "1198234287713275905",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EKD7vHTX0AEfLau.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKD7vHTX0AEfLau.jpg",
+					"url": "https://t.co/Z5lhqC4O01",
+					"display_url": "pic.twitter.com/Z5lhqC4O01",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1198234290456334339/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 620,
+							"h": 310,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 620,
+							"h": 310,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 620,
+							"h": 310,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "An initiative to restore the truths against the toxic OKC Cult where physical, sexual & mental abuses enfolded for decades. Trial & Appeal ongoing check website",
+			"url": "https://t.co/feER16PibH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/feER16PibH",
+							"expanded_url": "https://www.okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47,
+			"friends_count": 237,
+			"listed_count": 1,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 271,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1562445469",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "☑️1er procès 2016 = condamné à 4 ans avec sursis + indemnités\n❌1er appel 2017 = remporté par OKC-Spatz (vices de procédures instruction 97-2013)\n☑️1er contre-appel en cassation 2019 = remporté par les parties civiles et l'état belge\n✅2ème procès 2020 : tout reste à faire. https://t.co/Z5lhqC4O01"
+	},
+	{
 		"created_at": "Fri Nov 22 18:33:31 +0000 2019",
 		"id": 1197939025400811500,
 		"id_str": "1197946224676130817",
