@@ -1,6 +1,482 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 21 15:23:24 +0000 2019",
+		"id": 1208400349977088000,
+		"id_str": "1208407630085009410",
+		"full_text": "More information &amp; context at https://t.co/94vzcE5bmG  \n#MadeWithRipl via https://t.co/Y9M2Gl9Xsv https://t.co/U6DfCLoIXz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MadeWithRipl",
+					"indices": [
+						60,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/94vzcE5bmG",
+					"expanded_url": "https://s.ripl.com/80vz0a",
+					"display_url": "s.ripl.com/80vz0a",
+					"indices": [
+						34,
+						57
+					]
+				},
+				{
+					"url": "https://t.co/Y9M2Gl9Xsv",
+					"expanded_url": "http://ripl.com",
+					"display_url": "ripl.com",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1208400282767515600,
+					"id_str": "1208400282767515650",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1208400282767515650/pu/img/OgShtzRCKZAbjoYS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1208400282767515650/pu/img/OgShtzRCKZAbjoYS.jpg",
+					"url": "https://t.co/U6DfCLoIXz",
+					"display_url": "pic.twitter.com/U6DfCLoIXz",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1208400349977088002/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1208400282767515600,
+					"id_str": "1208400282767515650",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1208400282767515650/pu/img/OgShtzRCKZAbjoYS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1208400282767515650/pu/img/OgShtzRCKZAbjoYS.jpg",
+					"url": "https://t.co/U6DfCLoIXz",
+					"display_url": "pic.twitter.com/U6DfCLoIXz",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1208400349977088002/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 20834,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1208400282767515650/pu/vid/480x480/6vY9-29uvsRTYTM_.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1208400282767515650/pu/vid/720x720/t9qJn_WJcgIoDFfB.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1208400282767515650/pu/vid/320x320/MVRvlFfznAR-ykR5.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1208400282767515650/pu/pl/HWl3uNqmlary0jmN.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.ripl.com\" rel=\"nofollow\">Ripl App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "An initiative to restore the truths against the toxic OKC Cult where physical, sexual & mental abuses enfolded for decades. Trial & Appeal ongoing check website",
+			"url": "https://t.co/feER16PibH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/feER16PibH",
+							"expanded_url": "https://www.okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50,
+			"friends_count": 242,
+			"listed_count": 1,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 64,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1562445469",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "More information &amp; context at https://t.co/94vzcE5bmG  \n#MadeWithRipl via https://t.co/Y9M2Gl9Xsv https://t.co/U6DfCLoIXz"
+	},
+	{
+		"created_at": "Sat Dec 21 12:08:29 +0000 2019",
+		"id": 1208348883031601200,
+		"id_str": "1208358576483373056",
+		"full_text": "On the 20th February, we're back in Court, we hope to catch the bad guys &amp; get recognized for what happened to us, we're 23 cult-born kids today adult and free, representing many more...\nWe need your help to pay for our lawyers #Christmas #wishes #crowdfunding #Justice #MeToo https://t.co/4oOEigIEf5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Christmas",
+					"indices": [
+						232,
+						242
+					]
+				},
+				{
+					"text": "wishes",
+					"indices": [
+						243,
+						250
+					]
+				},
+				{
+					"text": "crowdfunding",
+					"indices": [
+						251,
+						264
+					]
+				},
+				{
+					"text": "Justice",
+					"indices": [
+						265,
+						273
+					]
+				},
+				{
+					"text": "MeToo",
+					"indices": [
+						274,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1208348876501082000,
+					"id_str": "1208348876501082112",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EMTq5qyW4AABzd4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMTq5qyW4AABzd4.jpg",
+					"url": "https://t.co/4oOEigIEf5",
+					"display_url": "pic.twitter.com/4oOEigIEf5",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1208348883031601152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1208348876501082000,
+					"id_str": "1208348876501082112",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EMTq5qyW4AABzd4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMTq5qyW4AABzd4.jpg",
+					"url": "https://t.co/4oOEigIEf5",
+					"display_url": "pic.twitter.com/4oOEigIEf5",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1208348883031601152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "An initiative to restore the truths against the toxic OKC Cult where physical, sexual & mental abuses enfolded for decades. Trial & Appeal ongoing check website",
+			"url": "https://t.co/feER16PibH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/feER16PibH",
+							"expanded_url": "https://www.okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50,
+			"friends_count": 242,
+			"listed_count": 1,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 64,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1562445469",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On the 20th February, we're back in Court, we hope to catch the bad guys &amp; get recognized for what happened to us, we're 23 cult-born kids today adult and free, representing many more...\nWe need your help to pay for our lawyers #Christmas #wishes #crowdfunding #Justice #MeToo https://t.co/4oOEigIEf5"
+	},
+	{
 		"created_at": "Fri Dec 20 16:53:40 +0000 2019",
 		"id": 1208061289442005000,
 		"id_str": "1208067959102562369",
