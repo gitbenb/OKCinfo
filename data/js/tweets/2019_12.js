@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 25 12:10:55 +0000 2019",
+		"id": 1208084600528023600,
+		"id_str": "1209808741325037568",
+		"full_text": "Si jamais vous croisé le père Noël, vous pourriez l'envoyer sur https://t.co/fsm462zcYY?\n\nOn a 10.000 euro à trouver avant le 20 février, toutes les informations et contexte d'une telle demande d'aide sur le site Web cité plus haut...\n\nBonne fête ❤️\n\n#Proces #okcinfo @OKCinfor https://t.co/EquxfxDCBX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Proces",
+					"indices": [
+						251,
+						258
+					]
+				},
+				{
+					"text": "okcinfo",
+					"indices": [
+						259,
+						267
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinfor",
+					"name": "OKCinfo",
+					"id": 1097520031955587100,
+					"id_str": "1097520031955587073",
+					"indices": [
+						268,
+						277
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fsm462zcYY",
+					"expanded_url": "http://www.okcinfo.news",
+					"display_url": "okcinfo.news",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1208084582555357200,
+					"id_str": "1208084582555357184",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EMP6hvHWkAAe4i9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMP6hvHWkAAe4i9.jpg",
+					"url": "https://t.co/EquxfxDCBX",
+					"display_url": "pic.twitter.com/EquxfxDCBX",
+					"expanded_url": "https://twitter.com/rMdes_/status/1208084600528023553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "1097520031955587073",
+									"screen_name": "OKCinfor",
+									"name": "OKCinfo"
+								},
+								{
+									"type": "user",
+									"user_id": "3309353195",
+									"screen_name": "OKCinformation",
+									"name": "#OKCinfo"
+								}
+							]
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1208084582555357200,
+					"id_str": "1208084582555357184",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EMP6hvHWkAAe4i9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMP6hvHWkAAe4i9.jpg",
+					"url": "https://t.co/EquxfxDCBX",
+					"display_url": "pic.twitter.com/EquxfxDCBX",
+					"expanded_url": "https://twitter.com/rMdes_/status/1208084600528023553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "1097520031955587073",
+									"screen_name": "OKCinfor",
+									"name": "OKCinfo"
+								},
+								{
+									"type": "user",
+									"user_id": "3309353195",
+									"screen_name": "OKCinformation",
+									"name": "#OKCinfo"
+								}
+							]
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "Brussels",
+			"description": "ICT/TEM @digityser | Information Aggregation, Monitoring Disinformation. Twitter bots for Good | Interest in Politics, Technology #Digital #SocEnt | He/Him",
+			"url": "https://t.co/JdAD1V5t8X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JdAD1V5t8X",
+							"expanded_url": "https://www.rmendes.net/",
+							"display_url": "rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2189,
+			"friends_count": 4635,
+			"listed_count": 335,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 11222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33170,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1144775918021423104/3WzuoQcL_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1144775918021423104/3WzuoQcL_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1555846143",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Si jamais vous croisé le père Noël, vous pourriez l'envoyer sur https://t.co/fsm462zcYY?\n\nOn a 10.000 euro à trouver avant le 20 février, toutes les informations et contexte d'une telle demande d'aide sur le site Web cité plus haut...\n\nBonne fête ❤️\n\n#Proces #okcinfo @OKCinfor https://t.co/EquxfxDCBX"
+	},
+	{
 		"created_at": "Sat Dec 21 15:23:24 +0000 2019",
 		"id": 1208400349977088000,
 		"id_str": "1208407630085009410",
