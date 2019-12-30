@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 29 15:38:39 +0000 2019",
+		"id": 1211304702027206700,
+		"id_str": "1211310570378539008",
+		"full_text": "Nous avons besoin de votre aide pour organiser et payer nos avocats en février 2020\n\nNous vous remercions d'avance pour toutes les donations ❤️\n#crowdfunding #leveedefond #Justice #trial #Brussels https://t.co/4Ox79E8naz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "crowdfunding",
+					"indices": [
+						144,
+						157
+					]
+				},
+				{
+					"text": "leveedefond",
+					"indices": [
+						158,
+						170
+					]
+				},
+				{
+					"text": "Justice",
+					"indices": [
+						171,
+						179
+					]
+				},
+				{
+					"text": "trial",
+					"indices": [
+						180,
+						186
+					]
+				},
+				{
+					"text": "Brussels",
+					"indices": [
+						187,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1211304661422157800,
+					"id_str": "1211304661422157830",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1211304661422157830/pu/img/9frgPR0fqtrSqlw_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1211304661422157830/pu/img/9frgPR0fqtrSqlw_.jpg",
+					"url": "https://t.co/4Ox79E8naz",
+					"display_url": "pic.twitter.com/4Ox79E8naz",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1211304702027206657/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1211304661422157800,
+					"id_str": "1211304661422157830",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1211304661422157830/pu/img/9frgPR0fqtrSqlw_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1211304661422157830/pu/img/9frgPR0fqtrSqlw_.jpg",
+					"url": "https://t.co/4Ox79E8naz",
+					"display_url": "pic.twitter.com/4Ox79E8naz",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1211304702027206657/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15967,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1211304661422157830/pu/vid/320x320/wYxq4uSbHM3hPlsY.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1211304661422157830/pu/vid/720x720/AqHG72f6ieEu4gj4.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1211304661422157830/pu/vid/480x480/5rubjVn_dprdANCX.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1211304661422157830/pu/pl/YdLqeNt32n4d2P1E.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "An initiative to restore the truths against the toxic OKC Cult where physical, sexual & mental abuses enfolded for decades. Trial & Appeal ongoing check website",
+			"url": "https://t.co/feER16PibH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/feER16PibH",
+							"expanded_url": "https://www.okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50,
+			"friends_count": 242,
+			"listed_count": 1,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 68,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1562445469",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Nous avons besoin de votre aide pour organiser et payer nos avocats en février 2020\n\nNous vous remercions d'avance pour toutes les donations ❤️\n#crowdfunding #leveedefond #Justice #trial #Brussels https://t.co/4Ox79E8naz"
+	},
+	{
 		"created_at": "Sat Dec 28 07:37:52 +0000 2019",
 		"id": 1210480018524119000,
 		"id_str": "1210827188284510210",
