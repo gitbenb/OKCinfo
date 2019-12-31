@@ -1,6 +1,125 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 31 05:08:41 +0000 2019",
+		"id": 1211842755221168000,
+		"id_str": "1211876808465027078",
+		"full_text": "Thread by @mike_salter: The False Memory Syndrome Foundation is officially dissolved tomorrow. It was launched 27 years ago, claiming that adosing child sexual abuse were suffering from a “syndrome” of vivid false memories of abuse. No such “syndrome” ex… https://t.co/I8FWIKc8c0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mike_salter",
+					"name": "Michael Salter",
+					"id": 820980650,
+					"id_str": "820980650",
+					"indices": [
+						10,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/I8FWIKc8c0",
+					"expanded_url": "https://threadreaderapp.com/thread/1211442594821001216.html",
+					"display_url": "threadreaderapp.com/thread/1211442…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "An initiative to restore the truths against the toxic OKC Cult where physical, sexual & mental abuses enfolded for decades. Trial & Appeal ongoing check website",
+			"url": "https://t.co/feER16PibH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/feER16PibH",
+							"expanded_url": "https://www.okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50,
+			"friends_count": 242,
+			"listed_count": 1,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 68,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 294,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1562445469",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thread by @mike_salter: The False Memory Syndrome Foundation is officially dissolved tomorrow. It was launched 27 years ago, claiming that adosing child sexual abuse were suffering from a “syndrome” of vivid false memories of abuse. No such “syndrome” ex… https://t.co/I8FWIKc8c0"
+	},
+	{
 		"created_at": "Sun Dec 29 15:38:39 +0000 2019",
 		"id": 1211304702027206700,
 		"id_str": "1211310570378539008",
