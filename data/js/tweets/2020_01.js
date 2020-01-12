@@ -1,6 +1,1130 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 11 18:53:31 +0000 2020",
+		"id": 1216064491202531300,
+		"id_str": "1216070653067087874",
+		"full_text": "This time is now Over.\nUntil some of Tibetan Buddhist \"teachers\" currently still displayed in OKC website or visiting ND or any OKC centers go there unchecked, without even a fake recognition of what enfolded under their \"teachings\" we will speak loudly. It's up to you to move. https://t.co/VJ2eBh4Yq1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VJ2eBh4Yq1",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1216019346847301633",
+					"display_url": "twitter.com/OKCinfor/statu…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "An initiative to restore the truths against the toxic OKC Cult where physical, sexual & mental abuses enfolded for decades. New Trial February 2020",
+			"url": "https://t.co/feER16PibH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/feER16PibH",
+							"expanded_url": "https://www.okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51,
+			"friends_count": 243,
+			"listed_count": 1,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 78,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1562445469",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1216019346847301600,
+		"quoted_status_id_str": "1216019346847301633",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VJ2eBh4Yq1",
+			"expanded": "https://twitter.com/OKCinfor/status/1216019346847301633",
+			"display": "twitter.com/OKCinfor/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 11 15:29:39 +0000 2020",
+			"id": 1216019346847301600,
+			"id_str": "1216019346847301633",
+			"full_text": "You'll notice how we approached the core of the issue with some degree of explanation to give more context to people that were not aware of the cult they were contributing to, with or without their consent. \n\nhttps://t.co/NqL45vh4vi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				232
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NqL45vh4vi",
+						"expanded_url": "https://docs.google.com/presentation/d/e/2PACX-1vRa9KkTnwXSUrZKTL00qUzrL04QujwFv2fG3cxw7NHGthzFD7mOV1tZ4levUdX4npqVBCloDA3aWx1G/pub?start=true&loop=true&delayms=10000",
+						"display_url": "docs.google.com/presentation/d…",
+						"indices": [
+							209,
+							232
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1216019345484275700,
+			"in_reply_to_status_id_str": "1216019345484275712",
+			"in_reply_to_user_id": 1097520031955587100,
+			"in_reply_to_user_id_str": "1097520031955587073",
+			"in_reply_to_screen_name": "OKCinfor",
+			"user": {
+				"id": 1097520031955587100,
+				"id_str": "1097520031955587073",
+				"name": "OKCinfo",
+				"screen_name": "OKCinfor",
+				"location": "Brussel, België",
+				"description": "An initiative to restore the truths against the toxic OKC Cult where physical, sexual & mental abuses enfolded for decades. New Trial February 2020",
+				"url": "https://t.co/feER16PibH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/feER16PibH",
+								"expanded_url": "https://www.okcinfo.news",
+								"display_url": "okcinfo.news",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 51,
+				"friends_count": 243,
+				"listed_count": 1,
+				"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+				"favourites_count": 78,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 360,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1562445469",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This time is now Over.\nUntil some of Tibetan Buddhist \"teachers\" currently still displayed in OKC website or visiting ND or any OKC centers go there unchecked, without even a fake recognition of what enfolded under their \"teachings\" we will speak loudly. It's up to you to move. https://t.co/VJ2eBh4Yq1"
+	},
+	{
+		"created_at": "Sat Jan 11 15:53:28 +0000 2020",
+		"id": 1216019343848415200,
+		"id_str": "1216025342093209602",
+		"full_text": "Interesting that @matthieu_ricard got handled a dossier a decade ago, begging him &amp; his friend #RabjamRinpoche (then &amp; now OKC \"Spiritual Director\") to have a look at the crimes they were indirectly supporting : they decided it wasn't their business (but kept visiting OKC) https://t.co/Wgn2hbdnLq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RabjamRinpoche",
+					"indices": [
+						99,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "matthieu_ricard",
+					"name": "Matthieu Ricard (EN)",
+					"id": 2898824212,
+					"id_str": "2898824212",
+					"indices": [
+						17,
+						33
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1216019340283302000,
+					"id_str": "1216019340283301889",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/EOArJbGXUAEX0Hq.png",
+					"media_url_https": "https://pbs.twimg.com/media/EOArJbGXUAEX0Hq.png",
+					"url": "https://t.co/Wgn2hbdnLq",
+					"display_url": "pic.twitter.com/Wgn2hbdnLq",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1216019343848415243/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216019340283302000,
+					"id_str": "1216019340283301889",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/EOArJbGXUAEX0Hq.png",
+					"media_url_https": "https://pbs.twimg.com/media/EOArJbGXUAEX0Hq.png",
+					"url": "https://t.co/Wgn2hbdnLq",
+					"display_url": "pic.twitter.com/Wgn2hbdnLq",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1216019343848415243/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "An initiative to restore the truths against the toxic OKC Cult where physical, sexual & mental abuses enfolded for decades. New Trial February 2020",
+			"url": "https://t.co/feER16PibH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/feER16PibH",
+							"expanded_url": "https://www.okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51,
+			"friends_count": 243,
+			"listed_count": 1,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 78,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1562445469",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interesting that @matthieu_ricard got handled a dossier a decade ago, begging him &amp; his friend #RabjamRinpoche (then &amp; now OKC \"Spiritual Director\") to have a look at the crimes they were indirectly supporting : they decided it wasn't their business (but kept visiting OKC) https://t.co/Wgn2hbdnLq"
+	},
+	{
+		"created_at": "Sat Jan 11 15:08:27 +0000 2020",
+		"id": 1216009245860286500,
+		"id_str": "1216014011357126656",
+		"full_text": "Dingue, qu'il n'y a quasi aucune trace du procès OKC en France sur le web. \nLe secrétaire général de la OKC a bien fait son boulot : utiliser \"le droit à l'oubli\" basé sur un non-lieu judiciaire pour forcer des médias, blogs, google et j'en passe à retirer toute information",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "An initiative to restore the truths against the toxic OKC Cult where physical, sexual & mental abuses enfolded for decades. New Trial February 2020",
+			"url": "https://t.co/feER16PibH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/feER16PibH",
+							"expanded_url": "https://www.okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51,
+			"friends_count": 243,
+			"listed_count": 1,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 78,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1562445469",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Dingue, qu'il n'y a quasi aucune trace du procès OKC en France sur le web. \nLe secrétaire général de la OKC a bien fait son boulot : utiliser \"le droit à l'oubli\" basé sur un non-lieu judiciaire pour forcer des médias, blogs, google et j'en passe à retirer toute information"
+	},
+	{
+		"created_at": "Sat Jan 11 14:13:37 +0000 2020",
+		"id": 1215999967405527000,
+		"id_str": "1216000211711156225",
+		"full_text": "estimant que leur fille était amaigrie et mal soignée. Finalement l'adepte est décédée en novembre 1998 d'un cancer. Après délibération, le tribunal a relaxé MM. Spatz et Corne et dispensé de peine le Dr Buysschaert.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1215999965736198100,
+		"in_reply_to_status_id_str": "1215999965736198145",
+		"in_reply_to_user_id": 1097520031955587100,
+		"in_reply_to_user_id_str": "1097520031955587073",
+		"in_reply_to_screen_name": "OKCinfor",
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "An initiative to restore the truths against the toxic OKC Cult where physical, sexual & mental abuses enfolded for decades. New Trial February 2020",
+			"url": "https://t.co/feER16PibH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/feER16PibH",
+							"expanded_url": "https://www.okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51,
+			"friends_count": 243,
+			"listed_count": 1,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 78,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1562445469",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "estimant que leur fille était amaigrie et mal soignée. Finalement l'adepte est décédée en novembre 1998 d'un cancer. Après délibération, le tribunal a relaxé MM. Spatz et Corne et dispensé de peine le Dr Buysschaert."
+	},
+	{
+		"created_at": "Sat Jan 11 14:13:35 +0000 2020",
+		"id": 1215999965736198100,
+		"id_str": "1216000202970148865",
+		"full_text": "le tribunal correctionnel de Digne pour non assistance à personne en danger, homicide involontaire et complicité d'exercice illégal de la médecine. Cette affaire remonte à 1996 où la famille d'une adepte de 46 ans avait déposé une plainte contre cette communauté \" bouddhiste \",",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1215999963970375700,
+		"in_reply_to_status_id_str": "1215999963970375680",
+		"in_reply_to_user_id": 1097520031955587100,
+		"in_reply_to_user_id_str": "1097520031955587073",
+		"in_reply_to_screen_name": "OKCinfor",
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "An initiative to restore the truths against the toxic OKC Cult where physical, sexual & mental abuses enfolded for decades. New Trial February 2020",
+			"url": "https://t.co/feER16PibH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/feER16PibH",
+							"expanded_url": "https://www.okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51,
+			"friends_count": 243,
+			"listed_count": 1,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 78,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1562445469",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "le tribunal correctionnel de Digne pour non assistance à personne en danger, homicide involontaire et complicité d'exercice illégal de la médecine. Cette affaire remonte à 1996 où la famille d'une adepte de 46 ans avait déposé une plainte contre cette communauté \" bouddhiste \","
+	},
+	{
+		"created_at": "Sat Jan 11 14:13:33 +0000 2020",
+		"id": 1215999963970375700,
+		"id_str": "1216000196577906689",
+		"full_text": "Résultat de l'affaire OKC-Spatz en France : un non lieu. \n\nJean-Louis Corne, le Dr Jean-François Buysschaert, Robert Spatz (le gourou belge, qui était absent) et 2 autres adeptes de l'OKC - Château des soleils dans les Alpes de haute Provence, étaient jugés le 8 novembre devant",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1215999962527535000,
+		"in_reply_to_status_id_str": "1215999962527535106",
+		"in_reply_to_user_id": 1097520031955587100,
+		"in_reply_to_user_id_str": "1097520031955587073",
+		"in_reply_to_screen_name": "OKCinfor",
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "An initiative to restore the truths against the toxic OKC Cult where physical, sexual & mental abuses enfolded for decades. New Trial February 2020",
+			"url": "https://t.co/feER16PibH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/feER16PibH",
+							"expanded_url": "https://www.okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51,
+			"friends_count": 243,
+			"listed_count": 1,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 78,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1562445469",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Résultat de l'affaire OKC-Spatz en France : un non lieu. \n\nJean-Louis Corne, le Dr Jean-François Buysschaert, Robert Spatz (le gourou belge, qui était absent) et 2 autres adeptes de l'OKC - Château des soleils dans les Alpes de haute Provence, étaient jugés le 8 novembre devant"
+	},
+	{
+		"created_at": "Sat Jan 11 14:13:31 +0000 2020",
+		"id": 1215999962527535000,
+		"id_str": "1216000188118118401",
+		"full_text": "Trop tôt pour parler, me disait une partie civile début du premier procès en 2016. \nJamais on aurait raconté quelque chose d'aussi privé et traumatisant à un policier qu'on avait jamais vu de nos vies. qui représentait exactement tout ce qu'on avait été conditionné à rejeter.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1215999960937914400,
+		"in_reply_to_status_id_str": "1215999960937914368",
+		"in_reply_to_user_id": 1097520031955587100,
+		"in_reply_to_user_id_str": "1097520031955587073",
+		"in_reply_to_screen_name": "OKCinfor",
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "An initiative to restore the truths against the toxic OKC Cult where physical, sexual & mental abuses enfolded for decades. New Trial February 2020",
+			"url": "https://t.co/feER16PibH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/feER16PibH",
+							"expanded_url": "https://www.okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51,
+			"friends_count": 243,
+			"listed_count": 1,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 78,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1562445469",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Trop tôt pour parler, me disait une partie civile début du premier procès en 2016. \nJamais on aurait raconté quelque chose d'aussi privé et traumatisant à un policier qu'on avait jamais vu de nos vies. qui représentait exactement tout ce qu'on avait été conditionné à rejeter."
+	},
+	{
+		"created_at": "Sat Jan 11 14:13:29 +0000 2020",
+		"id": 1215999960937914400,
+		"id_str": "1216000180543270912",
+		"full_text": "Ils n'ont jamais été interrogé hors du contexte qui les conditionnait. les enquêteurs Portugais et Espagnols ont tous été berné par le mutisme, le silence ou la non coopération de ces adolescents pour la plupart né et ayant vécu toute leur vie au sein de la secte.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1215999958891008000,
+		"in_reply_to_status_id_str": "1215999958891008000",
+		"in_reply_to_user_id": 1097520031955587100,
+		"in_reply_to_user_id_str": "1097520031955587073",
+		"in_reply_to_screen_name": "OKCinfor",
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "An initiative to restore the truths against the toxic OKC Cult where physical, sexual & mental abuses enfolded for decades. New Trial February 2020",
+			"url": "https://t.co/feER16PibH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/feER16PibH",
+							"expanded_url": "https://www.okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51,
+			"friends_count": 243,
+			"listed_count": 1,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 78,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1562445469",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Ils n'ont jamais été interrogé hors du contexte qui les conditionnait. les enquêteurs Portugais et Espagnols ont tous été berné par le mutisme, le silence ou la non coopération de ces adolescents pour la plupart né et ayant vécu toute leur vie au sein de la secte."
+	},
+	{
+		"created_at": "Sat Jan 11 14:13:28 +0000 2020",
+		"id": 1215999958891008000,
+		"id_str": "1216000174490779649",
+		"full_text": "une autre trentaine d'enfants, à ce moment là adolescent, avait été déporté en 1993 au Portugal dans un autre \"monastère\" de la secte. ils ont vécu isolé et coupé du monde entre 1993 et 1997. c'était les enfants ayant subi toute sorte de sévices que cherchait les enquêteurs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1215998581397651500,
+		"in_reply_to_status_id_str": "1215998581397651456",
+		"in_reply_to_user_id": 1097520031955587100,
+		"in_reply_to_user_id_str": "1097520031955587073",
+		"in_reply_to_screen_name": "OKCinfor",
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "An initiative to restore the truths against the toxic OKC Cult where physical, sexual & mental abuses enfolded for decades. New Trial February 2020",
+			"url": "https://t.co/feER16PibH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/feER16PibH",
+							"expanded_url": "https://www.okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51,
+			"friends_count": 243,
+			"listed_count": 1,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 78,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1562445469",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "une autre trentaine d'enfants, à ce moment là adolescent, avait été déporté en 1993 au Portugal dans un autre \"monastère\" de la secte. ils ont vécu isolé et coupé du monde entre 1993 et 1997. c'était les enfants ayant subi toute sorte de sévices que cherchait les enquêteurs"
+	},
+	{
 		"created_at": "Mon Jan 06 15:38:27 +0000 2020",
 		"id": 1213470318955774000,
 		"id_str": "1214209622380359680",
