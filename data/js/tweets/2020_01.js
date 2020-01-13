@@ -1,6 +1,1028 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 12 18:38:25 +0000 2020",
+		"id": 1216425012464423000,
+		"id_str": "1216429240188579840",
+		"full_text": "Donc Pema Wangyal Rinpoche https://t.co/AmaTv3LYWU, Jigme Khyentse Rinpoche n'ont rien à voir avec la Ogyen Kunzang Choling, rien du tout même https://t.co/dwvIohu3vk\nIls ont tellement rien à voir qu'ils vivent en France et Portugal, en laissant leur Photo et Bio sur le site OKC https://t.co/TMYOn7F0z6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AmaTv3LYWU",
+					"expanded_url": "http://okc-net.org/index.php/project/pema-wangyal-rinpotche/",
+					"display_url": "okc-net.org/index.php/proj…",
+					"indices": [
+						27,
+						50
+					]
+				},
+				{
+					"url": "https://t.co/dwvIohu3vk",
+					"expanded_url": "http://okc-net.org/index.php/project/jigme-khyentse-rinpotche/",
+					"display_url": "okc-net.org/index.php/proj…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1216424996144341000,
+					"id_str": "1216424996144340998",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EOGcFs8W4AYdn_k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOGcFs8W4AYdn_k.jpg",
+					"url": "https://t.co/TMYOn7F0z6",
+					"display_url": "pic.twitter.com/TMYOn7F0z6",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1216425012464422912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1539,
+							"h": 743,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 328,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 579,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1070,
+									"y": 57,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 1254,
+									"y": 57,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 1164,
+									"y": 231,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 1427,
+									"y": 237,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 1244,
+									"y": 241,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1070,
+									"y": 57,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 1254,
+									"y": 57,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 1164,
+									"y": 231,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 1427,
+									"y": 237,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 1244,
+									"y": 241,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 472,
+									"y": 25,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 554,
+									"y": 25,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 514,
+									"y": 102,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 630,
+									"y": 104,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 549,
+									"y": 106,
+									"h": 25,
+									"w": 25
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 834,
+									"y": 44,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 977,
+									"y": 44,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 907,
+									"y": 180,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 1112,
+									"y": 184,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 969,
+									"y": 187,
+									"h": 45,
+									"w": 45
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216424996144341000,
+					"id_str": "1216424996144340998",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EOGcFs8W4AYdn_k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOGcFs8W4AYdn_k.jpg",
+					"url": "https://t.co/TMYOn7F0z6",
+					"display_url": "pic.twitter.com/TMYOn7F0z6",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1216425012464422912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1539,
+							"h": 743,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 328,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 579,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1070,
+									"y": 57,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 1254,
+									"y": 57,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 1164,
+									"y": 231,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 1427,
+									"y": 237,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 1244,
+									"y": 241,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1070,
+									"y": 57,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 1254,
+									"y": 57,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 1164,
+									"y": 231,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 1427,
+									"y": 237,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 1244,
+									"y": 241,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 472,
+									"y": 25,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 554,
+									"y": 25,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 514,
+									"y": 102,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 630,
+									"y": 104,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 549,
+									"y": 106,
+									"h": 25,
+									"w": 25
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 834,
+									"y": 44,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 977,
+									"y": 44,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 907,
+									"y": 180,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 1112,
+									"y": 184,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 969,
+									"y": 187,
+									"h": 45,
+									"w": 45
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "An initiative to restore the truths against the toxic OKC Cult where physical, sexual & mental abuses enfolded for decades. New Trial February 2020",
+			"url": "https://t.co/feER16PibH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/feER16PibH",
+							"expanded_url": "https://www.okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51,
+			"friends_count": 243,
+			"listed_count": 1,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 78,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1562445469",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Donc Pema Wangyal Rinpoche https://t.co/AmaTv3LYWU, Jigme Khyentse Rinpoche n'ont rien à voir avec la Ogyen Kunzang Choling, rien du tout même https://t.co/dwvIohu3vk\nIls ont tellement rien à voir qu'ils vivent en France et Portugal, en laissant leur Photo et Bio sur le site OKC https://t.co/TMYOn7F0z6"
+	},
+	{
+		"created_at": "Sun Jan 12 18:23:25 +0000 2020",
+		"id": 1216420971902533600,
+		"id_str": "1216425464971120641",
+		"full_text": "Petite expérience : comparer la page officielle de la OKC sur #Wikipedia (du temps ou elle était éditée principalement par le SG de la OKC) https://t.co/thNpeJwiQN avec le mythe officiel autour de Robert Spatz alias Lama Kunzang : https://t.co/YUCxyUxi9j https://t.co/4jZ8CBQHI0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Wikipedia",
+					"indices": [
+						62,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/thNpeJwiQN",
+					"expanded_url": "https://fr.wikipedia.org/w/index.php?title=Ogyen_Kunzang_Ch%C3%B6ling&oldid=120743670",
+					"display_url": "fr.wikipedia.org/w/index.php?ti…",
+					"indices": [
+						140,
+						163
+					]
+				},
+				{
+					"url": "https://t.co/YUCxyUxi9j",
+					"expanded_url": "https://web.archive.org/web/20160103233737/http://okc-net.org/index.php/project/lama-kunzang-dorje/",
+					"display_url": "web.archive.org/web/2016010323…",
+					"indices": [
+						231,
+						254
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1216420961211293700,
+					"id_str": "1216420961211293696",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/EOGYa1pWoAATuHV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOGYa1pWoAATuHV.jpg",
+					"url": "https://t.co/4jZ8CBQHI0",
+					"display_url": "pic.twitter.com/4jZ8CBQHI0",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1216420971902533632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 982,
+							"h": 361,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 982,
+							"h": 361,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 250,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216420961211293700,
+					"id_str": "1216420961211293696",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/EOGYa1pWoAATuHV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOGYa1pWoAATuHV.jpg",
+					"url": "https://t.co/4jZ8CBQHI0",
+					"display_url": "pic.twitter.com/4jZ8CBQHI0",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1216420971902533632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 982,
+							"h": 361,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 982,
+							"h": 361,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 250,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "An initiative to restore the truths against the toxic OKC Cult where physical, sexual & mental abuses enfolded for decades. New Trial February 2020",
+			"url": "https://t.co/feER16PibH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/feER16PibH",
+							"expanded_url": "https://www.okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51,
+			"friends_count": 243,
+			"listed_count": 1,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 78,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1562445469",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Petite expérience : comparer la page officielle de la OKC sur #Wikipedia (du temps ou elle était éditée principalement par le SG de la OKC) https://t.co/thNpeJwiQN avec le mythe officiel autour de Robert Spatz alias Lama Kunzang : https://t.co/YUCxyUxi9j https://t.co/4jZ8CBQHI0"
+	},
+	{
+		"created_at": "Sun Jan 12 17:53:44 +0000 2020",
+		"id": 1216413725579604000,
+		"id_str": "1216417996031373313",
+		"full_text": "Quand le site officiel de la OKC fait un lien direct vers @bodycharya \"pour en savoir plus\" sur sa page principale : https://t.co/yuy7ujBduc liens morts bien sûr, rien sur wayback machine non plus https://t.co/jYUxG6jfkg https://t.co/7b3093ru7O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yuy7ujBduc",
+					"expanded_url": "http://bodhicharyaportugal.org/okc/index.php/presentation/",
+					"display_url": "bodhicharyaportugal.org/okc/index.php/…",
+					"indices": [
+						117,
+						140
+					]
+				},
+				{
+					"url": "https://t.co/jYUxG6jfkg",
+					"expanded_url": "https://web.archive.org/web/20170827064112/http://bodhicharyaportugal.org/okc/index.php/presentation/",
+					"display_url": "web.archive.org/web/2017082706…",
+					"indices": [
+						197,
+						220
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1216413719741243400,
+					"id_str": "1216413719741243392",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EOGR1VEWoAAaa6d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOGR1VEWoAAaa6d.jpg",
+					"url": "https://t.co/7b3093ru7O",
+					"display_url": "pic.twitter.com/7b3093ru7O",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1216413725579603968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 239,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 422,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1601,
+							"h": 563,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216413719741243400,
+					"id_str": "1216413719741243392",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EOGR1VEWoAAaa6d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOGR1VEWoAAaa6d.jpg",
+					"url": "https://t.co/7b3093ru7O",
+					"display_url": "pic.twitter.com/7b3093ru7O",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1216413725579603968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 239,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 422,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1601,
+							"h": 563,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "An initiative to restore the truths against the toxic OKC Cult where physical, sexual & mental abuses enfolded for decades. New Trial February 2020",
+			"url": "https://t.co/feER16PibH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/feER16PibH",
+							"expanded_url": "https://www.okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51,
+			"friends_count": 243,
+			"listed_count": 1,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 78,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1562445469",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Quand le site officiel de la OKC fait un lien direct vers @bodycharya \"pour en savoir plus\" sur sa page principale : https://t.co/yuy7ujBduc liens morts bien sûr, rien sur wayback machine non plus https://t.co/jYUxG6jfkg https://t.co/7b3093ru7O"
+	},
+	{
+		"created_at": "Sun Jan 12 14:33:39 +0000 2020",
+		"id": 1216019354891976700,
+		"id_str": "1216367642090577920",
+		"full_text": "At the same time he pose as a rational scientific interested in quantum physics and the scientific approach to Tibetan Buddhist century old practices but when he has the occasion to ACT with INTEGRITY he runs away to the mountains. \n\nWhat kind of representative is this?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1216019353562439700,
+		"in_reply_to_status_id_str": "1216019353562439682",
+		"in_reply_to_user_id": 1097520031955587100,
+		"in_reply_to_user_id_str": "1097520031955587073",
+		"in_reply_to_screen_name": "OKCinfor",
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "An initiative to restore the truths against the toxic OKC Cult where physical, sexual & mental abuses enfolded for decades. New Trial February 2020",
+			"url": "https://t.co/feER16PibH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/feER16PibH",
+							"expanded_url": "https://www.okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51,
+			"friends_count": 243,
+			"listed_count": 1,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 78,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1562445469",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "At the same time he pose as a rational scientific interested in quantum physics and the scientific approach to Tibetan Buddhist century old practices but when he has the occasion to ACT with INTEGRITY he runs away to the mountains. \n\nWhat kind of representative is this?"
+	},
+	{
 		"created_at": "Sat Jan 11 18:53:31 +0000 2020",
 		"id": 1216064491202531300,
 		"id_str": "1216070653067087874",
