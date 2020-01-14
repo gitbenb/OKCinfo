@@ -1,6 +1,527 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 13 11:42:12 +0000 2020",
+		"id": 1216686884379922400,
+		"id_str": "1216686884379922433",
+		"full_text": "Témoignage : En octobre 2015, Ogyen Kunzang Choling a mis en ligne un nouveau site internet et y a ajouté une page intitulée « Education des enfants ». Nous vous proposons ci-dessous une version de ce texte augment... https://t.co/awL11s2i0T via @OKCinfor #Pédocriminalité #Metoo https://t.co/J6OrxM7Cgf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Pédocriminalité",
+					"indices": [
+						256,
+						272
+					]
+				},
+				{
+					"text": "Metoo",
+					"indices": [
+						273,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinfor",
+					"name": "OKCinfo",
+					"id": 1097520031955587100,
+					"id_str": "1097520031955587073",
+					"indices": [
+						246,
+						255
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/awL11s2i0T",
+					"expanded_url": "https://www.okcinfo.news/fr/critique-dun-texte-extrait-du-site-dokc-par-une-jeune-femme-ayant-vecu-a-chateau-de-soleils-okcinfo/",
+					"display_url": "okcinfo.news/fr/critique-du…",
+					"indices": [
+						218,
+						241
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1216686883004190700,
+					"id_str": "1216686883004190721",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EOKKRhhXkAExNsk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOKKRhhXkAExNsk.jpg",
+					"url": "https://t.co/J6OrxM7Cgf",
+					"display_url": "pic.twitter.com/J6OrxM7Cgf",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1216686884379922433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 533,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 533,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216686883004190700,
+					"id_str": "1216686883004190721",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EOKKRhhXkAExNsk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOKKRhhXkAExNsk.jpg",
+					"url": "https://t.co/J6OrxM7Cgf",
+					"display_url": "pic.twitter.com/J6OrxM7Cgf",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1216686884379922433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 533,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 533,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twibble.io\" rel=\"nofollow\">Twibble.io</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | FF @okcinfor",
+			"url": "https://t.co/qSl440PZBy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qSl440PZBy",
+							"expanded_url": "https://www.okcinfo.news/fr",
+							"display_url": "okcinfo.news/fr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 153,
+			"friends_count": 353,
+			"listed_count": 8,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Témoignage : En octobre 2015, Ogyen Kunzang Choling a mis en ligne un nouveau site internet et y a ajouté une page intitulée « Education des enfants ». Nous vous proposons ci-dessous une version de ce texte augment... https://t.co/awL11s2i0T via @OKCinfor #Pédocriminalité #Metoo https://t.co/J6OrxM7Cgf"
+	},
+	{
+		"created_at": "Mon Jan 13 09:57:10 +0000 2020",
+		"id": 1216660449938354200,
+		"id_str": "1216660449938354176",
+		"full_text": "Pédocriminalité Témoignages capitaux contre Robert Spatz. Dont celui d’une jeune Américaine qui accuse le gourou de l’OKC, récemment emprisonné, d’avoir abusé d’elle durant son adolescence &gt; Valérie Colin LES NUITS AVEC MON ENNEMI Le 30 m... https://t.co/tEaprH7itw via @OKCinfor https://t.co/iIuaHWZOnU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinfor",
+					"name": "OKCinfo",
+					"id": 1097520031955587100,
+					"id_str": "1097520031955587073",
+					"indices": [
+						273,
+						282
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tEaprH7itw",
+					"expanded_url": "https://www.okcinfo.news/fr/les-nuits-avec-mon-ennemi-temoignage-okcinfo/",
+					"display_url": "okcinfo.news/fr/les-nuits-a…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1216660446733906000,
+					"id_str": "1216660446733905921",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/EOJyOuvXsAEDAs1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOJyOuvXsAEDAs1.jpg",
+					"url": "https://t.co/iIuaHWZOnU",
+					"display_url": "pic.twitter.com/iIuaHWZOnU",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1216660449938354176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1836,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 705,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1394,
+									"y": 493,
+									"h": 141,
+									"w": 141
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 911,
+									"y": 322,
+									"h": 92,
+									"w": 92
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1394,
+									"y": 493,
+									"h": 141,
+									"w": 141
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 516,
+									"y": 182,
+									"h": 52,
+									"w": 52
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216660446733906000,
+					"id_str": "1216660446733905921",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/EOJyOuvXsAEDAs1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOJyOuvXsAEDAs1.jpg",
+					"url": "https://t.co/iIuaHWZOnU",
+					"display_url": "pic.twitter.com/iIuaHWZOnU",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1216660449938354176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1836,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 705,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1394,
+									"y": 493,
+									"h": 141,
+									"w": 141
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 911,
+									"y": 322,
+									"h": 92,
+									"w": 92
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1394,
+									"y": 493,
+									"h": 141,
+									"w": 141
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 516,
+									"y": 182,
+									"h": 52,
+									"w": 52
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twibble.io\" rel=\"nofollow\">Twibble.io</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | FF @okcinfor",
+			"url": "https://t.co/qSl440PZBy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qSl440PZBy",
+							"expanded_url": "https://www.okcinfo.news/fr",
+							"display_url": "okcinfo.news/fr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 153,
+			"friends_count": 353,
+			"listed_count": 8,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Pédocriminalité Témoignages capitaux contre Robert Spatz. Dont celui d’une jeune Américaine qui accuse le gourou de l’OKC, récemment emprisonné, d’avoir abusé d’elle durant son adolescence &gt; Valérie Colin LES NUITS AVEC MON ENNEMI Le 30 m... https://t.co/tEaprH7itw via @OKCinfor https://t.co/iIuaHWZOnU"
+	},
+	{
 		"created_at": "Sun Jan 12 18:38:25 +0000 2020",
 		"id": 1216425012464423000,
 		"id_str": "1216429240188579840",
