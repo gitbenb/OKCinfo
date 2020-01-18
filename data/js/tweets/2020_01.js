@@ -1,6 +1,1339 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 17 16:34:58 +0000 2020",
+		"id": 1218210112646586400,
+		"id_str": "1218210112646586369",
+		"full_text": "Thanks to generous donors we're approaching 4K in our crowdfunding : https://t.co/MJkJmCTPmm https://t.co/WZvkBCgSjZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MJkJmCTPmm",
+					"expanded_url": "https://www.okcinfo.news/#crowdfunding",
+					"display_url": "okcinfo.news/#crowdfunding",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1218210106770448400,
+					"id_str": "1218210106770448384",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EOfzo0PX4AAOma8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOfzo0PX4AAOma8.jpg",
+					"url": "https://t.co/WZvkBCgSjZ",
+					"display_url": "pic.twitter.com/WZvkBCgSjZ",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1218210112646586369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 865,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 474,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 836,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 18,
+									"y": 635,
+									"h": 171,
+									"w": 171
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 9,
+									"y": 347,
+									"h": 93,
+									"w": 93
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 17,
+									"y": 613,
+									"h": 165,
+									"w": 165
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 18,
+									"y": 635,
+									"h": 171,
+									"w": 171
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218210106770448400,
+					"id_str": "1218210106770448384",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EOfzo0PX4AAOma8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOfzo0PX4AAOma8.jpg",
+					"url": "https://t.co/WZvkBCgSjZ",
+					"display_url": "pic.twitter.com/WZvkBCgSjZ",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1218210112646586369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 865,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 474,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 836,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 18,
+									"y": 635,
+									"h": 171,
+									"w": 171
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 9,
+									"y": 347,
+									"h": 93,
+									"w": 93
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 17,
+									"y": 613,
+									"h": 165,
+									"w": 165
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 18,
+									"y": 635,
+									"h": 171,
+									"w": 171
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | FF @okcinfor",
+			"url": "https://t.co/qSl440PZBy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qSl440PZBy",
+							"expanded_url": "https://www.okcinfo.news/fr",
+							"display_url": "okcinfo.news/fr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 154,
+			"friends_count": 352,
+			"listed_count": 8,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks to generous donors we're approaching 4K in our crowdfunding : https://t.co/MJkJmCTPmm https://t.co/WZvkBCgSjZ"
+	},
+	{
+		"created_at": "Fri Jan 17 15:45:19 +0000 2020",
+		"id": 1218197616032391200,
+		"id_str": "1218197616032391169",
+		"full_text": "Since today we have more path to accept donations : \n\nDonate via #Paypal\nDonate via #Gofundme\nDonate via our website #stripe\nDonate directly to our bank account (no fees) https://t.co/NxMmMri3Nw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Paypal",
+					"indices": [
+						65,
+						72
+					]
+				},
+				{
+					"text": "Gofundme",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"text": "stripe",
+					"indices": [
+						117,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1218197563578486800,
+					"id_str": "1218197563578486784",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EOfoOtNXkAAJKGU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOfoOtNXkAAJKGU.jpg",
+					"url": "https://t.co/NxMmMri3Nw",
+					"display_url": "pic.twitter.com/NxMmMri3Nw",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1218197616032391169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 865,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 474,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 836,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "1097520031955587073",
+									"screen_name": "OKCinfor",
+									"name": "OKCinfo"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 18,
+									"y": 635,
+									"h": 171,
+									"w": 171
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 9,
+									"y": 347,
+									"h": 93,
+									"w": 93
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 17,
+									"y": 613,
+									"h": 165,
+									"w": 165
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 18,
+									"y": 635,
+									"h": 171,
+									"w": 171
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218197563578486800,
+					"id_str": "1218197563578486784",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EOfoOtNXkAAJKGU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOfoOtNXkAAJKGU.jpg",
+					"url": "https://t.co/NxMmMri3Nw",
+					"display_url": "pic.twitter.com/NxMmMri3Nw",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1218197616032391169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 865,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 474,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 836,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "1097520031955587073",
+									"screen_name": "OKCinfor",
+									"name": "OKCinfo"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 18,
+									"y": 635,
+									"h": 171,
+									"w": 171
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 9,
+									"y": 347,
+									"h": 93,
+									"w": 93
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 17,
+									"y": 613,
+									"h": 165,
+									"w": 165
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 18,
+									"y": 635,
+									"h": 171,
+									"w": 171
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | FF @okcinfor",
+			"url": "https://t.co/qSl440PZBy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qSl440PZBy",
+							"expanded_url": "https://www.okcinfo.news/fr",
+							"display_url": "okcinfo.news/fr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 154,
+			"friends_count": 352,
+			"listed_count": 8,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Since today we have more path to accept donations : \n\nDonate via #Paypal\nDonate via #Gofundme\nDonate via our website #stripe\nDonate directly to our bank account (no fees) https://t.co/NxMmMri3Nw"
+	},
+	{
+		"created_at": "Fri Jan 17 15:34:50 +0000 2020",
+		"id": 1218190162116649000,
+		"id_str": "1218194977827758090",
+		"full_text": "Support the OKCinfo initiative, if you can, Donate to our crowdfunding, share this link, talk about this story around you, we need your support ! https://t.co/TaYfHyMtwN https://t.co/0id1GKuGqM via @okcinfor",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinfor",
+					"name": "OKCinfo",
+					"id": 1097520031955587100,
+					"id_str": "1097520031955587073",
+					"indices": [
+						198,
+						207
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TaYfHyMtwN",
+					"expanded_url": "https://www.gofundme.com/f/justice-for-okcspatz-survivors",
+					"display_url": "gofundme.com/f/justice-for-…",
+					"indices": [
+						146,
+						169
+					]
+				},
+				{
+					"url": "https://t.co/0id1GKuGqM",
+					"expanded_url": "https://www.okcinfo.news/",
+					"display_url": "okcinfo.news",
+					"indices": [
+						170,
+						193
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "An initiative to restore the truths against the toxic OKC Cult where physical, sexual & mental abuses enfolded for decades. New Trial February 2020",
+			"url": "https://t.co/feER16PibH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/feER16PibH",
+							"expanded_url": "https://www.okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52,
+			"friends_count": 244,
+			"listed_count": 1,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 81,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1562445469",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Support the OKCinfo initiative, if you can, Donate to our crowdfunding, share this link, talk about this story around you, we need your support ! https://t.co/TaYfHyMtwN https://t.co/0id1GKuGqM via @okcinfor"
+	},
+	{
+		"created_at": "Fri Jan 17 14:55:31 +0000 2020",
+		"id": 1218185084622254000,
+		"id_str": "1218185084622254080",
+		"full_text": "Support the OKCinfo initiative, if you can Donate to our crowdfunding, OR share this link, talk about this story around you, we need your support ! https://t.co/P4NdhTyxgH https://t.co/eC9ZV7Bc6H via @okcinfor",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinfor",
+					"name": "OKCinfo",
+					"id": 1097520031955587100,
+					"id_str": "1097520031955587073",
+					"indices": [
+						200,
+						209
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/P4NdhTyxgH",
+					"expanded_url": "https://www.gofundme.com/f/justice-for-okcspatz-survivors",
+					"display_url": "gofundme.com/f/justice-for-…",
+					"indices": [
+						148,
+						171
+					]
+				},
+				{
+					"url": "https://t.co/eC9ZV7Bc6H",
+					"expanded_url": "https://www.okcinfo.news/",
+					"display_url": "okcinfo.news",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | FF @okcinfor",
+			"url": "https://t.co/qSl440PZBy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qSl440PZBy",
+							"expanded_url": "https://www.okcinfo.news/fr",
+							"display_url": "okcinfo.news/fr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 154,
+			"friends_count": 352,
+			"listed_count": 8,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Support the OKCinfo initiative, if you can Donate to our crowdfunding, OR share this link, talk about this story around you, we need your support ! https://t.co/P4NdhTyxgH https://t.co/eC9ZV7Bc6H via @okcinfor"
+	},
+	{
+		"created_at": "Fri Jan 17 14:34:51 +0000 2020",
+		"id": 1218179881235878000,
+		"id_str": "1218179881235877889",
+		"full_text": "On accepte dorénavant les donations via @stripe directement sur notre site web :  https://t.co/KCN1lmLdMy\n- on a des retours de personnes dont la carte ne passe pas via @gofundme \n\n#crowdfunding #legal #legalaid #legaldefense #Justice #donations #trial #crowd #levéedefond",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "crowdfunding",
+					"indices": [
+						181,
+						194
+					]
+				},
+				{
+					"text": "legal",
+					"indices": [
+						195,
+						201
+					]
+				},
+				{
+					"text": "legalaid",
+					"indices": [
+						202,
+						211
+					]
+				},
+				{
+					"text": "legaldefense",
+					"indices": [
+						212,
+						225
+					]
+				},
+				{
+					"text": "Justice",
+					"indices": [
+						226,
+						234
+					]
+				},
+				{
+					"text": "donations",
+					"indices": [
+						235,
+						245
+					]
+				},
+				{
+					"text": "trial",
+					"indices": [
+						246,
+						252
+					]
+				},
+				{
+					"text": "crowd",
+					"indices": [
+						253,
+						259
+					]
+				},
+				{
+					"text": "levéedefond",
+					"indices": [
+						260,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stripe",
+					"name": "Stripe",
+					"id": 102812444,
+					"id_str": "102812444",
+					"indices": [
+						40,
+						47
+					]
+				},
+				{
+					"screen_name": "gofundme",
+					"name": "GoFundMe",
+					"id": 112897540,
+					"id_str": "112897540",
+					"indices": [
+						169,
+						178
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KCN1lmLdMy",
+					"expanded_url": "https://okcinfo.news/donations/",
+					"display_url": "okcinfo.news/donations/",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | FF @okcinfor",
+			"url": "https://t.co/qSl440PZBy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qSl440PZBy",
+							"expanded_url": "https://www.okcinfo.news/fr",
+							"display_url": "okcinfo.news/fr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 154,
+			"friends_count": 352,
+			"listed_count": 8,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "On accepte dorénavant les donations via @stripe directement sur notre site web :  https://t.co/KCN1lmLdMy\n- on a des retours de personnes dont la carte ne passe pas via @gofundme \n\n#crowdfunding #legal #legalaid #legaldefense #Justice #donations #trial #crowd #levéedefond"
+	},
+	{
+		"created_at": "Fri Jan 17 14:32:59 +0000 2020",
+		"id": 1218179415311552500,
+		"id_str": "1218179415311552512",
+		"full_text": "We now accept donations directly via @stripe on our website : https://t.co/wFoFCeHwP0 it seems some people are having some issues with donations on @gofundme #crowdfunding #legal #legalaid #legaldefense #Justice #donations #trial #crowd https://t.co/KBixOMZR29",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "crowdfunding",
+					"indices": [
+						158,
+						171
+					]
+				},
+				{
+					"text": "legal",
+					"indices": [
+						172,
+						178
+					]
+				},
+				{
+					"text": "legalaid",
+					"indices": [
+						179,
+						188
+					]
+				},
+				{
+					"text": "legaldefense",
+					"indices": [
+						189,
+						202
+					]
+				},
+				{
+					"text": "Justice",
+					"indices": [
+						203,
+						211
+					]
+				},
+				{
+					"text": "donations",
+					"indices": [
+						212,
+						222
+					]
+				},
+				{
+					"text": "trial",
+					"indices": [
+						223,
+						229
+					]
+				},
+				{
+					"text": "crowd",
+					"indices": [
+						230,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stripe",
+					"name": "Stripe",
+					"id": 102812444,
+					"id_str": "102812444",
+					"indices": [
+						37,
+						44
+					]
+				},
+				{
+					"screen_name": "gofundme",
+					"name": "GoFundMe",
+					"id": 112897540,
+					"id_str": "112897540",
+					"indices": [
+						148,
+						157
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wFoFCeHwP0",
+					"expanded_url": "https://www.okcinfo.news/donations/",
+					"display_url": "okcinfo.news/donations/",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1218179409733177300,
+					"id_str": "1218179409733177345",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/EOfXuA3XUAES3DR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOfXuA3XUAES3DR.jpg",
+					"url": "https://t.co/KBixOMZR29",
+					"display_url": "pic.twitter.com/KBixOMZR29",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1218179415311552512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "1097520031955587073",
+									"screen_name": "OKCinfor",
+									"name": "OKCinfo"
+								}
+							]
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218179409733177300,
+					"id_str": "1218179409733177345",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/EOfXuA3XUAES3DR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOfXuA3XUAES3DR.jpg",
+					"url": "https://t.co/KBixOMZR29",
+					"display_url": "pic.twitter.com/KBixOMZR29",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1218179415311552512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "1097520031955587073",
+									"screen_name": "OKCinfor",
+									"name": "OKCinfo"
+								}
+							]
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | FF @okcinfor",
+			"url": "https://t.co/qSl440PZBy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qSl440PZBy",
+							"expanded_url": "https://www.okcinfo.news/fr",
+							"display_url": "okcinfo.news/fr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 154,
+			"friends_count": 352,
+			"listed_count": 8,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We now accept donations directly via @stripe on our website : https://t.co/wFoFCeHwP0 it seems some people are having some issues with donations on @gofundme #crowdfunding #legal #legalaid #legaldefense #Justice #donations #trial #crowd https://t.co/KBixOMZR29"
+	},
+	{
 		"created_at": "Fri Jan 17 08:06:40 +0000 2020",
 		"id": 1218082193232126000,
 		"id_str": "1218082193232125953",
