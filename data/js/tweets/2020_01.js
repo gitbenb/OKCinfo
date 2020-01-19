@@ -1,6 +1,518 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 19 08:00:25 +0000 2020",
+		"id": 1218805397424873500,
+		"id_str": "1218805397424873472",
+		"full_text": "Children's : Least Protected of All https://t.co/LFiHGKhg7H #Buddhism https://t.co/hfFLfiH3De",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Buddhism",
+					"indices": [
+						60,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LFiHGKhg7H",
+					"expanded_url": "https://openbuddhism.org/least-protected-of-all/",
+					"display_url": "openbuddhism.org/least-protecte…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1218805388910481400,
+					"id_str": "1218805388910481409",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EOoRCzBXUAExiWg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOoRCzBXUAExiWg.jpg",
+					"url": "https://t.co/hfFLfiH3De",
+					"display_url": "pic.twitter.com/hfFLfiH3De",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1218805397424873472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1526,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "3665270417",
+									"screen_name": "OgyenKun",
+									"name": "OKC"
+								}
+							]
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218805388910481400,
+					"id_str": "1218805388910481409",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EOoRCzBXUAExiWg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOoRCzBXUAExiWg.jpg",
+					"url": "https://t.co/hfFLfiH3De",
+					"display_url": "pic.twitter.com/hfFLfiH3De",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1218805397424873472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1526,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "3665270417",
+									"screen_name": "OgyenKun",
+									"name": "OKC"
+								}
+							]
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | FF @okcinfor",
+			"url": "https://t.co/qSl440PZBy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qSl440PZBy",
+							"expanded_url": "https://www.okcinfo.news/fr",
+							"display_url": "okcinfo.news/fr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 154,
+			"friends_count": 352,
+			"listed_count": 8,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 914,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Children's : Least Protected of All https://t.co/LFiHGKhg7H #Buddhism https://t.co/hfFLfiH3De"
+	},
+	{
+		"created_at": "Sun Jan 19 07:54:50 +0000 2020",
+		"id": 1218803992412721200,
+		"id_str": "1218803992412721152",
+		"full_text": "Something @MatthieuRicard should read before accepting \"invitations from his friend Rabjam Rimpoche\" to visit NyimaDzong.\n\n#recognition is all we ask, and we'll do so publicly until it's publicly done. https://t.co/NhlcPvcfGb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "recognition",
+					"indices": [
+						123,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						10,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NhlcPvcfGb",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1218491459265056768",
+					"display_url": "twitter.com/OKCinformation…",
+					"indices": [
+						202,
+						225
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "#OKCinfo",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | FF @okcinfor",
+			"url": "https://t.co/qSl440PZBy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qSl440PZBy",
+							"expanded_url": "https://www.okcinfo.news/fr",
+							"display_url": "okcinfo.news/fr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 154,
+			"friends_count": 352,
+			"listed_count": 8,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 914,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1218491459265056800,
+		"quoted_status_id_str": "1218491459265056768",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NhlcPvcfGb",
+			"expanded": "https://twitter.com/OKCinformation/status/1218491459265056768",
+			"display": "twitter.com/OKCinformation…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 18 11:12:57 +0000 2020",
+			"id": 1218491459265056800,
+			"id_str": "1218491459265056768",
+			"full_text": "Letter from Ani Pema Chödrön - Most of the arguments used by Ani Pema Chödrön could be applied to ANY TIBETAN visiting @ogyenkun has if \"nothing had happened\" utter lack of consideration for the victims is not #Buddhism https://t.co/fGCs6F6c0b via @shambhalatimes",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				263
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Buddhism",
+						"indices": [
+							210,
+							219
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OgyenKun",
+						"name": "OKC",
+						"id": 3665270417,
+						"id_str": "3665270417",
+						"indices": [
+							119,
+							128
+						]
+					},
+					{
+						"screen_name": "ShambhalaTimes",
+						"name": "Shambhala Times",
+						"id": 84615562,
+						"id_str": "84615562",
+						"indices": [
+							248,
+							263
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/fGCs6F6c0b",
+						"expanded_url": "https://shar.es/a3zMVv",
+						"display_url": "shar.es/a3zMVv",
+						"indices": [
+							220,
+							243
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3309353195,
+				"id_str": "3309353195",
+				"name": "#OKCinfo",
+				"screen_name": "OKCinformation",
+				"location": "Belgique",
+				"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | FF @okcinfor",
+				"url": "https://t.co/qSl440PZBy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qSl440PZBy",
+								"expanded_url": "https://www.okcinfo.news/fr",
+								"display_url": "okcinfo.news/fr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 154,
+				"friends_count": 352,
+				"listed_count": 8,
+				"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+				"favourites_count": 264,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 914,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Something @MatthieuRicard should read before accepting \"invitations from his friend Rabjam Rimpoche\" to visit NyimaDzong.\n\n#recognition is all we ask, and we'll do so publicly until it's publicly done. https://t.co/NhlcPvcfGb"
+	},
+	{
 		"created_at": "Fri Jan 17 16:34:58 +0000 2020",
 		"id": 1218210112646586400,
 		"id_str": "1218210112646586369",
