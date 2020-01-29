@@ -1,6 +1,602 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 28 15:47:23 +0000 2020",
+		"id": 1222153001449771000,
+		"id_str": "1222184405394915328",
+		"full_text": "Why are we in court all over again ?\n\nPerspective on the trial : \n\n2017 - Judgment against Spatz/OKC on multiple counts, including physical and sexual abuse of minors. Spatz was condemned to a 4 year suspended sentence &amp; thousands of Euro in compensation for the victims. https://t.co/sS3uHGr0Fx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1222152995372261400,
+					"id_str": "1222152995372261379",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EPX1rI5X4AMJOzN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPX1rI5X4AMJOzN.jpg",
+					"url": "https://t.co/sS3uHGr0Fx",
+					"display_url": "pic.twitter.com/sS3uHGr0Fx",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1222153001449771008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 357,
+									"y": 178,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 265,
+									"y": 147,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 294,
+									"y": 152,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 467,
+									"y": 160,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 233,
+									"y": 146,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 535,
+									"y": 160,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 135,
+									"y": 146,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 483,
+									"y": 171,
+									"h": 34,
+									"w": 34
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1078,
+									"y": 538,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 800,
+									"y": 444,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 886,
+									"y": 458,
+									"h": 98,
+									"w": 98
+								},
+								{
+									"x": 1408,
+									"y": 484,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 702,
+									"y": 442,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 1612,
+									"y": 484,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 408,
+									"y": 442,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 1456,
+									"y": 516,
+									"h": 104,
+									"w": 104
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 631,
+									"y": 315,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 468,
+									"y": 260,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 519,
+									"y": 268,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 825,
+									"y": 283,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 411,
+									"y": 258,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 944,
+									"y": 283,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 239,
+									"y": 258,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 853,
+									"y": 302,
+									"h": 60,
+									"w": 60
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1078,
+									"y": 538,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 800,
+									"y": 444,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 886,
+									"y": 458,
+									"h": 98,
+									"w": 98
+								},
+								{
+									"x": 1408,
+									"y": 484,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 702,
+									"y": 442,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 1612,
+									"y": 484,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 408,
+									"y": 442,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 1456,
+									"y": 516,
+									"h": 104,
+									"w": 104
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1222152995372261400,
+					"id_str": "1222152995372261379",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EPX1rI5X4AMJOzN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPX1rI5X4AMJOzN.jpg",
+					"url": "https://t.co/sS3uHGr0Fx",
+					"display_url": "pic.twitter.com/sS3uHGr0Fx",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1222153001449771008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 357,
+									"y": 178,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 265,
+									"y": 147,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 294,
+									"y": 152,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 467,
+									"y": 160,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 233,
+									"y": 146,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 535,
+									"y": 160,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 135,
+									"y": 146,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 483,
+									"y": 171,
+									"h": 34,
+									"w": 34
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1078,
+									"y": 538,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 800,
+									"y": 444,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 886,
+									"y": 458,
+									"h": 98,
+									"w": 98
+								},
+								{
+									"x": 1408,
+									"y": 484,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 702,
+									"y": 442,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 1612,
+									"y": 484,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 408,
+									"y": 442,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 1456,
+									"y": 516,
+									"h": 104,
+									"w": 104
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 631,
+									"y": 315,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 468,
+									"y": 260,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 519,
+									"y": 268,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 825,
+									"y": 283,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 411,
+									"y": 258,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 944,
+									"y": 283,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 239,
+									"y": 258,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 853,
+									"y": 302,
+									"h": 60,
+									"w": 60
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1078,
+									"y": 538,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 800,
+									"y": 444,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 886,
+									"y": 458,
+									"h": 98,
+									"w": 98
+								},
+								{
+									"x": 1408,
+									"y": 484,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 702,
+									"y": 442,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 1612,
+									"y": 484,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 408,
+									"y": 442,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 1456,
+									"y": 516,
+									"h": 104,
+									"w": 104
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "An initiative to restore the truths against the toxic OKC Cult where physical, sexual & mental abuses enfolded for decades. New Trial February 2020",
+			"url": "https://t.co/feER16PibH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/feER16PibH",
+							"expanded_url": "https://www.okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53,
+			"friends_count": 244,
+			"listed_count": 1,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 84,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140749925715775488/-ruh0TMj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1562445469",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why are we in court all over again ?\n\nPerspective on the trial : \n\n2017 - Judgment against Spatz/OKC on multiple counts, including physical and sexual abuse of minors. Spatz was condemned to a 4 year suspended sentence &amp; thousands of Euro in compensation for the victims. https://t.co/sS3uHGr0Fx"
+	},
+	{
 		"created_at": "Mon Jan 27 20:46:03 +0000 2020",
 		"id": 1221883322835431400,
 		"id_str": "1221897177590530048",
