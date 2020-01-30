@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 29 16:09:30 +0000 2020",
+		"id": 1222539756912939000,
+		"id_str": "1222552356988035077",
+		"full_text": "Share &amp; Take part in the debate : Comment on Testimony from an Ogyen Kunzang Choling (OKC) Survivor by tenpel UPDATE There is a new GoFundMe Campaign by the OKC Survivors. They have already collected 5.000&amp;eur... https://t.co/cuQJV1qMiq via @DalaiLama #Buddhism https://t.co/eDK9oIWqnk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Buddhism",
+					"indices": [
+						260,
+						269
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DalaiLama",
+					"name": "Dalai Lama",
+					"id": 20609518,
+					"id_str": "20609518",
+					"indices": [
+						249,
+						259
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cuQJV1qMiq",
+					"expanded_url": "https://buddhism-controversy-blog.com/2017/10/29/testimony-from-an-ogyen-kunsang-choling-okc-survivor/#comment-500023",
+					"display_url": "buddhism-controversy-blog.com/2017/10/29/tes…",
+					"indices": [
+						221,
+						244
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1222539755474366500,
+					"id_str": "1222539755474366464",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/EPdVbijXsAAeOqf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPdVbijXsAAeOqf.jpg",
+					"url": "https://t.co/eDK9oIWqnk",
+					"display_url": "pic.twitter.com/eDK9oIWqnk",
+					"expanded_url": "https://twitter.com/BuddhistLeaks/status/1222539756912939010/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 424,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 351,
+									"y": 92,
+									"h": 161,
+									"w": 161
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 351,
+									"y": 92,
+									"h": 161,
+									"w": 161
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 351,
+									"y": 92,
+									"h": 161,
+									"w": 161
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 351,
+									"y": 92,
+									"h": 161,
+									"w": 161
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1222539755474366500,
+					"id_str": "1222539755474366464",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/EPdVbijXsAAeOqf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPdVbijXsAAeOqf.jpg",
+					"url": "https://t.co/eDK9oIWqnk",
+					"display_url": "pic.twitter.com/eDK9oIWqnk",
+					"expanded_url": "https://twitter.com/BuddhistLeaks/status/1222539756912939010/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 424,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 351,
+									"y": 92,
+									"h": 161,
+									"w": 161
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 351,
+									"y": 92,
+									"h": 161,
+									"w": 161
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 351,
+									"y": 92,
+									"h": 161,
+									"w": 161
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 351,
+									"y": 92,
+									"h": 161,
+									"w": 161
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twibble.io\" rel=\"nofollow\">Twibble.io</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 890549322240196600,
+			"id_str": "890549322240196612",
+			"name": "Tibetan Buddhism Leaks",
+			"screen_name": "BuddhistLeaks",
+			"location": "WorldWide",
+			"description": "Newsbot amplifying comments & news regarding Tibetan Buddhist sexual abuses allegations : Hot:  Shambhala, RIGPA, FWBO, Ogyen Kunzang Choling",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147,
+			"friends_count": 742,
+			"listed_count": 6,
+			"created_at": "Thu Jul 27 12:27:58 +0000 2017",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9627,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/890595925365805058/gPTc9UGe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/890595925365805058/gPTc9UGe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/890549322240196612/1506004227",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Share &amp; Take part in the debate : Comment on Testimony from an Ogyen Kunzang Choling (OKC) Survivor by tenpel UPDATE There is a new GoFundMe Campaign by the OKC Survivors. They have already collected 5.000&amp;eur... https://t.co/cuQJV1qMiq via @DalaiLama #Buddhism https://t.co/eDK9oIWqnk"
+	},
+	{
 		"created_at": "Tue Jan 28 15:47:23 +0000 2020",
 		"id": 1222153001449771000,
 		"id_str": "1222184405394915328",
