@@ -1,6 +1,1258 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 31 06:32:42 +0000 2020",
+		"id": 1222951837977981000,
+		"id_str": "1223131974526697473",
+		"full_text": "Why has @DalaiLama done nothing since the 1993 meeting where he refused to sign a western backed charter against sexual abuses/tantra/vajrayana/dzogchen ?\n\nWhy ?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DalaiLama",
+					"name": "Dalai Lama",
+					"id": 20609518,
+					"id_str": "20609518",
+					"indices": [
+						8,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1222951835658604500,
+		"in_reply_to_status_id_str": "1222951835658604544",
+		"in_reply_to_user_id": 1097520031955587100,
+		"in_reply_to_user_id_str": "1097520031955587073",
+		"in_reply_to_screen_name": "OKCinfor",
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "An initiative to restore the truths against the toxic OKC Cult where physical, sexual & mental abuses enfolded for decades. New Trial February 2020",
+			"url": "https://t.co/feER16PibH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/feER16PibH",
+							"expanded_url": "https://www.okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53,
+			"friends_count": 252,
+			"listed_count": 1,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222871572010151936/Rn9iM3wB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222871572010151936/Rn9iM3wB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1580395807",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Why has @DalaiLama done nothing since the 1993 meeting where he refused to sign a western backed charter against sexual abuses/tantra/vajrayana/dzogchen ?\n\nWhy ?"
+	},
+	{
+		"created_at": "Thu Jan 30 19:02:31 +0000 2020",
+		"id": 1222951806927614000,
+		"id_str": "1222958284518371330",
+		"full_text": "#Rotterdam 2018\n\nRicardo showing a picture of @DalaiLama With Robert Spatz with his phone : do you know him ?\n- @DalaiLama no.\nRicardo showing an official Kashag \"document\" certificating @ogyenkun of being a legit \"buddhist center\" and this ?\n- @DalaiLama silent. avoiding issue https://t.co/AjtFAHyRvK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Rotterdam",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DalaiLama",
+					"name": "Dalai Lama",
+					"id": 20609518,
+					"id_str": "20609518",
+					"indices": [
+						46,
+						56
+					]
+				},
+				{
+					"screen_name": "DalaiLama",
+					"name": "Dalai Lama",
+					"id": 20609518,
+					"id_str": "20609518",
+					"indices": [
+						112,
+						122
+					]
+				},
+				{
+					"screen_name": "OgyenKun",
+					"name": "OKC",
+					"id": 3665270417,
+					"id_str": "3665270417",
+					"indices": [
+						187,
+						196
+					]
+				},
+				{
+					"screen_name": "DalaiLama",
+					"name": "Dalai Lama",
+					"id": 20609518,
+					"id_str": "20609518",
+					"indices": [
+						245,
+						255
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1222951798048161800,
+					"id_str": "1222951798048161793",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EPjMLkwWAAEFvFm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPjMLkwWAAEFvFm.jpg",
+					"url": "https://t.co/AjtFAHyRvK",
+					"display_url": "pic.twitter.com/AjtFAHyRvK",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1222951806927613953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 768,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 500,
+									"y": 79,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 265,
+									"y": 50,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 373,
+									"y": 67,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 138,
+									"y": 51,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 500,
+									"y": 79,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 265,
+									"y": 50,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 373,
+									"y": 67,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 138,
+									"y": 51,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 500,
+									"y": 79,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 265,
+									"y": 50,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 373,
+									"y": 67,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 138,
+									"y": 51,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 442,
+									"y": 69,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 234,
+									"y": 44,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 330,
+									"y": 59,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 122,
+									"y": 45,
+									"h": 45,
+									"w": 45
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1222951798048161800,
+					"id_str": "1222951798048161793",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EPjMLkwWAAEFvFm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPjMLkwWAAEFvFm.jpg",
+					"url": "https://t.co/AjtFAHyRvK",
+					"display_url": "pic.twitter.com/AjtFAHyRvK",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1222951806927613953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 768,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 500,
+									"y": 79,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 265,
+									"y": 50,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 373,
+									"y": 67,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 138,
+									"y": 51,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 500,
+									"y": 79,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 265,
+									"y": 50,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 373,
+									"y": 67,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 138,
+									"y": 51,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 500,
+									"y": 79,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 265,
+									"y": 50,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 373,
+									"y": 67,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 138,
+									"y": 51,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 442,
+									"y": 69,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 234,
+									"y": 44,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 330,
+									"y": 59,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 122,
+									"y": 45,
+									"h": 45,
+									"w": 45
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1222951798027227100,
+					"id_str": "1222951798027227138",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EPjMLkrWkAIn5xc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPjMLkrWkAIn5xc.jpg",
+					"url": "https://t.co/AjtFAHyRvK",
+					"display_url": "pic.twitter.com/AjtFAHyRvK",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1222951806927613953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 549,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 549,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1222951798060847000,
+					"id_str": "1222951798060847104",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EPjMLkzXkAABB0t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPjMLkzXkAABB0t.jpg",
+					"url": "https://t.co/AjtFAHyRvK",
+					"display_url": "pic.twitter.com/AjtFAHyRvK",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1222951806927613953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1153,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1153,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 139,
+									"y": 64,
+									"h": 135,
+									"w": 135
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 237,
+									"y": 110,
+									"h": 229,
+									"w": 229
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 237,
+									"y": 110,
+									"h": 229,
+									"w": 229
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 237,
+									"y": 110,
+									"h": 229,
+									"w": 229
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1222951798069133300,
+					"id_str": "1222951798069133312",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EPjMLk1WAAARZtX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPjMLk1WAAARZtX.jpg",
+					"url": "https://t.co/AjtFAHyRvK",
+					"display_url": "pic.twitter.com/AjtFAHyRvK",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1222951806927613953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 679,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 679,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 293,
+									"y": 359,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 395,
+									"y": 616,
+									"h": 132,
+									"w": 132
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 207,
+									"y": 254,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 279,
+									"y": 436,
+									"h": 93,
+									"w": 93
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 293,
+									"y": 359,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 395,
+									"y": 616,
+									"h": 132,
+									"w": 132
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 293,
+									"y": 359,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 395,
+									"y": 616,
+									"h": 132,
+									"w": 132
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "An initiative to restore the truths against the toxic OKC Cult where physical, sexual & mental abuses enfolded for decades. New Trial February 2020",
+			"url": "https://t.co/feER16PibH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/feER16PibH",
+							"expanded_url": "https://www.okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53,
+			"friends_count": 252,
+			"listed_count": 1,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222871572010151936/Rn9iM3wB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222871572010151936/Rn9iM3wB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1580395807",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Rotterdam 2018\n\nRicardo showing a picture of @DalaiLama With Robert Spatz with his phone : do you know him ?\n- @DalaiLama no.\nRicardo showing an official Kashag \"document\" certificating @ogyenkun of being a legit \"buddhist center\" and this ?\n- @DalaiLama silent. avoiding issue https://t.co/AjtFAHyRvK"
+	},
+	{
+		"created_at": "Thu Jan 30 15:02:17 +0000 2020",
+		"id": 1222891378037809200,
+		"id_str": "1222897829623947264",
+		"full_text": "Dalai Lama meets alleged victims of abuse by \"Buddhist\" gurus https://t.co/nwUcKAZyGm\n@dalailama So what about this \"international meeting on sexual abuses\" you promised in front of 4 witnesses while being recorded?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DalaiLama",
+					"name": "Dalai Lama",
+					"id": 20609518,
+					"id_str": "20609518",
+					"indices": [
+						86,
+						96
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nwUcKAZyGm",
+					"expanded_url": "https://apnews.com/b6c4535313234fa4b5cc41a97c41da98",
+					"display_url": "apnews.com/b6c4535313234f…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "An initiative to restore the truths against the toxic OKC Cult where physical, sexual & mental abuses enfolded for decades. New Trial February 2020",
+			"url": "https://t.co/feER16PibH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/feER16PibH",
+							"expanded_url": "https://www.okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53,
+			"friends_count": 252,
+			"listed_count": 1,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222871572010151936/Rn9iM3wB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222871572010151936/Rn9iM3wB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1580395807",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dalai Lama meets alleged victims of abuse by \"Buddhist\" gurus https://t.co/nwUcKAZyGm\n@dalailama So what about this \"international meeting on sexual abuses\" you promised in front of 4 witnesses while being recorded?"
+	},
+	{
+		"created_at": "Thu Jan 30 14:17:27 +0000 2020",
+		"id": 1222869074285355000,
+		"id_str": "1222886547915247618",
+		"full_text": "You can help &amp; support us : https://t.co/BWJjX5aS2W\n- Donate for our legal defense fund\n- Share our crowdfunding into your network\n- Share our story around you\n- Contact us to help with translations or anything else https://t.co/oZhlaXMUHJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BWJjX5aS2W",
+					"expanded_url": "http://www.okcinfo.news",
+					"display_url": "okcinfo.news",
+					"indices": [
+						32,
+						55
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1222869067977109500,
+					"id_str": "1222869067977109504",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/EPiA8DOWsAAo_pJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPiA8DOWsAAo_pJ.jpg",
+					"url": "https://t.co/oZhlaXMUHJ",
+					"display_url": "pic.twitter.com/oZhlaXMUHJ",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1222869074285355009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1222869067977109500,
+					"id_str": "1222869067977109504",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/EPiA8DOWsAAo_pJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPiA8DOWsAAo_pJ.jpg",
+					"url": "https://t.co/oZhlaXMUHJ",
+					"display_url": "pic.twitter.com/oZhlaXMUHJ",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1222869074285355009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "An initiative to restore the truths against the toxic OKC Cult where physical, sexual & mental abuses enfolded for decades. New Trial February 2020",
+			"url": "https://t.co/feER16PibH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/feER16PibH",
+							"expanded_url": "https://www.okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53,
+			"friends_count": 252,
+			"listed_count": 1,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222871572010151936/Rn9iM3wB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222871572010151936/Rn9iM3wB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1580395807",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You can help &amp; support us : https://t.co/BWJjX5aS2W\n- Donate for our legal defense fund\n- Share our crowdfunding into your network\n- Share our story around you\n- Contact us to help with translations or anything else https://t.co/oZhlaXMUHJ"
+	},
+	{
+		"created_at": "Thu Jan 30 13:47:12 +0000 2020",
+		"id": 1222814564099723300,
+		"id_str": "1222878934037139458",
+		"full_text": "Support the OKCinfo initiative, if you can Donate to our crowdfunding, share this link, talk about this story around you, we need your support ! https://t.co/TaYfHyMtwN https://t.co/0id1GKuGqM via @okcinfor",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinfor",
+					"name": "OKCinfo",
+					"id": 1097520031955587100,
+					"id_str": "1097520031955587073",
+					"indices": [
+						197,
+						206
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TaYfHyMtwN",
+					"expanded_url": "https://www.gofundme.com/f/justice-for-okcspatz-survivors",
+					"display_url": "gofundme.com/f/justice-for-…",
+					"indices": [
+						145,
+						168
+					]
+				},
+				{
+					"url": "https://t.co/0id1GKuGqM",
+					"expanded_url": "https://www.okcinfo.news/",
+					"display_url": "okcinfo.news",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "An initiative to restore the truths against the toxic OKC Cult where physical, sexual & mental abuses enfolded for decades. New Trial February 2020",
+			"url": "https://t.co/feER16PibH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/feER16PibH",
+							"expanded_url": "https://www.okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53,
+			"friends_count": 252,
+			"listed_count": 1,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222871572010151936/Rn9iM3wB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222871572010151936/Rn9iM3wB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1580395807",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Support the OKCinfo initiative, if you can Donate to our crowdfunding, share this link, talk about this story around you, we need your support ! https://t.co/TaYfHyMtwN https://t.co/0id1GKuGqM via @okcinfor"
+	},
+	{
 		"created_at": "Wed Jan 29 16:09:30 +0000 2020",
 		"id": 1222539756912939000,
 		"id_str": "1222552356988035077",
