@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 20 15:08:21 +0000 2020",
+		"id": 1230503085644157000,
+		"id_str": "1230509500848889858",
+		"full_text": "Le 3e procès du gourou de la secte OKC s'est ouvert aujourd'hui à Liège. Et cette question qui traîne derrière: après la catastrophe de la scientologie et le serpent de mer OKC, parvient-on encore juger des mouvements sectaires en Belgique? https://t.co/7HjbEA0GdV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7HjbEA0GdV",
+					"expanded_url": "https://www.levif.be/actualite/belgique/pourquoi-n-arrive-t-on-pas-a-juger-les-sectes/article-normal-1254411.html",
+					"display_url": "levif.be/actualite/belg…",
+					"indices": [
+						241,
+						264
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 250710414,
+			"id_str": "250710414",
+			"name": "Julien Balboni",
+			"screen_name": "julienbalbo",
+			"location": "Bruxelles, Belgique",
+			"description": "Tout ce qui tourne autour de la justice et des clubs de foot médiocres. Freelance, surtout à @lecho",
+			"url": "https://t.co/GzkEkscwjw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GzkEkscwjw",
+							"expanded_url": "http://lecho.be",
+							"display_url": "lecho.be",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2413,
+			"friends_count": 1057,
+			"listed_count": 105,
+			"created_at": "Fri Feb 11 17:01:04 +0000 2011",
+			"favourites_count": 10760,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29949,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/694851402544320513/lAcUW-Er_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/694851402544320513/lAcUW-Er_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/250710414/1550946823",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Le 3e procès du gourou de la secte OKC s'est ouvert aujourd'hui à Liège. Et cette question qui traîne derrière: après la catastrophe de la scientologie et le serpent de mer OKC, parvient-on encore juger des mouvements sectaires en Belgique? https://t.co/7HjbEA0GdV"
+	},
+	{
+		"created_at": "Thu Feb 20 13:05:44 +0000 2020",
+		"id": 1230478641739464700,
+		"id_str": "1230478641739464705",
+		"full_text": "Rien à voir avec la OKC pour se dorer la pilule en plein tribunal tout en étant accusé de fraude financière, abus sexuels et abus physiques.\n\nLe Bouddhisme Tibétain a bon dos en ce premier jour d'audience à Liège.\n\nMentir par omission ou par déni en présentant une couverture d'or",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1230478639768187000,
+		"in_reply_to_status_id_str": "1230478639768186882",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | FF @okcinfor",
+			"url": "https://t.co/qSl440PZBy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qSl440PZBy",
+							"expanded_url": "https://www.okcinfo.news/fr",
+							"display_url": "okcinfo.news/fr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 155,
+			"friends_count": 352,
+			"listed_count": 8,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 951,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "Rien à voir avec la OKC pour se dorer la pilule en plein tribunal tout en étant accusé de fraude financière, abus sexuels et abus physiques.\n\nLe Bouddhisme Tibétain a bon dos en ce premier jour d'audience à Liège.\n\nMentir par omission ou par déni en présentant une couverture d'or"
+	},
+	{
 		"created_at": "Wed Feb 19 11:05:16 +0000 2020",
 		"id": 1230080394344751000,
 		"id_str": "1230085941357838336",
