@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 22 14:01:58 +0000 2020",
+		"id": 1231217569610293200,
+		"id_str": "1231217569610293248",
+		"full_text": "Audition des premiers témoins dans le procès de la communauté bouddhiste d'OKC https://t.co/S7QmcMZ8H0 via @rtbfinfo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RTBFinfo",
+					"name": "RTBF info",
+					"id": 14163474,
+					"id_str": "14163474",
+					"indices": [
+						107,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/S7QmcMZ8H0",
+					"expanded_url": "https://www.rtbf.be/info/regions/detail_audition-des-premiers-temoins-dans-le-proces-de-la-communaute-bouddhiste-d-okc?id=10437558&utm_source=rtbfinfo&utm_campaign=social_share&utm_medium=twitter_share",
+					"display_url": "rtbf.be/info/regions/d…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | FF @okcinfor",
+			"url": "https://t.co/qSl440PZBy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qSl440PZBy",
+							"expanded_url": "https://www.okcinfo.news/fr",
+							"display_url": "okcinfo.news/fr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 155,
+			"friends_count": 352,
+			"listed_count": 8,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 954,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1526300811",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Audition des premiers témoins dans le procès de la communauté bouddhiste d'OKC https://t.co/S7QmcMZ8H0 via @rtbfinfo"
+	},
+	{
+		"created_at": "Sat Feb 22 13:42:37 +0000 2020",
+		"id": 1231212635733069800,
+		"id_str": "1231212702833479681",
+		"full_text": "Alors que la Belgique s'apprête à reconnaître le \"Bouddhisme\" comme religion officielle et donc à même de recevoir des subsides, le silence ou le manque de clarté de l'union bouddhiste belge (UBB) sur l'affaire OKC-Spatz prend tout son sens.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2359778089,
+			"id_str": "2359778089",
+			"name": "Veille infopol",
+			"screen_name": "PolBegov",
+			"location": "Bloqué par Théo Francken",
+			"description": "NewsBot Veille Info 🇧🇪\nAuto-Alimenté par les sections politique, économie et région des différents médias en Belgique. FR/NL/EN @rMdes_",
+			"url": "https://t.co/0cz5mWyc66",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0cz5mWyc66",
+							"expanded_url": "https://www.euwatch.live/polbegov-begov/",
+							"display_url": "euwatch.live/polbegov-begov/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4476,
+			"friends_count": 2151,
+			"listed_count": 247,
+			"created_at": "Mon Feb 24 16:54:12 +0000 2014",
+			"favourites_count": 4074,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 214668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/830406487851802625/x_YH1yml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/830406487851802625/x_YH1yml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2359778089/1448275480",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Alors que la Belgique s'apprête à reconnaître le \"Bouddhisme\" comme religion officielle et donc à même de recevoir des subsides, le silence ou le manque de clarté de l'union bouddhiste belge (UBB) sur l'affaire OKC-Spatz prend tout son sens."
+	},
+	{
 		"created_at": "Thu Feb 20 15:08:21 +0000 2020",
 		"id": 1230503085644157000,
 		"id_str": "1230509500848889858",
