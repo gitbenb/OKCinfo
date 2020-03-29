@@ -1,6 +1,141 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 28 18:21:18 +0000 2020",
+		"id": 1243965517322428400,
+		"id_str": "1243966408695975937",
+		"full_text": "OKC Spatz trial postponed to 22 April due to #COVID19 #CoronaLockdown #okcinfo\n#procesOKC \n\nContext : https://t.co/qMbN5yEH5s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						45,
+						53
+					]
+				},
+				{
+					"text": "CoronaLockdown",
+					"indices": [
+						54,
+						69
+					]
+				},
+				{
+					"text": "okcinfo",
+					"indices": [
+						70,
+						78
+					]
+				},
+				{
+					"text": "procesOKC",
+					"indices": [
+						79,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qMbN5yEH5s",
+					"expanded_url": "http://www.okcinfo.news",
+					"display_url": "okcinfo.news",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6590,
+			"id_str": "6590",
+			"name": "BenB",
+			"screen_name": "benborges_",
+			"location": "https://keybase.io/benborges",
+			"description": "OKC/Spatz cult Survivor | info activist, agitator, disruption of social injustice | focus : Protests, Far-Right, geopol, disinfo\nnot all RT are endorsements.",
+			"url": "https://t.co/brLVXiDBoA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/brLVXiDBoA",
+							"expanded_url": "https://www.benborges.xyz/",
+							"display_url": "benborges.xyz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3347,
+			"friends_count": 4986,
+			"listed_count": 347,
+			"created_at": "Thu Sep 21 18:27:47 +0000 2006",
+			"favourites_count": 5782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 146804,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135311617867026434/JUFJtNIZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135311617867026434/JUFJtNIZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6590/1539614465",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OKC Spatz trial postponed to 22 April due to #COVID19 #CoronaLockdown #okcinfo\n#procesOKC \n\nContext : https://t.co/qMbN5yEH5s"
+	},
+	{
 		"created_at": "Sun Mar 15 06:59:27 +0000 2020",
 		"id": 1238748866616471600,
 		"id_str": "1239083773779742720",
