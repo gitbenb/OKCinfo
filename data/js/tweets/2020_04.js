@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 26 07:15:34 +0000 2020",
+		"id": 1142211862437797900,
+		"id_str": "1254308120966414337",
+		"full_text": "@SaraahLgd @APETHYYYYY @LifeOfGuy_ OKCinfo c'est une initiative supportée par les survivants et survivantes de tout cela.. Lancée par moi même fin 2014. @OKCinfor c'est le cri de vérité d'un procès qui durait depuis 18 ans sans les veritables témoignages des victimes de cette dérive sectaire. En effet quand les",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			312
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SaraahLgd",
+					"name": "🦁",
+					"id": 1879938000,
+					"id_str": "1879938000",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "APETHYYYYY",
+					"name": "𝔸 ℙ 𝔼 𝕋 ℍ 𝕐 L9",
+					"id": 1100317227188932600,
+					"id_str": "1100317227188932608",
+					"indices": [
+						11,
+						22
+					]
+				},
+				{
+					"screen_name": "LifeOfGuy_",
+					"name": "Oppa__",
+					"id": 967468205718556700,
+					"id_str": "967468205718556674",
+					"indices": [
+						23,
+						34
+					]
+				},
+				{
+					"screen_name": "OKCinfor",
+					"name": "OKCinfo",
+					"id": 1097520031955587100,
+					"id_str": "1097520031955587073",
+					"indices": [
+						153,
+						162
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1142147781483778000,
+		"in_reply_to_status_id_str": "1142147781483778050",
+		"in_reply_to_user_id": 1879938000,
+		"in_reply_to_user_id_str": "1879938000",
+		"in_reply_to_screen_name": "SaraahLgd",
+		"user": {
+			"id": 6590,
+			"id_str": "6590",
+			"name": "BenB",
+			"screen_name": "benborges_",
+			"location": "https://keybase.io/benborges",
+			"description": "OKC/Spatz cult Survivor | info activist, agitator, disruption of social injustice | focus : Protests, Far-Right, geopol, disinfo\nnot all RT are endorsements.",
+			"url": "https://t.co/brLVXiDBoA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/brLVXiDBoA",
+							"expanded_url": "https://www.benborges.xyz/",
+							"display_url": "benborges.xyz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3340,
+			"friends_count": 4958,
+			"listed_count": 338,
+			"created_at": "Thu Sep 21 18:27:47 +0000 2006",
+			"favourites_count": 5847,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 147952,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135311617867026434/JUFJtNIZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135311617867026434/JUFJtNIZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6590/1539614465",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "@SaraahLgd @APETHYYYYY @LifeOfGuy_ OKCinfo c'est une initiative supportée par les survivants et survivantes de tout cela.. Lancée par moi même fin 2014. @OKCinfor c'est le cri de vérité d'un procès qui durait depuis 18 ans sans les veritables témoignages des victimes de cette dérive sectaire. En effet quand les"
+	},
+	{
 		"created_at": "Mon Apr 20 10:26:47 +0000 2020",
 		"id": 1252181913642635300,
 		"id_str": "1252181913642635264",
