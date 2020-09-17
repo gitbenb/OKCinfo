@@ -1,6 +1,677 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 16 13:26:39 +0000 2020",
+		"id": 1306222973431566300,
+		"id_str": "1306222973431566336",
+		"full_text": "On assiste a un exercice, de comparaison entre les écrits d'un ponte du bouddhisme tibétain et un vulgaire réparateur de télévision belge, déguisé en Lama, pédocriminel de surcroît\n\nOser se comparer à ces gens c'est juste une démonstration de son narcisisme.\n\nUn après midi debile",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1306222970562588700,
+		"in_reply_to_status_id_str": "1306222970562588672",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | FF @okcinfor",
+			"url": "https://t.co/gJaUqhElyi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gJaUqhElyi",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 157,
+			"friends_count": 352,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1008,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "On assiste a un exercice, de comparaison entre les écrits d'un ponte du bouddhisme tibétain et un vulgaire réparateur de télévision belge, déguisé en Lama, pédocriminel de surcroît\n\nOser se comparer à ces gens c'est juste une démonstration de son narcisisme.\n\nUn après midi debile"
+	},
+	{
+		"created_at": "Wed Sep 16 13:26:39 +0000 2020",
+		"id": 1306222970562588700,
+		"id_str": "1306222970562588672",
+		"full_text": "Et la famille de Kangyour Rimpoche, l'image et la personne de Mathieu Ricard, la réputation du @DalaiLama et l'image et le nom de tous les tibétain passé par OKC (sans être informé du procès en cours et de l'enquête depuis 1997) même Dilgo Khyentse est utilisé malgré lui.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DalaiLama",
+					"name": "Dalai Lama",
+					"id": 20609518,
+					"id_str": "20609518",
+					"indices": [
+						95,
+						105
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1306222968855552000,
+		"in_reply_to_status_id_str": "1306222968855552000",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | FF @okcinfor",
+			"url": "https://t.co/gJaUqhElyi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gJaUqhElyi",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 157,
+			"friends_count": 352,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1008,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "Et la famille de Kangyour Rimpoche, l'image et la personne de Mathieu Ricard, la réputation du @DalaiLama et l'image et le nom de tous les tibétain passé par OKC (sans être informé du procès en cours et de l'enquête depuis 1997) même Dilgo Khyentse est utilisé malgré lui."
+	},
+	{
+		"created_at": "Wed Sep 16 13:26:38 +0000 2020",
+		"id": 1306222968855552000,
+		"id_str": "1306222968855552000",
+		"full_text": "En fait, Spatz est absent de son procès mais il parle à travers et via la bouche de son avocat qui est littéralement entrain de lire des passages qui ne peuvent qu'être soufflé, écrit, construit avec son client : un pédocriminel déguisé en Lama qui s'appuie sur le nom",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | FF @okcinfor",
+			"url": "https://t.co/gJaUqhElyi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gJaUqhElyi",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 157,
+			"friends_count": 352,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1008,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "En fait, Spatz est absent de son procès mais il parle à travers et via la bouche de son avocat qui est littéralement entrain de lire des passages qui ne peuvent qu'être soufflé, écrit, construit avec son client : un pédocriminel déguisé en Lama qui s'appuie sur le nom"
+	},
+	{
+		"created_at": "Wed Sep 16 13:18:25 +0000 2020",
+		"id": 1306220786513051600,
+		"id_str": "1306220901332119553",
+		"full_text": "Le tout au nom du Bouddhisme Tibétain.\n\nA un moment @MatthieuRicard va se désolidariser de ce débile se faisant passer pour l'héritier de Kangyour Rimpoche en tribunal?\n\nAh non c'est juste une \"polémique\" pour Mr.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						52,
+						67
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1306220783610597400,
+		"in_reply_to_status_id_str": "1306220783610597378",
+		"in_reply_to_user_id": 1562961949,
+		"in_reply_to_user_id_str": "1562961949",
+		"in_reply_to_screen_name": "rMdes_",
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "Brussels",
+			"description": "Looking for IT mission/job | Info Aggregation, Monitoring Disinformation, Veille Stratégique | Interest in Politics, Technology, Democracy @PolBegov @EUwatchers",
+			"url": "https://t.co/gMpchdg7cj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gMpchdg7cj",
+							"expanded_url": "https://blog.rmendes.net/",
+							"display_url": "blog.rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2317,
+			"friends_count": 4942,
+			"listed_count": 324,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 13188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305568720773840902/pP0vymv7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305568720773840902/pP0vymv7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1591600988",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Le tout au nom du Bouddhisme Tibétain.\n\nA un moment @MatthieuRicard va se désolidariser de ce débile se faisant passer pour l'héritier de Kangyour Rimpoche en tribunal?\n\nAh non c'est juste une \"polémique\" pour Mr."
+	},
+	{
+		"created_at": "Wed Sep 16 13:18:23 +0000 2020",
+		"id": 1306220783610597400,
+		"id_str": "1306220891219648512",
+		"full_text": "Être dans un tribunal en 2020 où l'avocat d'un pédocriminel n'a d'autres arguments de défense que de lire à la cour les monologues machiavéliques d'un pédocriminel déguisé en Lama en faisant une apologie de sévices physiques psychiques et sexuels sur des enfants mineurs. https://t.co/lxRcVgPPk1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306220771514216400,
+					"id_str": "1306220771514216450",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/EiCg3vxXcAI6Wc_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiCg3vxXcAI6Wc_.jpg",
+					"url": "https://t.co/lxRcVgPPk1",
+					"display_url": "pic.twitter.com/lxRcVgPPk1",
+					"expanded_url": "https://twitter.com/rMdes_/status/1306220783610597378/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306220771514216400,
+					"id_str": "1306220771514216450",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/EiCg3vxXcAI6Wc_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiCg3vxXcAI6Wc_.jpg",
+					"url": "https://t.co/lxRcVgPPk1",
+					"display_url": "pic.twitter.com/lxRcVgPPk1",
+					"expanded_url": "https://twitter.com/rMdes_/status/1306220783610597378/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "Brussels",
+			"description": "Looking for IT mission/job | Info Aggregation, Monitoring Disinformation, Veille Stratégique | Interest in Politics, Technology, Democracy @PolBegov @EUwatchers",
+			"url": "https://t.co/gMpchdg7cj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gMpchdg7cj",
+							"expanded_url": "https://blog.rmendes.net/",
+							"display_url": "blog.rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2317,
+			"friends_count": 4942,
+			"listed_count": 324,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 13188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305568720773840902/pP0vymv7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305568720773840902/pP0vymv7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1591600988",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Être dans un tribunal en 2020 où l'avocat d'un pédocriminel n'a d'autres arguments de défense que de lire à la cour les monologues machiavéliques d'un pédocriminel déguisé en Lama en faisant une apologie de sévices physiques psychiques et sexuels sur des enfants mineurs. https://t.co/lxRcVgPPk1"
+	},
+	{
+		"created_at": "Wed Sep 16 13:08:15 +0000 2020",
+		"id": 1306218339879071700,
+		"id_str": "1306218339879071744",
+		"full_text": "Un avocat qui prétend utiliser Herman Hesse (une des sources des orientalismes qui ont intoxiqué l'occident) pour parler de bouddhisme tibétain ou de bouddhisme tout court, c'est un avocat qui n'a simplement aucune idée , aucune, sur la nature du bouddhisme.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1306217707348676600,
+		"in_reply_to_status_id_str": "1306217707348676610",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | FF @okcinfor",
+			"url": "https://t.co/gJaUqhElyi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gJaUqhElyi",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 157,
+			"friends_count": 352,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1008,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "Un avocat qui prétend utiliser Herman Hesse (une des sources des orientalismes qui ont intoxiqué l'occident) pour parler de bouddhisme tibétain ou de bouddhisme tout court, c'est un avocat qui n'a simplement aucune idée , aucune, sur la nature du bouddhisme."
+	},
+	{
 		"created_at": "Tue Sep 15 08:49:37 +0000 2020",
 		"id": 1305790866410352600,
 		"id_str": "1305790866410352640",
