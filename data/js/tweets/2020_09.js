@@ -1,6 +1,1268 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 21 08:13:03 +0000 2020",
+		"id": 1307955991913336800,
+		"id_str": "1307955991913336832",
+		"full_text": "@centre_accec En tout, ça dépend des manières de compter, mais une centaine d'enfants sont passé par château de soleil aka Nyima Dzong entre 1970 et 2010\nPlus si on compte des enfants de passage ou uniquement présent 1 ou 2 ans puis retiré par leur parents.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "centre_accec",
+					"name": "Observatoire des croyances-Valérie BLANCHARD",
+					"id": 967144070723395600,
+					"id_str": "967144070723395584",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1307775926911021000,
+		"in_reply_to_status_id_str": "1307775926911021056",
+		"in_reply_to_user_id": 967144070723395600,
+		"in_reply_to_user_id_str": "967144070723395584",
+		"in_reply_to_screen_name": "centre_accec",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | FF @okcinfor",
+			"url": "https://t.co/gJaUqhElyi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gJaUqhElyi",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 159,
+			"friends_count": 354,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1025,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@centre_accec En tout, ça dépend des manières de compter, mais une centaine d'enfants sont passé par château de soleil aka Nyima Dzong entre 1970 et 2010\nPlus si on compte des enfants de passage ou uniquement présent 1 ou 2 ans puis retiré par leur parents."
+	},
+	{
+		"created_at": "Mon Sep 21 08:09:56 +0000 2020",
+		"id": 1307955205510705200,
+		"id_str": "1307955205510705152",
+		"full_text": "@centre_accec Cette référence au nombre d'enfants date du moment des perquisitions sur les sectes en 97, en effet il y a eu eu beaucoup plus d'enfants qui sont passé par là.\nMa génération à été déportée dans un autre \"monastère\" dans le sud du Portugal en 1993, nous étions 23.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "centre_accec",
+					"name": "Observatoire des croyances-Valérie BLANCHARD",
+					"id": 967144070723395600,
+					"id_str": "967144070723395584",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1307775926911021000,
+		"in_reply_to_status_id_str": "1307775926911021056",
+		"in_reply_to_user_id": 967144070723395600,
+		"in_reply_to_user_id_str": "967144070723395584",
+		"in_reply_to_screen_name": "centre_accec",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | FF @okcinfor",
+			"url": "https://t.co/gJaUqhElyi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gJaUqhElyi",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 159,
+			"friends_count": 354,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1025,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@centre_accec Cette référence au nombre d'enfants date du moment des perquisitions sur les sectes en 97, en effet il y a eu eu beaucoup plus d'enfants qui sont passé par là.\nMa génération à été déportée dans un autre \"monastère\" dans le sud du Portugal en 1993, nous étions 23."
+	},
+	{
+		"created_at": "Mon Sep 21 08:08:02 +0000 2020",
+		"id": 1307954729574596600,
+		"id_str": "1307954729574596609",
+		"full_text": "Le fait majeur de ces deux dernières semaines : le fait que ton nom, tes amis spirituels, tes maîtres sont utilisés dans un procès vieux de 20 ans pour légitimer un pédocriminel.\n\nEt vous laisser faire.\nVous êtes officiellement associé à la OKC selon la défense de Spatz. https://t.co/YkuZG0rvsW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YkuZG0rvsW",
+					"expanded_url": "https://twitter.com/MatthieuRicard/status/1307949534178357251",
+					"display_url": "twitter.com/MatthieuRicard…",
+					"indices": [
+						272,
+						295
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | FF @okcinfor",
+			"url": "https://t.co/gJaUqhElyi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gJaUqhElyi",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 159,
+			"friends_count": 354,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1025,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1307949534178357200,
+		"quoted_status_id_str": "1307949534178357251",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YkuZG0rvsW",
+			"expanded": "https://twitter.com/MatthieuRicard/status/1307949534178357251",
+			"display": "twitter.com/MatthieuRicard…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 21 07:47:24 +0000 2020",
+			"id": 1307949534178357200,
+			"id_str": "1307949534178357251",
+			"full_text": "\"La pensée de la semaine\" - https://t.co/I9tqbLQS14",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				51
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/I9tqbLQS14",
+						"expanded_url": "http://www.matthieuricard.org/pensees/42",
+						"display_url": "matthieuricard.org/pensees/42",
+						"indices": [
+							28,
+							51
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.matthieuricard.org/\" rel=\"nofollow\">matthieuricard FR</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 181228051,
+				"id_str": "181228051",
+				"name": "Matthieu Ricard",
+				"screen_name": "MatthieuRicard",
+				"location": "Shechen, Nepal",
+				"description": "Matthieu Ricard est un moine bouddhiste, photographe et auteur. Fondateur de Karuna-Shechen . Pour en savoir plus 👇🏼(FR)",
+				"url": "https://t.co/ieCxwRKmxE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ieCxwRKmxE",
+								"expanded_url": "http://www.matthieuricard.org",
+								"display_url": "matthieuricard.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 29736,
+				"friends_count": 63,
+				"listed_count": 536,
+				"created_at": "Sat Aug 21 16:56:21 +0000 2010",
+				"favourites_count": 752,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1054,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/895287892603482112/0kmjgyGv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/895287892603482112/0kmjgyGv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/181228051/1502288277",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Le fait majeur de ces deux dernières semaines : le fait que ton nom, tes amis spirituels, tes maîtres sont utilisés dans un procès vieux de 20 ans pour légitimer un pédocriminel.\n\nEt vous laisser faire.\nVous êtes officiellement associé à la OKC selon la défense de Spatz. https://t.co/YkuZG0rvsW"
+	},
+	{
+		"created_at": "Sun Sep 20 12:10:53 +0000 2020",
+		"id": 1307653455570448400,
+		"id_str": "1307653455570448384",
+		"full_text": "@rMdes_ @SectarismeInfo @centre_accec @bouddhanar108 Nous (une parties des enfants aujourd'hui adultes ayant subi) sommes en effet, un des rares cas à aller en justice jusqu'au bout, même si tard, même si en dernier recours.\nLes prédateurs et leurs Sangha's préfèrent \"régler ça\" en interne et donc étouffer l'affaire",
+		"truncated": false,
+		"display_text_range": [
+			53,
+			317
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rMdes_",
+					"name": "Ricardo Mendes",
+					"id": 1562961949,
+					"id_str": "1562961949",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "SectarismeInfo",
+					"name": "info #Sectarisme Limousin Auvergne",
+					"id": 1060516335434809300,
+					"id_str": "1060516335434809344",
+					"indices": [
+						8,
+						23
+					]
+				},
+				{
+					"screen_name": "centre_accec",
+					"name": "Observatoire des croyances-Valérie BLANCHARD",
+					"id": 967144070723395600,
+					"id_str": "967144070723395584",
+					"indices": [
+						24,
+						37
+					]
+				},
+				{
+					"screen_name": "bouddhanar108",
+					"name": "Félix CRESPO",
+					"id": 979952858983534600,
+					"id_str": "979952858983534592",
+					"indices": [
+						38,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1307652597537476600,
+		"in_reply_to_status_id_str": "1307652597537476610",
+		"in_reply_to_user_id": 1562961949,
+		"in_reply_to_user_id_str": "1562961949",
+		"in_reply_to_screen_name": "rMdes_",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | FF @okcinfor",
+			"url": "https://t.co/gJaUqhElyi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gJaUqhElyi",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 159,
+			"friends_count": 354,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1025,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@rMdes_ @SectarismeInfo @centre_accec @bouddhanar108 Nous (une parties des enfants aujourd'hui adultes ayant subi) sommes en effet, un des rares cas à aller en justice jusqu'au bout, même si tard, même si en dernier recours.\nLes prédateurs et leurs Sangha's préfèrent \"régler ça\" en interne et donc étouffer l'affaire"
+	},
+	{
+		"created_at": "Sun Sep 20 11:20:48 +0000 2020",
+		"id": 1307640853222101000,
+		"id_str": "1307640853222100992",
+		"full_text": "@Curiolog @InfoManip Dans la secte OKC, les cancers étaient dû à une mauvaise pratique du bouddhisme ou des pensées douteuses à propos du maître ou encore, des critiques des parents qui auraient osé remettre en cause la séparation des parents et enfants.\n\nEt enfin, il fallait éviter la chimio.",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			294
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Curiolog",
+					"name": "Florian Gouthière",
+					"id": 284043743,
+					"id_str": "284043743",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "InfoManip",
+					"name": "SOS #Sectarisme \\o/",
+					"id": 497813910,
+					"id_str": "497813910",
+					"indices": [
+						10,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1307333554859372500,
+		"in_reply_to_status_id_str": "1307333554859372544",
+		"in_reply_to_user_id": 284043743,
+		"in_reply_to_user_id_str": "284043743",
+		"in_reply_to_screen_name": "Curiolog",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | FF @okcinfor",
+			"url": "https://t.co/gJaUqhElyi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gJaUqhElyi",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 159,
+			"friends_count": 354,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1025,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@Curiolog @InfoManip Dans la secte OKC, les cancers étaient dû à une mauvaise pratique du bouddhisme ou des pensées douteuses à propos du maître ou encore, des critiques des parents qui auraient osé remettre en cause la séparation des parents et enfants.\n\nEt enfin, il fallait éviter la chimio."
+	},
+	{
+		"created_at": "Sun Sep 20 11:17:22 +0000 2020",
+		"id": 1307639986540499000,
+		"id_str": "1307639986540498944",
+		"full_text": "Clap de fin pour le procès OKC #secteOKC #OgyenKunzangCholing #LamaKunzang #France #Belgique: https://t.co/gSO6NTU3cs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "secteOKC",
+					"indices": [
+						31,
+						40
+					]
+				},
+				{
+					"text": "OgyenKunzangCholing",
+					"indices": [
+						41,
+						61
+					]
+				},
+				{
+					"text": "LamaKunzang",
+					"indices": [
+						62,
+						74
+					]
+				},
+				{
+					"text": "France",
+					"indices": [
+						75,
+						82
+					]
+				},
+				{
+					"text": "Belgique",
+					"indices": [
+						83,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gSO6NTU3cs",
+					"expanded_url": "https://benborges.xyz/2020/clap-de-fin-pour-le-proc%C3%A8s-okc-secteokc-ogyenkunzangcholing-lamakunzang",
+					"display_url": "benborges.xyz/2020/clap-de-f…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | FF @okcinfor",
+			"url": "https://t.co/gJaUqhElyi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gJaUqhElyi",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 159,
+			"friends_count": 354,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1025,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Clap de fin pour le procès OKC #secteOKC #OgyenKunzangCholing #LamaKunzang #France #Belgique: https://t.co/gSO6NTU3cs"
+	},
+	{
+		"created_at": "Sun Sep 20 11:16:53 +0000 2020",
+		"id": 1307634585250025500,
+		"id_str": "1307639864968597504",
+		"full_text": "Clap de fin pour le procès OKC #secteOKC #OgyenKunzangCholing #LamaKunzang #France #Belgique: https://t.co/No3FidE0cb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "secteOKC",
+					"indices": [
+						31,
+						40
+					]
+				},
+				{
+					"text": "OgyenKunzangCholing",
+					"indices": [
+						41,
+						61
+					]
+				},
+				{
+					"text": "LamaKunzang",
+					"indices": [
+						62,
+						74
+					]
+				},
+				{
+					"text": "France",
+					"indices": [
+						75,
+						82
+					]
+				},
+				{
+					"text": "Belgique",
+					"indices": [
+						83,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/No3FidE0cb",
+					"expanded_url": "https://benborges.xyz/2020/clap-de-fin-pour-le-proc%C3%A8s-okc-secteokc-ogyenkunzangcholing-lamakunzang",
+					"display_url": "benborges.xyz/2020/clap-de-f…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://benborges.xyz/\" rel=\"nofollow\">BenBorges.xyz</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6590,
+			"id_str": "6590",
+			"name": "CyberBenB",
+			"screen_name": "cyberbenb",
+			"location": "🖤💛",
+			"description": "He/They - OKC/Spatz cult Survivor | info activist, agitator, disruption of social injustice | focus : Protests, Far-Right, geopol, Disinfo, Human Rights",
+			"url": "https://t.co/J3Ujnvrv6m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J3Ujnvrv6m",
+							"expanded_url": "https://benborges.xyz",
+							"display_url": "benborges.xyz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3429,
+			"friends_count": 4561,
+			"listed_count": 326,
+			"created_at": "Thu Sep 21 18:27:47 +0000 2006",
+			"favourites_count": 6335,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 156153,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267055358822023168/pjIpcmd8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267055358822023168/pjIpcmd8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6590/1600598493",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Clap de fin pour le procès OKC #secteOKC #OgyenKunzangCholing #LamaKunzang #France #Belgique: https://t.co/No3FidE0cb"
+	},
+	{
+		"created_at": "Sun Sep 20 11:16:44 +0000 2020",
+		"id": 1307375860140433400,
+		"id_str": "1307639828687785984",
+		"full_text": "In the meantime if you're reading this and wondering WTH I'm talking about : https://t.co/30zuDBaulg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/30zuDBaulg",
+					"expanded_url": "https://okcinfo.news/en/",
+					"display_url": "okcinfo.news/en/",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1307375856638197800,
+		"in_reply_to_status_id_str": "1307375856638197760",
+		"in_reply_to_user_id": 6590,
+		"in_reply_to_user_id_str": "6590",
+		"in_reply_to_screen_name": "cyberbenb",
+		"user": {
+			"id": 6590,
+			"id_str": "6590",
+			"name": "CyberBenB",
+			"screen_name": "cyberbenb",
+			"location": "🖤💛",
+			"description": "He/They - OKC/Spatz cult Survivor | info activist, agitator, disruption of social injustice | focus : Protests, Far-Right, geopol, Disinfo, Human Rights",
+			"url": "https://t.co/J3Ujnvrv6m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J3Ujnvrv6m",
+							"expanded_url": "https://benborges.xyz",
+							"display_url": "benborges.xyz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3429,
+			"friends_count": 4561,
+			"listed_count": 326,
+			"created_at": "Thu Sep 21 18:27:47 +0000 2006",
+			"favourites_count": 6335,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 156153,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267055358822023168/pjIpcmd8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267055358822023168/pjIpcmd8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6590/1600598493",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In the meantime if you're reading this and wondering WTH I'm talking about : https://t.co/30zuDBaulg"
+	},
+	{
+		"created_at": "Sun Sep 20 11:16:42 +0000 2020",
+		"id": 1307375856638197800,
+		"id_str": "1307639818671751168",
+		"full_text": "- December 2 : Judgement Day for the Ogyen Kunzang Choling toxic cult and its leader/guru pedocriminal Robert Spatz alias Lama Kunzang\n- There is a risk the organization goes to appeal again\n- even IF they go, this should be over by mid 2021",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1307375854079615000,
+		"in_reply_to_status_id_str": "1307375854079614976",
+		"in_reply_to_user_id": 6590,
+		"in_reply_to_user_id_str": "6590",
+		"in_reply_to_screen_name": "cyberbenb",
+		"user": {
+			"id": 6590,
+			"id_str": "6590",
+			"name": "CyberBenB",
+			"screen_name": "cyberbenb",
+			"location": "🖤💛",
+			"description": "He/They - OKC/Spatz cult Survivor | info activist, agitator, disruption of social injustice | focus : Protests, Far-Right, geopol, Disinfo, Human Rights",
+			"url": "https://t.co/J3Ujnvrv6m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J3Ujnvrv6m",
+							"expanded_url": "https://benborges.xyz",
+							"display_url": "benborges.xyz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3429,
+			"friends_count": 4561,
+			"listed_count": 326,
+			"created_at": "Thu Sep 21 18:27:47 +0000 2006",
+			"favourites_count": 6335,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 156153,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267055358822023168/pjIpcmd8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267055358822023168/pjIpcmd8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6590/1600598493",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "- December 2 : Judgement Day for the Ogyen Kunzang Choling toxic cult and its leader/guru pedocriminal Robert Spatz alias Lama Kunzang\n- There is a risk the organization goes to appeal again\n- even IF they go, this should be over by mid 2021"
+	},
+	{
+		"created_at": "Sun Sep 20 11:16:40 +0000 2020",
+		"id": 1307375854079615000,
+		"id_str": "1307639809708523520",
+		"full_text": "FYI, just an update on my case: \n- After 8 months of trial in the midst of Covid\n- After 5 years of proceedings, 2016 1st trial, appeal (we lost) 2017, counter appeal 2018 (that we won) and the New Trial that started before the pandemic\n- Pleadings are now finished\n- What's next?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6590,
+			"id_str": "6590",
+			"name": "CyberBenB",
+			"screen_name": "cyberbenb",
+			"location": "🖤💛",
+			"description": "He/They - OKC/Spatz cult Survivor | info activist, agitator, disruption of social injustice | focus : Protests, Far-Right, geopol, Disinfo, Human Rights",
+			"url": "https://t.co/J3Ujnvrv6m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J3Ujnvrv6m",
+							"expanded_url": "https://benborges.xyz",
+							"display_url": "benborges.xyz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3429,
+			"friends_count": 4561,
+			"listed_count": 326,
+			"created_at": "Thu Sep 21 18:27:47 +0000 2006",
+			"favourites_count": 6335,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 156153,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267055358822023168/pjIpcmd8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267055358822023168/pjIpcmd8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6590/1600598493",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "FYI, just an update on my case: \n- After 8 months of trial in the midst of Covid\n- After 5 years of proceedings, 2016 1st trial, appeal (we lost) 2017, counter appeal 2018 (that we won) and the New Trial that started before the pandemic\n- Pleadings are now finished\n- What's next?"
+	},
+	{
 		"created_at": "Sun Sep 20 07:47:55 +0000 2020",
 		"id": 1307587277149929500,
 		"id_str": "1307587277149929472",
