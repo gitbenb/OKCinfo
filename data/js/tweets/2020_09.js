@@ -1,6 +1,1554 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 22 06:39:29 +0000 2020",
+		"id": 1308127316959203300,
+		"id_str": "1308294833807609856",
+		"full_text": "Pendant que Spatz, le fondateur de la secte bouddhiste OKC, coule des jours tranquilles en Espagne, ses victimes luttes toujours pour faire reconnaître leurs droits ! https://t.co/bksKad7DKn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bksKad7DKn",
+					"expanded_url": "https://twitter.com/rMdes_/status/1306220783610597378",
+					"display_url": "twitter.com/rMdes_/status/…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1036732444823695400,
+			"id_str": "1036732444823695360",
+			"name": "Koko Meyronneinc",
+			"screen_name": "KMeyronneinc",
+			"location": "Haute-Normandie, France",
+			"description": "Tourner 7 X son tweet au bout de son doigt et vérifier et revérifier avant de retweeter. Liberté d'esprit contre les totalitarismes.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 156,
+			"friends_count": 201,
+			"listed_count": 0,
+			"created_at": "Mon Sep 03 21:47:31 +0000 2018",
+			"favourites_count": 8075,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4310,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1036734743574978560/llO2x7HO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1036734743574978560/llO2x7HO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1036732444823695360/1536011801",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1306220783610597400,
+		"quoted_status_id_str": "1306220783610597378",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bksKad7DKn",
+			"expanded": "https://twitter.com/rMdes_/status/1306220783610597378",
+			"display": "twitter.com/rMdes_/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 16 13:17:57 +0000 2020",
+			"id": 1306220783610597400,
+			"id_str": "1306220783610597378",
+			"full_text": "Être dans un tribunal en 2020 où l'avocat d'un pédocriminel n'a d'autres arguments de défense que de lire à la cour les monologues machiavéliques d'un pédocriminel déguisé en Lama en faisant une apologie de sévices physiques psychiques et sexuels sur des enfants mineurs. https://t.co/lxRcVgPPk1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				271
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1306220771514216400,
+						"id_str": "1306220771514216450",
+						"indices": [
+							272,
+							295
+						],
+						"media_url": "http://pbs.twimg.com/media/EiCg3vxXcAI6Wc_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EiCg3vxXcAI6Wc_.jpg",
+						"url": "https://t.co/lxRcVgPPk1",
+						"display_url": "pic.twitter.com/lxRcVgPPk1",
+						"expanded_url": "https://twitter.com/rMdes_/status/1306220783610597378/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1306220771514216400,
+						"id_str": "1306220771514216450",
+						"indices": [
+							272,
+							295
+						],
+						"media_url": "http://pbs.twimg.com/media/EiCg3vxXcAI6Wc_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EiCg3vxXcAI6Wc_.jpg",
+						"url": "https://t.co/lxRcVgPPk1",
+						"display_url": "pic.twitter.com/lxRcVgPPk1",
+						"expanded_url": "https://twitter.com/rMdes_/status/1306220783610597378/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1562961949,
+				"id_str": "1562961949",
+				"name": "Ricardo Mendes",
+				"screen_name": "rMdes_",
+				"location": "Brussels",
+				"description": "Looking for IT mission/job | Info Aggregation, Monitoring Disinformation, Veille Stratégique | Interest in Politics, Technology, Democracy @PolBegov @EUwatchers",
+				"url": "https://t.co/gMpchdg7cj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gMpchdg7cj",
+								"expanded_url": "https://blog.rmendes.net/",
+								"display_url": "blog.rmendes.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2319,
+				"friends_count": 4953,
+				"listed_count": 324,
+				"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+				"favourites_count": 13212,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 38190,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1305568720773840902/pP0vymv7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305568720773840902/pP0vymv7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1591600988",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Pendant que Spatz, le fondateur de la secte bouddhiste OKC, coule des jours tranquilles en Espagne, ses victimes luttes toujours pour faire reconnaître leurs droits ! https://t.co/bksKad7DKn"
+	},
+	{
+		"created_at": "Mon Sep 21 16:16:38 +0000 2020",
+		"id": 1308077687915905000,
+		"id_str": "1308077687915905025",
+		"full_text": "@seb84291085 @avocatblanchard @MatthieuRicard C'est l'origine de ma démarche pour le contacter, d'abord en privé puis en public, après qu'il est bloqué notre deuxième compte Twitter.\n\nLe Bouddhisme Tibétain occidentale fait face à plusieurs autres affaires d'abus similaires (Shambhala, RIGPA,) et Ogyen Kunzang Choling",
+		"truncated": false,
+		"display_text_range": [
+			46,
+			319
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seb84291085",
+					"name": "● Seb ●",
+					"id": 560408634,
+					"id_str": "560408634",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "avocatblanchard",
+					"name": "Valérie Blanchard Avocat à Paris",
+					"id": 1071543555401900000,
+					"id_str": "1071543555401900033",
+					"indices": [
+						13,
+						29
+					]
+				},
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						30,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1308075843424530400,
+		"in_reply_to_status_id_str": "1308075843424530432",
+		"in_reply_to_user_id": 560408634,
+		"in_reply_to_user_id_str": "560408634",
+		"in_reply_to_screen_name": "seb84291085",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | FF @okcinfor",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 160,
+			"friends_count": 354,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@seb84291085 @avocatblanchard @MatthieuRicard C'est l'origine de ma démarche pour le contacter, d'abord en privé puis en public, après qu'il est bloqué notre deuxième compte Twitter.\n\nLe Bouddhisme Tibétain occidentale fait face à plusieurs autres affaires d'abus similaires (Shambhala, RIGPA,) et Ogyen Kunzang Choling"
+	},
+	{
+		"created_at": "Mon Sep 21 16:13:43 +0000 2020",
+		"id": 1308075843424530400,
+		"id_str": "1308076956567719945",
+		"full_text": "@OKCinformation @avocatblanchard @MatthieuRicard En effet c est subtil. Si c est avéré. Il devrait réagir pour que son aura ne soit pas ainsi utilisée à des fins de promotion sectaires.\nCela ne fait pas une bonne presse pour le bouddhisme.",
+		"truncated": false,
+		"display_text_range": [
+			49,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinformation",
+					"name": "OKCinfo Research",
+					"id": 3309353195,
+					"id_str": "3309353195",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "avocatblanchard",
+					"name": "Valérie Blanchard Avocat à Paris",
+					"id": 1071543555401900000,
+					"id_str": "1071543555401900033",
+					"indices": [
+						16,
+						32
+					]
+				},
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						33,
+						48
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1308074834400817200,
+		"in_reply_to_status_id_str": "1308074834400817153",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 560408634,
+			"id_str": "560408634",
+			"name": "● Seb ●",
+			"screen_name": "seb84291085",
+			"location": "France🇫🇷 ,dans une amphore🏺",
+			"description": "● Ôte-toi de mon soleil ●\nAdmirateur de Diogène pour son franc parler et sa vision du réel, pas pour le reste ●\nFan de Darwin et citoyen●\nSoyons aptes à changer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22,
+			"friends_count": 164,
+			"listed_count": 0,
+			"created_at": "Sun Apr 22 14:22:23 +0000 2012",
+			"favourites_count": 2059,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2008,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3689703873/86b48e6829f7e4789ed7b56b01eb9d85_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3689703873/86b48e6829f7e4789ed7b56b01eb9d85_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/560408634/1369138095",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "@OKCinformation @avocatblanchard @MatthieuRicard En effet c est subtil. Si c est avéré. Il devrait réagir pour que son aura ne soit pas ainsi utilisée à des fins de promotion sectaires.\nCela ne fait pas une bonne presse pour le bouddhisme."
+	},
+	{
+		"created_at": "Mon Sep 21 16:13:15 +0000 2020",
+		"id": 1308076836597923800,
+		"id_str": "1308076836597923840",
+		"full_text": "@seb84291085 @avocatblanchard @MatthieuRicard @DalaiLama Hors c'est ce cirque de grands noms, de lamas et de toges rouges qui sont utilisé, dans un tribunal, pour transformer des abus sexuels en \"rituel d'initiation\" et de l'homophobie et l'exclusion de plusieurs LGBT comme \"une directive spirituelle\" sous couvert de liberté religieuse",
+		"truncated": false,
+		"display_text_range": [
+			57,
+			337
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seb84291085",
+					"name": "● Seb ●",
+					"id": 560408634,
+					"id_str": "560408634",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "avocatblanchard",
+					"name": "Valérie Blanchard Avocat à Paris",
+					"id": 1071543555401900000,
+					"id_str": "1071543555401900033",
+					"indices": [
+						13,
+						29
+					]
+				},
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						30,
+						45
+					]
+				},
+				{
+					"screen_name": "DalaiLama",
+					"name": "Dalai Lama",
+					"id": 20609518,
+					"id_str": "20609518",
+					"indices": [
+						46,
+						56
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1308076220186230800,
+		"in_reply_to_status_id_str": "1308076220186230784",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | FF @okcinfor",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 160,
+			"friends_count": 354,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@seb84291085 @avocatblanchard @MatthieuRicard @DalaiLama Hors c'est ce cirque de grands noms, de lamas et de toges rouges qui sont utilisé, dans un tribunal, pour transformer des abus sexuels en \"rituel d'initiation\" et de l'homophobie et l'exclusion de plusieurs LGBT comme \"une directive spirituelle\" sous couvert de liberté religieuse"
+	},
+	{
+		"created_at": "Mon Sep 21 16:10:48 +0000 2020",
+		"id": 1308076220186230800,
+		"id_str": "1308076220186230784",
+		"full_text": "@seb84291085 @avocatblanchard @MatthieuRicard Quand à la Justice justement, elle tranchera sur les faits.. Pas sur le fait que Spatz connaissait Matthieu Ricard ou pas, pas sur le fait qu'ils aient eu le même \"maître\", ni sur le fait que le @DalaiLama a visité la OKC en 1992 à Bruxelles.\n\nTout cela c'est du cirque.",
+		"truncated": false,
+		"display_text_range": [
+			46,
+			316
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seb84291085",
+					"name": "● Seb ●",
+					"id": 560408634,
+					"id_str": "560408634",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "avocatblanchard",
+					"name": "Valérie Blanchard Avocat à Paris",
+					"id": 1071543555401900000,
+					"id_str": "1071543555401900033",
+					"indices": [
+						13,
+						29
+					]
+				},
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						30,
+						45
+					]
+				},
+				{
+					"screen_name": "DalaiLama",
+					"name": "Dalai Lama",
+					"id": 20609518,
+					"id_str": "20609518",
+					"indices": [
+						241,
+						251
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1308072348461957000,
+		"in_reply_to_status_id_str": "1308072348461957121",
+		"in_reply_to_user_id": 560408634,
+		"in_reply_to_user_id_str": "560408634",
+		"in_reply_to_screen_name": "seb84291085",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | FF @okcinfor",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 160,
+			"friends_count": 354,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@seb84291085 @avocatblanchard @MatthieuRicard Quand à la Justice justement, elle tranchera sur les faits.. Pas sur le fait que Spatz connaissait Matthieu Ricard ou pas, pas sur le fait qu'ils aient eu le même \"maître\", ni sur le fait que le @DalaiLama a visité la OKC en 1992 à Bruxelles.\n\nTout cela c'est du cirque."
+	},
+	{
+		"created_at": "Mon Sep 21 16:08:45 +0000 2020",
+		"id": 1308075705461284900,
+		"id_str": "1308075705461284864",
+		"full_text": "@seb84291085 @avocatblanchard @MatthieuRicard Justement pour laisser la justice trancher, il convient de ne pas aller bénir Stupa à château de soleil aliás Nyima Dzong en août 2019 à 20m de la tour où les abus sexuels de Spatz se déroulaient.\n\nToujours pas complice, mais est ce vraiment moralement acceptable? Pas pour nous",
+		"truncated": false,
+		"display_text_range": [
+			46,
+			324
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seb84291085",
+					"name": "● Seb ●",
+					"id": 560408634,
+					"id_str": "560408634",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "avocatblanchard",
+					"name": "Valérie Blanchard Avocat à Paris",
+					"id": 1071543555401900000,
+					"id_str": "1071543555401900033",
+					"indices": [
+						13,
+						29
+					]
+				},
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						30,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1308072667514364000,
+		"in_reply_to_status_id_str": "1308072667514363906",
+		"in_reply_to_user_id": 560408634,
+		"in_reply_to_user_id_str": "560408634",
+		"in_reply_to_screen_name": "seb84291085",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | FF @okcinfor",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 160,
+			"friends_count": 354,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@seb84291085 @avocatblanchard @MatthieuRicard Justement pour laisser la justice trancher, il convient de ne pas aller bénir Stupa à château de soleil aliás Nyima Dzong en août 2019 à 20m de la tour où les abus sexuels de Spatz se déroulaient.\n\nToujours pas complice, mais est ce vraiment moralement acceptable? Pas pour nous"
+	},
+	{
+		"created_at": "Mon Sep 21 16:06:57 +0000 2020",
+		"id": 1308075251998371800,
+		"id_str": "1308075251998371840",
+		"full_text": "@seb84291085 @avocatblanchard @MatthieuRicard Connaître les coupables n'en fait pas un complice bien entendu, par contre son silence sur l'utilisation de son nom par OKC sous entend que ça ne le dérange pas plus que ça.\n\nQuel va être sa réaction lors du jugement du 2 décembre 2020.\n\nSeront-ils toujours \"contemporain\"?",
+		"truncated": false,
+		"display_text_range": [
+			46,
+			319
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seb84291085",
+					"name": "● Seb ●",
+					"id": 560408634,
+					"id_str": "560408634",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "avocatblanchard",
+					"name": "Valérie Blanchard Avocat à Paris",
+					"id": 1071543555401900000,
+					"id_str": "1071543555401900033",
+					"indices": [
+						13,
+						29
+					]
+				},
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						30,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1308072348461957000,
+		"in_reply_to_status_id_str": "1308072348461957121",
+		"in_reply_to_user_id": 560408634,
+		"in_reply_to_user_id_str": "560408634",
+		"in_reply_to_screen_name": "seb84291085",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | FF @okcinfor",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 160,
+			"friends_count": 354,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@seb84291085 @avocatblanchard @MatthieuRicard Connaître les coupables n'en fait pas un complice bien entendu, par contre son silence sur l'utilisation de son nom par OKC sous entend que ça ne le dérange pas plus que ça.\n\nQuel va être sa réaction lors du jugement du 2 décembre 2020.\n\nSeront-ils toujours \"contemporain\"?"
+	},
+	{
+		"created_at": "Mon Sep 21 16:05:18 +0000 2020",
+		"id": 1308074834400817200,
+		"id_str": "1308074834400817153",
+		"full_text": "@seb84291085 @avocatblanchard @MatthieuRicard Non c'est plus insidieux, la secte OKC fait passer Robert Spatz aliás Lama Kunzang comme un contemporain et élève du même maître tibétain que Ricard (Kangyour Rimpoche) et utilise la légitimité de Ricard pour qu'elle découle sur Spatz.\nMême chose avec d'autres \"maîtres\" utilisé.",
+		"truncated": false,
+		"display_text_range": [
+			46,
+			325
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seb84291085",
+					"name": "● Seb ●",
+					"id": 560408634,
+					"id_str": "560408634",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "avocatblanchard",
+					"name": "Valérie Blanchard Avocat à Paris",
+					"id": 1071543555401900000,
+					"id_str": "1071543555401900033",
+					"indices": [
+						13,
+						29
+					]
+				},
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						30,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1308072348461957000,
+		"in_reply_to_status_id_str": "1308072348461957121",
+		"in_reply_to_user_id": 560408634,
+		"in_reply_to_user_id_str": "560408634",
+		"in_reply_to_screen_name": "seb84291085",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | FF @okcinfor",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 160,
+			"friends_count": 354,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@seb84291085 @avocatblanchard @MatthieuRicard Non c'est plus insidieux, la secte OKC fait passer Robert Spatz aliás Lama Kunzang comme un contemporain et élève du même maître tibétain que Ricard (Kangyour Rimpoche) et utilise la légitimité de Ricard pour qu'elle découle sur Spatz.\nMême chose avec d'autres \"maîtres\" utilisé."
+	},
+	{
+		"created_at": "Mon Sep 21 15:53:04 +0000 2020",
+		"id": 1308071757136433200,
+		"id_str": "1308071757136433163",
+		"full_text": "@seb84291085 @avocatblanchard @MatthieuRicard Oh ils a répondu à une lettre où il établis qu'il n'a rien à voir avec ça, qu'il est éloigné de tous ces tracas mondains.\nEntre temps son nom est prononcé dans un tribunal depuis 5 ans pour légitimer un pédocriminel.\n\nBienveillance ? Pour les adeptes restants oui. #compassion",
+		"truncated": false,
+		"display_text_range": [
+			46,
+			322
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "compassion",
+					"indices": [
+						311,
+						322
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seb84291085",
+					"name": "● Seb ●",
+					"id": 560408634,
+					"id_str": "560408634",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "avocatblanchard",
+					"name": "Valérie Blanchard Avocat à Paris",
+					"id": 1071543555401900000,
+					"id_str": "1071543555401900033",
+					"indices": [
+						13,
+						29
+					]
+				},
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						30,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1308070934247616500,
+		"in_reply_to_status_id_str": "1308070934247616512",
+		"in_reply_to_user_id": 560408634,
+		"in_reply_to_user_id_str": "560408634",
+		"in_reply_to_screen_name": "seb84291085",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | FF @okcinfor",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 160,
+			"friends_count": 354,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@seb84291085 @avocatblanchard @MatthieuRicard Oh ils a répondu à une lettre où il établis qu'il n'a rien à voir avec ça, qu'il est éloigné de tous ces tracas mondains.\nEntre temps son nom est prononcé dans un tribunal depuis 5 ans pour légitimer un pédocriminel.\n\nBienveillance ? Pour les adeptes restants oui. #compassion"
+	},
+	{
+		"created_at": "Mon Sep 21 15:51:16 +0000 2020",
+		"id": 1308071304772415500,
+		"id_str": "1308071304772415489",
+		"full_text": "@seb84291085 @avocatblanchard @MatthieuRicard Tellement \"bouddhiste\" que c'est plus du bouddhisme.\nC'est un gang de mec qui se protège les uns les autres.\nMême en interne il n'a rien fait, alors publiquement ?\nConflits d'intérêts = recevoir des dons et des offrandes = paralysie du monde tibétain.\n\nL'histoire s'en rappellera",
+		"truncated": false,
+		"display_text_range": [
+			46,
+			325
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seb84291085",
+					"name": "● Seb ●",
+					"id": 560408634,
+					"id_str": "560408634",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "avocatblanchard",
+					"name": "Valérie Blanchard Avocat à Paris",
+					"id": 1071543555401900000,
+					"id_str": "1071543555401900033",
+					"indices": [
+						13,
+						29
+					]
+				},
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						30,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1308070041221501000,
+		"in_reply_to_status_id_str": "1308070041221500929",
+		"in_reply_to_user_id": 560408634,
+		"in_reply_to_user_id_str": "560408634",
+		"in_reply_to_screen_name": "seb84291085",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | FF @okcinfor",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 160,
+			"friends_count": 354,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@seb84291085 @avocatblanchard @MatthieuRicard Tellement \"bouddhiste\" que c'est plus du bouddhisme.\nC'est un gang de mec qui se protège les uns les autres.\nMême en interne il n'a rien fait, alors publiquement ?\nConflits d'intérêts = recevoir des dons et des offrandes = paralysie du monde tibétain.\n\nL'histoire s'en rappellera"
+	},
+	{
+		"created_at": "Mon Sep 21 15:44:17 +0000 2020",
+		"id": 1308069546566258700,
+		"id_str": "1308069546566258689",
+		"full_text": "@seb84291085 @avocatblanchard @MatthieuRicard Nos tentatives pour le contacter se sont soldé par des échecs, son dernier email est une insulte aux parties civiles que nous sommes, résumant toute interpellation à de la polémique, tout en niant la réalité du procès OKC.\n\nQui ne dit mot consent.",
+		"truncated": false,
+		"display_text_range": [
+			46,
+			293
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seb84291085",
+					"name": "● Seb ●",
+					"id": 560408634,
+					"id_str": "560408634",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "avocatblanchard",
+					"name": "Valérie Blanchard Avocat à Paris",
+					"id": 1071543555401900000,
+					"id_str": "1071543555401900033",
+					"indices": [
+						13,
+						29
+					]
+				},
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						30,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1308064608301789200,
+		"in_reply_to_status_id_str": "1308064608301789186",
+		"in_reply_to_user_id": 560408634,
+		"in_reply_to_user_id_str": "560408634",
+		"in_reply_to_screen_name": "seb84291085",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | FF @okcinfor",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 160,
+			"friends_count": 354,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@seb84291085 @avocatblanchard @MatthieuRicard Nos tentatives pour le contacter se sont soldé par des échecs, son dernier email est une insulte aux parties civiles que nous sommes, résumant toute interpellation à de la polémique, tout en niant la réalité du procès OKC.\n\nQui ne dit mot consent."
+	},
+	{
 		"created_at": "Mon Sep 21 08:13:03 +0000 2020",
 		"id": 1307955991913336800,
 		"id_str": "1307955991913336832",
