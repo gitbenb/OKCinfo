@@ -1,6 +1,1190 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 23 14:34:02 +0000 2020",
+		"id": 1308774821568942000,
+		"id_str": "1308776645721980928",
+		"full_text": "Problème de visa, problème d'agenda, en quelques semaines c'était bouclé, ce meeting internationale était postposé indéfiniment. Il n'a plus jamais été évoqué publiquement et c'est justement l'occasion de rendre cet enregistrement public.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1308774819698217000,
+		"in_reply_to_status_id_str": "1308774819698216965",
+		"in_reply_to_user_id": 1562961949,
+		"in_reply_to_user_id_str": "1562961949",
+		"in_reply_to_screen_name": "rMdes_",
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "Brussels",
+			"description": "Looking for a job | Info Aggregation, Monitoring Disinformation, Veille Stratégique | Interest in Politics, Technology, Democracy @PolBegov @EUwatchers FR/EN/PT",
+			"url": "https://t.co/gMpchdg7cj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gMpchdg7cj",
+							"expanded_url": "https://blog.rmendes.net/",
+							"display_url": "blog.rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2321,
+			"friends_count": 4966,
+			"listed_count": 324,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 13232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1309950691247566849/ism8yLjj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1309950691247566849/ism8yLjj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1601151587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Problème de visa, problème d'agenda, en quelques semaines c'était bouclé, ce meeting internationale était postposé indéfiniment. Il n'a plus jamais été évoqué publiquement et c'est justement l'occasion de rendre cet enregistrement public."
+	},
+	{
+		"created_at": "Wed Sep 23 14:33:59 +0000 2020",
+		"id": 1308774819698217000,
+		"id_str": "1308776632707174400",
+		"full_text": "https://t.co/eFm3dD2ReG\n\nLa politique tibétaine a très vite repris le dessus et ces vieux schémas aussi : des hommes qui ne marche pas sur les platebandes d'autres hommes et ainsi chacun garde son périmètre et tout ce petit monde se protège.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eFm3dD2ReG",
+					"expanded_url": "https://www.tibetanreview.net/top-tibetan-buddhist-leaders-to-hear-sex-abuse-allegations-against-lamas-in-the-west/",
+					"display_url": "tibetanreview.net/top-tibetan-bu…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1308774818184077300,
+		"in_reply_to_status_id_str": "1308774818184077312",
+		"in_reply_to_user_id": 1562961949,
+		"in_reply_to_user_id_str": "1562961949",
+		"in_reply_to_screen_name": "rMdes_",
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "Brussels",
+			"description": "Looking for a job | Info Aggregation, Monitoring Disinformation, Veille Stratégique | Interest in Politics, Technology, Democracy @PolBegov @EUwatchers FR/EN/PT",
+			"url": "https://t.co/gMpchdg7cj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gMpchdg7cj",
+							"expanded_url": "https://blog.rmendes.net/",
+							"display_url": "blog.rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2321,
+			"friends_count": 4966,
+			"listed_count": 324,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 13232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1309950691247566849/ism8yLjj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1309950691247566849/ism8yLjj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1601151587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "https://t.co/eFm3dD2ReG\n\nLa politique tibétaine a très vite repris le dessus et ces vieux schémas aussi : des hommes qui ne marche pas sur les platebandes d'autres hommes et ainsi chacun garde son périmètre et tout ce petit monde se protège."
+	},
+	{
+		"created_at": "Wed Sep 23 14:33:55 +0000 2020",
+		"id": 1308774818184077300,
+		"id_str": "1308776613711097856",
+		"full_text": "le DL face à 4 des 12 victimes et face à la presse et au milliers de personnes avec lesquelles il avait rendez-vous le lendemain, je me suis dit qu'il fallait patienter et voir ce qui allait se faire concrètement. \n\nle meeting internaltionale n'a jamais eu lieu.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1308774816435114000,
+		"in_reply_to_status_id_str": "1308774816435113985",
+		"in_reply_to_user_id": 1562961949,
+		"in_reply_to_user_id_str": "1562961949",
+		"in_reply_to_screen_name": "rMdes_",
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "Brussels",
+			"description": "Looking for a job | Info Aggregation, Monitoring Disinformation, Veille Stratégique | Interest in Politics, Technology, Democracy @PolBegov @EUwatchers FR/EN/PT",
+			"url": "https://t.co/gMpchdg7cj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gMpchdg7cj",
+							"expanded_url": "https://blog.rmendes.net/",
+							"display_url": "blog.rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2321,
+			"friends_count": 4966,
+			"listed_count": 324,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 13232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1309950691247566849/ism8yLjj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1309950691247566849/ism8yLjj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1601151587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "le DL face à 4 des 12 victimes et face à la presse et au milliers de personnes avec lesquelles il avait rendez-vous le lendemain, je me suis dit qu'il fallait patienter et voir ce qui allait se faire concrètement. \n\nle meeting internaltionale n'a jamais eu lieu."
+	},
+	{
+		"created_at": "Wed Sep 23 14:33:46 +0000 2020",
+		"id": 1308774816435114000,
+		"id_str": "1308776576578924547",
+		"full_text": "Sur le moment, j'ai fait le choix de présenter un visage qui n'était pas déçu par la rencontre, alors qu'en mon fort intérieur, j'avais envie de crier le contraire, mais sur le moment j'ai pensé que c'était plus utile de présenter un visage optimiste sur les engagements pris par",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1308774814820298800,
+		"in_reply_to_status_id_str": "1308774814820298752",
+		"in_reply_to_user_id": 1562961949,
+		"in_reply_to_user_id_str": "1562961949",
+		"in_reply_to_screen_name": "rMdes_",
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "Brussels",
+			"description": "Looking for a job | Info Aggregation, Monitoring Disinformation, Veille Stratégique | Interest in Politics, Technology, Democracy @PolBegov @EUwatchers FR/EN/PT",
+			"url": "https://t.co/gMpchdg7cj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gMpchdg7cj",
+							"expanded_url": "https://blog.rmendes.net/",
+							"display_url": "blog.rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2321,
+			"friends_count": 4966,
+			"listed_count": 324,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 13232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1309950691247566849/ism8yLjj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1309950691247566849/ism8yLjj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1601151587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Sur le moment, j'ai fait le choix de présenter un visage qui n'était pas déçu par la rencontre, alors qu'en mon fort intérieur, j'avais envie de crier le contraire, mais sur le moment j'ai pensé que c'était plus utile de présenter un visage optimiste sur les engagements pris par"
+	},
+	{
+		"created_at": "Wed Sep 23 14:33:43 +0000 2020",
+		"id": 1308774814820298800,
+		"id_str": "1308776565417938945",
+		"full_text": "Le lendemain de la rencontre, les journaux titraient : https://t.co/ChzTz5mqqd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ChzTz5mqqd",
+					"expanded_url": "https://www.dw.com/en/dalai-lama-admits-he-knew-about-buddhist-teachers-sexual-abuse/a-45507680",
+					"display_url": "dw.com/en/dalai-lama-…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1308774812995772400,
+		"in_reply_to_status_id_str": "1308774812995772416",
+		"in_reply_to_user_id": 1562961949,
+		"in_reply_to_user_id_str": "1562961949",
+		"in_reply_to_screen_name": "rMdes_",
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "Brussels",
+			"description": "Looking for a job | Info Aggregation, Monitoring Disinformation, Veille Stratégique | Interest in Politics, Technology, Democracy @PolBegov @EUwatchers FR/EN/PT",
+			"url": "https://t.co/gMpchdg7cj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gMpchdg7cj",
+							"expanded_url": "https://blog.rmendes.net/",
+							"display_url": "blog.rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2321,
+			"friends_count": 4966,
+			"listed_count": 324,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 13232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1309950691247566849/ism8yLjj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1309950691247566849/ism8yLjj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1601151587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Le lendemain de la rencontre, les journaux titraient : https://t.co/ChzTz5mqqd"
+	},
+	{
+		"created_at": "Wed Sep 23 14:33:41 +0000 2020",
+		"id": 1308774812995772400,
+		"id_str": "1308776555087306753",
+		"full_text": "3) lui remettre en main des témoignages sous la forme d'un livret spécialement produit pour l'occasion émanant de différents \"centres\" dit Bouddhistes avec des faits d'abus physiques, spirituels ou mentaux. \n\nhttps://t.co/cwj7DnJreD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cwj7DnJreD",
+					"expanded_url": "https://accesswdun.com/print/2018/9/713385",
+					"display_url": "accesswdun.com/print/2018/9/7…",
+					"indices": [
+						209,
+						232
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1308774811385114600,
+		"in_reply_to_status_id_str": "1308774811385114626",
+		"in_reply_to_user_id": 1562961949,
+		"in_reply_to_user_id_str": "1562961949",
+		"in_reply_to_screen_name": "rMdes_",
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "Brussels",
+			"description": "Looking for a job | Info Aggregation, Monitoring Disinformation, Veille Stratégique | Interest in Politics, Technology, Democracy @PolBegov @EUwatchers FR/EN/PT",
+			"url": "https://t.co/gMpchdg7cj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gMpchdg7cj",
+							"expanded_url": "https://blog.rmendes.net/",
+							"display_url": "blog.rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2321,
+			"friends_count": 4966,
+			"listed_count": 324,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 13232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1309950691247566849/ism8yLjj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1309950691247566849/ism8yLjj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1601151587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "3) lui remettre en main des témoignages sous la forme d'un livret spécialement produit pour l'occasion émanant de différents \"centres\" dit Bouddhistes avec des faits d'abus physiques, spirituels ou mentaux. \n\nhttps://t.co/cwj7DnJreD"
+	},
+	{
+		"created_at": "Wed Sep 23 14:33:39 +0000 2020",
+		"id": 1308774811385114600,
+		"id_str": "1308776546132467716",
+		"full_text": "de lui n'arrangeait pas la situation, même si, le DL était visiblement briefé, informé de qui venait à ce rendez-vous. \n\nLes demandes de ce rendez-vous, c'était de 1) lui demander de condamner publiquement ces abus 2) organiser une réunion internationale sur la question des abus",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1308774809757724700,
+		"in_reply_to_status_id_str": "1308774809757724673",
+		"in_reply_to_user_id": 1562961949,
+		"in_reply_to_user_id_str": "1562961949",
+		"in_reply_to_screen_name": "rMdes_",
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "Brussels",
+			"description": "Looking for a job | Info Aggregation, Monitoring Disinformation, Veille Stratégique | Interest in Politics, Technology, Democracy @PolBegov @EUwatchers FR/EN/PT",
+			"url": "https://t.co/gMpchdg7cj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gMpchdg7cj",
+							"expanded_url": "https://blog.rmendes.net/",
+							"display_url": "blog.rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2321,
+			"friends_count": 4966,
+			"listed_count": 324,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 13232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1309950691247566849/ism8yLjj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1309950691247566849/ism8yLjj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1601151587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "de lui n'arrangeait pas la situation, même si, le DL était visiblement briefé, informé de qui venait à ce rendez-vous. \n\nLes demandes de ce rendez-vous, c'était de 1) lui demander de condamner publiquement ces abus 2) organiser une réunion internationale sur la question des abus"
+	},
+	{
+		"created_at": "Wed Sep 23 14:33:37 +0000 2020",
+		"id": 1308774809757724700,
+		"id_str": "1308776537588670467",
+		"full_text": "super stressante, on dirait qu'il se pliait à cette rencontre de différente victime pour faire bonne figure, pour ne pas heurter son public occidental. Il n'y avait pas de temps pour expliquer un peu plus longuement des faits super compliqué et nombreux, une clique d'aide autour",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1308774808155492400,
+		"in_reply_to_status_id_str": "1308774808155492352",
+		"in_reply_to_user_id": 1562961949,
+		"in_reply_to_user_id_str": "1562961949",
+		"in_reply_to_screen_name": "rMdes_",
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "Brussels",
+			"description": "Looking for a job | Info Aggregation, Monitoring Disinformation, Veille Stratégique | Interest in Politics, Technology, Democracy @PolBegov @EUwatchers FR/EN/PT",
+			"url": "https://t.co/gMpchdg7cj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gMpchdg7cj",
+							"expanded_url": "https://blog.rmendes.net/",
+							"display_url": "blog.rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2321,
+			"friends_count": 4966,
+			"listed_count": 324,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 13232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1309950691247566849/ism8yLjj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1309950691247566849/ism8yLjj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1601151587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "super stressante, on dirait qu'il se pliait à cette rencontre de différente victime pour faire bonne figure, pour ne pas heurter son public occidental. Il n'y avait pas de temps pour expliquer un peu plus longuement des faits super compliqué et nombreux, une clique d'aide autour"
+	},
+	{
+		"created_at": "Wed Sep 23 14:33:34 +0000 2020",
+		"id": 1308774808155492400,
+		"id_str": "1308776527329480704",
+		"full_text": "le DL a effectivement visité OKC et vu Spatz en 1992, et c'est donc muni d'une photo de lui-même, avec Robert Spatz que je lui ai posé la question si il savait qui c'était, la réponse a été négative et il est passé à un autre sujet. En fait toute la rencontre était",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1308774806553325600,
+		"in_reply_to_status_id_str": "1308774806553325568",
+		"in_reply_to_user_id": 1562961949,
+		"in_reply_to_user_id_str": "1562961949",
+		"in_reply_to_screen_name": "rMdes_",
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "Brussels",
+			"description": "Looking for a job | Info Aggregation, Monitoring Disinformation, Veille Stratégique | Interest in Politics, Technology, Democracy @PolBegov @EUwatchers FR/EN/PT",
+			"url": "https://t.co/gMpchdg7cj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gMpchdg7cj",
+							"expanded_url": "https://blog.rmendes.net/",
+							"display_url": "blog.rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2321,
+			"friends_count": 4966,
+			"listed_count": 324,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 13232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1309950691247566849/ism8yLjj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1309950691247566849/ism8yLjj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1601151587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "le DL a effectivement visité OKC et vu Spatz en 1992, et c'est donc muni d'une photo de lui-même, avec Robert Spatz que je lui ai posé la question si il savait qui c'était, la réponse a été négative et il est passé à un autre sujet. En fait toute la rencontre était"
+	},
+	{
+		"created_at": "Wed Sep 23 14:33:32 +0000 2020",
+		"id": 1308774806553325600,
+		"id_str": "1308776517095350278",
+		"full_text": "Cette entrevue avec le @DalaiLama je l'ai enregistrée, sans son consentement, l'occasion était unique, n'allait plus jamais se reproduire et je me devais de sortir de cette entrevue avec une preuve qu'il ne connaissait pas la OKC et encore moins Robert Spatz.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DalaiLama",
+					"name": "Dalai Lama",
+					"id": 20609518,
+					"id_str": "20609518",
+					"indices": [
+						23,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1308774804737142800,
+		"in_reply_to_status_id_str": "1308774804737142785",
+		"in_reply_to_user_id": 1562961949,
+		"in_reply_to_user_id_str": "1562961949",
+		"in_reply_to_screen_name": "rMdes_",
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "Brussels",
+			"description": "Looking for a job | Info Aggregation, Monitoring Disinformation, Veille Stratégique | Interest in Politics, Technology, Democracy @PolBegov @EUwatchers FR/EN/PT",
+			"url": "https://t.co/gMpchdg7cj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gMpchdg7cj",
+							"expanded_url": "https://blog.rmendes.net/",
+							"display_url": "blog.rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2321,
+			"friends_count": 4966,
+			"listed_count": 324,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 13232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1309950691247566849/ism8yLjj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1309950691247566849/ism8yLjj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1601151587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Cette entrevue avec le @DalaiLama je l'ai enregistrée, sans son consentement, l'occasion était unique, n'allait plus jamais se reproduire et je me devais de sortir de cette entrevue avec une preuve qu'il ne connaissait pas la OKC et encore moins Robert Spatz."
+	},
+	{
+		"created_at": "Wed Sep 23 14:33:29 +0000 2020",
+		"id": 1308774804737142800,
+		"id_str": "1308776506781507584",
+		"full_text": "\"To shame and denounce publicly perpetrators of such abuses\" sans avoir la moindre notion de ce que ça représente pour une victime de s'exposer aux médias et à la vindicte populaire des adeptes et des fanatiques Bouddhistes, prêt à tout pour défendre leur dogme.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1308774802996498400,
+		"in_reply_to_status_id_str": "1308774802996498433",
+		"in_reply_to_user_id": 1562961949,
+		"in_reply_to_user_id_str": "1562961949",
+		"in_reply_to_screen_name": "rMdes_",
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "Brussels",
+			"description": "Looking for a job | Info Aggregation, Monitoring Disinformation, Veille Stratégique | Interest in Politics, Technology, Democracy @PolBegov @EUwatchers FR/EN/PT",
+			"url": "https://t.co/gMpchdg7cj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gMpchdg7cj",
+							"expanded_url": "https://blog.rmendes.net/",
+							"display_url": "blog.rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2321,
+			"friends_count": 4966,
+			"listed_count": 324,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 13232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1309950691247566849/ism8yLjj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1309950691247566849/ism8yLjj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1601151587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "\"To shame and denounce publicly perpetrators of such abuses\" sans avoir la moindre notion de ce que ça représente pour une victime de s'exposer aux médias et à la vindicte populaire des adeptes et des fanatiques Bouddhistes, prêt à tout pour défendre leur dogme."
+	},
+	{
+		"created_at": "Wed Sep 23 14:33:27 +0000 2020",
+		"id": 1308774802996498400,
+		"id_str": "1308776495448551424",
+		"full_text": "Dans différents \"centres\" d'inspiration \"Bouddhiste Tibétaine\", un Homme qui détient plus de pouvoir dans l'imaginaire collectif des occidentaux que dans la réalité.\nUn homme qui depuis plus de 50 ans conseille aux victimes de dénoncer ces abus publiquement",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1308774800794562600,
+		"in_reply_to_status_id_str": "1308774800794562560",
+		"in_reply_to_user_id": 1562961949,
+		"in_reply_to_user_id_str": "1562961949",
+		"in_reply_to_screen_name": "rMdes_",
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "Brussels",
+			"description": "Looking for a job | Info Aggregation, Monitoring Disinformation, Veille Stratégique | Interest in Politics, Technology, Democracy @PolBegov @EUwatchers FR/EN/PT",
+			"url": "https://t.co/gMpchdg7cj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gMpchdg7cj",
+							"expanded_url": "https://blog.rmendes.net/",
+							"display_url": "blog.rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2321,
+			"friends_count": 4966,
+			"listed_count": 324,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 13232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1309950691247566849/ism8yLjj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1309950691247566849/ism8yLjj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1601151587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Dans différents \"centres\" d'inspiration \"Bouddhiste Tibétaine\", un Homme qui détient plus de pouvoir dans l'imaginaire collectif des occidentaux que dans la réalité.\nUn homme qui depuis plus de 50 ans conseille aux victimes de dénoncer ces abus publiquement"
+	},
+	{
 		"created_at": "Tue Sep 22 06:39:29 +0000 2020",
 		"id": 1308127316959203300,
 		"id_str": "1308294833807609856",
