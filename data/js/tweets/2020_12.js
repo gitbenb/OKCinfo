@@ -1,6 +1,594 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 04 22:29:10 +0000 2020",
+		"id": 1334988141577572400,
+		"id_str": "1334988141577572355",
+		"full_text": "@EuroParentalNet @InfoManip @VincentVQ @LOnkelinx @AIVMN @ChatSceptique @JMAbrassart @redunecontacto @sospatriciasos @carlosbardavioa @E_DupondM @dapsance @Mag_Bouddhiste @BuddhistLeaks @gemppi @bouddhanar108 @Bouddhanar @17thKarmapa @SogyalTruth @SagessesBou_Mag @efansten @Francois_Koch Sans notre intervention Spatz et la OKC aurait payé une amende financière et ça serait tout.",
+		"truncated": false,
+		"display_text_range": [
+			289,
+			381
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EuroParentalNet",
+					"name": "Réseau Parental Europe",
+					"id": 814402441525465100,
+					"id_str": "814402441525465088",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "InfoManip",
+					"name": "SOS #Sectarisme \\o/",
+					"id": 497813910,
+					"id_str": "497813910",
+					"indices": [
+						17,
+						27
+					]
+				},
+				{
+					"screen_name": "VincentVQ",
+					"name": "ᴠɪɴᴄᴇɴᴛ ᴠᴀɴ Qᴜɪᴄᴋᴇɴʙᴏʀɴᴇ",
+					"id": 102008468,
+					"id_str": "102008468",
+					"indices": [
+						28,
+						38
+					]
+				},
+				{
+					"screen_name": "LOnkelinx",
+					"name": "Laurette Onkelinx",
+					"id": 2809960227,
+					"id_str": "2809960227",
+					"indices": [
+						39,
+						49
+					]
+				},
+				{
+					"screen_name": "AIVMN",
+					"name": "AIVMN",
+					"id": 461056819,
+					"id_str": "461056819",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"screen_name": "ChatSceptique",
+					"name": "Chat Sceptique",
+					"id": 1030521091784097800,
+					"id_str": "1030521091784097792",
+					"indices": [
+						57,
+						71
+					]
+				},
+				{
+					"screen_name": "JMAbrassart",
+					"name": "JM Abrassart",
+					"id": 41143924,
+					"id_str": "41143924",
+					"indices": [
+						72,
+						84
+					]
+				},
+				{
+					"screen_name": "redunecontacto",
+					"name": "RedUNE",
+					"id": 416407645,
+					"id_str": "416407645",
+					"indices": [
+						85,
+						100
+					]
+				},
+				{
+					"screen_name": "sospatriciasos",
+					"name": "Sos Patricia Aguilar",
+					"id": 820905691657490400,
+					"id_str": "820905691657490432",
+					"indices": [
+						101,
+						116
+					]
+				},
+				{
+					"screen_name": "carlosbardavioa",
+					"name": "Carlos Bardavío",
+					"id": 421885916,
+					"id_str": "421885916",
+					"indices": [
+						117,
+						133
+					]
+				},
+				{
+					"screen_name": "E_DupondM",
+					"name": "Eric Dupond-Moretti",
+					"id": 1280415061367033900,
+					"id_str": "1280415061367033858",
+					"indices": [
+						134,
+						144
+					]
+				},
+				{
+					"screen_name": "dapsance",
+					"name": "Stéphanie DAPSANCE",
+					"id": 913303129986396200,
+					"id_str": "913303129986396160",
+					"indices": [
+						145,
+						154
+					]
+				},
+				{
+					"screen_name": "Mag_Bouddhiste",
+					"name": "Regard Bouddhiste",
+					"id": 3238510311,
+					"id_str": "3238510311",
+					"indices": [
+						155,
+						170
+					]
+				},
+				{
+					"screen_name": "BuddhistLeaks",
+					"name": "Tibetan Buddhism Leaks",
+					"id": 890549322240196600,
+					"id_str": "890549322240196612",
+					"indices": [
+						171,
+						185
+					]
+				},
+				{
+					"screen_name": "gemppi",
+					"name": "PACHOUD Didier",
+					"id": 610122280,
+					"id_str": "610122280",
+					"indices": [
+						186,
+						193
+					]
+				},
+				{
+					"screen_name": "bouddhanar108",
+					"name": "Félix CRESPO",
+					"id": 979952858983534600,
+					"id_str": "979952858983534592",
+					"indices": [
+						194,
+						208
+					]
+				},
+				{
+					"screen_name": "Bouddhanar",
+					"name": "Bouddhanar",
+					"id": 494054814,
+					"id_str": "494054814",
+					"indices": [
+						209,
+						220
+					]
+				},
+				{
+					"screen_name": "17thKarmapa",
+					"name": "Trinlay Thaye Dorje",
+					"id": 144611065,
+					"id_str": "144611065",
+					"indices": [
+						221,
+						233
+					]
+				},
+				{
+					"screen_name": "SogyalTruth",
+					"name": "Sogyal Truth",
+					"id": 895390092537233400,
+					"id_str": "895390092537233409",
+					"indices": [
+						234,
+						246
+					]
+				},
+				{
+					"screen_name": "SagessesBou_Mag",
+					"name": "Sagesses Bouddhistes Le Mag",
+					"id": 938066185010274300,
+					"id_str": "938066185010274309",
+					"indices": [
+						247,
+						263
+					]
+				},
+				{
+					"screen_name": "efansten",
+					"name": "Emmanuel Fansten",
+					"id": 236137907,
+					"id_str": "236137907",
+					"indices": [
+						264,
+						273
+					]
+				},
+				{
+					"screen_name": "Francois_Koch",
+					"name": "Francois Koch",
+					"id": 117348914,
+					"id_str": "117348914",
+					"indices": [
+						274,
+						288
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1334893866105909200,
+		"in_reply_to_status_id_str": "1334893866105909248",
+		"in_reply_to_user_id": 814402441525465100,
+		"in_reply_to_user_id_str": "814402441525465088",
+		"in_reply_to_screen_name": "EuroParentalNet",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | contact @rmdes_",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 160,
+			"friends_count": 357,
+			"listed_count": 5,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@EuroParentalNet @InfoManip @VincentVQ @LOnkelinx @AIVMN @ChatSceptique @JMAbrassart @redunecontacto @sospatriciasos @carlosbardavioa @E_DupondM @dapsance @Mag_Bouddhiste @BuddhistLeaks @gemppi @bouddhanar108 @Bouddhanar @17thKarmapa @SogyalTruth @SagessesBou_Mag @efansten @Francois_Koch Sans notre intervention Spatz et la OKC aurait payé une amende financière et ça serait tout."
+	},
+	{
+		"created_at": "Fri Dec 04 22:26:41 +0000 2020",
+		"id": 1334987516894720000,
+		"id_str": "1334987516894720001",
+		"full_text": "@CABUSC @SectarismeInfo @KMeyronneinc @Prefet13 Il faut plutôt parler de ce qu'il reste d'OKC et de la manœuvre de 2008 d'isoler des biens et des fonds dans la \" Fondation Kunzang\" soit disant pour la pérennité de l'association.\nC'est le dernier bastion de Spatz et il en est le président à Vie",
+		"truncated": false,
+		"display_text_range": [
+			48,
+			294
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CABUSC",
+					"name": "CABUS Christian ",
+					"id": 1010266118,
+					"id_str": "1010266118",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "SectarismeInfo",
+					"name": "info #Sectarisme Limousin Auvergne",
+					"id": 1060516335434809300,
+					"id_str": "1060516335434809344",
+					"indices": [
+						8,
+						23
+					]
+				},
+				{
+					"screen_name": "KMeyronneinc",
+					"name": "Koko Meyronneinc",
+					"id": 1036732444823695400,
+					"id_str": "1036732444823695360",
+					"indices": [
+						24,
+						37
+					]
+				},
+				{
+					"screen_name": "Prefet13",
+					"name": "Préfet de la région PACA et des Bouches-du-Rhône",
+					"id": 2291408120,
+					"id_str": "2291408120",
+					"indices": [
+						38,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1334986732094320600,
+		"in_reply_to_status_id_str": "1334986732094320642",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | contact @rmdes_",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 160,
+			"friends_count": 357,
+			"listed_count": 5,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@CABUSC @SectarismeInfo @KMeyronneinc @Prefet13 Il faut plutôt parler de ce qu'il reste d'OKC et de la manœuvre de 2008 d'isoler des biens et des fonds dans la \" Fondation Kunzang\" soit disant pour la pérennité de l'association.\nC'est le dernier bastion de Spatz et il en est le président à Vie"
+	},
+	{
+		"created_at": "Fri Dec 04 22:23:34 +0000 2020",
+		"id": 1334986732094320600,
+		"id_str": "1334986732094320642",
+		"full_text": "@CABUSC @SectarismeInfo @KMeyronneinc @Prefet13 Précision : il n'y a plus d'enfants dans la OKC sous l'emprise pour la simple raison qu'ils et elles sont quasi tous partis et libre, ça ne s'est pas fait en une fois, plutôt un processus graduel et OKC n'attire plus d'adhérents, à part des satellites \"de l'extérieur\" égarés.",
+		"truncated": false,
+		"display_text_range": [
+			48,
+			324
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CABUSC",
+					"name": "CABUS Christian ",
+					"id": 1010266118,
+					"id_str": "1010266118",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "SectarismeInfo",
+					"name": "info #Sectarisme Limousin Auvergne",
+					"id": 1060516335434809300,
+					"id_str": "1060516335434809344",
+					"indices": [
+						8,
+						23
+					]
+				},
+				{
+					"screen_name": "KMeyronneinc",
+					"name": "Koko Meyronneinc",
+					"id": 1036732444823695400,
+					"id_str": "1036732444823695360",
+					"indices": [
+						24,
+						37
+					]
+				},
+				{
+					"screen_name": "Prefet13",
+					"name": "Préfet de la région PACA et des Bouches-du-Rhône",
+					"id": 2291408120,
+					"id_str": "2291408120",
+					"indices": [
+						38,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1334985903375331300,
+		"in_reply_to_status_id_str": "1334985903375331328",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | contact @rmdes_",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 160,
+			"friends_count": 357,
+			"listed_count": 5,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@CABUSC @SectarismeInfo @KMeyronneinc @Prefet13 Précision : il n'y a plus d'enfants dans la OKC sous l'emprise pour la simple raison qu'ils et elles sont quasi tous partis et libre, ça ne s'est pas fait en une fois, plutôt un processus graduel et OKC n'attire plus d'adhérents, à part des satellites \"de l'extérieur\" égarés."
+	},
+	{
 		"created_at": "Thu Dec 03 20:08:08 +0000 2020",
 		"id": 1334590262375575600,
 		"id_str": "1334590262375575552",
