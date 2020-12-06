@@ -1,6 +1,1264 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 05 23:59:40 +0000 2020",
+		"id": 1335373305294053400,
+		"id_str": "1335373305294053383",
+		"full_text": "C'est qui \"Lama Kunzang\" alias Robert Spatz, voici le myth officiel : https://t.co/EGhHjTX8RH\n\nWho is \"Lama Kunzang\" aka Robert Spatz ? this is the official myth, carefully removed from Internet since a decade. \nhttps://t.co/TiyjD38pwo https://t.co/ropbNqA1Q1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EGhHjTX8RH",
+					"expanded_url": "https://web.archive.org/web/20110904225642/http://www.okc-net.org/fr/maitres/lama-kunzang.html",
+					"display_url": "web.archive.org/web/2011090422…",
+					"indices": [
+						70,
+						93
+					]
+				},
+				{
+					"url": "https://t.co/TiyjD38pwo",
+					"expanded_url": "https://web.archive.org/web/20121128134722/http://www.okc-net.org/en/masters/lama-kunzang.html",
+					"display_url": "web.archive.org/web/2012112813…",
+					"indices": [
+						212,
+						235
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1335372592073552000,
+					"id_str": "1335372592073551873",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/EogyTCFWMAEem3t.png",
+					"media_url_https": "https://pbs.twimg.com/media/EogyTCFWMAEem3t.png",
+					"url": "https://t.co/ropbNqA1Q1",
+					"display_url": "pic.twitter.com/ropbNqA1Q1",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1335373305294053383/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 732,
+							"h": 575,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 732,
+							"h": 575,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 534,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1335372592073552000,
+					"id_str": "1335372592073551873",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/EogyTCFWMAEem3t.png",
+					"media_url_https": "https://pbs.twimg.com/media/EogyTCFWMAEem3t.png",
+					"url": "https://t.co/ropbNqA1Q1",
+					"display_url": "pic.twitter.com/ropbNqA1Q1",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1335373305294053383/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 732,
+							"h": 575,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 732,
+							"h": 575,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 534,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1335372768787959800,
+					"id_str": "1335372768787959808",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/EogydUZWEAA_66z.png",
+					"media_url_https": "https://pbs.twimg.com/media/EogydUZWEAA_66z.png",
+					"url": "https://t.co/ropbNqA1Q1",
+					"display_url": "pic.twitter.com/ropbNqA1Q1",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1335373305294053383/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 438,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 477,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 477,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Justice initiative",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | contact @rmdes_",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 160,
+			"friends_count": 357,
+			"listed_count": 5,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1078,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "C'est qui \"Lama Kunzang\" alias Robert Spatz, voici le myth officiel : https://t.co/EGhHjTX8RH\n\nWho is \"Lama Kunzang\" aka Robert Spatz ? this is the official myth, carefully removed from Internet since a decade. \nhttps://t.co/TiyjD38pwo https://t.co/ropbNqA1Q1"
+	},
+	{
+		"created_at": "Sat Dec 05 17:40:30 +0000 2020",
+		"id": 1335277884114604000,
+		"id_str": "1335277884114604032",
+		"full_text": "In 2018 spraken in Rotterdam verschillende slachtoffers voor het eerst met de dalai lama over misbruik door verschillende boeddhistische leraren. https://t.co/FXKANMyjAO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FXKANMyjAO",
+					"expanded_url": "https://nos.nl/artikel/2359383-belgische-sekteleider-veroordeeld-zijn-misbruik-zou-me-snel-verlichten.html",
+					"display_url": "nos.nl/artikel/235938…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1335277882143281200,
+		"in_reply_to_status_id_str": "1335277882143281158",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Justice initiative",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | contact @rmdes_",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 160,
+			"friends_count": 357,
+			"listed_count": 5,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1078,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "In 2018 spraken in Rotterdam verschillende slachtoffers voor het eerst met de dalai lama over misbruik door verschillende boeddhistische leraren. https://t.co/FXKANMyjAO"
+	},
+	{
+		"created_at": "Sat Dec 05 17:40:30 +0000 2020",
+		"id": 1335277882143281200,
+		"id_str": "1335277882143281158",
+		"full_text": "Ogyen Kunzang Chöling is niet de enige Tibetaans-boeddhistische organisatie waar (seksueel) misbruik van volgelingen is vastgesteld. Shambhala en Rigpa zijn andere voorbeelden en beide actief in Nederland.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Justice initiative",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | contact @rmdes_",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 160,
+			"friends_count": 357,
+			"listed_count": 5,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1078,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "Ogyen Kunzang Chöling is niet de enige Tibetaans-boeddhistische organisatie waar (seksueel) misbruik van volgelingen is vastgesteld. Shambhala en Rigpa zijn andere voorbeelden en beide actief in Nederland."
+	},
+	{
+		"created_at": "Sat Dec 05 17:22:44 +0000 2020",
+		"id": 1335273415041831000,
+		"id_str": "1335273415041830915",
+		"full_text": "@CABUSC @KMeyronneinc @SectarismeInfo @Prefet13 même si, elle reconnaît les faits et les victimes de ces crimes et constate un modus operandi qui reste le même ou similaire depuis les années 80 jusqu'aux années 2000 dans tous les faits de mœurs dans le chef de Robert Spatz.",
+		"truncated": false,
+		"display_text_range": [
+			48,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CABUSC",
+					"name": "CABUS Christian ",
+					"id": 1010266118,
+					"id_str": "1010266118",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "KMeyronneinc",
+					"name": "Koko Meyronneinc",
+					"id": 1036732444823695400,
+					"id_str": "1036732444823695360",
+					"indices": [
+						8,
+						21
+					]
+				},
+				{
+					"screen_name": "SectarismeInfo",
+					"name": "info #Sectarisme Limousin Auvergne",
+					"id": 1060516335434809300,
+					"id_str": "1060516335434809344",
+					"indices": [
+						22,
+						37
+					]
+				},
+				{
+					"screen_name": "Prefet13",
+					"name": "Préfet de la région PACA et des Bouches-du-Rhône",
+					"id": 2291408120,
+					"id_str": "2291408120",
+					"indices": [
+						38,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1335272779499925500,
+		"in_reply_to_status_id_str": "1335272779499925504",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Justice initiative",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | contact @rmdes_",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 160,
+			"friends_count": 357,
+			"listed_count": 5,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1078,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@CABUSC @KMeyronneinc @SectarismeInfo @Prefet13 même si, elle reconnaît les faits et les victimes de ces crimes et constate un modus operandi qui reste le même ou similaire depuis les années 80 jusqu'aux années 2000 dans tous les faits de mœurs dans le chef de Robert Spatz."
+	},
+	{
+		"created_at": "Sat Dec 05 17:20:13 +0000 2020",
+		"id": 1335272779499925500,
+		"id_str": "1335272779499925504",
+		"full_text": "@CABUSC @KMeyronneinc @SectarismeInfo @Prefet13 De plus, une partie des abus sexuels n'ont pas pu être jugé, en effet, notre génération n'ayant jamais été interrogé avant le procès, nous n'avons jamais fait partie de l'instruction de l'affaire, la cour n'a donc pas pu juger de ce qu'elle n'était pas instruite à juger",
+		"truncated": false,
+		"display_text_range": [
+			48,
+			318
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CABUSC",
+					"name": "CABUS Christian ",
+					"id": 1010266118,
+					"id_str": "1010266118",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "KMeyronneinc",
+					"name": "Koko Meyronneinc",
+					"id": 1036732444823695400,
+					"id_str": "1036732444823695360",
+					"indices": [
+						8,
+						21
+					]
+				},
+				{
+					"screen_name": "SectarismeInfo",
+					"name": "info #Sectarisme Limousin Auvergne",
+					"id": 1060516335434809300,
+					"id_str": "1060516335434809344",
+					"indices": [
+						22,
+						37
+					]
+				},
+				{
+					"screen_name": "Prefet13",
+					"name": "Préfet de la région PACA et des Bouches-du-Rhône",
+					"id": 2291408120,
+					"id_str": "2291408120",
+					"indices": [
+						38,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1335272220860539000,
+		"in_reply_to_status_id_str": "1335272220860538881",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Justice initiative",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | contact @rmdes_",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 160,
+			"friends_count": 357,
+			"listed_count": 5,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1078,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@CABUSC @KMeyronneinc @SectarismeInfo @Prefet13 De plus, une partie des abus sexuels n'ont pas pu être jugé, en effet, notre génération n'ayant jamais été interrogé avant le procès, nous n'avons jamais fait partie de l'instruction de l'affaire, la cour n'a donc pas pu juger de ce qu'elle n'était pas instruite à juger"
+	},
+	{
+		"created_at": "Sat Dec 05 17:18:00 +0000 2020",
+		"id": 1335272220860539000,
+		"id_str": "1335272220860538881",
+		"full_text": "@CABUSC @KMeyronneinc @SectarismeInfo @Prefet13 Mais pour vous donner un aperçu, Robert Spatz, bénéficie de plusieurs éléments en sa faveur (même les pédocriminels ont des droits) \n- délai raisonnable largement dépassé - 23 ans\n- son âge - 74 ans\n- sa supposée maladie, imaginaire ou pas\n- 6 mois de prison ferme à son actif",
+		"truncated": false,
+		"display_text_range": [
+			48,
+			324
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CABUSC",
+					"name": "CABUS Christian ",
+					"id": 1010266118,
+					"id_str": "1010266118",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "KMeyronneinc",
+					"name": "Koko Meyronneinc",
+					"id": 1036732444823695400,
+					"id_str": "1036732444823695360",
+					"indices": [
+						8,
+						21
+					]
+				},
+				{
+					"screen_name": "SectarismeInfo",
+					"name": "info #Sectarisme Limousin Auvergne",
+					"id": 1060516335434809300,
+					"id_str": "1060516335434809344",
+					"indices": [
+						22,
+						37
+					]
+				},
+				{
+					"screen_name": "Prefet13",
+					"name": "Préfet de la région PACA et des Bouches-du-Rhône",
+					"id": 2291408120,
+					"id_str": "2291408120",
+					"indices": [
+						38,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1335271670798545000,
+		"in_reply_to_status_id_str": "1335271670798544901",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Justice initiative",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | contact @rmdes_",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 160,
+			"friends_count": 357,
+			"listed_count": 5,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1078,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@CABUSC @KMeyronneinc @SectarismeInfo @Prefet13 Mais pour vous donner un aperçu, Robert Spatz, bénéficie de plusieurs éléments en sa faveur (même les pédocriminels ont des droits) \n- délai raisonnable largement dépassé - 23 ans\n- son âge - 74 ans\n- sa supposée maladie, imaginaire ou pas\n- 6 mois de prison ferme à son actif"
+	},
+	{
+		"created_at": "Sat Dec 05 17:15:49 +0000 2020",
+		"id": 1335271670798545000,
+		"id_str": "1335271670798544901",
+		"full_text": "@CABUSC @KMeyronneinc @SectarismeInfo @Prefet13 C'est plus complexe que cela et c'est une victime qui vous le dit ! Dans quelques jours nous publierons le verdict dans son intégralité, 258 pages, il sera beaucoup plus aisé pour le grand public de comprendre par lui-même les motivations de la cour de Liège",
+		"truncated": false,
+		"display_text_range": [
+			48,
+			306
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CABUSC",
+					"name": "CABUS Christian ",
+					"id": 1010266118,
+					"id_str": "1010266118",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "KMeyronneinc",
+					"name": "Koko Meyronneinc",
+					"id": 1036732444823695400,
+					"id_str": "1036732444823695360",
+					"indices": [
+						8,
+						21
+					]
+				},
+				{
+					"screen_name": "SectarismeInfo",
+					"name": "info #Sectarisme Limousin Auvergne",
+					"id": 1060516335434809300,
+					"id_str": "1060516335434809344",
+					"indices": [
+						22,
+						37
+					]
+				},
+				{
+					"screen_name": "Prefet13",
+					"name": "Préfet de la région PACA et des Bouches-du-Rhône",
+					"id": 2291408120,
+					"id_str": "2291408120",
+					"indices": [
+						38,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1335105179277021200,
+		"in_reply_to_status_id_str": "1335105179277021184",
+		"in_reply_to_user_id": 1010266118,
+		"in_reply_to_user_id_str": "1010266118",
+		"in_reply_to_screen_name": "CABUSC",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Justice initiative",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | contact @rmdes_",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 160,
+			"friends_count": 357,
+			"listed_count": 5,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1078,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@CABUSC @KMeyronneinc @SectarismeInfo @Prefet13 C'est plus complexe que cela et c'est une victime qui vous le dit ! Dans quelques jours nous publierons le verdict dans son intégralité, 258 pages, il sera beaucoup plus aisé pour le grand public de comprendre par lui-même les motivations de la cour de Liège"
+	},
+	{
+		"created_at": "Sat Dec 05 17:14:02 +0000 2020",
+		"id": 1335271223534739500,
+		"id_str": "1335271223534739457",
+		"full_text": "Belgische sekteleider veroordeeld, 'zijn misbruik zou me snel verlichten' https://t.co/4MGI4rkfKG via @NOS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NOS",
+					"name": "NOS",
+					"id": 7174972,
+					"id_str": "7174972",
+					"indices": [
+						102,
+						106
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4MGI4rkfKG",
+					"expanded_url": "https://www.nos.nl/l/t/2359383",
+					"display_url": "nos.nl/l/t/2359383",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Justice initiative",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | contact @rmdes_",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 160,
+			"friends_count": 357,
+			"listed_count": 5,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1078,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Belgische sekteleider veroordeeld, 'zijn misbruik zou me snel verlichten' https://t.co/4MGI4rkfKG via @NOS"
+	},
+	{
+		"created_at": "Sat Dec 05 16:12:13 +0000 2020",
+		"id": 1335255666496315400,
+		"id_str": "1335255666496315397",
+		"full_text": "Belgische sekteleider veroordeeld, 'zijn misbruik zou me snel verlichten' \n\nIt's happening in Belgium but it needs international coverage to exist?\n@destandaard \n@demorgen\n@Humo\n@VRT\n@vrtnws\n@VRT_Flandreinfo\n\nhttps://t.co/DXzG1J30GO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "destandaard",
+					"name": "De Standaard",
+					"id": 21408400,
+					"id_str": "21408400",
+					"indices": [
+						148,
+						160
+					]
+				},
+				{
+					"screen_name": "demorgen",
+					"name": "De Morgen",
+					"id": 5499602,
+					"id_str": "5499602",
+					"indices": [
+						162,
+						171
+					]
+				},
+				{
+					"screen_name": "Humo",
+					"name": "humo",
+					"id": 27617210,
+					"id_str": "27617210",
+					"indices": [
+						172,
+						177
+					]
+				},
+				{
+					"screen_name": "VRT",
+					"name": "VRT 🔥",
+					"id": 246726719,
+					"id_str": "246726719",
+					"indices": [
+						178,
+						182
+					]
+				},
+				{
+					"screen_name": "vrtnws",
+					"name": "VRT NWS",
+					"id": 23498005,
+					"id_str": "23498005",
+					"indices": [
+						183,
+						190
+					]
+				},
+				{
+					"screen_name": "VRT_Flandreinfo",
+					"name": "Flandreinfo.be",
+					"id": 485649225,
+					"id_str": "485649225",
+					"indices": [
+						191,
+						207
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DXzG1J30GO",
+					"expanded_url": "https://nos.nl/l/2359383",
+					"display_url": "nos.nl/l/2359383",
+					"indices": [
+						209,
+						232
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Justice initiative",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | contact @rmdes_",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 160,
+			"friends_count": 357,
+			"listed_count": 5,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1078,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Belgische sekteleider veroordeeld, 'zijn misbruik zou me snel verlichten' \n\nIt's happening in Belgium but it needs international coverage to exist?\n@destandaard \n@demorgen\n@Humo\n@VRT\n@vrtnws\n@VRT_Flandreinfo\n\nhttps://t.co/DXzG1J30GO"
+	},
+	{
 		"created_at": "Fri Dec 04 22:29:10 +0000 2020",
 		"id": 1334988141577572400,
 		"id_str": "1334988141577572355",
