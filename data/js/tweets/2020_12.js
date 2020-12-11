@@ -1,6 +1,515 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 10 17:24:25 +0000 2020",
+		"id": 1337085775767335000,
+		"id_str": "1337085775767334913",
+		"full_text": "Sexual Misconduct and Buddhism – Centering Survivors https://t.co/ZIsKShksQn via @ProjShiloh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProjShiloh",
+					"name": "The Shiloh Project",
+					"id": 820375698976231400,
+					"id_str": "820375698976231424",
+					"indices": [
+						81,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZIsKShksQn",
+					"expanded_url": "https://www.shilohproject.blog/sexual-misconduct-and-buddhism-centering-survivors/",
+					"display_url": "shilohproject.blog/sexual-miscond…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Justice initiative",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | contact @rmdes_",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 161,
+			"friends_count": 361,
+			"listed_count": 5,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sexual Misconduct and Buddhism – Centering Survivors https://t.co/ZIsKShksQn via @ProjShiloh"
+	},
+	{
+		"created_at": "Thu Dec 10 17:20:42 +0000 2020",
+		"id": 1337084839430934500,
+		"id_str": "1337084839430934528",
+		"full_text": "By the way, nobody has the \"power to heal\" people, it's another cult you're getting trapped into and you think you got out of a cult ? You think you have the ethical and behavioral approach right to help other people to get out of a cult while being into one ? \n\nFools",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Justice initiative",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | contact @rmdes_",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 161,
+			"friends_count": 361,
+			"listed_count": 5,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "By the way, nobody has the \"power to heal\" people, it's another cult you're getting trapped into and you think you got out of a cult ? You think you have the ethical and behavioral approach right to help other people to get out of a cult while being into one ? \n\nFools"
+	},
+	{
+		"created_at": "Thu Dec 10 12:56:35 +0000 2020",
+		"id": 1337017624274890800,
+		"id_str": "1337018371527888899",
+		"full_text": "Wouldn't it be nice and very Buddhist to remind @DalaiLama for his Anniversary about his 2018 promise he made (there are audio recording proving it online) to organize an international meeting in India about Tibetan Buddhism allegations of sexual abuses crimes ? https://t.co/tbgTtAIAhS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DalaiLama",
+					"name": "Dalai Lama",
+					"id": 20609518,
+					"id_str": "20609518",
+					"indices": [
+						48,
+						58
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tbgTtAIAhS",
+					"expanded_url": "https://twitter.com/yongyal/status/1337015579547471878",
+					"display_url": "twitter.com/yongyal/status…",
+					"indices": [
+						263,
+						286
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 890549322240196600,
+			"id_str": "890549322240196612",
+			"name": "Tibetan Buddhism Leaks",
+			"screen_name": "BuddhistLeaks",
+			"location": "Dharamshala",
+			"description": "Newsbot amplifying comments & news regarding Tibetan Buddhist sexual abuses allegations : Hot: FPMT,Shambhala, RIGPA, FWBO, NKT, Triratna, Ogyen Kunzang Choling",
+			"url": "https://t.co/XimmsAhzBf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XimmsAhzBf",
+							"expanded_url": "https://tibetanlamas.org",
+							"display_url": "tibetanlamas.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 879,
+			"listed_count": 5,
+			"created_at": "Thu Jul 27 12:27:58 +0000 2017",
+			"favourites_count": 179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10476,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/890595925365805058/gPTc9UGe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/890595925365805058/gPTc9UGe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/890549322240196612/1607425299",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1337015579547472000,
+		"quoted_status_id_str": "1337015579547471878",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tbgTtAIAhS",
+			"expanded": "https://twitter.com/yongyal/status/1337015579547471878",
+			"display": "twitter.com/yongyal/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 10 12:45:29 +0000 2020",
+			"id": 1337015579547472000,
+			"id_str": "1337015579547471878",
+			"full_text": "https://t.co/FhYGQt2XgU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1337015574849859600,
+						"id_str": "1337015574849859589",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/Eo4IlN4XMAUagEm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eo4IlN4XMAUagEm.jpg",
+						"url": "https://t.co/FhYGQt2XgU",
+						"display_url": "pic.twitter.com/FhYGQt2XgU",
+						"expanded_url": "https://twitter.com/yongyal/status/1337015579547471878/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1242,
+								"h": 1544,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 965,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 547,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1337015574849859600,
+						"id_str": "1337015574849859589",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/Eo4IlN4XMAUagEm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eo4IlN4XMAUagEm.jpg",
+						"url": "https://t.co/FhYGQt2XgU",
+						"display_url": "pic.twitter.com/FhYGQt2XgU",
+						"expanded_url": "https://twitter.com/yongyal/status/1337015579547471878/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1242,
+								"h": 1544,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 965,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 547,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4737088211,
+				"id_str": "4737088211",
+				"name": "Gegye Yongyal Tulku",
+				"screen_name": "yongyal",
+				"location": "",
+				"description": "",
+				"url": "https://t.co/Ka4aaW0uCt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ka4aaW0uCt",
+								"expanded_url": "http://gyr7.com",
+								"display_url": "gyr7.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 451,
+				"friends_count": 2031,
+				"listed_count": 1,
+				"created_at": "Thu Jan 07 18:49:19 +0000 2016",
+				"favourites_count": 147,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 128,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/685172054035804160/tp1Qq8o5_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/685172054035804160/tp1Qq8o5_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4737088211/1452192926",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wouldn't it be nice and very Buddhist to remind @DalaiLama for his Anniversary about his 2018 promise he made (there are audio recording proving it online) to organize an international meeting in India about Tibetan Buddhism allegations of sexual abuses crimes ? https://t.co/tbgTtAIAhS"
+	},
+	{
 		"created_at": "Wed Dec 09 11:03:49 +0000 2020",
 		"id": 1336627606616219600,
 		"id_str": "1336627606616219648",
