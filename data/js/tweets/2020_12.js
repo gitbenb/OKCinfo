@@ -1,6 +1,356 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 11 18:58:17 +0000 2020",
+		"id": 1337471787387523000,
+		"id_str": "1337471787387523072",
+		"full_text": "@PeljorTenzin @KMeyronneinc Right, and pigs flies. \nWe have seen Collective Cognitive dissonance resulting in Collective lack of discernement and beliefs in ludicrous ideas that Lama Kunzang could heal people for decades. \nI have no doubt Collective hallucinations work if everyone present believe it enough",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			307
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PeljorTenzin",
+					"name": "Tenzin Peljor",
+					"id": 2873081511,
+					"id_str": "2873081511",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "KMeyronneinc",
+					"name": "Koko Meyronneinc",
+					"id": 1036732444823695400,
+					"id_str": "1036732444823695360",
+					"indices": [
+						14,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1337440850616447000,
+		"in_reply_to_status_id_str": "1337440850616446979",
+		"in_reply_to_user_id": 2873081511,
+		"in_reply_to_user_id_str": "2873081511",
+		"in_reply_to_screen_name": "PeljorTenzin",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Justice initiative",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | contact @rmdes_",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 162,
+			"friends_count": 361,
+			"listed_count": 5,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 303,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PeljorTenzin @KMeyronneinc Right, and pigs flies. \nWe have seen Collective Cognitive dissonance resulting in Collective lack of discernement and beliefs in ludicrous ideas that Lama Kunzang could heal people for decades. \nI have no doubt Collective hallucinations work if everyone present believe it enough"
+	},
+	{
+		"created_at": "Fri Dec 11 15:22:05 +0000 2020",
+		"id": 1337417379140280300,
+		"id_str": "1337417379140280321",
+		"full_text": "Pour la même raison que @ogyenkun avait besoin du @DalaiLama ou d'autres \"maîtres\" qui directement et indirectement apporte une légitimité à la secte. \n\nIl y a même des gens prêt a laisser tomber leur discernement si leur star ou Lama préféré donne/prête son image.\n#label https://t.co/Sg4OTAmQ8K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "label",
+					"indices": [
+						266,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OgyenKun",
+					"name": "OKC",
+					"id": 3665270417,
+					"id_str": "3665270417",
+					"indices": [
+						24,
+						33
+					]
+				},
+				{
+					"screen_name": "DalaiLama",
+					"name": "Dalai Lama",
+					"id": 20609518,
+					"id_str": "20609518",
+					"indices": [
+						50,
+						60
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Sg4OTAmQ8K",
+					"expanded_url": "https://twitter.com/KMeyronneinc/status/1337179032547438594",
+					"display_url": "twitter.com/KMeyronneinc/s…",
+					"indices": [
+						273,
+						296
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Justice initiative",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | contact @rmdes_",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 162,
+			"friends_count": 361,
+			"listed_count": 5,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 303,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1337179032547438600,
+		"quoted_status_id_str": "1337179032547438594",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Sg4OTAmQ8K",
+			"expanded": "https://twitter.com/KMeyronneinc/status/1337179032547438594",
+			"display": "twitter.com/KMeyronneinc/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 10 23:34:59 +0000 2020",
+			"id": 1337179032547438600,
+			"id_str": "1337179032547438594",
+			"full_text": "Pourquoi les célébrités sont des recrues de choix pour les sectes ?\n https://t.co/5GZb0b6r05",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				92
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5GZb0b6r05",
+						"expanded_url": "https://unseenjapan.com/kobayashi-maya-husband-faith-healer/",
+						"display_url": "unseenjapan.com/kobayashi-maya…",
+						"indices": [
+							69,
+							92
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1036732444823695400,
+				"id_str": "1036732444823695360",
+				"name": "Koko Meyronneinc",
+				"screen_name": "KMeyronneinc",
+				"location": "Haute-Normandie, France",
+				"description": "Tourner 7 X son tweet au bout de son doigt et vérifier et revérifier avant de retweeter. Liberté d'esprit contre les totalitarismes. Et araignée panda forever.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 174,
+				"friends_count": 220,
+				"listed_count": 1,
+				"created_at": "Mon Sep 03 21:47:31 +0000 2018",
+				"favourites_count": 9876,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5132,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1317586792066043905/w7ebLzza_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1317586792066043905/w7ebLzza_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1036732444823695360/1602972301",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Pour la même raison que @ogyenkun avait besoin du @DalaiLama ou d'autres \"maîtres\" qui directement et indirectement apporte une légitimité à la secte. \n\nIl y a même des gens prêt a laisser tomber leur discernement si leur star ou Lama préféré donne/prête son image.\n#label https://t.co/Sg4OTAmQ8K"
+	},
+	{
 		"created_at": "Thu Dec 10 17:24:25 +0000 2020",
 		"id": 1337085775767335000,
 		"id_str": "1337085775767334913",
