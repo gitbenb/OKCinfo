@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 12 14:02:59 +0000 2020",
+		"id": 1337759860176334800,
+		"id_str": "1337759860176334850",
+		"full_text": "Que ce soit le Bouddhisme, le Catholicisme, L'islam ou autres \"grandes religions\" sont des repères d'impunité pour des hommes qui protègent d'autres hommes et leurs Crimes. \n\nÀ la fin le silence est une forme de complicité.\n\nJusque où les Bouddhistes sont prêt à laisser faire?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1337759857164882000,
+		"in_reply_to_status_id_str": "1337759857164881920",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Justice initiative",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | contact @rmdes_",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 163,
+			"friends_count": 361,
+			"listed_count": 5,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "Que ce soit le Bouddhisme, le Catholicisme, L'islam ou autres \"grandes religions\" sont des repères d'impunité pour des hommes qui protègent d'autres hommes et leurs Crimes. \n\nÀ la fin le silence est une forme de complicité.\n\nJusque où les Bouddhistes sont prêt à laisser faire?"
+	},
+	{
+		"created_at": "Sat Dec 12 14:02:58 +0000 2020",
+		"id": 1337759857164882000,
+		"id_str": "1337759857164881920",
+		"full_text": "En attendant de nouveaux orages ?\n\nLe bouddhisme tibétain en occident est sur la même voie d'hypocrisie et de déni que l'église catholique et ses papes l'attitude du @DalaiLama sur la question est une preuve par la démonstration que les religions 1/2\n\nhttps://t.co/XE1hVNX1CH https://t.co/YDCvbh3PWp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DalaiLama",
+					"name": "Dalai Lama",
+					"id": 20609518,
+					"id_str": "20609518",
+					"indices": [
+						166,
+						176
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XE1hVNX1CH",
+					"expanded_url": "https://hridayartha.blogspot.com/2020/12/en-attendant-de-nouveaux-orages.html?m=1",
+					"display_url": "hridayartha.blogspot.com/2020/12/en-att…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1337759847446679600,
+					"id_str": "1337759847446679554",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EpCtflXXEAIm8Lf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpCtflXXEAIm8Lf.jpg",
+					"url": "https://t.co/YDCvbh3PWp",
+					"display_url": "pic.twitter.com/YDCvbh3PWp",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1337759857164881920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 2038,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 636,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337759847446679600,
+					"id_str": "1337759847446679554",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EpCtflXXEAIm8Lf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpCtflXXEAIm8Lf.jpg",
+					"url": "https://t.co/YDCvbh3PWp",
+					"display_url": "pic.twitter.com/YDCvbh3PWp",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1337759857164881920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 2038,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 636,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Justice initiative",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | contact @rmdes_",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 163,
+			"friends_count": 361,
+			"listed_count": 5,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "En attendant de nouveaux orages ?\n\nLe bouddhisme tibétain en occident est sur la même voie d'hypocrisie et de déni que l'église catholique et ses papes l'attitude du @DalaiLama sur la question est une preuve par la démonstration que les religions 1/2\n\nhttps://t.co/XE1hVNX1CH https://t.co/YDCvbh3PWp"
+	},
+	{
 		"created_at": "Fri Dec 11 18:58:17 +0000 2020",
 		"id": 1337471787387523000,
 		"id_str": "1337471787387523072",
