@@ -1,6 +1,669 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 15 16:29:54 +0000 2020",
+		"id": 1338883993664675800,
+		"id_str": "1338883993664675845",
+		"full_text": "Imaginez une seconde que la Belgique avait mis sur l'affaire Dutroux les moyens qui ont été mis sur l'affaire OKC-Spatz.\n\n#Dutroux serait encore en liberté.\n\nC'est ce qu'il se passe avec Robert Spatz alias Lama Kunzang.\n\nEt c'est \"normal\".\n\nJusqu'à où la Justice va laisser faite? https://t.co/9rVpShtlBM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Dutroux",
+					"indices": [
+						122,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1338883991206817800,
+					"id_str": "1338883991206817796",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EpSr5XNW8AQ2Llm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpSr5XNW8AQ2Llm.jpg",
+					"url": "https://t.co/9rVpShtlBM",
+					"display_url": "pic.twitter.com/9rVpShtlBM",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1338883993664675845/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 343,
+							"h": 1005,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 343,
+							"h": 1005,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 232,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338883991206817800,
+					"id_str": "1338883991206817796",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EpSr5XNW8AQ2Llm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpSr5XNW8AQ2Llm.jpg",
+					"url": "https://t.co/9rVpShtlBM",
+					"display_url": "pic.twitter.com/9rVpShtlBM",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1338883993664675845/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 343,
+							"h": 1005,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 343,
+							"h": 1005,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 232,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Justice initiative",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | contact @rmdes_",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 162,
+			"friends_count": 360,
+			"listed_count": 5,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Imaginez une seconde que la Belgique avait mis sur l'affaire Dutroux les moyens qui ont été mis sur l'affaire OKC-Spatz.\n\n#Dutroux serait encore en liberté.\n\nC'est ce qu'il se passe avec Robert Spatz alias Lama Kunzang.\n\nEt c'est \"normal\".\n\nJusqu'à où la Justice va laisser faite? https://t.co/9rVpShtlBM"
+	},
+	{
+		"created_at": "Tue Dec 15 16:21:10 +0000 2020",
+		"id": 1338881796780544000,
+		"id_str": "1338881796780544005",
+		"full_text": "Un pourvoi en cassation a été introduit dans le cadre du procès de la communauté OKC https://t.co/70Of2YvAoo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/70Of2YvAoo",
+					"expanded_url": "https://www.7sur7.be/dossier-liege-et-sa-region/un-pourvoi-en-cassation-a-ete-introduit-dans-le-cadre-du-proces-de-la-communaute-okc~a754be30/?utm_source=twitter&utm_medium=social&utm_campaign=socialsharing_web",
+					"display_url": "7sur7.be/dossier-liege-…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Justice initiative",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | contact @rmdes_",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 162,
+			"friends_count": 360,
+			"listed_count": 5,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Un pourvoi en cassation a été introduit dans le cadre du procès de la communauté OKC https://t.co/70Of2YvAoo"
+	},
+	{
+		"created_at": "Tue Dec 15 11:09:33 +0000 2020",
+		"id": 1338803375589232600,
+		"id_str": "1338803375589232640",
+		"full_text": "Ces pourvois sont suspensifs, il faudra, à présent, attendre que la Cour de cassation ait statué.\n\nEt curieusement, Spatz change d'avocat pour aller en cassation ? Étrange après avoir eu en exclusivité le pourfendeur Wouters depuis 5 ans. \nSpatz serait-il frustré de sa défense?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1338803374024745000,
+		"in_reply_to_status_id_str": "1338803374024744960",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Justice initiative",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | contact @rmdes_",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 162,
+			"friends_count": 360,
+			"listed_count": 5,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "Ces pourvois sont suspensifs, il faudra, à présent, attendre que la Cour de cassation ait statué.\n\nEt curieusement, Spatz change d'avocat pour aller en cassation ? Étrange après avoir eu en exclusivité le pourfendeur Wouters depuis 5 ans. \nSpatz serait-il frustré de sa défense?"
+	},
+	{
+		"created_at": "Tue Dec 15 11:09:32 +0000 2020",
+		"id": 1338803374024745000,
+		"id_str": "1338803374024744960",
+		"full_text": "Le conseil avocat de Spatz  forme un pourvoi visant les arrêts de la chambre des mises en accusation de la cour d’appel de Bruxelles du 23/10/2013, et les arrêts des 9/1/2020, 4/3/2020 et 2/12/2020 de la 6ème chambre Bis de la cour d’appel de Liège.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1338776103473778700,
+		"in_reply_to_status_id_str": "1338776103473778688",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Justice initiative",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | contact @rmdes_",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 162,
+			"friends_count": 360,
+			"listed_count": 5,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "Le conseil avocat de Spatz  forme un pourvoi visant les arrêts de la chambre des mises en accusation de la cour d’appel de Bruxelles du 23/10/2013, et les arrêts des 9/1/2020, 4/3/2020 et 2/12/2020 de la 6ème chambre Bis de la cour d’appel de Liège."
+	},
+	{
+		"created_at": "Tue Dec 15 09:26:16 +0000 2020",
+		"id": 1338777384812765200,
+		"id_str": "1338777384812765185",
+		"full_text": "As we expected, Robert Spatz alias Lama Kunzang from @OgyenKun is appealing the judgement 12/2/2020 at the high court of Cassation.\n\n2016 : guilty with a 4 years suspended sentence\n\n2020 : guilty with a 5 years suspended sentence\n\npedocriminality, child abuse and other crimes https://t.co/xQHyl7bJNK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OgyenKun",
+					"name": "OKC",
+					"id": 3665270417,
+					"id_str": "3665270417",
+					"indices": [
+						53,
+						62
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1338777376919089200,
+					"id_str": "1338777376919089158",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EpRK7mCXcAYv4w5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpRK7mCXcAYv4w5.jpg",
+					"url": "https://t.co/xQHyl7bJNK",
+					"display_url": "pic.twitter.com/xQHyl7bJNK",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1338777384812765185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 449,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1551,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 792,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338777376919089200,
+					"id_str": "1338777376919089158",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EpRK7mCXcAYv4w5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpRK7mCXcAYv4w5.jpg",
+					"url": "https://t.co/xQHyl7bJNK",
+					"display_url": "pic.twitter.com/xQHyl7bJNK",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1338777384812765185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 449,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1551,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 792,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Justice initiative",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | contact @rmdes_",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 162,
+			"friends_count": 360,
+			"listed_count": 5,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As we expected, Robert Spatz alias Lama Kunzang from @OgyenKun is appealing the judgement 12/2/2020 at the high court of Cassation.\n\n2016 : guilty with a 4 years suspended sentence\n\n2020 : guilty with a 5 years suspended sentence\n\npedocriminality, child abuse and other crimes https://t.co/xQHyl7bJNK"
+	},
+	{
 		"created_at": "Sun Dec 13 12:34:52 +0000 2020",
 		"id": 1338100070189764600,
 		"id_str": "1338100070189764610",
