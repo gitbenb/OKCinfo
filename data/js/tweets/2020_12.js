@@ -1,6 +1,138 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 16 13:01:24 +0000 2020",
+		"id": 1339193912959901700,
+		"id_str": "1339193912959901697",
+		"full_text": "Secte OKC : Le chef spirituel de la secte bouddhiste se pourvoit en cassation https://t.co/XBwjUFrUjU @MatthieuRicard #RabjamRinpoche #OgyenKunzangCholing",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RabjamRinpoche",
+					"indices": [
+						118,
+						133
+					]
+				},
+				{
+					"text": "OgyenKunzangCholing",
+					"indices": [
+						134,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						102,
+						117
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XBwjUFrUjU",
+					"expanded_url": "https://www.dhnet.be/regions/liege/secte-okc-le-chef-spirituel-de-la-secte-bouddhiste-se-pourvoit-en-cassation-5fd9b63dd8ad5844d1b95937",
+					"display_url": "dhnet.be/regions/liege/…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Justice initiative",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | contact @rmdes_",
+			"url": "https://t.co/j2r7QQC4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2r7QQC4g2",
+							"expanded_url": "https://okcinfo.news/",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 162,
+			"friends_count": 360,
+			"listed_count": 5,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Secte OKC : Le chef spirituel de la secte bouddhiste se pourvoit en cassation https://t.co/XBwjUFrUjU @MatthieuRicard #RabjamRinpoche #OgyenKunzangCholing"
+	},
+	{
 		"created_at": "Tue Dec 15 16:29:54 +0000 2020",
 		"id": 1338883993664675800,
 		"id_str": "1338883993664675845",
