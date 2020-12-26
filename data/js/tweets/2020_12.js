@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 25 13:30:48 +0000 2020",
+		"id": 1342449767213838300,
+		"id_str": "1342462802791948288",
+		"full_text": "Il reste tellement de choses à à expliquer, à contextualiser et à retenir de toute cette histoire que ça prendrait un gros livre pour y parvenir, qui sait, c'est peut-être une possibilité.\n\nPour l'instant il y a encore un appel en cassation à attendre.\n\nEt des vies à recoudre.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1342449765229981700,
+		"in_reply_to_status_id_str": "1342449765229981697",
+		"in_reply_to_user_id": 1562961949,
+		"in_reply_to_user_id_str": "1562961949",
+		"in_reply_to_screen_name": "rMdes_",
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo",
+			"screen_name": "rMdes_",
+			"location": "Brussels",
+			"description": "Metamorphosis, Learning to code | Building Autonomy & resilience | Interest in Politics, Technology, Democracy, Human Rights @PolBegov @EUwatchers FR/EN/PT",
+			"url": "https://t.co/8F9N2ddWth",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8F9N2ddWth",
+							"expanded_url": "https://rmendes.net/",
+							"display_url": "rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2320,
+			"friends_count": 5001,
+			"listed_count": 319,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 13519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1335934681645273088/iNlXQcpb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1335934681645273088/iNlXQcpb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1607346679",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Il reste tellement de choses à à expliquer, à contextualiser et à retenir de toute cette histoire que ça prendrait un gros livre pour y parvenir, qui sait, c'est peut-être une possibilité.\n\nPour l'instant il y a encore un appel en cassation à attendre.\n\nEt des vies à recoudre."
+	},
+	{
+		"created_at": "Fri Dec 25 13:30:46 +0000 2020",
+		"id": 1342449765229981700,
+		"id_str": "1342462794885693441",
+		"full_text": "Je suis ravi de terminer un double calvaire, celui vécu par tout le monde depuis Mars et celui d'une procédure judiciaire difficile\nPour beaucoup d'entre nous @OKCinformation cette année se termine sur une victoire, sur nous même et sur une secte qui n'a jamais arrêté ses méfaits",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinformation",
+					"name": "OKCinfo Justice initiative",
+					"id": 3309353195,
+					"id_str": "3309353195",
+					"indices": [
+						159,
+						174
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1342449762616946700,
+		"in_reply_to_status_id_str": "1342449762616946692",
+		"in_reply_to_user_id": 1562961949,
+		"in_reply_to_user_id_str": "1562961949",
+		"in_reply_to_screen_name": "rMdes_",
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo",
+			"screen_name": "rMdes_",
+			"location": "Brussels",
+			"description": "Metamorphosis, Learning to code | Building Autonomy & resilience | Interest in Politics, Technology, Democracy, Human Rights @PolBegov @EUwatchers FR/EN/PT",
+			"url": "https://t.co/8F9N2ddWth",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8F9N2ddWth",
+							"expanded_url": "https://rmendes.net/",
+							"display_url": "rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2320,
+			"friends_count": 5001,
+			"listed_count": 319,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 13519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1335934681645273088/iNlXQcpb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1335934681645273088/iNlXQcpb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1607346679",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Je suis ravi de terminer un double calvaire, celui vécu par tout le monde depuis Mars et celui d'une procédure judiciaire difficile\nPour beaucoup d'entre nous @OKCinformation cette année se termine sur une victoire, sur nous même et sur une secte qui n'a jamais arrêté ses méfaits"
+	},
+	{
 		"created_at": "Fri Dec 18 16:04:32 +0000 2020",
 		"id": 1339952140652048400,
 		"id_str": "1339964775917350912",
