@@ -1,6 +1,869 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 26 07:41:37 +0000 2021",
+		"id": 1365205138726670300,
+		"id_str": "1365205361922351104",
+		"full_text": "A story in 3 fleets https://t.co/25euSr3xaf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1365205135543201800,
+					"id_str": "1365205135543201796",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/EvIu1m2XcAQha49.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvIu1m2XcAQha49.jpg",
+					"url": "https://t.co/25euSr3xaf",
+					"display_url": "pic.twitter.com/25euSr3xaf",
+					"expanded_url": "https://twitter.com/BuddhistLeaks/status/1365205138726670336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1365205135543201800,
+					"id_str": "1365205135543201796",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/EvIu1m2XcAQha49.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvIu1m2XcAQha49.jpg",
+					"url": "https://t.co/25euSr3xaf",
+					"display_url": "pic.twitter.com/25euSr3xaf",
+					"expanded_url": "https://twitter.com/BuddhistLeaks/status/1365205138726670336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 890549322240196600,
+			"id_str": "890549322240196612",
+			"name": "Tibetan Buddhism Leaks",
+			"screen_name": "BuddhistLeaks",
+			"location": "Dharamsala",
+			"description": "Newsbot amplifying comments & news regarding Tibetan Buddhist sexual abuses allegations🔥FPMT, Shambhala, RIGPA, FWBO, NKT, Triratna, Ogyen Kunzang Choling",
+			"url": "https://t.co/ajelpwOAQm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ajelpwOAQm",
+							"expanded_url": "https://AbusesInTibetanBuddhism.info",
+							"display_url": "AbusesInTibetanBuddhism.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 1196,
+			"listed_count": 0,
+			"created_at": "Thu Jul 27 12:27:58 +0000 2017",
+			"favourites_count": 224,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/890549322240196612/1608375674",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A story in 3 fleets https://t.co/25euSr3xaf"
+	},
+	{
+		"created_at": "Thu Feb 25 12:30:45 +0000 2021",
+		"id": 1364915736603484200,
+		"id_str": "1364915736603484163",
+		"full_text": "https://t.co/ubwuIiQK1o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1364915731159220200,
+					"id_str": "1364915731159220225",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EvEnoDgWgAEiCvs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvEnoDgWgAEiCvs.jpg",
+					"url": "https://t.co/ubwuIiQK1o",
+					"display_url": "pic.twitter.com/ubwuIiQK1o",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1364915736603484163/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1364915731159220200,
+					"id_str": "1364915731159220225",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EvEnoDgWgAEiCvs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvEnoDgWgAEiCvs.jpg",
+					"url": "https://t.co/ubwuIiQK1o",
+					"display_url": "pic.twitter.com/ubwuIiQK1o",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1364915736603484163/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Justice initiative",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | contact @rmdes_",
+			"url": "https://t.co/gJaUqhElyi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gJaUqhElyi",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 165,
+			"friends_count": 357,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1140,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/ubwuIiQK1o"
+	},
+	{
+		"created_at": "Thu Feb 25 12:25:09 +0000 2021",
+		"id": 1364914138577858600,
+		"id_str": "1364914328479088642",
+		"full_text": "Et visiblement la France est incapable de mener à bien des enquêtes, qui sont pourtant dans leur phases d'instructions, victimes prête à témoigner, plainte déposée et bhe non 2 pédocriminels, 1 Français en France l'autre, un Belge en Espagne, sont perdues dans les limbes. https://t.co/WeVoIwfjg0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WeVoIwfjg0",
+					"expanded_url": "https://twitter.com/BFMTV/status/1364567120047181828",
+					"display_url": "twitter.com/BFMTV/status/1…",
+					"indices": [
+						273,
+						296
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "Jugement 2 Décembre 2020 : Robert Spatz reconnu coupable de pédocriminalité, tortures et abus physiques sur mineurs, 5 ans/sursis - pourvoi en cassation",
+			"url": "https://t.co/mBwomSWidx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mBwomSWidx",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63,
+			"friends_count": 263,
+			"listed_count": 0,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222871572010151936/Rn9iM3wB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222871572010151936/Rn9iM3wB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1580395807",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1364567120047181800,
+		"quoted_status_id_str": "1364567120047181828",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WeVoIwfjg0",
+			"expanded": "https://twitter.com/BFMTV/status/1364567120047181828",
+			"display": "twitter.com/BFMTV/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 24 13:25:28 +0000 2021",
+			"id": 1364567120047181800,
+			"id_str": "1364567120047181828",
+			"full_text": "Marlène Schiappa annonce que 140.000 personnes sont sous l'emprise de dérives sectaires en France https://t.co/0YVf0v5ZTH https://t.co/uku5wsUP4H",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				121
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0YVf0v5ZTH",
+						"expanded_url": "https://www.bfmtv.com/politique/marlene-schiappa-annonce-que-140-000-personnes-sont-sous-l-emprise-de-derives-sectaires-en-france_AN-202102240167.html",
+						"display_url": "bfmtv.com/politique/marl…",
+						"indices": [
+							98,
+							121
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1364567116670722000,
+						"id_str": "1364567116670722050",
+						"indices": [
+							122,
+							145
+						],
+						"media_url": "http://pbs.twimg.com/media/Eu_qkBVWYAII7kO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eu_qkBVWYAII7kO.jpg",
+						"url": "https://t.co/uku5wsUP4H",
+						"display_url": "pic.twitter.com/uku5wsUP4H",
+						"expanded_url": "https://twitter.com/BFMTV/status/1364567120047181828/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1364567116670722000,
+						"id_str": "1364567116670722050",
+						"indices": [
+							122,
+							145
+						],
+						"media_url": "http://pbs.twimg.com/media/Eu_qkBVWYAII7kO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eu_qkBVWYAII7kO.jpg",
+						"url": "https://t.co/uku5wsUP4H",
+						"display_url": "pic.twitter.com/uku5wsUP4H",
+						"expanded_url": "https://twitter.com/BFMTV/status/1364567120047181828/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 133663801,
+				"id_str": "133663801",
+				"name": "BFMTV",
+				"screen_name": "BFMTV",
+				"location": "France",
+				"description": "Première sur l'info. Retrouvez-nous sur Snapchat/Instagram ➡ bfmtv",
+				"url": "https://t.co/Mjm8y6dGAC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Mjm8y6dGAC",
+								"expanded_url": "http://www.bfmtv.com",
+								"display_url": "bfmtv.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3020614,
+				"friends_count": 578,
+				"listed_count": 9461,
+				"created_at": "Fri Apr 16 09:55:26 +0000 2010",
+				"favourites_count": 665,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 515775,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "1277C9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1165822715732930565/uz3J1eOl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1165822715732930565/uz3J1eOl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/133663801/1579608118",
+				"profile_link_color": "1277C9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 130,
+			"favorite_count": 301,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Et visiblement la France est incapable de mener à bien des enquêtes, qui sont pourtant dans leur phases d'instructions, victimes prête à témoigner, plainte déposée et bhe non 2 pédocriminels, 1 Français en France l'autre, un Belge en Espagne, sont perdues dans les limbes. https://t.co/WeVoIwfjg0"
+	},
+	{
+		"created_at": "Thu Feb 25 11:01:16 +0000 2021",
+		"id": 1364888465813475300,
+		"id_str": "1364893216990986242",
+		"full_text": "#AmnesieTraumatique un sujet qui fait la une en France sur les réseaux sociaux, invisible en Belgique.\n#metooinceste #MetooAmnesie #metoo\n\nC'est quand qu' on va oser parler de la justice Belge, de la prescription de crimes sur mineurs, de l'accès à la justice pour les victimes ?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AmnesieTraumatique",
+					"indices": [
+						0,
+						19
+					]
+				},
+				{
+					"text": "metooinceste",
+					"indices": [
+						103,
+						116
+					]
+				},
+				{
+					"text": "MetooAmnesie",
+					"indices": [
+						117,
+						130
+					]
+				},
+				{
+					"text": "metoo",
+					"indices": [
+						131,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2359778089,
+			"id_str": "2359778089",
+			"name": "Veille infopol",
+			"screen_name": "PolBegov",
+			"location": "I block racists & xenophobes",
+			"description": "NewsBot Veille Info 🇧🇪\nAuto-Alimenté par les sections politique, économie et région des médias en Belgique - En Manutention/Pause - \n\n\n\n\nOpinions ~@rMdes_",
+			"url": "https://t.co/0cz5mWyc66",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0cz5mWyc66",
+							"expanded_url": "https://www.euwatch.live/polbegov-begov/",
+							"display_url": "euwatch.live/polbegov-begov/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5401,
+			"friends_count": 2506,
+			"listed_count": 250,
+			"created_at": "Mon Feb 24 16:54:12 +0000 2014",
+			"favourites_count": 5928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 282139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1323285846888488961/dLL-Z11F_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323285846888488961/dLL-Z11F_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2359778089/1448275480",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "#AmnesieTraumatique un sujet qui fait la une en France sur les réseaux sociaux, invisible en Belgique.\n#metooinceste #MetooAmnesie #metoo\n\nC'est quand qu' on va oser parler de la justice Belge, de la prescription de crimes sur mineurs, de l'accès à la justice pour les victimes ?"
+	},
+	{
+		"created_at": "Thu Feb 25 10:48:50 +0000 2021",
+		"id": 1364521929781174300,
+		"id_str": "1364890088417734657",
+		"full_text": "Ce que la défense de Robert Spatz alias Lama Kunzang aura perdu de vue pendant les 5 ans de procédure :\n\nLa liberté religieuse est importante.\nCe que ça implique ? La liberté de ne pas subire de discrimination basée sur ses croyances.\n\n1/2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "Jugement 2 Décembre 2020 : Robert Spatz reconnu coupable de pédocriminalité, tortures et abus physiques sur mineurs, 5 ans/sursis - pourvoi en cassation",
+			"url": "https://t.co/mBwomSWidx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mBwomSWidx",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63,
+			"friends_count": 263,
+			"listed_count": 0,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222871572010151936/Rn9iM3wB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222871572010151936/Rn9iM3wB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1580395807",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Ce que la défense de Robert Spatz alias Lama Kunzang aura perdu de vue pendant les 5 ans de procédure :\n\nLa liberté religieuse est importante.\nCe que ça implique ? La liberté de ne pas subire de discrimination basée sur ses croyances.\n\n1/2"
+	},
+	{
 		"created_at": "Wed Feb 24 10:30:10 +0000 2021",
 		"id": 1364521922869031000,
 		"id_str": "1364523002352852992",
