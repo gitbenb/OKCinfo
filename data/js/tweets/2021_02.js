@@ -1,6 +1,371 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 26 13:14:31 +0000 2021",
+		"id": 1365289140934365200,
+		"id_str": "1365289140934365185",
+		"full_text": "Silencing and Oblivion of Psychological Trauma, Its Unconscious Aspects, and Their Impact on the Inflation of Vajrayāna. An Analysis of Cross-Group Dynamics and Recent Developments in Buddhist Groups Based on Qualitative Data https://t.co/plVrE1je5L via @MDPIOpenAccess",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MDPIOpenAccess",
+					"name": "MDPI",
+					"id": 251800979,
+					"id_str": "251800979",
+					"indices": [
+						254,
+						269
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/plVrE1je5L",
+					"expanded_url": "https://www.mdpi.com/570948",
+					"display_url": "mdpi.com/570948",
+					"indices": [
+						226,
+						249
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Justice initiative",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | contact @rmdes_",
+			"url": "https://t.co/gJaUqhElyi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gJaUqhElyi",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 166,
+			"friends_count": 357,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Silencing and Oblivion of Psychological Trauma, Its Unconscious Aspects, and Their Impact on the Inflation of Vajrayāna. An Analysis of Cross-Group Dynamics and Recent Developments in Buddhist Groups Based on Qualitative Data https://t.co/plVrE1je5L via @MDPIOpenAccess"
+	},
+	{
+		"created_at": "Fri Feb 26 13:12:27 +0000 2021",
+		"id": 1360204202992169000,
+		"id_str": "1365288621750833159",
+		"full_text": "Sophie, Ricardo et Philippe ont grandi dans la secte de Robert Spatz.\nIsolés du monde extérieur, ils y ont été victimes de nombreux abus et maltraitances. Aujourd'hui, ils témoignent. https://t.co/fcCgYHAIcN #okcinfo #sectes #dérivessectaires #bouddhismetibétain #spatzisme",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "okcinfo",
+					"indices": [
+						208,
+						216
+					]
+				},
+				{
+					"text": "sectes",
+					"indices": [
+						217,
+						224
+					]
+				},
+				{
+					"text": "dérivessectaires",
+					"indices": [
+						225,
+						242
+					]
+				},
+				{
+					"text": "bouddhismetibétain",
+					"indices": [
+						243,
+						262
+					]
+				},
+				{
+					"text": "spatzisme",
+					"indices": [
+						263,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fcCgYHAIcN",
+					"expanded_url": "https://www.youtube.com/watch?v=3HZtYY5e6y8",
+					"display_url": "youtube.com/watch?v=3HZtYY…",
+					"indices": [
+						184,
+						207
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Justice initiative",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | contact @rmdes_",
+			"url": "https://t.co/gJaUqhElyi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gJaUqhElyi",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 166,
+			"friends_count": 357,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Sophie, Ricardo et Philippe ont grandi dans la secte de Robert Spatz.\nIsolés du monde extérieur, ils y ont été victimes de nombreux abus et maltraitances. Aujourd'hui, ils témoignent. https://t.co/fcCgYHAIcN #okcinfo #sectes #dérivessectaires #bouddhismetibétain #spatzisme"
+	},
+	{
+		"created_at": "Fri Feb 26 13:10:23 +0000 2021",
+		"id": 1365288099186638800,
+		"id_str": "1365288099186638851",
+		"full_text": "@KMeyronneinc Vraiment ?",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KMeyronneinc",
+					"name": "Koko Meyronneinc",
+					"id": 1036732444823695400,
+					"id_str": "1036732444823695360",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1365077797253841000,
+		"in_reply_to_status_id_str": "1365077797253840898",
+		"in_reply_to_user_id": 1036732444823695400,
+		"in_reply_to_user_id_str": "1036732444823695360",
+		"in_reply_to_screen_name": "KMeyronneinc",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Justice initiative",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | contact @rmdes_",
+			"url": "https://t.co/gJaUqhElyi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gJaUqhElyi",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 166,
+			"friends_count": 357,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1600261840",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@KMeyronneinc Vraiment ?"
+	},
+	{
 		"created_at": "Fri Feb 26 07:41:37 +0000 2021",
 		"id": 1365205138726670300,
 		"id_str": "1365205361922351104",
