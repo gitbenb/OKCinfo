@@ -1,6 +1,462 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sat Feb 27 13:49:56 +0000 2021",
+		"id": 1365657322098458600,
+		"id_str": "1365660439133253632",
+		"full_text": "\"Il faut bp de temps pr arriver à porter plainte. Tt s’y oppose : le déni, la loi du silence, les menaces et l’emprise des agresseurs et l’#AmnésieTraumatique. Mettre fin à la #prescription est 1question de justice et de lutte contre l’#impunité... face à des crimes aussi graves\" https://t.co/BIJqnpwKBr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AmnésieTraumatique",
+					"indices": [
+						139,
+						158
+					]
+				},
+				{
+					"text": "prescription",
+					"indices": [
+						176,
+						189
+					]
+				},
+				{
+					"text": "impunité",
+					"indices": [
+						236,
+						245
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BIJqnpwKBr",
+					"expanded_url": "https://twitter.com/memoiretrauma/status/1365600272005881858",
+					"display_url": "twitter.com/memoiretrauma/…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118866507,
+			"id_str": "118866507",
+			"name": "Muriel Salmona",
+			"screen_name": "memoiretrauma",
+			"location": "Bourg la Reine",
+			"description": "psychiatre psychotraumatologue pdte de l'association Mémoire Traumatique et Victimologie lutte contre ttes les violences",
+			"url": "http://t.co/MOquFuMIdb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MOquFuMIdb",
+							"expanded_url": "http://memoiretraumatique.org",
+							"display_url": "memoiretraumatique.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20487,
+			"friends_count": 6086,
+			"listed_count": 210,
+			"created_at": "Mon Mar 01 23:49:30 +0000 2010",
+			"favourites_count": 68223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/628633788432678912/fW83HmAm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/628633788432678912/fW83HmAm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118866507/1522508360",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1365600272005881900,
+		"quoted_status_id_str": "1365600272005881858",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BIJqnpwKBr",
+			"expanded": "https://twitter.com/memoiretrauma/status/1365600272005881858",
+			"display": "twitter.com/memoiretrauma/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 27 09:50:51 +0000 2021",
+			"id": 1365600272005881900,
+			"id_str": "1365600272005881858",
+			"full_text": "Ds @LaCroix L'hebdo de cette semaine mon interview par @marieboeton\nLa conversation : Muriel Salmona« On n’est jamais responsable des violences qu’on a subies » ⤵️\nhttps://t.co/uVIj38S0gG https://t.co/Dh3ppYB4pH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				187
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LaCroix",
+						"name": "La Croix",
+						"id": 12272292,
+						"id_str": "12272292",
+						"indices": [
+							3,
+							11
+						]
+					},
+					{
+						"screen_name": "marieboeton",
+						"name": "marie boeton",
+						"id": 107340939,
+						"id_str": "107340939",
+						"indices": [
+							55,
+							67
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/uVIj38S0gG",
+						"expanded_url": "https://www.la-croix.com/JournalV2/Muriel-Salmona-On-nest-jamais-responsable-violences-quon-subies-2021-02-27-1101142829",
+						"display_url": "la-croix.com/JournalV2/Muri…",
+						"indices": [
+							164,
+							187
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1365599227657801700,
+						"id_str": "1365599227657801730",
+						"indices": [
+							188,
+							211
+						],
+						"media_url": "http://pbs.twimg.com/media/EvOVQyYXUAIvEfX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EvOVQyYXUAIvEfX.jpg",
+						"url": "https://t.co/Dh3ppYB4pH",
+						"display_url": "pic.twitter.com/Dh3ppYB4pH",
+						"expanded_url": "https://twitter.com/memoiretrauma/status/1365600272005881858/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 718,
+								"h": 1078,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 718,
+								"h": 1078,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1365599227657801700,
+						"id_str": "1365599227657801730",
+						"indices": [
+							188,
+							211
+						],
+						"media_url": "http://pbs.twimg.com/media/EvOVQyYXUAIvEfX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EvOVQyYXUAIvEfX.jpg",
+						"url": "https://t.co/Dh3ppYB4pH",
+						"display_url": "pic.twitter.com/Dh3ppYB4pH",
+						"expanded_url": "https://twitter.com/memoiretrauma/status/1365600272005881858/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 718,
+								"h": 1078,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 718,
+								"h": 1078,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 118866507,
+				"id_str": "118866507",
+				"name": "Muriel Salmona",
+				"screen_name": "memoiretrauma",
+				"location": "Bourg la Reine",
+				"description": "psychiatre psychotraumatologue pdte de l'association Mémoire Traumatique et Victimologie lutte contre ttes les violences",
+				"url": "http://t.co/MOquFuMIdb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/MOquFuMIdb",
+								"expanded_url": "http://memoiretraumatique.org",
+								"display_url": "memoiretraumatique.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20487,
+				"friends_count": 6086,
+				"listed_count": 210,
+				"created_at": "Mon Mar 01 23:49:30 +0000 2010",
+				"favourites_count": 68223,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 86703,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/628633788432678912/fW83HmAm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/628633788432678912/fW83HmAm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/118866507/1522508360",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 75,
+			"favorite_count": 157,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 45,
+		"favorite_count": 88,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "\"Il faut bp de temps pr arriver à porter plainte. Tt s’y oppose : le déni, la loi du silence, les menaces et l’emprise des agresseurs et l’#AmnésieTraumatique. Mettre fin à la #prescription est 1question de justice et de lutte contre l’#impunité... face à des crimes aussi graves\" https://t.co/BIJqnpwKBr"
+	},
+	{
+		"created_at": "Sat Feb 27 13:49:46 +0000 2021",
+		"id": 1365657942884761600,
+		"id_str": "1365660400000380928",
+		"full_text": "\"Il est inhumain que la prescription les efface. Les prédateurs sexuels doivent répondre de leurs actes. Et ce, en soi, mais aussi pour les empêcher de récidiver sur d’autres victimes.\" #MetooAmnesie #Imprescriptibilité #StopImpunité",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MetooAmnesie",
+					"indices": [
+						186,
+						199
+					]
+				},
+				{
+					"text": "Imprescriptibilité",
+					"indices": [
+						200,
+						219
+					]
+				},
+				{
+					"text": "StopImpunité",
+					"indices": [
+						220,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1365657322098458600,
+		"in_reply_to_status_id_str": "1365657322098458625",
+		"in_reply_to_user_id": 118866507,
+		"in_reply_to_user_id_str": "118866507",
+		"in_reply_to_screen_name": "memoiretrauma",
+		"user": {
+			"id": 118866507,
+			"id_str": "118866507",
+			"name": "Muriel Salmona",
+			"screen_name": "memoiretrauma",
+			"location": "Bourg la Reine",
+			"description": "psychiatre psychotraumatologue pdte de l'association Mémoire Traumatique et Victimologie lutte contre ttes les violences",
+			"url": "http://t.co/MOquFuMIdb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MOquFuMIdb",
+							"expanded_url": "http://memoiretraumatique.org",
+							"display_url": "memoiretraumatique.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20487,
+			"friends_count": 6086,
+			"listed_count": 210,
+			"created_at": "Mon Mar 01 23:49:30 +0000 2010",
+			"favourites_count": 68223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/628633788432678912/fW83HmAm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/628633788432678912/fW83HmAm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118866507/1522508360",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "\"Il est inhumain que la prescription les efface. Les prédateurs sexuels doivent répondre de leurs actes. Et ce, en soi, mais aussi pour les empêcher de récidiver sur d’autres victimes.\" #MetooAmnesie #Imprescriptibilité #StopImpunité"
+	},
+	{
 		"created_at": "Fri Feb 26 13:14:31 +0000 2021",
 		"id": 1365289140934365200,
 		"id_str": "1365289140934365185",
