@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 09 12:56:54 +0000 2021",
+		"id": 1398246780681310200,
+		"id_str": "1402610656604479488",
+		"full_text": "En Belgique aussi, la présomption d'innocence l'emporte sur le vécu des victimes qui risquent des procès en diffamation pour simplement révéler la vérité, sur la place publique, dans les médias\n\nIl faut rééquilibrer la balance.\n\nRobert Spatz a pas moins de 11 victimes a son actif https://t.co/sG0bhz2ucj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sG0bhz2ucj",
+					"expanded_url": "https://twitter.com/proteger_enfant/status/1398154568450686976",
+					"display_url": "twitter.com/proteger_enfan…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "Jugement 2 décembre 2020 : Robert Spatz coupable de pédocriminalité, tortures et abus physiques sur mineurs, 5 ans/sursis, l'accusé se pourvoit en cassation!!!!",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81,
+			"friends_count": 296,
+			"listed_count": 0,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 147,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 558,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222871572010151936/Rn9iM3wB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222871572010151936/Rn9iM3wB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1580395807",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1398154568450687000,
+		"quoted_status_id_str": "1398154568450686976",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sG0bhz2ucj",
+			"expanded": "https://twitter.com/proteger_enfant/status/1398154568450686976",
+			"display": "twitter.com/proteger_enfan…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 28 05:50:00 +0000 2021",
+			"id": 1398154568450687000,
+			"id_str": "1398154568450686976",
+			"full_text": "« La présomption de crédibilité serait que l’on commence par croire la victime. \nLorsque la victime a révélé les violences, on doit appliquer le principe de précaution et protéger la victime tout de suite. » \nErnestine Ronai\n\n👉 https://t.co/N4xaRUJaQY\n\n#violencesfamiliales https://t.co/fjaogCesLr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "violencesfamiliales",
+						"indices": [
+							253,
+							273
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/N4xaRUJaQY",
+						"expanded_url": "https://www.50-50magazine.fr/2021/05/19/ernestine-ronai-on-a-besoin-de-faire-reconnaitre-toutes-les-formes-de-violences/",
+						"display_url": "50-50magazine.fr/2021/05/19/ern…",
+						"indices": [
+							228,
+							251
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1397917468769751000,
+						"id_str": "1397917468769751042",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/E2ZmiAdVkAIiYXo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2ZmiAdVkAIiYXo.jpg",
+						"url": "https://t.co/fjaogCesLr",
+						"display_url": "pic.twitter.com/fjaogCesLr",
+						"expanded_url": "https://twitter.com/proteger_enfant/status/1398154568450686976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1397917468769751000,
+						"id_str": "1397917468769751042",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/E2ZmiAdVkAIiYXo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2ZmiAdVkAIiYXo.jpg",
+						"url": "https://t.co/fjaogCesLr",
+						"display_url": "pic.twitter.com/fjaogCesLr",
+						"expanded_url": "https://twitter.com/proteger_enfant/status/1398154568450686976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1310489234382434300,
+				"id_str": "1310489234382434309",
+				"name": "Protéger l'enfant",
+				"screen_name": "proteger_enfant",
+				"location": "Paris",
+				"description": "Association pour réformer le délit de non représentation d'enfant\nLe parent protecteur doit pouvoir protéger l'enfant du parent violent \nFB IG proteger.l.enfant",
+				"url": "https://t.co/PuLdtbc1oM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PuLdtbc1oM",
+								"expanded_url": "https://www.protegerlenfant.fr/proteger-lenfant-en-savoir-plus/",
+								"display_url": "protegerlenfant.fr/proteger-lenfa…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1028,
+				"friends_count": 150,
+				"listed_count": 8,
+				"created_at": "Mon Sep 28 07:59:29 +0000 2020",
+				"favourites_count": 3313,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2227,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1364549801229041666/ABW_E9Za_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364549801229041666/ABW_E9Za_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1310489234382434309/1614596270",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26,
+			"favorite_count": 38,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "En Belgique aussi, la présomption d'innocence l'emporte sur le vécu des victimes qui risquent des procès en diffamation pour simplement révéler la vérité, sur la place publique, dans les médias\n\nIl faut rééquilibrer la balance.\n\nRobert Spatz a pas moins de 11 victimes a son actif https://t.co/sG0bhz2ucj"
+	},
+	{
 		"created_at": "Wed Jun 09 07:31:08 +0000 2021",
 		"id": 1402528674436558800,
 		"id_str": "1402528674436558850",
