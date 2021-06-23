@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 23 05:49:52 +0000 2021",
+		"id": 1407572911599325200,
+		"id_str": "1407576618957160450",
+		"full_text": "Pour @MatthieuRicard\nUn \"lieu ne peut pas être damné pour l'éternité pour des crimes qui s'y sont déroulé\" (source email aux parties civiles @OKCinfor) \n\nEncore faut-il que ces crimes soient reconnus et qualifiés en tant que tels et pas que par les autorités judiciaires.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						5,
+						20
+					]
+				},
+				{
+					"screen_name": "OKCinfor",
+					"name": "Initiative de Justice OKCinfo",
+					"id": 1097520031955587100,
+					"id_str": "1097520031955587073",
+					"indices": [
+						141,
+						150
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 890549322240196600,
+			"id_str": "890549322240196612",
+			"name": "Tibetan Buddhism Leaks",
+			"screen_name": "BuddhistLeaks",
+			"location": "Dharamsala",
+			"description": "Newsbot amplifying comments & news regarding Tibetan Buddhist sexual abuses allegations🔥FPMT, Shambhala, RIGPA, FWBO, NKT, Triratna, Ogyen Kunzang Choling",
+			"url": "https://t.co/ajelpwOAQm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ajelpwOAQm",
+							"expanded_url": "https://AbusesInTibetanBuddhism.info",
+							"display_url": "AbusesInTibetanBuddhism.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 413,
+			"friends_count": 1531,
+			"listed_count": 0,
+			"created_at": "Thu Jul 27 12:27:58 +0000 2017",
+			"favourites_count": 275,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/890549322240196612/1608375674",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Pour @MatthieuRicard\nUn \"lieu ne peut pas être damné pour l'éternité pour des crimes qui s'y sont déroulé\" (source email aux parties civiles @OKCinfor) \n\nEncore faut-il que ces crimes soient reconnus et qualifiés en tant que tels et pas que par les autorités judiciaires."
+	},
+	{
 		"created_at": "Tue Jun 22 01:29:03 +0000 2021",
 		"id": 1407148594470260700,
 		"id_str": "1407148594470260742",
