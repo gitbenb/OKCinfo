@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 24 07:56:32 +0000 2021",
+		"id": 1407958136099684400,
+		"id_str": "1407970886410510339",
+		"full_text": "6 mois que des dizaines de personnes, dont 20+ parties civiles attendent le verdict de la Cour de Cassation de liège sur l'appel du principal prévenu absent de l'affaire OKC-Spatz, OKC organisation sectaire Belge avait été reconnue sous emprise et acquittée. \n\nLe temps passe. https://t.co/pDCvJqxUan",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1407958111059579000,
+					"id_str": "1407958111059578885",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/E4oScTxWEAUb04D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4oScTxWEAUb04D.jpg",
+					"url": "https://t.co/pDCvJqxUan",
+					"display_url": "pic.twitter.com/pDCvJqxUan",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1407958136099684355/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 512,
+							"h": 341,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 341,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 512,
+							"h": 341,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407958111059579000,
+					"id_str": "1407958111059578885",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/E4oScTxWEAUb04D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4oScTxWEAUb04D.jpg",
+					"url": "https://t.co/pDCvJqxUan",
+					"display_url": "pic.twitter.com/pDCvJqxUan",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1407958136099684355/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 512,
+							"h": 341,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 341,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 512,
+							"h": 341,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1407958121658687500,
+					"id_str": "1407958121658687488",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/E4oSc7QXoAAGbGw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4oSc7QXoAAGbGw.jpg",
+					"url": "https://t.co/pDCvJqxUan",
+					"display_url": "pic.twitter.com/pDCvJqxUan",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1407958136099684355/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1407958132173820000,
+					"id_str": "1407958132173819907",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/E4oSdibX0AMYiM3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4oSdibX0AMYiM3.jpg",
+					"url": "https://t.co/pDCvJqxUan",
+					"display_url": "pic.twitter.com/pDCvJqxUan",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1407958136099684355/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1984,
+							"h": 1984,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "Jugement 2 décembre 2020 : Robert Spatz coupable de pédocriminalité, tortures et abus physiques sur mineurs, 5 ans/sursis, l'accusé se pourvoit en cassation!!!!",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82,
+			"friends_count": 297,
+			"listed_count": 0,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 150,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222871572010151936/Rn9iM3wB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222871572010151936/Rn9iM3wB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1580395807",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "6 mois que des dizaines de personnes, dont 20+ parties civiles attendent le verdict de la Cour de Cassation de liège sur l'appel du principal prévenu absent de l'affaire OKC-Spatz, OKC organisation sectaire Belge avait été reconnue sous emprise et acquittée. \n\nLe temps passe. https://t.co/pDCvJqxUan"
+	},
+	{
 		"created_at": "Wed Jun 23 05:49:52 +0000 2021",
 		"id": 1407572911599325200,
 		"id_str": "1407576618957160450",
