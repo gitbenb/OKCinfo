@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 27 21:11:06 +0000 2021",
+		"id": 1401916381751394300,
+		"id_str": "1409258007955968016",
+		"full_text": "Née en Belgique et en France, depuis les perquisitions de 1997, la secte OKC sévit en Espagne, environ de malaga et marbella, pendant ce temps, l'Affaire judiciaire en Belgique est en appel (par les prévenus) et en instruction en France.. Et nous avons des choses à vous dire https://t.co/aKC6DP4ehI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aKC6DP4ehI",
+					"expanded_url": "https://twitter.com/Miviludes_Gouv/status/1401915737166520326",
+					"display_url": "twitter.com/Miviludes_Gouv…",
+					"indices": [
+						276,
+						299
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "Jugement 2 décembre 2020 : Robert Spatz coupable de pédocriminalité, tortures et abus physiques sur mineurs, 5 ans/sursis, l'accusé se pourvoit en cassation!!!!",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84,
+			"friends_count": 297,
+			"listed_count": 0,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 150,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222871572010151936/Rn9iM3wB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222871572010151936/Rn9iM3wB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1580395807",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1401915737166520300,
+		"quoted_status_id_str": "1401915737166520326",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aKC6DP4ehI",
+			"expanded": "https://twitter.com/Miviludes_Gouv/status/1401915737166520326",
+			"display": "twitter.com/Miviludes_Gouv…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 07 14:55:32 +0000 2021",
+			"id": 1401915737166520300,
+			"id_str": "1401915737166520326",
+			"full_text": "Vous voulez signaler une dérive sectaire? \nVoici la marche à suivre:\n👉https://t.co/ZUBX8Xpp3a https://t.co/sWB95iC208",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				93
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZUBX8Xpp3a",
+						"expanded_url": "http://www.derives-sectes.gouv.fr/quelles-instances-saisir",
+						"display_url": "derives-sectes.gouv.fr/quelles-instan…",
+						"indices": [
+							70,
+							93
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1401915332391059500,
+						"id_str": "1401915332391059456",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/E3SakTBXwAAatXx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E3SakTBXwAAatXx.jpg",
+						"url": "https://t.co/sWB95iC208",
+						"display_url": "pic.twitter.com/sWB95iC208",
+						"expanded_url": "https://twitter.com/Miviludes_Gouv/status/1401915737166520326/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1401915332391059500,
+						"id_str": "1401915332391059456",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/E3SakTBXwAAatXx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E3SakTBXwAAatXx.jpg",
+						"url": "https://t.co/sWB95iC208",
+						"display_url": "pic.twitter.com/sWB95iC208",
+						"expanded_url": "https://twitter.com/Miviludes_Gouv/status/1401915737166520326/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1389966435292700700,
+				"id_str": "1389966435292700677",
+				"name": "Miviludes",
+				"screen_name": "Miviludes_Gouv",
+				"location": "Paris",
+				"description": "Mission interministérielle de vigilance et de lutte contre les #DérivesSectaires , @SG_CIPDR",
+				"url": "https://t.co/Ktdpn1J37L",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ktdpn1J37L",
+								"expanded_url": "https://www.derives-sectes.gouv.fr/",
+								"display_url": "derives-sectes.gouv.fr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 905,
+				"friends_count": 13,
+				"listed_count": 2,
+				"created_at": "Wed May 05 15:33:42 +0000 2021",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1390703995287711746/gbjK9yl5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1390703995287711746/gbjK9yl5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1389966435292700677/1620404663",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Née en Belgique et en France, depuis les perquisitions de 1997, la secte OKC sévit en Espagne, environ de malaga et marbella, pendant ce temps, l'Affaire judiciaire en Belgique est en appel (par les prévenus) et en instruction en France.. Et nous avons des choses à vous dire https://t.co/aKC6DP4ehI"
+	},
+	{
 		"created_at": "Fri Jun 25 04:37:53 +0000 2021",
 		"id": 1408283280282161200,
 		"id_str": "1408283280282161152",
