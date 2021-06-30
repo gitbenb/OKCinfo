@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 29 11:53:24 +0000 2021",
+		"id": 1409827539732807700,
+		"id_str": "1409842435757424641",
+		"full_text": "Soutenez l'initiative OKCinfo, si vous le pouvez, partagez ce lien, parlez de cette histoire autour de vous, nous avons besoin de votre soutien ! | https://t.co/nzP9xcssDd via @okcinfor",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinfor",
+					"name": "Initiative de Justice OKCinfo",
+					"id": 1097520031955587100,
+					"id_str": "1097520031955587073",
+					"indices": [
+						176,
+						185
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nzP9xcssDd",
+					"expanded_url": "https://okcinfo.news/b/2j",
+					"display_url": "okcinfo.news/b/2j",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo 💉💉",
+			"screen_name": "rMdes_",
+			"location": "Brussels",
+			"description": "Learning to code | Building Autonomy & resilience | Interest in Politics, Technology, Democracy, Human Rights @PolBegov @EUwatchers Spokesperson @OKCinfor",
+			"url": "https://t.co/zNucbsHeDX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zNucbsHeDX",
+							"expanded_url": "https://rmendes.net/",
+							"display_url": "rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2347,
+			"friends_count": 4775,
+			"listed_count": 319,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 14020,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40923,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1400215400202244097/Yd1_pkZ7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1400215400202244097/Yd1_pkZ7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1607346679",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Soutenez l'initiative OKCinfo, si vous le pouvez, partagez ce lien, parlez de cette histoire autour de vous, nous avons besoin de votre soutien ! | https://t.co/nzP9xcssDd via @okcinfor"
+	},
+	{
 		"created_at": "Mon Jun 28 15:40:11 +0000 2021",
 		"id": 1409504623333986300,
 		"id_str": "1409537117966024712",
