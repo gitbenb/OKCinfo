@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 02 22:55:04 +0000 2021",
+		"id": 1411096109334810600,
+		"id_str": "1411096109334810627",
+		"full_text": "Tous plein de points qui se retrouvent dans la dérive sectaire Ogyen Kunzang Choling aka OKC https://t.co/xctyv3EFkY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xctyv3EFkY",
+					"expanded_url": "https://twitter.com/strategiks/status/1410632743113920512",
+					"display_url": "twitter.com/strategiks/sta…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | contact @rmdes_",
+			"url": "https://t.co/gJaUqhElyi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gJaUqhElyi",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 172,
+			"friends_count": 376,
+			"listed_count": 8,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 317,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1410632743113920500,
+		"quoted_status_id_str": "1410632743113920512",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xctyv3EFkY",
+			"expanded": "https://twitter.com/strategiks/status/1410632743113920512",
+			"display": "twitter.com/strategiks/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 01 16:13:48 +0000 2021",
+			"id": 1410632743113920500,
+			"id_str": "1410632743113920512",
+			"full_text": "Grandes lignes de ma présentation aujourd'hui au colloque de l'International Cultic Studies Association, à Montréal : https://t.co/rPv1KPXkU4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				117
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1410626037025755100,
+						"id_str": "1410626037025755138",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/media/E5OM6CfWUAIr54S.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5OM6CfWUAIr54S.jpg",
+						"url": "https://t.co/rPv1KPXkU4",
+						"display_url": "pic.twitter.com/rPv1KPXkU4",
+						"expanded_url": "https://twitter.com/strategiks/status/1410632743113920512/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 673,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1341,
+								"h": 752,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1410626037025755100,
+						"id_str": "1410626037025755138",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/media/E5OM6CfWUAIr54S.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5OM6CfWUAIr54S.jpg",
+						"url": "https://t.co/rPv1KPXkU4",
+						"display_url": "pic.twitter.com/rPv1KPXkU4",
+						"expanded_url": "https://twitter.com/strategiks/status/1410632743113920512/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 673,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1341,
+								"h": 752,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 170047215,
+				"id_str": "170047215",
+				"name": "Arnaud Palisson",
+				"screen_name": "strategiks",
+				"location": "Montréal  🇨🇦",
+				"description": "Analyste (Privacy - Sûreté - InfoSec - Sectes)\nChargé de cours @UMontreal @PolyMTL\narnaud.palisson@protonmail.com",
+				"url": "https://t.co/URdRghPZPb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/URdRghPZPb",
+								"expanded_url": "http://rapports-minoritaires.net",
+								"display_url": "rapports-minoritaires.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 553,
+				"friends_count": 92,
+				"listed_count": 23,
+				"created_at": "Fri Jul 23 20:27:29 +0000 2010",
+				"favourites_count": 6746,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12827,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/958202893777203201/rLcZeGXN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/958202893777203201/rLcZeGXN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/170047215/1517290804",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Tous plein de points qui se retrouvent dans la dérive sectaire Ogyen Kunzang Choling aka OKC https://t.co/xctyv3EFkY"
+	},
+	{
 		"created_at": "Thu Jul 01 18:02:15 +0000 2021",
 		"id": 1410654550529392600,
 		"id_str": "1410660032086216710",
