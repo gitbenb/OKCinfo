@@ -1,6 +1,362 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 07 18:42:32 +0000 2021",
+		"id": 1412837094800736300,
+		"id_str": "1412844496681832449",
+		"full_text": "It keeps baffling me that no matter where in the planet, no matter being Buddhist or not, no matter the school, the center, the monastery, no matter the reality of Abuses being known by @DalaiLama since at least 1993 (if not earlier)\n\nconsensus is that He shouldn't be bothered",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DalaiLama",
+					"name": "Dalai Lama",
+					"id": 20609518,
+					"id_str": "20609518",
+					"indices": [
+						186,
+						196
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 890549322240196600,
+			"id_str": "890549322240196612",
+			"name": "Tibetan Buddhism Leaks",
+			"screen_name": "BuddhistLeaks",
+			"location": "Dharamsala",
+			"description": "Newsbot amplifying comments & news regarding Tibetan Buddhist sexual abuses allegations🔥FPMT, Shambhala, RIGPA, FWBO, NKT, Triratna, Ogyen Kunzang Choling",
+			"url": "https://t.co/ajelpwOAQm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ajelpwOAQm",
+							"expanded_url": "https://AbusesInTibetanBuddhism.info",
+							"display_url": "AbusesInTibetanBuddhism.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 431,
+			"friends_count": 1629,
+			"listed_count": 0,
+			"created_at": "Thu Jul 27 12:27:58 +0000 2017",
+			"favourites_count": 290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/890549322240196612/1608375674",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "It keeps baffling me that no matter where in the planet, no matter being Buddhist or not, no matter the school, the center, the monastery, no matter the reality of Abuses being known by @DalaiLama since at least 1993 (if not earlier)\n\nconsensus is that He shouldn't be bothered"
+	},
+	{
+		"created_at": "Wed Jul 07 13:34:59 +0000 2021",
+		"id": 1412685700005310500,
+		"id_str": "1412767102524612609",
+		"full_text": "read the actual thread, including all the replies and check out the links, there is something obnoxious in the way @DalaiLama has a track record of meeting, legitimizing very dubious people.\nWhen you're such figure you don't hang out with criminals Keith Raniere or Robert Spatz https://t.co/vVPSEmHXRg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DalaiLama",
+					"name": "Dalai Lama",
+					"id": 20609518,
+					"id_str": "20609518",
+					"indices": [
+						115,
+						125
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vVPSEmHXRg",
+					"expanded_url": "https://twitter.com/BuddhistLeaks/status/1412479719598084103",
+					"display_url": "twitter.com/BuddhistLeaks/…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 890549322240196600,
+			"id_str": "890549322240196612",
+			"name": "Tibetan Buddhism Leaks",
+			"screen_name": "BuddhistLeaks",
+			"location": "Dharamsala",
+			"description": "Newsbot amplifying comments & news regarding Tibetan Buddhist sexual abuses allegations🔥FPMT, Shambhala, RIGPA, FWBO, NKT, Triratna, Ogyen Kunzang Choling",
+			"url": "https://t.co/ajelpwOAQm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ajelpwOAQm",
+							"expanded_url": "https://AbusesInTibetanBuddhism.info",
+							"display_url": "AbusesInTibetanBuddhism.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 431,
+			"friends_count": 1629,
+			"listed_count": 0,
+			"created_at": "Thu Jul 27 12:27:58 +0000 2017",
+			"favourites_count": 290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/890549322240196612/1608375674",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1412479719598084000,
+		"quoted_status_id_str": "1412479719598084103",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vVPSEmHXRg",
+			"expanded": "https://twitter.com/BuddhistLeaks/status/1412479719598084103",
+			"display": "twitter.com/BuddhistLeaks/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 06 18:33:02 +0000 2021",
+			"id": 1412479719598084000,
+			"id_str": "1412479719598084103",
+			"full_text": "We're not going to play the bowing game and wish Happy Birthday to @DalaiLama, not until he acts on his promise to organize an international meeting with lineage heads about Sexual Abuses in Tibetan Buddhism.\n\nThe most ethical men in the world failed Rotterdam 2018 victims. https://t.co/nUOtu5IvoA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DalaiLama",
+						"name": "Dalai Lama",
+						"id": 20609518,
+						"id_str": "20609518",
+						"indices": [
+							67,
+							77
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/nUOtu5IvoA",
+						"expanded_url": "https://twitter.com/BuddhistLeaks/status/1409037958095769600",
+						"display_url": "twitter.com/BuddhistLeaks/…",
+						"indices": [
+							275,
+							298
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 890549322240196600,
+				"id_str": "890549322240196612",
+				"name": "Tibetan Buddhism Leaks",
+				"screen_name": "BuddhistLeaks",
+				"location": "Dharamsala",
+				"description": "Newsbot amplifying comments & news regarding Tibetan Buddhist sexual abuses allegations🔥FPMT, Shambhala, RIGPA, FWBO, NKT, Triratna, Ogyen Kunzang Choling",
+				"url": "https://t.co/ajelpwOAQm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ajelpwOAQm",
+								"expanded_url": "https://AbusesInTibetanBuddhism.info",
+								"display_url": "AbusesInTibetanBuddhism.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 431,
+				"friends_count": 1629,
+				"listed_count": 0,
+				"created_at": "Thu Jul 27 12:27:58 +0000 2017",
+				"favourites_count": 290,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11624,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/890549322240196612/1608375674",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1409037958095769600,
+			"quoted_status_id_str": "1409037958095769600",
+			"quoted_status_permalink": {
+				"url": "https://t.co/nUOtu5IvoA",
+				"expanded": "https://twitter.com/BuddhistLeaks/status/1409037958095769600",
+				"display": "twitter.com/BuddhistLeaks/…"
+			},
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "read the actual thread, including all the replies and check out the links, there is something obnoxious in the way @DalaiLama has a track record of meeting, legitimizing very dubious people.\nWhen you're such figure you don't hang out with criminals Keith Raniere or Robert Spatz https://t.co/vVPSEmHXRg"
+	},
+	{
 		"created_at": "Tue Jul 06 21:46:26 +0000 2021",
 		"id": 1412528388582092800,
 		"id_str": "1412528388582092806",
