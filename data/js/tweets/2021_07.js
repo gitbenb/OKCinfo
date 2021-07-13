@@ -1,6 +1,144 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 12 15:50:52 +0000 2021",
+		"id": 1414610770650861600,
+		"id_str": "1414613234653478919",
+		"full_text": "Cagnotte de l'initiative en Justice OKCinfo pour assurer notre défense en France\n- Lire la dernière mise à jour pour plus de détail\n- Merci d'avance pour toutes les contributions\n- contexte : https://t.co/BonyuEnVAj\n#dérivessectaires #sectes #procesOKC\n\nhttps://t.co/XYnhJiUWMw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dérivessectaires",
+					"indices": [
+						216,
+						233
+					]
+				},
+				{
+					"text": "sectes",
+					"indices": [
+						234,
+						241
+					]
+				},
+				{
+					"text": "procesOKC",
+					"indices": [
+						242,
+						252
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BonyuEnVAj",
+					"expanded_url": "https://okcinfo.news/crowdfunding/",
+					"display_url": "okcinfo.news/crowdfunding/",
+					"indices": [
+						192,
+						215
+					]
+				},
+				{
+					"url": "https://t.co/XYnhJiUWMw",
+					"expanded_url": "https://www.okpal.com/okcinfo/#updates",
+					"display_url": "okpal.com/okcinfo/#updat…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "Jugement 2 décembre 2020 : Robert Spatz coupable de pédocriminalité, tortures et abus physiques sur mineurs, 5 ans/sursis, l'accusé se pourvoit en cassation!!!!",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89,
+			"friends_count": 303,
+			"listed_count": 0,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 608,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222871572010151936/Rn9iM3wB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222871572010151936/Rn9iM3wB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1580395807",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Cagnotte de l'initiative en Justice OKCinfo pour assurer notre défense en France\n- Lire la dernière mise à jour pour plus de détail\n- Merci d'avance pour toutes les contributions\n- contexte : https://t.co/BonyuEnVAj\n#dérivessectaires #sectes #procesOKC\n\nhttps://t.co/XYnhJiUWMw"
+	},
+	{
 		"created_at": "Sat Jul 10 22:10:51 +0000 2021",
 		"id": 1413983823306662000,
 		"id_str": "1413984088172683268",
