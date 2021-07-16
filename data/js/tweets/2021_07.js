@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 15 14:56:09 +0000 2021",
+		"id": 1415340382322372600,
+		"id_str": "1415686628824154113",
+		"full_text": "Entre les années 70 et les années 2015, le public belge, principalement à Bruxelles a financé, sans le savoir une dérive sectaire : la Ogyen Kunzang Choling ou OKC, la secte de Robert Spatz.\n\nPendant que des enfants était séparé de leur parents et torturé, reconnu par 2 jugements https://t.co/87NSUC2SiP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1415340377205264400,
+					"id_str": "1415340377205264386",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/E6RMkwOWUAIbWj_.png",
+					"media_url_https": "https://pbs.twimg.com/media/E6RMkwOWUAIbWj_.png",
+					"url": "https://t.co/87NSUC2SiP",
+					"display_url": "pic.twitter.com/87NSUC2SiP",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1415340382322372615/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1173,
+							"h": 1173,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1173,
+							"h": 1173,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415340377205264400,
+					"id_str": "1415340377205264386",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/E6RMkwOWUAIbWj_.png",
+					"media_url_https": "https://pbs.twimg.com/media/E6RMkwOWUAIbWj_.png",
+					"url": "https://t.co/87NSUC2SiP",
+					"display_url": "pic.twitter.com/87NSUC2SiP",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1415340382322372615/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1173,
+							"h": 1173,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1173,
+							"h": 1173,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1415340379990339600,
+					"id_str": "1415340379990339589",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/E6RMk6mXMAUH_qb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6RMk6mXMAUH_qb.jpg",
+					"url": "https://t.co/87NSUC2SiP",
+					"display_url": "pic.twitter.com/87NSUC2SiP",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1415340382322372615/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 79,
+							"h": 65,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 65,
+							"h": 65,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 79,
+							"h": 65,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 79,
+							"h": 65,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Brussel, België",
+			"description": "Jugement 2 décembre 2020 : Robert Spatz coupable de pédocriminalité, tortures et abus physiques sur mineurs, 5 ans/sursis, l'accusé se pourvoit en cassation!!!!",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88,
+			"friends_count": 304,
+			"listed_count": 0,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 618,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1415233403096637446/RbcF-rye_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415233403096637446/RbcF-rye_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1580395807",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Entre les années 70 et les années 2015, le public belge, principalement à Bruxelles a financé, sans le savoir une dérive sectaire : la Ogyen Kunzang Choling ou OKC, la secte de Robert Spatz.\n\nPendant que des enfants était séparé de leur parents et torturé, reconnu par 2 jugements https://t.co/87NSUC2SiP"
+	},
+	{
 		"created_at": "Wed Jul 14 16:02:03 +0000 2021",
 		"id": 1415340828248223700,
 		"id_str": "1415340828248223748",
