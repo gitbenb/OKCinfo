@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 17 20:35:48 +0000 2021",
+		"id": 1416453962929160200,
+		"id_str": "1416496883229466624",
+		"full_text": "La mère de vos enfants est partie sur son chemin spirituel et tant pis pour la famille.Comment allez-vous faire avec la vaccination obligatoire de vos enfants de 12 à 17 ans ? La vaccination, elle n'en veut pas et elle est devenue complotiste.Cela va être compliqué !!! https://t.co/nQfV1rwjXU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1416453374837407700,
+					"id_str": "1416453374837407749",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/E6hA1vgWQAU7yAI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6hA1vgWQAU7yAI.jpg",
+					"url": "https://t.co/nQfV1rwjXU",
+					"display_url": "pic.twitter.com/nQfV1rwjXU",
+					"expanded_url": "https://twitter.com/avocatblanchard/status/1416453962929160193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 474,
+							"h": 474,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 474,
+							"h": 474,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 474,
+							"h": 474,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1416453374837407700,
+					"id_str": "1416453374837407749",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/E6hA1vgWQAU7yAI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6hA1vgWQAU7yAI.jpg",
+					"url": "https://t.co/nQfV1rwjXU",
+					"display_url": "pic.twitter.com/nQfV1rwjXU",
+					"expanded_url": "https://twitter.com/avocatblanchard/status/1416453962929160193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 474,
+							"h": 474,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 474,
+							"h": 474,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 474,
+							"h": 474,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1071543555401900000,
+			"id_str": "1071543555401900033",
+			"name": "Valérie Blanchard Avocat à Paris",
+			"screen_name": "avocatblanchard",
+			"location": "PARIS",
+			"description": "Avocat enquêteur-Je combats la prédation des organisations spirituelles et des thérapeutes gourous . Présidente de l'association @centre_accec dérives sectaires",
+			"url": "https://t.co/PX8ieplE29",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PX8ieplE29",
+							"expanded_url": "https://www.valerieblanchardavocate.com/",
+							"display_url": "valerieblanchardavocate.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 949,
+			"friends_count": 1271,
+			"listed_count": 6,
+			"created_at": "Sat Dec 08 23:14:26 +0000 2018",
+			"favourites_count": 3063,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1237398191311634433/9Y52mo9v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1237398191311634433/9Y52mo9v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1071543555401900033/1544311549",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "La mère de vos enfants est partie sur son chemin spirituel et tant pis pour la famille.Comment allez-vous faire avec la vaccination obligatoire de vos enfants de 12 à 17 ans ? La vaccination, elle n'en veut pas et elle est devenue complotiste.Cela va être compliqué !!! https://t.co/nQfV1rwjXU"
+	},
+	{
 		"created_at": "Fri Jul 16 10:21:44 +0000 2021",
 		"id": 1415979959932293000,
 		"id_str": "1415979959932293126",
