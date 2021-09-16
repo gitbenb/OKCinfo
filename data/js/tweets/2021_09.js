@@ -1,6 +1,305 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 15 10:17:28 +0000 2021",
+		"id": 1438084377599258600,
+		"id_str": "1438084546579283971",
+		"full_text": "The plight of sexual abuses survivors born inside coercive control groups otherwise known as cults or High Control Groups.\n\nTake the @OKCinformation case, children's born and raised inside OKC, under a toxic Tibetan Buddhism environment, polluted by Spatzism. https://t.co/iWcwcSthW3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinformation",
+					"name": "OKCinfo Research",
+					"id": 3309353195,
+					"id_str": "3309353195",
+					"indices": [
+						133,
+						148
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iWcwcSthW3",
+					"expanded_url": "https://twitter.com/ActivelyHealing/status/1438075587411722241",
+					"display_url": "twitter.com/ActivelyHealin…",
+					"indices": [
+						260,
+						283
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 890549322240196600,
+			"id_str": "890549322240196612",
+			"name": "Tibetan Buddhism Leaks",
+			"screen_name": "BuddhistLeaks",
+			"location": "Dharamsala",
+			"description": "Amplifying comments & news regarding Tibetan Buddhism sexual abuses allegations crimes : ⛔ FPMT, Shambhala, RIGPA, FWBO, NKT, Triratna, Ogyen Kunzang Choling",
+			"url": "https://t.co/hUPUjKwEpU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hUPUjKwEpU",
+							"expanded_url": "https://AbusesInTibetanBuddhism.info",
+							"display_url": "AbusesInTibetanBuddhism.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 482,
+			"friends_count": 1648,
+			"listed_count": 0,
+			"created_at": "Thu Jul 27 12:27:58 +0000 2017",
+			"favourites_count": 332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12071,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/890549322240196612/1608375674",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1438075587411722200,
+		"quoted_status_id_str": "1438075587411722241",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iWcwcSthW3",
+			"expanded": "https://twitter.com/ActivelyHealing/status/1438075587411722241",
+			"display": "twitter.com/ActivelyHealin…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 15 09:41:52 +0000 2021",
+			"id": 1438075587411722200,
+			"id_str": "1438075587411722241",
+			"full_text": "She/he/they https://t.co/3oHsW8elbo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				11
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1438075585633398800,
+						"id_str": "1438075585633398784",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/E_USIDnXMAA7iNv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_USIDnXMAA7iNv.jpg",
+						"url": "https://t.co/3oHsW8elbo",
+						"display_url": "pic.twitter.com/3oHsW8elbo",
+						"expanded_url": "https://twitter.com/ActivelyHealing/status/1438075587411722241/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 616,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 978,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 978,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1438075585633398800,
+						"id_str": "1438075585633398784",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/E_USIDnXMAA7iNv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_USIDnXMAA7iNv.jpg",
+						"url": "https://t.co/3oHsW8elbo",
+						"display_url": "pic.twitter.com/3oHsW8elbo",
+						"expanded_url": "https://twitter.com/ActivelyHealing/status/1438075587411722241/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 616,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 978,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 978,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1135677107537887200,
+				"id_str": "1135677107537887232",
+				"name": "Actively Healing",
+				"screen_name": "ActivelyHealing",
+				"location": "South East Florida, USA",
+				"description": "A space to learn about narcissistic or toxic behaviors, and how it affects targets. You can heal. This page is for growth mindset survivors.",
+				"url": "https://t.co/6l615nKCsU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6l615nKCsU",
+								"expanded_url": "http://tiktok.com/@activelyhealing1",
+								"display_url": "tiktok.com/@activelyheali…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5544,
+				"friends_count": 963,
+				"listed_count": 31,
+				"created_at": "Mon Jun 03 22:38:17 +0000 2019",
+				"favourites_count": 15644,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13711,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1424776569420136457/kLCTqNuj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1424776569420136457/kLCTqNuj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1135677107537887232/1631448321",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 44,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The plight of sexual abuses survivors born inside coercive control groups otherwise known as cults or High Control Groups.\n\nTake the @OKCinformation case, children's born and raised inside OKC, under a toxic Tibetan Buddhism environment, polluted by Spatzism. https://t.co/iWcwcSthW3"
+	},
+	{
 		"created_at": "Tue Sep 14 17:06:45 +0000 2021",
 		"id": 1437822595785797600,
 		"id_str": "1437825158534811662",
