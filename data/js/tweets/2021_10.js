@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 11 06:18:11 +0000 2021",
+		"id": 1447446411914748000,
+		"id_str": "1447446411914747906",
+		"full_text": "@JoanneC80042022 @BuddhistLeaks But you know what, we're not going to indulge in useless conversations on social media when we're actively doing the work Buddhist Institutions should be doing or at least openly supporting. So we're going back to the trench &amp; leave you, birds, posing as \"survivors\" on your blog.",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			316
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JoanneC80042022",
+					"name": "Joanne Clark",
+					"id": 1447305703203344400,
+					"id_str": "1447305703203344384",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "BuddhistLeaks",
+					"name": "Tibetan Buddhism Leaks",
+					"id": 890549322240196600,
+					"id_str": "890549322240196612",
+					"indices": [
+						17,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1447307361132052500,
+		"in_reply_to_status_id_str": "1447307361132052481",
+		"in_reply_to_user_id": 1447305703203344400,
+		"in_reply_to_user_id_str": "1447305703203344384",
+		"in_reply_to_screen_name": "JoanneC80042022",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | contact @rmdes_",
+			"url": "https://t.co/gJaUqhElyi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gJaUqhElyi",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 174,
+			"friends_count": 380,
+			"listed_count": 8,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JoanneC80042022 @BuddhistLeaks But you know what, we're not going to indulge in useless conversations on social media when we're actively doing the work Buddhist Institutions should be doing or at least openly supporting. So we're going back to the trench &amp; leave you, birds, posing as \"survivors\" on your blog."
+	},
+	{
+		"created_at": "Mon Oct 11 05:59:19 +0000 2021",
+		"id": 1447441661865365500,
+		"id_str": "1447441661865365509",
+		"full_text": "@JoanneC80042022 @BuddhistLeaks Absolutely not, that's your malignant view and you own it, don't project it on other survivors of Tibetan Buddhism.\nYou have a problem with Rob, it's your problem, what you and Tempel are doing is merely guarding the Temple while pretending to help survivors. It's very clear now.",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			312
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JoanneC80042022",
+					"name": "Joanne Clark",
+					"id": 1447305703203344400,
+					"id_str": "1447305703203344384",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "BuddhistLeaks",
+					"name": "Tibetan Buddhism Leaks",
+					"id": 890549322240196600,
+					"id_str": "890549322240196612",
+					"indices": [
+						17,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1447307361132052500,
+		"in_reply_to_status_id_str": "1447307361132052481",
+		"in_reply_to_user_id": 1447305703203344400,
+		"in_reply_to_user_id_str": "1447305703203344384",
+		"in_reply_to_screen_name": "JoanneC80042022",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | contact @rmdes_",
+			"url": "https://t.co/gJaUqhElyi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gJaUqhElyi",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 174,
+			"friends_count": 380,
+			"listed_count": 8,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JoanneC80042022 @BuddhistLeaks Absolutely not, that's your malignant view and you own it, don't project it on other survivors of Tibetan Buddhism.\nYou have a problem with Rob, it's your problem, what you and Tempel are doing is merely guarding the Temple while pretending to help survivors. It's very clear now."
+	},
+	{
 		"created_at": "Sat Oct 09 07:19:09 +0000 2021",
 		"id": 1446736979073421300,
 		"id_str": "1446736979073421313",
