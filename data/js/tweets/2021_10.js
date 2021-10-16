@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 16 07:30:55 +0000 2021",
+		"id": 1449276657123139600,
+		"id_str": "1449276657123139587",
+		"full_text": "@PeljorTenzin @hridayartha @BuddhistLeaks Cross borders sectarian drifts investigation, we know about that too, often, the means of justice systems, even in so called developed countries are not enough to prosecute cult leaders, another realm of laws that need to be changed.\n\nSimilar to international financial fraud.",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			318
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PeljorTenzin",
+					"name": "Tenzin Peljor",
+					"id": 2873081511,
+					"id_str": "2873081511",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "hridayartha",
+					"name": "hridayartha",
+					"id": 565518712,
+					"id_str": "565518712",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"screen_name": "BuddhistLeaks",
+					"name": "Tibetan Buddhism Leaks",
+					"id": 890549322240196600,
+					"id_str": "890549322240196612",
+					"indices": [
+						27,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1449125582260916200,
+		"in_reply_to_status_id_str": "1449125582260916224",
+		"in_reply_to_user_id": 2873081511,
+		"in_reply_to_user_id_str": "2873081511",
+		"in_reply_to_screen_name": "PeljorTenzin",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is a 2015 Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz @ogyenkun to Justice | contact @rmdes_",
+			"url": "https://t.co/gJaUqhElyi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gJaUqhElyi",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 174,
+			"friends_count": 380,
+			"listed_count": 8,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 324,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PeljorTenzin @hridayartha @BuddhistLeaks Cross borders sectarian drifts investigation, we know about that too, often, the means of justice systems, even in so called developed countries are not enough to prosecute cult leaders, another realm of laws that need to be changed.\n\nSimilar to international financial fraud."
+	},
+	{
 		"created_at": "Fri Oct 15 05:58:26 +0000 2021",
 		"id": 1448890994578149400,
 		"id_str": "1448890994578149376",
