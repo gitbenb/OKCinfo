@@ -1,6 +1,138 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 22 10:19:30 +0000 2021",
+		"id": 1451491281201414100,
+		"id_str": "1451493409336799234",
+		"full_text": "Abus Sexuels dans le bouddhisme tibétain : \n\nÇa serait vraiment bien si les journalistes @lapremiere osaient poser des questions sérieuses à @MatthieuRicard plutôt que de boire ses paroles sans aucune critique ni remise en question. #Bouddhisme #lapremiere",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bouddhisme",
+					"indices": [
+						233,
+						244
+					]
+				},
+				{
+					"text": "lapremiere",
+					"indices": [
+						245,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lapremiere",
+					"name": "La Première",
+					"id": 706819416,
+					"id_str": "706819416",
+					"indices": [
+						89,
+						100
+					]
+				},
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						141,
+						156
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 890549322240196600,
+			"id_str": "890549322240196612",
+			"name": "Tibetan Buddhism Leaks",
+			"screen_name": "BuddhistLeaks",
+			"location": "Dharamsala",
+			"description": "Amplifying comments & news regarding Tibetan Buddhism sexual abuses allegations crimes : ⛔ FPMT, Shambhala, RIGPA, FWBO, NKT, Triratna, Ogyen Kunzang Choling",
+			"url": "https://t.co/hUPUjKwEpU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hUPUjKwEpU",
+							"expanded_url": "https://AbusesInTibetanBuddhism.info",
+							"display_url": "AbusesInTibetanBuddhism.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 503,
+			"friends_count": 1650,
+			"listed_count": 0,
+			"created_at": "Thu Jul 27 12:27:58 +0000 2017",
+			"favourites_count": 345,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/890549322240196612/1608375674",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Abus Sexuels dans le bouddhisme tibétain : \n\nÇa serait vraiment bien si les journalistes @lapremiere osaient poser des questions sérieuses à @MatthieuRicard plutôt que de boire ses paroles sans aucune critique ni remise en question. #Bouddhisme #lapremiere"
+	},
+	{
 		"created_at": "Sat Oct 16 07:30:55 +0000 2021",
 		"id": 1449276657123139600,
 		"id_str": "1449276657123139587",
