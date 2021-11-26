@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 26 00:14:17 +0000 2021",
+		"id": 1463798744021938200,
+		"id_str": "1464024676905197570",
+		"full_text": "Shameful ! @RTulku @ringutulku keep frequentation at fake \"Tibetan Buddhist\" center Ogyen Kunzang Choling , facing Belgian &amp; French Justice for crimes of sexual, physical &amp; mental abuses against children's of the community turned sectarian drift\n\nSpatz &amp; OKC are still in court! https://t.co/hbn9IEfR83",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			290
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RTulku",
+					"name": "Ringu Tulku",
+					"id": 475881098,
+					"id_str": "475881098",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"screen_name": "ringutulku",
+					"name": "Ringu Tulku",
+					"id": 137360097,
+					"id_str": "137360097",
+					"indices": [
+						19,
+						30
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1463797735837024300,
+					"id_str": "1463797735837024261",
+					"indices": [
+						291,
+						314
+					],
+					"media_url": "http://pbs.twimg.com/media/FFB0SQOWQAU6ldF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFB0SQOWQAU6ldF.jpg",
+					"url": "https://t.co/hbn9IEfR83",
+					"display_url": "pic.twitter.com/hbn9IEfR83",
+					"expanded_url": "https://twitter.com/BuddhistLeaks/status/1463798744021938183/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1463797735837024300,
+					"id_str": "1463797735837024261",
+					"indices": [
+						291,
+						314
+					],
+					"media_url": "http://pbs.twimg.com/media/FFB0SQOWQAU6ldF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFB0SQOWQAU6ldF.jpg",
+					"url": "https://t.co/hbn9IEfR83",
+					"display_url": "pic.twitter.com/hbn9IEfR83",
+					"expanded_url": "https://twitter.com/BuddhistLeaks/status/1463798744021938183/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 890549322240196600,
+			"id_str": "890549322240196612",
+			"name": "Tibetan Buddhism Leaks",
+			"screen_name": "BuddhistLeaks",
+			"location": "Dharamsala",
+			"description": "Amplifying comments & news regarding Tibetan Buddhism sexual abuses allegations crimes : ⛔ FPMT, Shambhala, RIGPA, FWBO, NKT, Triratna, Ogyen Kunzang Choling",
+			"url": "https://t.co/hUPUjKwEpU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hUPUjKwEpU",
+							"expanded_url": "https://AbusesInTibetanBuddhism.info",
+							"display_url": "AbusesInTibetanBuddhism.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 518,
+			"friends_count": 1654,
+			"listed_count": 0,
+			"created_at": "Thu Jul 27 12:27:58 +0000 2017",
+			"favourites_count": 350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12321,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/890549322240196612/1608375674",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Shameful ! @RTulku @ringutulku keep frequentation at fake \"Tibetan Buddhist\" center Ogyen Kunzang Choling , facing Belgian &amp; French Justice for crimes of sexual, physical &amp; mental abuses against children's of the community turned sectarian drift\n\nSpatz &amp; OKC are still in court! https://t.co/hbn9IEfR83"
+	},
+	{
 		"created_at": "Fri Nov 05 06:34:22 +0000 2021",
 		"id": 1456509495920808000,
 		"id_str": "1456510182457061377",
@@ -42,7 +238,7 @@ Grailbird.data.tweets_2021_11 =
 			"id_str": "1409996356782104580",
 			"name": "BenB",
 			"screen_name": "benborges_",
-			"location": "🖤❤️💛🐧🏴‍☠️😷🏳️‍🌈☯️♻️🌍📢",
+			"location": "🖤❤️💛🐧🏴☠️😷🏳️🌈☯️♻️🌍📢",
 			"description": "OKC/Spatz cult Survivor | Digital Sniper, info activist, agitator, disruption of social injustice | Sectes/HCG/Cults, Protests, Far-Right, Disinfo, Human Rights",
 			"url": "https://t.co/jTsPkKWhJM",
 			"entities": {
