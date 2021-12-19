@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 18 12:43:40 +0000 2021",
+		"id": 1472185523670339600,
+		"id_str": "1472185795893202947",
+		"full_text": "Plus d'un an pour \"traiter\" un appel en Cassation d'un pédocriminel récidiviste, après 18 ans d'instruction, 2 procès, 2 appels en cassation dont le troisième en cours, une affaire européenne tombée dans l'oubli, une Justice inhumaine. https://t.co/XyxFP4Nrmq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XyxFP4Nrmq",
+					"expanded_url": "https://twitter.com/FredericLeeuw/status/1471810717984698378",
+					"display_url": "twitter.com/FredericLeeuw/…",
+					"indices": [
+						236,
+						259
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Spatz se pourvoit en cassation",
+			"description": "Jugement 2/12/2020 : Robert Spatz coupable de pédocriminalité, tortures et abus physiques sur mineurs, 5 ans/sursis OKC acquitté\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 96,
+			"friends_count": 312,
+			"listed_count": 0,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1415233403096637446/RbcF-rye_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415233403096637446/RbcF-rye_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1580395807",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1471810717984698400,
+		"quoted_status_id_str": "1471810717984698378",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XyxFP4Nrmq",
+			"expanded": "https://twitter.com/FredericLeeuw/status/1471810717984698378",
+			"display": "twitter.com/FredericLeeuw/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 17 11:53:14 +0000 2021",
+			"id": 1471810717984698400,
+			"id_str": "1471810717984698378",
+			"full_text": "6 maanden om een afspraak te krijgen!! 🤬",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				40
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1471802461665083400,
+			"in_reply_to_status_id_str": "1471802461665083414",
+			"in_reply_to_user_id": 1336287832000909300,
+			"in_reply_to_user_id_str": "1336287832000909312",
+			"in_reply_to_screen_name": "FredericLeeuw",
+			"user": {
+				"id": 1336287832000909300,
+				"id_str": "1336287832000909312",
+				"name": "Frédéric Van Leeuw",
+				"screen_name": "FredericLeeuw",
+				"location": "",
+				"description": "Magistrat - Magistraat - Procureur fédéral - federaal procureur",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1547,
+				"friends_count": 74,
+				"listed_count": 8,
+				"created_at": "Tue Dec 08 12:34:26 +0000 2020",
+				"favourites_count": 206,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 239,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1356603293015957507/cnl1vAk1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356603293015957507/cnl1vAk1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1336287832000909312/1609694602",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Plus d'un an pour \"traiter\" un appel en Cassation d'un pédocriminel récidiviste, après 18 ans d'instruction, 2 procès, 2 appels en cassation dont le troisième en cours, une affaire européenne tombée dans l'oubli, une Justice inhumaine. https://t.co/XyxFP4Nrmq"
+	},
+	{
 		"created_at": "Wed Dec 08 19:30:44 +0000 2021",
 		"id": 1468664167724892200,
 		"id_str": "1468664358364450822",
