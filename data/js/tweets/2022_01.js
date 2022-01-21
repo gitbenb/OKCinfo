@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 20 16:57:16 +0000 2022",
+		"id": 1484199271830274000,
+		"id_str": "1484208417166266375",
+		"full_text": "Pour prendre le pouls\nPréférez-vous que la diffusion du 2e épisode du documentaire \"Enfances torturées, les oubliés de l'OKC\" se fasse plutôt ce vendredi soir ou le prochain ?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11834812,
+			"id_str": "11834812",
+			"name": "kalou • #CitoyensDuWeb",
+			"screen_name": "kalou",
+			"location": "",
+			"description": "Skeptics in the Pub Valais • #CitoyensDuWeb •",
+			"url": "https://t.co/2zV4VkedCc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2zV4VkedCc",
+							"expanded_url": "http://www.youtube.com/SkepticsinthePubValais",
+							"display_url": "youtube.com/SkepticsintheP…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1379,
+			"friends_count": 205,
+			"listed_count": 28,
+			"created_at": "Fri Jan 04 11:39:58 +0000 2008",
+			"favourites_count": 14473,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254814171356594177/GSB87rk8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254814171356594177/GSB87rk8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11834812/1397662021",
+			"profile_link_color": "394C52",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Pour prendre le pouls\nPréférez-vous que la diffusion du 2e épisode du documentaire \"Enfances torturées, les oubliés de l'OKC\" se fasse plutôt ce vendredi soir ou le prochain ?"
+	},
+	{
 		"created_at": "Sat Jan 15 14:04:59 +0000 2022",
 		"id": 1482353120072114200,
 		"id_str": "1482353120072114178",
