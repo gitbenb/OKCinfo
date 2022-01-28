@@ -1,6 +1,2183 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 27 20:29:48 +0000 2022",
+		"id": 1486659768630530000,
+		"id_str": "1486798619659354112",
+		"full_text": "Extrait d'un \"enseignement\" de Lama Kunzang alias Robert Spatz le pédocriminel : \nsource : K7 transcription \"La Communauté à Nyima-Dzong (Château de Soleils)\" bientôt sur https://t.co/HphRaQ0NPk #okcinfo https://t.co/MLLEY0diXY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "okcinfo",
+					"indices": [
+						195,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HphRaQ0NPk",
+					"expanded_url": "http://okcinfo.news",
+					"display_url": "okcinfo.news",
+					"indices": [
+						171,
+						194
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1486659526275350500,
+					"id_str": "1486659526275350533",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FKGs9mWXwAU_Zjy.png",
+					"media_url_https": "https://pbs.twimg.com/media/FKGs9mWXwAU_Zjy.png",
+					"url": "https://t.co/MLLEY0diXY",
+					"display_url": "pic.twitter.com/MLLEY0diXY",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1486659768630530048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 281,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 827,
+							"h": 342,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 827,
+							"h": 342,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486659526275350500,
+					"id_str": "1486659526275350533",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FKGs9mWXwAU_Zjy.png",
+					"media_url_https": "https://pbs.twimg.com/media/FKGs9mWXwAU_Zjy.png",
+					"url": "https://t.co/MLLEY0diXY",
+					"display_url": "pic.twitter.com/MLLEY0diXY",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1486659768630530048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 281,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 827,
+							"h": 342,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 827,
+							"h": 342,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Spatz se pourvoit en cassation",
+			"description": "2021: Instruction en cours France\nBelgique, attente résultat appel cassation \n2020: Condamné 5 ans sursis\nAppel\n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100,
+			"friends_count": 313,
+			"listed_count": 0,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 774,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1415233403096637446/RbcF-rye_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415233403096637446/RbcF-rye_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Extrait d'un \"enseignement\" de Lama Kunzang alias Robert Spatz le pédocriminel : \nsource : K7 transcription \"La Communauté à Nyima-Dzong (Château de Soleils)\" bientôt sur https://t.co/HphRaQ0NPk #okcinfo https://t.co/MLLEY0diXY"
+	},
+	{
+		"created_at": "Thu Jan 27 20:29:48 +0000 2022",
+		"id": 1486664162008834000,
+		"id_str": "1486798619546165250",
+		"full_text": "Autre extrait, bientôt publié en complet sur notre site : \ntiré de : \"Enseignement sur la Prière de Sa Sainteté Dudjom Rinpoché Pour Reconnaître ses Propres Fautes et se Souvenir de son Refuge\" https://t.co/OjZTOwSGrH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486663568938389500,
+					"id_str": "1486663568938389505",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FKGwo6cWUAEc5Mx.png",
+					"media_url_https": "https://pbs.twimg.com/media/FKGwo6cWUAEc5Mx.png",
+					"url": "https://t.co/OjZTOwSGrH",
+					"display_url": "pic.twitter.com/OjZTOwSGrH",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1486664162008834051/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 781,
+							"h": 316,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 275,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 781,
+							"h": 316,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486663568938389500,
+					"id_str": "1486663568938389505",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FKGwo6cWUAEc5Mx.png",
+					"media_url_https": "https://pbs.twimg.com/media/FKGwo6cWUAEc5Mx.png",
+					"url": "https://t.co/OjZTOwSGrH",
+					"display_url": "pic.twitter.com/OjZTOwSGrH",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1486664162008834051/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 781,
+							"h": 316,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 275,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 781,
+							"h": 316,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Spatz se pourvoit en cassation",
+			"description": "2021: Instruction en cours France\nBelgique, attente résultat appel cassation \n2020: Condamné 5 ans sursis\nAppel\n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100,
+			"friends_count": 313,
+			"listed_count": 0,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 774,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1415233403096637446/RbcF-rye_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415233403096637446/RbcF-rye_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Autre extrait, bientôt publié en complet sur notre site : \ntiré de : \"Enseignement sur la Prière de Sa Sainteté Dudjom Rinpoché Pour Reconnaître ses Propres Fautes et se Souvenir de son Refuge\" https://t.co/OjZTOwSGrH"
+	},
+	{
+		"created_at": "Thu Jan 27 20:29:34 +0000 2022",
+		"id": 1486661193582399500,
+		"id_str": "1486798561073315842",
+		"full_text": "@OKCinfor @MatthieuRicard Spoiler : Il n'y en a pas ! c'est une vue de l'esprit que de prétendre que la OKC est autre chose que \"la secte de Robert Spatz\" rejetée en catimini dans le fond d'un article @lalibrebe tout en collaborant avec la direction OKC qui n'est autre chose que \"la secte de Spatz\"",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			299
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinfor",
+					"name": "Initiative de Justice OKCinfo",
+					"id": 1097520031955587100,
+					"id_str": "1097520031955587073",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						10,
+						25
+					]
+				},
+				{
+					"screen_name": "lalibrebe",
+					"name": "La Libre",
+					"id": 20043573,
+					"id_str": "20043573",
+					"indices": [
+						201,
+						211
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1486660723484811300,
+		"in_reply_to_status_id_str": "1486660723484811265",
+		"in_reply_to_user_id": 1411708898231345200,
+		"in_reply_to_user_id_str": "1411708898231345161",
+		"in_reply_to_screen_name": "DerivesSectes",
+		"user": {
+			"id": 1411708898231345200,
+			"id_str": "1411708898231345161",
+			"name": "Dérives Sectaires / HCG Drifts",
+			"screen_name": "DerivesSectes",
+			"location": "DataLove",
+			"description": "Veille info sur les dérives sectaires \n| \n\nmonitoring about High Control Coercive Group drifts / Sectarianism. #Cultish \n| 🇺🇸🇫🇷🇪🇸\n¬@benborges_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 430,
+			"friends_count": 538,
+			"listed_count": 7,
+			"created_at": "Sun Jul 04 15:30:15 +0000 2021",
+			"favourites_count": 390,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5476,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412715514900713472/GwkxtjG3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412715514900713472/GwkxtjG3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1411708898231345161/1626877265",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "@OKCinfor @MatthieuRicard Spoiler : Il n'y en a pas ! c'est une vue de l'esprit que de prétendre que la OKC est autre chose que \"la secte de Robert Spatz\" rejetée en catimini dans le fond d'un article @lalibrebe tout en collaborant avec la direction OKC qui n'est autre chose que \"la secte de Spatz\""
+	},
+	{
+		"created_at": "Thu Jan 27 15:15:25 +0000 2022",
+		"id": 1486660723484811300,
+		"id_str": "1486719499785048064",
+		"full_text": "@OKCinfor Sans aucun doute que @MatthieuRicard saura faire la distinction entre, je cite, \"la secte de Robert Spatz qui n'est pas du Bouddhisme\" (lalibre 2021) et ces délires pourtant basé sur le Bouddhisme tibétain, mais fera t'il la distinction entre OKC et \"la secte de Robert Spatz\"?",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			287
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinfor",
+					"name": "Initiative de Justice OKCinfo",
+					"id": 1097520031955587100,
+					"id_str": "1097520031955587073",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						31,
+						46
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1486659768630530000,
+		"in_reply_to_status_id_str": "1486659768630530048",
+		"in_reply_to_user_id": 1097520031955587100,
+		"in_reply_to_user_id_str": "1097520031955587073",
+		"in_reply_to_screen_name": "OKCinfor",
+		"user": {
+			"id": 1411708898231345200,
+			"id_str": "1411708898231345161",
+			"name": "Dérives Sectaires / HCG Drifts",
+			"screen_name": "DerivesSectes",
+			"location": "DataLove",
+			"description": "Veille info sur les dérives sectaires \n| \n\nmonitoring about High Control Coercive Group drifts / Sectarianism. #Cultish \n| 🇺🇸🇫🇷🇪🇸\n¬@benborges_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 430,
+			"friends_count": 538,
+			"listed_count": 7,
+			"created_at": "Sun Jul 04 15:30:15 +0000 2021",
+			"favourites_count": 390,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5476,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412715514900713472/GwkxtjG3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412715514900713472/GwkxtjG3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1411708898231345161/1626877265",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "@OKCinfor Sans aucun doute que @MatthieuRicard saura faire la distinction entre, je cite, \"la secte de Robert Spatz qui n'est pas du Bouddhisme\" (lalibre 2021) et ces délires pourtant basé sur le Bouddhisme tibétain, mais fera t'il la distinction entre OKC et \"la secte de Robert Spatz\"?"
+	},
+	{
+		"created_at": "Thu Jan 27 15:15:21 +0000 2022",
+		"id": 1486677649477054500,
+		"id_str": "1486719482298920975",
+		"full_text": "Le Confusionnisme de Robert Spatz en un seul paragraphe, autrement dit : Spatzisme https://t.co/AVoPuuEa1o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486677487639838700,
+					"id_str": "1486677487639838723",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FKG9TFpXwAMP5MZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/FKG9TFpXwAMP5MZ.png",
+					"url": "https://t.co/AVoPuuEa1o",
+					"display_url": "pic.twitter.com/AVoPuuEa1o",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1486677649477054472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 849,
+							"h": 688,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 849,
+							"h": 688,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 551,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486677487639838700,
+					"id_str": "1486677487639838723",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FKG9TFpXwAMP5MZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/FKG9TFpXwAMP5MZ.png",
+					"url": "https://t.co/AVoPuuEa1o",
+					"display_url": "pic.twitter.com/AVoPuuEa1o",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1486677649477054472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 849,
+							"h": 688,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 849,
+							"h": 688,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 551,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1486676746355290000,
+		"in_reply_to_status_id_str": "1486676746355290114",
+		"in_reply_to_user_id": 1097520031955587100,
+		"in_reply_to_user_id_str": "1097520031955587073",
+		"in_reply_to_screen_name": "OKCinfor",
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Spatz se pourvoit en cassation",
+			"description": "2021: Instruction en cours France\nBelgique, attente résultat appel cassation \n2020: Condamné 5 ans sursis\nAppel\n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100,
+			"friends_count": 313,
+			"listed_count": 0,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 774,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1415233403096637446/RbcF-rye_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415233403096637446/RbcF-rye_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Le Confusionnisme de Robert Spatz en un seul paragraphe, autrement dit : Spatzisme https://t.co/AVoPuuEa1o"
+	},
+	{
+		"created_at": "Thu Jan 27 15:15:16 +0000 2022",
+		"id": 1486688845374632000,
+		"id_str": "1486719463437180944",
+		"full_text": "Questions des adeptes OKC à Lama Kunzang :\nEst il possible de recevoir des initiations de mondes non physiques comme par exemple le monde astral? https://t.co/pPddVbZuI4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486688537999290400,
+					"id_str": "1486688537999290368",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FKHHWTcXsAAXSuO.png",
+					"media_url_https": "https://pbs.twimg.com/media/FKHHWTcXsAAXSuO.png",
+					"url": "https://t.co/pPddVbZuI4",
+					"display_url": "pic.twitter.com/pPddVbZuI4",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1486688845374631937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 228,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 830,
+							"h": 278,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 830,
+							"h": 278,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486688537999290400,
+					"id_str": "1486688537999290368",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FKHHWTcXsAAXSuO.png",
+					"media_url_https": "https://pbs.twimg.com/media/FKHHWTcXsAAXSuO.png",
+					"url": "https://t.co/pPddVbZuI4",
+					"display_url": "pic.twitter.com/pPddVbZuI4",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1486688845374631937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 228,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 830,
+							"h": 278,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 830,
+							"h": 278,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Spatz se pourvoit en cassation",
+			"description": "2021: Instruction en cours France\nBelgique, attente résultat appel cassation \n2020: Condamné 5 ans sursis\nAppel\n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100,
+			"friends_count": 313,
+			"listed_count": 0,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 774,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1415233403096637446/RbcF-rye_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415233403096637446/RbcF-rye_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Questions des adeptes OKC à Lama Kunzang :\nEst il possible de recevoir des initiations de mondes non physiques comme par exemple le monde astral? https://t.co/pPddVbZuI4"
+	},
+	{
+		"created_at": "Thu Jan 27 15:15:11 +0000 2022",
+		"id": 1486691531587264500,
+		"id_str": "1486719442000089103",
+		"full_text": "\"les Cauchemars du Jour\" selon LK/RS https://t.co/qSo3RStcj7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486691511207182300,
+					"id_str": "1486691511207182340",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/FKHKDXgXwAQaMMT.png",
+					"media_url_https": "https://pbs.twimg.com/media/FKHKDXgXwAQaMMT.png",
+					"url": "https://t.co/qSo3RStcj7",
+					"display_url": "pic.twitter.com/qSo3RStcj7",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1486691531587264523/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 767,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 652,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 767,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486691511207182300,
+					"id_str": "1486691511207182340",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/FKHKDXgXwAQaMMT.png",
+					"media_url_https": "https://pbs.twimg.com/media/FKHKDXgXwAQaMMT.png",
+					"url": "https://t.co/qSo3RStcj7",
+					"display_url": "pic.twitter.com/qSo3RStcj7",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1486691531587264523/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 767,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 652,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 767,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1486688845374632000,
+		"in_reply_to_status_id_str": "1486688845374631937",
+		"in_reply_to_user_id": 1097520031955587100,
+		"in_reply_to_user_id_str": "1097520031955587073",
+		"in_reply_to_screen_name": "OKCinfor",
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Spatz se pourvoit en cassation",
+			"description": "2021: Instruction en cours France\nBelgique, attente résultat appel cassation \n2020: Condamné 5 ans sursis\nAppel\n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100,
+			"friends_count": 313,
+			"listed_count": 0,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 774,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1415233403096637446/RbcF-rye_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415233403096637446/RbcF-rye_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "\"les Cauchemars du Jour\" selon LK/RS https://t.co/qSo3RStcj7"
+	},
+	{
+		"created_at": "Thu Jan 27 15:15:07 +0000 2022",
+		"id": 1486693285703868400,
+		"id_str": "1486719426774781956",
+		"full_text": "\" Il   est   vrai   que   la   femme   en   général  a   une   plus   grande   facilité   à atteindre   une   prise   de   conscience   d’une   contemplation   plus   magique   de   l’univers,   cela   a toujours été ainsi. Et c’est reconnu dans toute Tradition.\" LK\n#Misogyne https://t.co/cdITts8gVC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Misogyne",
+					"indices": [
+						267,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486693196067397600,
+					"id_str": "1486693196067397637",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FKHLlcGWYAUKWAc.png",
+					"media_url_https": "https://pbs.twimg.com/media/FKHLlcGWYAUKWAc.png",
+					"url": "https://t.co/cdITts8gVC",
+					"display_url": "pic.twitter.com/cdITts8gVC",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1486693285703868426/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 804,
+							"h": 758,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 641,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 804,
+							"h": 758,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486693196067397600,
+					"id_str": "1486693196067397637",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FKHLlcGWYAUKWAc.png",
+					"media_url_https": "https://pbs.twimg.com/media/FKHLlcGWYAUKWAc.png",
+					"url": "https://t.co/cdITts8gVC",
+					"display_url": "pic.twitter.com/cdITts8gVC",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1486693285703868426/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 804,
+							"h": 758,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 641,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 804,
+							"h": 758,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Spatz se pourvoit en cassation",
+			"description": "2021: Instruction en cours France\nBelgique, attente résultat appel cassation \n2020: Condamné 5 ans sursis\nAppel\n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100,
+			"friends_count": 313,
+			"listed_count": 0,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 774,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1415233403096637446/RbcF-rye_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415233403096637446/RbcF-rye_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "\" Il   est   vrai   que   la   femme   en   général  a   une   plus   grande   facilité   à atteindre   une   prise   de   conscience   d’une   contemplation   plus   magique   de   l’univers,   cela   a toujours été ainsi. Et c’est reconnu dans toute Tradition.\" LK\n#Misogyne https://t.co/cdITts8gVC"
+	},
+	{
+		"created_at": "Thu Jan 27 15:14:58 +0000 2022",
+		"id": 1486693514289287200,
+		"id_str": "1486719385905483791",
+		"full_text": "Suite : https://t.co/VcB7HmTyEY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486693487785431000,
+					"id_str": "1486693487785431051",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/FKHL2a1WUAsWS5s.png",
+					"media_url_https": "https://pbs.twimg.com/media/FKHL2a1WUAsWS5s.png",
+					"url": "https://t.co/VcB7HmTyEY",
+					"display_url": "pic.twitter.com/VcB7HmTyEY",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1486693514289287168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 794,
+							"h": 754,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 794,
+							"h": 754,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 646,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486693487785431000,
+					"id_str": "1486693487785431051",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/FKHL2a1WUAsWS5s.png",
+					"media_url_https": "https://pbs.twimg.com/media/FKHL2a1WUAsWS5s.png",
+					"url": "https://t.co/VcB7HmTyEY",
+					"display_url": "pic.twitter.com/VcB7HmTyEY",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1486693514289287168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 794,
+							"h": 754,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 794,
+							"h": 754,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 646,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1486693285703868400,
+		"in_reply_to_status_id_str": "1486693285703868426",
+		"in_reply_to_user_id": 1097520031955587100,
+		"in_reply_to_user_id_str": "1097520031955587073",
+		"in_reply_to_screen_name": "OKCinfor",
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Spatz se pourvoit en cassation",
+			"description": "2021: Instruction en cours France\nBelgique, attente résultat appel cassation \n2020: Condamné 5 ans sursis\nAppel\n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100,
+			"friends_count": 313,
+			"listed_count": 0,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 774,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1415233403096637446/RbcF-rye_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415233403096637446/RbcF-rye_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Suite : https://t.co/VcB7HmTyEY"
+	},
+	{
+		"created_at": "Thu Jan 27 15:14:55 +0000 2022",
+		"id": 1486697330808086500,
+		"id_str": "1486719373146427408",
+		"full_text": "\"Vivre dans le #Vajrayana\" selon Robert Spatz https://t.co/t0EELCUjla",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Vajrayana",
+					"indices": [
+						15,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486697281030131700,
+					"id_str": "1486697281030131716",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/FKHPTNxXEAQF8-g.png",
+					"media_url_https": "https://pbs.twimg.com/media/FKHPTNxXEAQF8-g.png",
+					"url": "https://t.co/t0EELCUjla",
+					"display_url": "pic.twitter.com/t0EELCUjla",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1486697330808086532/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 803,
+							"h": 488,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 413,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 803,
+							"h": 488,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486697281030131700,
+					"id_str": "1486697281030131716",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/FKHPTNxXEAQF8-g.png",
+					"media_url_https": "https://pbs.twimg.com/media/FKHPTNxXEAQF8-g.png",
+					"url": "https://t.co/t0EELCUjla",
+					"display_url": "pic.twitter.com/t0EELCUjla",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1486697330808086532/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 803,
+							"h": 488,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 413,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 803,
+							"h": 488,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Spatz se pourvoit en cassation",
+			"description": "2021: Instruction en cours France\nBelgique, attente résultat appel cassation \n2020: Condamné 5 ans sursis\nAppel\n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100,
+			"friends_count": 313,
+			"listed_count": 0,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 774,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1415233403096637446/RbcF-rye_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415233403096637446/RbcF-rye_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "\"Vivre dans le #Vajrayana\" selon Robert Spatz https://t.co/t0EELCUjla"
+	},
+	{
+		"created_at": "Thu Jan 27 15:14:47 +0000 2022",
+		"id": 1486699737185198000,
+		"id_str": "1486719340900597763",
+		"full_text": "Une grande source d'inspiration pour les \"enseignements\" de Spatz ? \n- La Télévision qu'il était le seul à avoir pendant des années \n- les filmes américains violents (Léon, Nikita) ou SF, ici un \"enseignement\" basé sur le film Alien https://t.co/BOuTKsbmuy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486699459539054600,
+					"id_str": "1486699459539054595",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FKHRSBWXMAMwxlY.png",
+					"media_url_https": "https://pbs.twimg.com/media/FKHRSBWXMAMwxlY.png",
+					"url": "https://t.co/BOuTKsbmuy",
+					"display_url": "pic.twitter.com/BOuTKsbmuy",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1486699737185198087/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 819,
+							"h": 730,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 819,
+							"h": 730,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 606,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486699459539054600,
+					"id_str": "1486699459539054595",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FKHRSBWXMAMwxlY.png",
+					"media_url_https": "https://pbs.twimg.com/media/FKHRSBWXMAMwxlY.png",
+					"url": "https://t.co/BOuTKsbmuy",
+					"display_url": "pic.twitter.com/BOuTKsbmuy",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1486699737185198087/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 819,
+							"h": 730,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 819,
+							"h": 730,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 606,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Spatz se pourvoit en cassation",
+			"description": "2021: Instruction en cours France\nBelgique, attente résultat appel cassation \n2020: Condamné 5 ans sursis\nAppel\n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100,
+			"friends_count": 313,
+			"listed_count": 0,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 774,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1415233403096637446/RbcF-rye_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415233403096637446/RbcF-rye_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Une grande source d'inspiration pour les \"enseignements\" de Spatz ? \n- La Télévision qu'il était le seul à avoir pendant des années \n- les filmes américains violents (Léon, Nikita) ou SF, ici un \"enseignement\" basé sur le film Alien https://t.co/BOuTKsbmuy"
+	},
+	{
+		"created_at": "Thu Jan 27 15:14:43 +0000 2022",
+		"id": 1486700661504938000,
+		"id_str": "1486719323817140229",
+		"full_text": "\"Les femmes dans la Sangha\" selon Robert Spatz\n- dans la réalité, pour Spatz les femmes étaient des objets sexuels qu'il pouvait dominer, abuser et mettre à son service, qu'elle soit adulte ou adolescente. \n- autour de Spatz, le \"lama care\" était exclusivement géré par des femmes https://t.co/A3YWR559ym",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486700322865262600,
+					"id_str": "1486700322865262594",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FKHSERfXsAIBt97.png",
+					"media_url_https": "https://pbs.twimg.com/media/FKHSERfXsAIBt97.png",
+					"url": "https://t.co/A3YWR559ym",
+					"display_url": "pic.twitter.com/A3YWR559ym",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1486700661504937985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 625,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 840,
+							"h": 772,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 840,
+							"h": 772,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486700322865262600,
+					"id_str": "1486700322865262594",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FKHSERfXsAIBt97.png",
+					"media_url_https": "https://pbs.twimg.com/media/FKHSERfXsAIBt97.png",
+					"url": "https://t.co/A3YWR559ym",
+					"display_url": "pic.twitter.com/A3YWR559ym",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1486700661504937985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 625,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 840,
+							"h": 772,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 840,
+							"h": 772,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Spatz se pourvoit en cassation",
+			"description": "2021: Instruction en cours France\nBelgique, attente résultat appel cassation \n2020: Condamné 5 ans sursis\nAppel\n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100,
+			"friends_count": 313,
+			"listed_count": 0,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 774,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1415233403096637446/RbcF-rye_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415233403096637446/RbcF-rye_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "\"Les femmes dans la Sangha\" selon Robert Spatz\n- dans la réalité, pour Spatz les femmes étaient des objets sexuels qu'il pouvait dominer, abuser et mettre à son service, qu'elle soit adulte ou adolescente. \n- autour de Spatz, le \"lama care\" était exclusivement géré par des femmes https://t.co/A3YWR559ym"
+	},
+	{
+		"created_at": "Thu Jan 27 15:14:39 +0000 2022",
+		"id": 1486711590825050000,
+		"id_str": "1486719309158105089",
+		"full_text": "Pour Robert Spatz, la recherche de la souffrance et la mise en place de celle-ci est une partie intégrante de sa conception du Bouddhisme :\n\ntiré de \"l'enseignement\" \"Vivre Au-delà des simulacres du Paradis Dharmique\" https://t.co/M2RpgLUnON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486711191552479200,
+					"id_str": "1486711191552479235",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/FKHb86gVUAMwwXc.png",
+					"media_url_https": "https://pbs.twimg.com/media/FKHb86gVUAMwwXc.png",
+					"url": "https://t.co/M2RpgLUnON",
+					"display_url": "pic.twitter.com/M2RpgLUnON",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1486711590825050128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 850,
+							"h": 859,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 859,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 673,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486711191552479200,
+					"id_str": "1486711191552479235",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/FKHb86gVUAMwwXc.png",
+					"media_url_https": "https://pbs.twimg.com/media/FKHb86gVUAMwwXc.png",
+					"url": "https://t.co/M2RpgLUnON",
+					"display_url": "pic.twitter.com/M2RpgLUnON",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1486711590825050128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 850,
+							"h": 859,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 859,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 673,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": "Spatz se pourvoit en cassation",
+			"description": "2021: Instruction en cours France\nBelgique, attente résultat appel cassation \n2020: Condamné 5 ans sursis\nAppel\n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100,
+			"friends_count": 313,
+			"listed_count": 0,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 774,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1415233403096637446/RbcF-rye_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415233403096637446/RbcF-rye_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Pour Robert Spatz, la recherche de la souffrance et la mise en place de celle-ci est une partie intégrante de sa conception du Bouddhisme :\n\ntiré de \"l'enseignement\" \"Vivre Au-delà des simulacres du Paradis Dharmique\" https://t.co/M2RpgLUnON"
+	},
+	{
 		"created_at": "Tue Jan 25 18:56:05 +0000 2022",
 		"id": 1486050256370471000,
 		"id_str": "1486050256370470923",
