@@ -1,6 +1,98 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 02 09:33:37 +0000 2022",
+		"id": 1488579831377711000,
+		"id_str": "1488807809160523777",
+		"full_text": "We have underestimated the value of a survivor who is able to remain sensitive in a world that has not treated them well. That sensitivity is a profound gateway towards more healing, understanding, and self-compassion. I can’t think of who deserves that more-than a survivor.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1246255529891991600,
+			"id_str": "1246255529891991552",
+			"name": "Nate Postlethwait",
+			"screen_name": "nate_postlethwt",
+			"location": "",
+			"description": "Writer. Survivor. Sharing my thoughts on healing from #cptsd via #innerchildwork. Free journaling guide here: https://t.co/3ckysEycOj",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3ckysEycOj",
+							"expanded_url": "https://linktr.ee/natepost",
+							"display_url": "linktr.ee/natepost",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10176,
+			"friends_count": 10,
+			"listed_count": 40,
+			"created_at": "Sat Apr 04 01:57:43 +0000 2020",
+			"favourites_count": 2746,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398433416035528707/R-Gj2GX1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398433416035528707/R-Gj2GX1_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 73,
+		"favorite_count": 359,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We have underestimated the value of a survivor who is able to remain sensitive in a world that has not treated them well. That sensitivity is a profound gateway towards more healing, understanding, and self-compassion. I can’t think of who deserves that more-than a survivor."
+	},
+	{
 		"created_at": "Wed Feb 02 07:24:18 +0000 2022",
 		"id": 1488775267707494400,
 		"id_str": "1488775267707494400",
