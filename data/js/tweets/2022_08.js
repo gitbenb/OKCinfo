@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 24 09:21:52 +0000 2022",
+		"id": 1562369502683496400,
+		"id_str": "1562369592051150848",
+		"full_text": "PLAYFUL PRACTITIONERS OR MINDLESS MISOGYNISTS? THE ‘ARTS OF LOVE’ OR ‘ARTS OF ‘A**HOLERY’? The question of sexist double standards, silent women and two Tibetan Buddhist male ‘heroes’, Gendun Chophel and Drugpa Kunley https://t.co/pm2Cj6eD7F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pm2Cj6eD7F",
+					"expanded_url": "https://dakinitranslations.com/2022/08/17/men-behaving-badly-playful-practitioners-or-mindless-misogynist-the-arts-of-love-or-arts-of-aholery-the-question-of-sexist-double-standards-and-two-tibetan-buddhist-male-h/",
+					"display_url": "dakinitranslations.com/2022/08/17/men…",
+					"indices": [
+						218,
+						241
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 890549322240196600,
+			"id_str": "890549322240196612",
+			"name": "Tibetan Buddhism Leaks",
+			"screen_name": "BuddhistLeaks",
+			"location": "Dharamsala",
+			"description": "Amplifying comments & news regarding Tibetan Buddhism sexual abuses allegations crimes : ⛔ FPMT, Shambhala, RIGPA, FWBO, NKT, Triratna, Ogyen Kunzang Choling",
+			"url": "https://t.co/hUPUjKwEpU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hUPUjKwEpU",
+							"expanded_url": "https://AbusesInTibetanBuddhism.info",
+							"display_url": "AbusesInTibetanBuddhism.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 685,
+			"friends_count": 1742,
+			"listed_count": 7,
+			"created_at": "Thu Jul 27 12:27:58 +0000 2017",
+			"favourites_count": 345,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/890549322240196612/1608375674",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "PLAYFUL PRACTITIONERS OR MINDLESS MISOGYNISTS? THE ‘ARTS OF LOVE’ OR ‘ARTS OF ‘A**HOLERY’? The question of sexist double standards, silent women and two Tibetan Buddhist male ‘heroes’, Gendun Chophel and Drugpa Kunley https://t.co/pm2Cj6eD7F"
+	},
+	{
 		"created_at": "Tue Aug 16 16:38:28 +0000 2022",
 		"id": 1559580361969090600,
 		"id_str": "1559580361969090562",
