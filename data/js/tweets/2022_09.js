@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 01 18:41:48 +0000 2022",
+		"id": 1565394643923124200,
+		"id_str": "1565409604669947904",
+		"full_text": "Preemptive strike from a \"Buddhist\" abt the documentary: Buddhism, the Law of Silence airing on ARTE and on the Web on the 13th September 2022.\n\nThe book, docu isn't out yet, but they know already it's propaganda.\n\n\"Buddhist\" pointing at the \"propaganda\" while ignoring the abuses https://t.co/MRVSXjZVPD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565394638852194300,
+					"id_str": "1565394638852194304",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FblmIVYWAAAz9GI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FblmIVYWAAAz9GI.jpg",
+					"url": "https://t.co/MRVSXjZVPD",
+					"display_url": "pic.twitter.com/MRVSXjZVPD",
+					"expanded_url": "https://twitter.com/DerivesSectes/status/1565394643923124225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 464,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 292,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 464,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565394638852194300,
+					"id_str": "1565394638852194304",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FblmIVYWAAAz9GI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FblmIVYWAAAz9GI.jpg",
+					"url": "https://t.co/MRVSXjZVPD",
+					"display_url": "pic.twitter.com/MRVSXjZVPD",
+					"expanded_url": "https://twitter.com/DerivesSectes/status/1565394643923124225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 464,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 292,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 464,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1411708898231345200,
+			"id_str": "1411708898231345161",
+			"name": "Dérives Sectaires / Sectarian Drifts",
+			"screen_name": "DerivesSectes",
+			"location": "DataLove",
+			"description": "Veille info sur les dérives sectaires \n| \n\nmonitoring about High Control/Coercive Groups abuses / Sectarianism. #Cultish \n| 🇺🇸🇫🇷🇪🇸\n¬@benbvi3ws",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 605,
+			"friends_count": 619,
+			"listed_count": 11,
+			"created_at": "Sun Jul 04 15:30:15 +0000 2021",
+			"favourites_count": 477,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8873,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412715514900713472/GwkxtjG3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412715514900713472/GwkxtjG3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1411708898231345161/1626877265",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Preemptive strike from a \"Buddhist\" abt the documentary: Buddhism, the Law of Silence airing on ARTE and on the Web on the 13th September 2022.\n\nThe book, docu isn't out yet, but they know already it's propaganda.\n\n\"Buddhist\" pointing at the \"propaganda\" while ignoring the abuses https://t.co/MRVSXjZVPD"
+	},
+	{
 		"created_at": "Thu Sep 01 07:45:38 +0000 2022",
 		"id": 1565244474967613400,
 		"id_str": "1565244474967613440",
