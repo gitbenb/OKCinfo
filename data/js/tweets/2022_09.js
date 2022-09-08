@@ -1,6 +1,130 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 07 09:39:32 +0000 2022",
+		"id": 1567438530799980500,
+		"id_str": "1567447466345103361",
+		"full_text": "After watching the Arte-documentary, ask yourself: how much trauma could the Dalai Lama have prevented by simply doing nothing? #metooguru 1/7\n\nhttps://t.co/L4mvA4mwYJ\n\nhttps://t.co/NwPrUimXF0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "metooguru",
+					"indices": [
+						128,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/L4mvA4mwYJ",
+					"expanded_url": "https://www.arte.tv/de/videos/095177-000-A/buddhismus-missbrauch-im-namen-der-erleuchtung/",
+					"display_url": "arte.tv/de/videos/0951…",
+					"indices": [
+						144,
+						167
+					]
+				},
+				{
+					"url": "https://t.co/NwPrUimXF0",
+					"expanded_url": "https://www.arte.tv/fr/videos/095177-000-A/bouddhisme-la-loi-du-silence/",
+					"display_url": "arte.tv/fr/videos/0951…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396358893949931500,
+			"id_str": "1396358893949931521",
+			"name": "robhogendoorn",
+			"screen_name": "robhogendoorn",
+			"location": "The Netherlands",
+			"description": "I'm an investigative reporter and academic researcher, focussed on the Western reception of Buddhism. My usual MO is independent, inquisitive, and provocative.",
+			"url": "https://t.co/86oa7Q4ryU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/86oa7Q4ryU",
+							"expanded_url": "http://openbuddhism.org",
+							"display_url": "openbuddhism.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84,
+			"friends_count": 63,
+			"listed_count": 1,
+			"created_at": "Sun May 23 06:54:49 +0000 2021",
+			"favourites_count": 73,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 634,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1396362392636960773/9vWFK9xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1396362392636960773/9vWFK9xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396358893949931521/1621758316",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "After watching the Arte-documentary, ask yourself: how much trauma could the Dalai Lama have prevented by simply doing nothing? #metooguru 1/7\n\nhttps://t.co/L4mvA4mwYJ\n\nhttps://t.co/NwPrUimXF0"
+	},
+	{
 		"created_at": "Thu Sep 01 18:41:48 +0000 2022",
 		"id": 1565394643923124200,
 		"id_str": "1565409604669947904",
