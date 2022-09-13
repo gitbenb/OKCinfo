@@ -1,6 +1,1773 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 13 08:15:12 +0000 2022",
+		"id": 1569600569248997400,
+		"id_str": "1569600569248997378",
+		"full_text": "Un livre et un documentaire diffusé mardi 13 septembre sur Arte exposent les violences sexuelles dont ont été victimes de nombreux adeptes du Bouddhisme. \"Marianne\" s'est entretenu avec les auteurs et réalisateurs👇https://t.co/xzxFfrFRzV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xzxFfrFRzV",
+					"expanded_url": "https://www.marianne.net/societe/laicite-et-religions/violences-sexuelles-dans-le-bouddhisme-le-sujet-tabou-dun-documentaire-sur-arte",
+					"display_url": "marianne.net/societe/laicit…",
+					"indices": [
+						214,
+						237
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 191,
+			"friends_count": 383,
+			"listed_count": 9,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Un livre et un documentaire diffusé mardi 13 septembre sur Arte exposent les violences sexuelles dont ont été victimes de nombreux adeptes du Bouddhisme. \"Marianne\" s'est entretenu avec les auteurs et réalisateurs👇https://t.co/xzxFfrFRzV"
+	},
+	{
+		"created_at": "Tue Sep 13 08:02:08 +0000 2022",
+		"id": 1569585346710573000,
+		"id_str": "1569597280365289473",
+		"full_text": "📺 Ce soir sur ARTE : un documentaire important sur les violences sexuelles dans le bouddhisme, revenant notamment sur l’affaire @OKCinfor, qui mettent bien mal à l’aise le Dalaï-lama alerté depuis 1993 https://t.co/FCsIzFg8EI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinfor",
+					"name": "Initiative de Justice OKCinfo",
+					"id": 1097520031955587100,
+					"id_str": "1097520031955587073",
+					"indices": [
+						128,
+						137
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FCsIzFg8EI",
+					"expanded_url": "https://twitter.com/mariannelemag/status/1569554010993991681",
+					"display_url": "twitter.com/mariannelemag/…",
+					"indices": [
+						202,
+						225
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 432518496,
+			"id_str": "432518496",
+			"name": "Jean-Loup Adénor",
+			"screen_name": "JL_Adenor",
+			"location": "Paris, France",
+			"description": "Journaliste à @MarianneleMag et auteur. Pic de popularité du prénom : 1950 🤷‍♂️ Ici on parle laïcité, fondamentalismes et dérives sectaires",
+			"url": "https://t.co/TWZHHqY8GL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TWZHHqY8GL",
+							"expanded_url": "https://www.marianne.net/auteur/jean-loup-adenor",
+							"display_url": "marianne.net/auteur/jean-lo…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3842,
+			"friends_count": 945,
+			"listed_count": 51,
+			"created_at": "Fri Dec 09 13:46:39 +0000 2011",
+			"favourites_count": 9018,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539989135271895048/sITGXu-c_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539989135271895048/sITGXu-c_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/432518496/1662630137",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1569554010993991700,
+		"quoted_status_id_str": "1569554010993991681",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FCsIzFg8EI",
+			"expanded": "https://twitter.com/mariannelemag/status/1569554010993991681",
+			"display": "twitter.com/mariannelemag/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 13 05:10:11 +0000 2022",
+			"id": 1569554010993991700,
+			"id_str": "1569554010993991681",
+			"full_text": "Un livre et un documentaire diffusé mardi 13 septembre sur Arte exposent les violences sexuelles dont ont été victimes de nombreux adeptes du Bouddhisme. \"Marianne\" s'est entretenu avec les auteurs et réalisateurs👇 https://t.co/XsOtH7dONJ https://t.co/xwYsujCWxH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				238
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XsOtH7dONJ",
+						"expanded_url": "https://www.marianne.net/societe/education/operation-de-com-macron-en-deplacement-dans-un-lycee-pro-ce-mardi-sur-fond-de-contestation-sociale",
+						"display_url": "marianne.net/societe/educat…",
+						"indices": [
+							215,
+							238
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1569554008636891100,
+						"id_str": "1569554008636891136",
+						"indices": [
+							239,
+							262
+						],
+						"media_url": "http://pbs.twimg.com/media/FcgtDhSXoAAkgzR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FcgtDhSXoAAkgzR.jpg",
+						"url": "https://t.co/xwYsujCWxH",
+						"display_url": "pic.twitter.com/xwYsujCWxH",
+						"expanded_url": "https://twitter.com/MarianneleMag/status/1569554010993991681/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 790,
+								"h": 495,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 426,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 790,
+								"h": 495,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1569554008636891100,
+						"id_str": "1569554008636891136",
+						"indices": [
+							239,
+							262
+						],
+						"media_url": "http://pbs.twimg.com/media/FcgtDhSXoAAkgzR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FcgtDhSXoAAkgzR.jpg",
+						"url": "https://t.co/xwYsujCWxH",
+						"display_url": "pic.twitter.com/xwYsujCWxH",
+						"expanded_url": "https://twitter.com/MarianneleMag/status/1569554010993991681/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 790,
+								"h": 495,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 426,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 790,
+								"h": 495,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15823722,
+				"id_str": "15823722",
+				"name": "Marianne",
+				"screen_name": "MarianneleMag",
+				"location": "Paris",
+				"description": "Hebdomadaire en kiosque le jeudi. \"Le goût de la vérité n'empêche pas de prendre parti.\" – Albert Camus 📺 @Marianne_TVoff",
+				"url": "https://t.co/8ZjXbzcC29",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8ZjXbzcC29",
+								"expanded_url": "http://www.marianne.net",
+								"display_url": "marianne.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 507964,
+				"friends_count": 840,
+				"listed_count": 4529,
+				"created_at": "Tue Aug 12 15:38:11 +0000 2008",
+				"favourites_count": 1329,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 97725,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1065635156680237064/4bBlxO-a_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065635156680237064/4bBlxO-a_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15823722/1661940530",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "📺 Ce soir sur ARTE : un documentaire important sur les violences sexuelles dans le bouddhisme, revenant notamment sur l’affaire @OKCinfor, qui mettent bien mal à l’aise le Dalaï-lama alerté depuis 1993 https://t.co/FCsIzFg8EI"
+	},
+	{
+		"created_at": "Tue Sep 13 08:00:34 +0000 2022",
+		"id": 1569571805115064300,
+		"id_str": "1569596889841950725",
+		"full_text": "Étrange de ne pas signer son article dans @lemondefr\n\nMahé Giraut n'a aucune existence, ça arrive souvent chez @lemondefr ?\n\nC'est une commande ? #sarcasme https://t.co/DfcemP5gkW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sarcasme",
+					"indices": [
+						146,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lemondefr",
+					"name": "Le Monde",
+					"id": 24744541,
+					"id_str": "24744541",
+					"indices": [
+						42,
+						52
+					]
+				},
+				{
+					"screen_name": "lemondefr",
+					"name": "Le Monde",
+					"id": 24744541,
+					"id_str": "24744541",
+					"indices": [
+						111,
+						121
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569571796751470600,
+					"id_str": "1569571796751470593",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcg9O7LX0AEpvI7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcg9O7LX0AEpvI7.jpg",
+					"url": "https://t.co/DfcemP5gkW",
+					"display_url": "pic.twitter.com/DfcemP5gkW",
+					"expanded_url": "https://twitter.com/rMdes_/status/1569571805115064321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 416,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 734,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1059,
+							"h": 1732,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569571796751470600,
+					"id_str": "1569571796751470593",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcg9O7LX0AEpvI7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcg9O7LX0AEpvI7.jpg",
+					"url": "https://t.co/DfcemP5gkW",
+					"display_url": "pic.twitter.com/DfcemP5gkW",
+					"expanded_url": "https://twitter.com/rMdes_/status/1569571805115064321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 416,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 734,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1059,
+							"h": 1732,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉",
+			"description": "Je cherche job ! | Passionné par l'information, la démocratie, la justice et le discernement | @PolBegov @EUwatchers Porte-parole/Spokesperson @OKCinfor",
+			"url": "https://t.co/zNucbsHeDX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zNucbsHeDX",
+							"expanded_url": "https://rmendes.net/",
+							"display_url": "rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2492,
+			"friends_count": 4974,
+			"listed_count": 328,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 14601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487400666666577929/p9bHmIgR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487400666666577929/p9bHmIgR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1659387530",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Étrange de ne pas signer son article dans @lemondefr\n\nMahé Giraut n'a aucune existence, ça arrive souvent chez @lemondefr ?\n\nC'est une commande ? #sarcasme https://t.co/DfcemP5gkW"
+	},
+	{
+		"created_at": "Mon Sep 12 16:35:14 +0000 2022",
+		"id": 1569363824435941400,
+		"id_str": "1569364022310445056",
+		"full_text": "Autre détail que ce \"meeting\" ne dit pas, 12 témoignages d'abus sexuels non jugé, non public, exclusivement dans les mains du @DalaiLama depuis 2018 par des adeptes Bouddhistes en Occident.\n\nQue fait-on d'un \"responsable\" qui cache ou couve des abus sexuels dans Sa Religion? https://t.co/39BpEk3cEe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DalaiLama",
+					"name": "Dalai Lama",
+					"id": 20609518,
+					"id_str": "20609518",
+					"indices": [
+						126,
+						136
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/39BpEk3cEe",
+					"expanded_url": "https://twitter.com/rMdes_/status/1569346194224173056",
+					"display_url": "twitter.com/rMdes_/status/…",
+					"indices": [
+						276,
+						299
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2022: 🇫🇷Instruction en cours \n🇧🇪 verdict cassation 5 octobre 2022 | \n2020: Condamné 5 ans sursis | \n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 180,
+			"friends_count": 340,
+			"listed_count": 1,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1006,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1569346194224173000,
+		"quoted_status_id_str": "1569346194224173056",
+		"quoted_status_permalink": {
+			"url": "https://t.co/39BpEk3cEe",
+			"expanded": "https://twitter.com/rMdes_/status/1569346194224173056",
+			"display": "twitter.com/rMdes_/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 12 15:24:24 +0000 2022",
+			"id": 1569346194224173000,
+			"id_str": "1569346194224173056",
+			"full_text": "Un détail qui échappe à pas mal de gens... Nous n'avons jamais demandé à être pris en photo avec lui, nous avons été utilisé par sa campagne de communication qui nous a utilisé pour redorer son blason, tout en ne réalisant aucune des promesses du meeting de 2018. https://t.co/4dDCkmBJat",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				263
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1569346191623585800,
+						"id_str": "1569346191623585793",
+						"indices": [
+							264,
+							287
+						],
+						"media_url": "http://pbs.twimg.com/media/FcdwC-lWAAEKGwX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FcdwC-lWAAEKGwX.jpg",
+						"url": "https://t.co/4dDCkmBJat",
+						"display_url": "pic.twitter.com/4dDCkmBJat",
+						"expanded_url": "https://twitter.com/rMdes_/status/1569346194224173056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1569346191623585800,
+						"id_str": "1569346191623585793",
+						"indices": [
+							264,
+							287
+						],
+						"media_url": "http://pbs.twimg.com/media/FcdwC-lWAAEKGwX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FcdwC-lWAAEKGwX.jpg",
+						"url": "https://t.co/4dDCkmBJat",
+						"display_url": "pic.twitter.com/4dDCkmBJat",
+						"expanded_url": "https://twitter.com/rMdes_/status/1569346194224173056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1562961949,
+				"id_str": "1562961949",
+				"name": "Ricardo Mendes",
+				"screen_name": "rMdes_",
+				"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉",
+				"description": "Je cherche job ! | Passionné par l'information, la démocratie, la justice et le discernement | @PolBegov @EUwatchers Porte-parole/Spokesperson @OKCinfor",
+				"url": "https://t.co/zNucbsHeDX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zNucbsHeDX",
+								"expanded_url": "https://rmendes.net/",
+								"display_url": "rmendes.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2492,
+				"friends_count": 4974,
+				"listed_count": 328,
+				"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+				"favourites_count": 14601,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 43064,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1487400666666577929/p9bHmIgR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487400666666577929/p9bHmIgR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1659387530",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 49,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Autre détail que ce \"meeting\" ne dit pas, 12 témoignages d'abus sexuels non jugé, non public, exclusivement dans les mains du @DalaiLama depuis 2018 par des adeptes Bouddhistes en Occident.\n\nQue fait-on d'un \"responsable\" qui cache ou couve des abus sexuels dans Sa Religion? https://t.co/39BpEk3cEe"
+	},
+	{
+		"created_at": "Mon Sep 12 15:26:35 +0000 2022",
+		"id": 1569346519626821600,
+		"id_str": "1569346746139951104",
+		"full_text": "These days, the 'happiest man alive' isn't so happy. Look at how concerned Matthieu Ricard is about his image. He likes to be perceived retroactively as having been on the right side of history all along. But he joined the resistance after the war. 1/6 https://t.co/Ud8m9XRuXE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ud8m9XRuXE",
+					"expanded_url": "https://www.matthieuricard.org/blog/posts/au-sujet-du-film-bouddhisme-la-loi-du-silence-diffuse-sur-arte",
+					"display_url": "matthieuricard.org/blog/posts/au-…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396358893949931500,
+			"id_str": "1396358893949931521",
+			"name": "robhogendoorn",
+			"screen_name": "robhogendoorn",
+			"location": "The Netherlands",
+			"description": "I'm an investigative reporter and academic researcher, focussed on the Western reception of Buddhism. My usual MO is independent, inquisitive, and provocative.",
+			"url": "https://t.co/86oa7Q4ryU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/86oa7Q4ryU",
+							"expanded_url": "http://openbuddhism.org",
+							"display_url": "openbuddhism.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90,
+			"friends_count": 63,
+			"listed_count": 2,
+			"created_at": "Sun May 23 06:54:49 +0000 2021",
+			"favourites_count": 104,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1396362392636960773/9vWFK9xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1396362392636960773/9vWFK9xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396358893949931521/1621758316",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These days, the 'happiest man alive' isn't so happy. Look at how concerned Matthieu Ricard is about his image. He likes to be perceived retroactively as having been on the right side of history all along. But he joined the resistance after the war. 1/6 https://t.co/Ud8m9XRuXE"
+	},
+	{
+		"created_at": "Mon Sep 12 15:25:34 +0000 2022",
+		"id": 1569346194224173000,
+		"id_str": "1569346486953189376",
+		"full_text": "Un détail qui échappe à pas mal de gens... Nous n'avons jamais demandé à être pris en photo avec lui, nous avons été utilisé par sa campagne de communication qui nous a utilisé pour redorer son blason, tout en ne réalisant aucune des promesses du meeting de 2018. https://t.co/4dDCkmBJat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569346191623585800,
+					"id_str": "1569346191623585793",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/FcdwC-lWAAEKGwX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcdwC-lWAAEKGwX.jpg",
+					"url": "https://t.co/4dDCkmBJat",
+					"display_url": "pic.twitter.com/4dDCkmBJat",
+					"expanded_url": "https://twitter.com/rMdes_/status/1569346194224173056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569346191623585800,
+					"id_str": "1569346191623585793",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/FcdwC-lWAAEKGwX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcdwC-lWAAEKGwX.jpg",
+					"url": "https://t.co/4dDCkmBJat",
+					"display_url": "pic.twitter.com/4dDCkmBJat",
+					"expanded_url": "https://twitter.com/rMdes_/status/1569346194224173056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉",
+			"description": "Je cherche job ! | Passionné par l'information, la démocratie, la justice et le discernement | @PolBegov @EUwatchers Porte-parole/Spokesperson @OKCinfor",
+			"url": "https://t.co/zNucbsHeDX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zNucbsHeDX",
+							"expanded_url": "https://rmendes.net/",
+							"display_url": "rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2492,
+			"friends_count": 4974,
+			"listed_count": 328,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 14601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487400666666577929/p9bHmIgR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487400666666577929/p9bHmIgR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1659387530",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Un détail qui échappe à pas mal de gens... Nous n'avons jamais demandé à être pris en photo avec lui, nous avons été utilisé par sa campagne de communication qui nous a utilisé pour redorer son blason, tout en ne réalisant aucune des promesses du meeting de 2018. https://t.co/4dDCkmBJat"
+	},
+	{
+		"created_at": "Mon Sep 12 14:48:32 +0000 2022",
+		"id": 1569333005512241200,
+		"id_str": "1569337169864527873",
+		"full_text": "Paysage idyllique.\nChâteau de Soleils, près de Castellane.\nJe regarde cette photo et j'entends la voix de @rMdes_ raconter comment, âgé de moins de dix ans, il volait du pain au risque des coups pour avoir moins faim.\n👇👇👇 https://t.co/vnBN2U6ylt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rMdes_",
+					"name": "Ricardo Mendes",
+					"id": 1562961949,
+					"id_str": "1562961949",
+					"indices": [
+						106,
+						113
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569333002626367500,
+					"id_str": "1569333002626367490",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FcdkDRvXgAIT5Fs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcdkDRvXgAIT5Fs.jpg",
+					"url": "https://t.co/vnBN2U6ylt",
+					"display_url": "pic.twitter.com/vnBN2U6ylt",
+					"expanded_url": "https://twitter.com/ntrouiller/status/1569333005512241155/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 533,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 533,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569333002626367500,
+					"id_str": "1569333002626367490",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FcdkDRvXgAIT5Fs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcdkDRvXgAIT5Fs.jpg",
+					"url": "https://t.co/vnBN2U6ylt",
+					"display_url": "pic.twitter.com/vnBN2U6ylt",
+					"expanded_url": "https://twitter.com/ntrouiller/status/1569333005512241155/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 533,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 533,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116193827,
+			"id_str": "116193827",
+			"name": "Natalia Trouiller",
+			"screen_name": "ntrouiller",
+			"location": "Lyon",
+			"description": "Écrivain, conférencière. Réflexion sur la tech, patristique, gnosis hunter. Aime Jésus et son Église. Car même quand ma mère dévisse gravement, ça reste ma mère",
+			"url": "https://t.co/nsKqRURwwg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nsKqRURwwg",
+							"expanded_url": "https://www.debunkinprogress.org",
+							"display_url": "debunkinprogress.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7144,
+			"friends_count": 1349,
+			"listed_count": 146,
+			"created_at": "Sun Feb 21 14:33:01 +0000 2010",
+			"favourites_count": 11278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18601,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437129498080817153/D5HYZPIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437129498080817153/D5HYZPIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116193827/1634540168",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Paysage idyllique.\nChâteau de Soleils, près de Castellane.\nJe regarde cette photo et j'entends la voix de @rMdes_ raconter comment, âgé de moins de dix ans, il volait du pain au risque des coups pour avoir moins faim.\n👇👇👇 https://t.co/vnBN2U6ylt"
+	},
+	{
+		"created_at": "Mon Sep 12 14:27:46 +0000 2022",
+		"id": 1569300284651847700,
+		"id_str": "1569331944176885760",
+		"full_text": "Concrètement, comment nous aider ? \nEntre maintenant et le 5 octobre 2022, faire en sorte que #bouddhismeloidusilence reste dans l'actualité, jusqu'au verdict de l'appel en cassation par les accusés. \n\nInterpeller @MatthieuRicard via cette page \net re-utiliser ces tweets examples https://t.co/4nAfYUHjit",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bouddhismeloidusilence",
+					"indices": [
+						94,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						214,
+						229
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569300050345435100,
+					"id_str": "1569300050345435137",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FcdGFM7XoAEEL1S.png",
+					"media_url_https": "https://pbs.twimg.com/media/FcdGFM7XoAEEL1S.png",
+					"url": "https://t.co/4nAfYUHjit",
+					"display_url": "pic.twitter.com/4nAfYUHjit",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1569300284651847681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 946,
+							"h": 834,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 834,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 599,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569300050345435100,
+					"id_str": "1569300050345435137",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FcdGFM7XoAEEL1S.png",
+					"media_url_https": "https://pbs.twimg.com/media/FcdGFM7XoAEEL1S.png",
+					"url": "https://t.co/4nAfYUHjit",
+					"display_url": "pic.twitter.com/4nAfYUHjit",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1569300284651847681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 946,
+							"h": 834,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 834,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 599,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2022: 🇫🇷Instruction en cours \n🇧🇪 verdict cassation 5 octobre 2022 | \n2020: Condamné 5 ans sursis | \n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 180,
+			"friends_count": 340,
+			"listed_count": 1,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1006,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Concrètement, comment nous aider ? \nEntre maintenant et le 5 octobre 2022, faire en sorte que #bouddhismeloidusilence reste dans l'actualité, jusqu'au verdict de l'appel en cassation par les accusés. \n\nInterpeller @MatthieuRicard via cette page \net re-utiliser ces tweets examples https://t.co/4nAfYUHjit"
+	},
+	{
+		"created_at": "Mon Sep 12 13:55:30 +0000 2022",
+		"id": 1569322518493941800,
+		"id_str": "1569323820263292929",
+		"full_text": "Le relativisme des abus sexuels dans le bouddhisme tibétain et en particulier Nyingma-Pa par @matthieuricard \n\nle même baratin que depuis 1993, par une clique qui est incapable, d'une manière structurelle, de prendre la moindre responsabilité, tout en continuant de visiter OKC https://t.co/ySr9lwaiUx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						93,
+						108
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569315115010334700,
+					"id_str": "1569315115010334723",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FcdTyFLXoAMyegK.png",
+					"media_url_https": "https://pbs.twimg.com/media/FcdTyFLXoAMyegK.png",
+					"url": "https://t.co/ySr9lwaiUx",
+					"display_url": "pic.twitter.com/ySr9lwaiUx",
+					"expanded_url": "https://twitter.com/BuddhistLeaks/status/1569322518493941762/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 135,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 998,
+							"h": 198,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 998,
+							"h": 198,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569315115010334700,
+					"id_str": "1569315115010334723",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FcdTyFLXoAMyegK.png",
+					"media_url_https": "https://pbs.twimg.com/media/FcdTyFLXoAMyegK.png",
+					"url": "https://t.co/ySr9lwaiUx",
+					"display_url": "pic.twitter.com/ySr9lwaiUx",
+					"expanded_url": "https://twitter.com/BuddhistLeaks/status/1569322518493941762/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 135,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 998,
+							"h": 198,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 998,
+							"h": 198,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 890549322240196600,
+			"id_str": "890549322240196612",
+			"name": "Tibetan Buddhism Leaks",
+			"screen_name": "BuddhistLeaks",
+			"location": "Dharamsala",
+			"description": "Amplifying comments & news regarding Tibetan Buddhism sexual abuses allegations crimes : ⛔ FPMT, Shambhala, RIGPA, FWBO, NKT, Triratna, Ogyen Kunzang Choling",
+			"url": "https://t.co/hUPUjKwEpU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hUPUjKwEpU",
+							"expanded_url": "https://AbusesInTibetanBuddhism.info",
+							"display_url": "AbusesInTibetanBuddhism.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 697,
+			"friends_count": 1739,
+			"listed_count": 0,
+			"created_at": "Thu Jul 27 12:27:58 +0000 2017",
+			"favourites_count": 351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12728,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/890549322240196612/1608375674",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Le relativisme des abus sexuels dans le bouddhisme tibétain et en particulier Nyingma-Pa par @matthieuricard \n\nle même baratin que depuis 1993, par une clique qui est incapable, d'une manière structurelle, de prendre la moindre responsabilité, tout en continuant de visiter OKC https://t.co/ySr9lwaiUx"
+	},
+	{
 		"created_at": "Mon Sep 12 07:59:31 +0000 2022",
 		"id": 1569234238058135600,
 		"id_str": "1569234238058135558",
