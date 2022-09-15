@@ -1,6 +1,2342 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 14 18:27:41 +0000 2022",
+		"id": 1570116913400881200,
+		"id_str": "1570117095349981186",
+		"full_text": "Pour entendre @rMdes_ libérer l'information et l'aider à devenir un caillou dans la chaussure de Matthieu Ricard, prenez le temps de voir cette vidéo importante et de la partager ! \n#OKC\n#bouddhisme \n#pédocriminalité\nhttps://t.co/M2HrCNt3Ix",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OKC",
+					"indices": [
+						182,
+						186
+					]
+				},
+				{
+					"text": "bouddhisme",
+					"indices": [
+						187,
+						198
+					]
+				},
+				{
+					"text": "pédocriminalité",
+					"indices": [
+						200,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rMdes_",
+					"name": "Ricardo Mendes",
+					"id": 1562961949,
+					"id_str": "1562961949",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/M2HrCNt3Ix",
+					"expanded_url": "https://youtu.be/06YkWAI8BK0",
+					"display_url": "youtu.be/06YkWAI8BK0",
+					"indices": [
+						217,
+						240
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 143542394,
+			"id_str": "143542394",
+			"name": "Stéphanie de Vanssay #CitoyensDuWeb",
+			"screen_name": "2vanssay",
+			"location": "IDF  ",
+			"description": "Militante pédagogique optimiste  - Conseillère nationale au SE-Unsa - Compte personnel - Bloque à vue les trolls et autres fâcheux\n#DompterLesTrolls",
+			"url": "https://t.co/zlAm5yQNaS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zlAm5yQNaS",
+							"expanded_url": "http://dompterlestrolls.fr/",
+							"display_url": "dompterlestrolls.fr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14384,
+			"friends_count": 9971,
+			"listed_count": 687,
+			"created_at": "Thu May 13 19:15:45 +0000 2010",
+			"favourites_count": 77192,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 187094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5ABB5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241291662028046337/lEt8y2Gb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241291662028046337/lEt8y2Gb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/143542394/1547399253",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Pour entendre @rMdes_ libérer l'information et l'aider à devenir un caillou dans la chaussure de Matthieu Ricard, prenez le temps de voir cette vidéo importante et de la partager ! \n#OKC\n#bouddhisme \n#pédocriminalité\nhttps://t.co/M2HrCNt3Ix"
+	},
+	{
+		"created_at": "Wed Sep 14 16:57:11 +0000 2022",
+		"id": 1570082259620749300,
+		"id_str": "1570094321323606017",
+		"full_text": "Aujourd'hui ça fait 4 ans que le @DalaiLama a utilisé des victimes d'abus dans le bouddhisme tibétain pour redorer son blason.\n\nAujourd'hui ça fait 4 ans que le #dalailama a menti sur ses 4 promesses, enregistrées. https://t.co/nt2lll8hcj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dalailama",
+					"indices": [
+						161,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DalaiLama",
+					"name": "Dalai Lama",
+					"id": 20609518,
+					"id_str": "20609518",
+					"indices": [
+						33,
+						43
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570082252108832800,
+					"id_str": "1570082252108832768",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FcoNfVkXoAAh_ST.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcoNfVkXoAAh_ST.jpg",
+					"url": "https://t.co/nt2lll8hcj",
+					"display_url": "pic.twitter.com/nt2lll8hcj",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1570082259620749313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 560,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1312,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 988,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570082252108832800,
+					"id_str": "1570082252108832768",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FcoNfVkXoAAh_ST.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcoNfVkXoAAh_ST.jpg",
+					"url": "https://t.co/nt2lll8hcj",
+					"display_url": "pic.twitter.com/nt2lll8hcj",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1570082259620749313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 560,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1312,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 988,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2022: 🇫🇷Instruction en cours \n🇧🇪 verdict cassation 5 octobre 2022 | \n2020: Condamné 5 ans sursis | \n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 353,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1075,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Aujourd'hui ça fait 4 ans que le @DalaiLama a utilisé des victimes d'abus dans le bouddhisme tibétain pour redorer son blason.\n\nAujourd'hui ça fait 4 ans que le #dalailama a menti sur ses 4 promesses, enregistrées. https://t.co/nt2lll8hcj"
+	},
+	{
+		"created_at": "Wed Sep 14 16:57:09 +0000 2022",
+		"id": 1570038656873730000,
+		"id_str": "1570094309780725761",
+		"full_text": "Service minimal de l'Union Bouddhiste de France\n\nhttps://t.co/UukzaudRjV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UukzaudRjV",
+					"expanded_url": "https://www.lemonde.fr/le-monde-des-religions/article/2022/09/14/bouddhisme-la-loi-du-silence-sur-arte-ce-documentaire-aura-peut-etre-l-effet-salutaire-de-liberer-la-parole_6141533_6038514.html",
+					"display_url": "lemonde.fr/le-monde-des-r…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 565518712,
+			"id_str": "565518712",
+			"name": "hridayartha",
+			"screen_name": "hridayartha",
+			"location": "France",
+			"description": "Compte Twitter associé au blog Dans le Sillage d'Advayavajra",
+			"url": "http://t.co/fLn1I35iNa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/fLn1I35iNa",
+							"expanded_url": "http://hridayartha.blogspot.fr/",
+							"display_url": "hridayartha.blogspot.fr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 114,
+			"friends_count": 364,
+			"listed_count": 6,
+			"created_at": "Sat Apr 28 15:17:32 +0000 2012",
+			"favourites_count": 2844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3926,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1191009879793778694/0prPxIsk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191009879793778694/0prPxIsk_normal.jpg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Service minimal de l'Union Bouddhiste de France\n\nhttps://t.co/UukzaudRjV"
+	},
+	{
+		"created_at": "Wed Sep 14 16:27:29 +0000 2022",
+		"id": 1569996968130187300,
+		"id_str": "1570086845072949248",
+		"full_text": "Being ‘the happiest man alive’ is a hell of job. Matthieu Ricard built a career out of its performance. For years, he peddled his ideas—Tibetan Buddhist boilerplate mostly—on podia such as Ted Talk or the World Economic Forum annual meeting in Davos. 1/19\nhttps://t.co/11j8xjxm3Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/11j8xjxm3Y",
+					"expanded_url": "https://www.newscientist.com/article/mg17823965-200-the-colour-of-happiness/",
+					"display_url": "newscientist.com/article/mg1782…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396358893949931500,
+			"id_str": "1396358893949931521",
+			"name": "robhogendoorn",
+			"screen_name": "robhogendoorn",
+			"location": "The Netherlands",
+			"description": "I'm an investigative reporter and academic researcher, focussed on the Western reception of Buddhism. My usual MO is independent, inquisitive, and provocative.",
+			"url": "https://t.co/86oa7Q4ryU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/86oa7Q4ryU",
+							"expanded_url": "http://openbuddhism.org",
+							"display_url": "openbuddhism.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 95,
+			"friends_count": 64,
+			"listed_count": 2,
+			"created_at": "Sun May 23 06:54:49 +0000 2021",
+			"favourites_count": 118,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 780,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1396362392636960773/9vWFK9xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1396362392636960773/9vWFK9xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396358893949931521/1621758316",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Being ‘the happiest man alive’ is a hell of job. Matthieu Ricard built a career out of its performance. For years, he peddled his ideas—Tibetan Buddhist boilerplate mostly—on podia such as Ted Talk or the World Economic Forum annual meeting in Davos. 1/19\nhttps://t.co/11j8xjxm3Y"
+	},
+	{
+		"created_at": "Wed Sep 14 16:17:34 +0000 2022",
+		"id": 1570084350783258600,
+		"id_str": "1570084350783258624",
+		"full_text": "Quand @MatthieuRicard prétend ne pas savoir pourquoi il est connu en se basant sur cette fausse humilité qui cache des Ego's et des produits marketing bouddhistes gros comme des montagnes. https://t.co/1K1AKXYrHN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						6,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1K1AKXYrHN",
+					"expanded_url": "https://twitter.com/rMdes_/status/1569827615220928513",
+					"display_url": "twitter.com/rMdes_/status/…",
+					"indices": [
+						189,
+						212
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 383,
+			"listed_count": 9,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 339,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1569827615220928500,
+		"quoted_status_id_str": "1569827615220928513",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1K1AKXYrHN",
+			"expanded": "https://twitter.com/rMdes_/status/1569827615220928513",
+			"display": "twitter.com/rMdes_/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 13 23:17:24 +0000 2022",
+			"id": 1569827615220928500,
+			"id_str": "1569827615220928513",
+			"full_text": "J'ai autant du feedback scandalisé sur cette manœuvre que critique ou stratégique, donc pour l'instant je réfléchis, le \"timing\" est curieux et révèle plus qu'il n'en paraît, l'excuse de la célébrité non-désirée n'est pas très honnête, les données racontent autre chose, l'accès. https://t.co/yqobAfuFPB https://t.co/BaiSyYW0hq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				303
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/yqobAfuFPB",
+						"expanded_url": "https://twitter.com/rMdes_/status/1569795572751601670",
+						"display_url": "twitter.com/rMdes_/status/…",
+						"indices": [
+							280,
+							303
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1569827187309662200,
+						"id_str": "1569827187309662213",
+						"indices": [
+							304,
+							327
+						],
+						"media_url": "http://pbs.twimg.com/media/FcklgnJX0AUddB1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FcklgnJX0AUddB1.jpg",
+						"url": "https://t.co/BaiSyYW0hq",
+						"display_url": "pic.twitter.com/BaiSyYW0hq",
+						"expanded_url": "https://twitter.com/rMdes_/status/1569827615220928513/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 380,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1470,
+								"h": 822,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 671,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1569827187309662200,
+						"id_str": "1569827187309662213",
+						"indices": [
+							304,
+							327
+						],
+						"media_url": "http://pbs.twimg.com/media/FcklgnJX0AUddB1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FcklgnJX0AUddB1.jpg",
+						"url": "https://t.co/BaiSyYW0hq",
+						"display_url": "pic.twitter.com/BaiSyYW0hq",
+						"expanded_url": "https://twitter.com/rMdes_/status/1569827615220928513/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 380,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1470,
+								"h": 822,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 671,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1562961949,
+				"id_str": "1562961949",
+				"name": "Ricardo Mendes",
+				"screen_name": "rMdes_",
+				"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉",
+				"description": "Passionné par l'information, la démocratie, la justice et le discernement | @PolBegov @EUwatchers Porte-parole/Spokesperson @OKCinfor",
+				"url": "https://t.co/zNucbsHeDX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zNucbsHeDX",
+								"expanded_url": "https://rmendes.net/",
+								"display_url": "rmendes.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2529,
+				"friends_count": 4980,
+				"listed_count": 328,
+				"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+				"favourites_count": 14629,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 43176,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1487400666666577929/p9bHmIgR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487400666666577929/p9bHmIgR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1659387530",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1569795572751601700,
+			"quoted_status_id_str": "1569795572751601670",
+			"quoted_status_permalink": {
+				"url": "https://t.co/yqobAfuFPB",
+				"expanded": "https://twitter.com/rMdes_/status/1569795572751601670",
+				"display": "twitter.com/rMdes_/status/…"
+			},
+			"retweet_count": 4,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Quand @MatthieuRicard prétend ne pas savoir pourquoi il est connu en se basant sur cette fausse humilité qui cache des Ego's et des produits marketing bouddhistes gros comme des montagnes. https://t.co/1K1AKXYrHN"
+	},
+	{
+		"created_at": "Wed Sep 14 16:14:06 +0000 2022",
+		"id": 1570083478334574600,
+		"id_str": "1570083478334574594",
+		"full_text": "Go to Buddhist hell fire @tenzinpeljor whatever is coming out of your fingers or your heart (if you still have one) is rotten to the core.\n\nWe will keep advising survivors to avoid your sites, your blogs and your dog barking in front the temple attitude for eons to come. https://t.co/Dq0Ab91M28",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TenzinPeljor",
+					"name": "Tenzin Peljor",
+					"id": 2897267519,
+					"id_str": "2897267519",
+					"indices": [
+						25,
+						38
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570083471577563100,
+					"id_str": "1570083471577563136",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FcoOmUcXwAAtnNN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcoOmUcXwAAtnNN.jpg",
+					"url": "https://t.co/Dq0Ab91M28",
+					"display_url": "pic.twitter.com/Dq0Ab91M28",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1570083478334574594/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 945,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570083471577563100,
+					"id_str": "1570083471577563136",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FcoOmUcXwAAtnNN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcoOmUcXwAAtnNN.jpg",
+					"url": "https://t.co/Dq0Ab91M28",
+					"display_url": "pic.twitter.com/Dq0Ab91M28",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1570083478334574594/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 945,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 383,
+			"listed_count": 9,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 339,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Go to Buddhist hell fire @tenzinpeljor whatever is coming out of your fingers or your heart (if you still have one) is rotten to the core.\n\nWe will keep advising survivors to avoid your sites, your blogs and your dog barking in front the temple attitude for eons to come. https://t.co/Dq0Ab91M28"
+	},
+	{
+		"created_at": "Wed Sep 14 15:54:37 +0000 2022",
+		"id": 1570078574404685800,
+		"id_str": "1570078574404685825",
+		"full_text": "“Buddhism, the law of silence”, when the monks abuse\n\n#Buddhism\n#matthieuricard \n#dalailama\n#rabjamrinpoche\n#lamakunzang \n\nhttps://t.co/1CM2nhHtHV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Buddhism",
+					"indices": [
+						54,
+						63
+					]
+				},
+				{
+					"text": "matthieuricard",
+					"indices": [
+						64,
+						79
+					]
+				},
+				{
+					"text": "dalailama",
+					"indices": [
+						81,
+						91
+					]
+				},
+				{
+					"text": "rabjamrinpoche",
+					"indices": [
+						92,
+						107
+					]
+				},
+				{
+					"text": "lamakunzang",
+					"indices": [
+						108,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1CM2nhHtHV",
+					"expanded_url": "https://california18.com/buddhism-the-law-of-silence-when-the-monks-abuse/6799302022/",
+					"display_url": "california18.com/buddhism-the-l…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 383,
+			"listed_count": 9,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 339,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Buddhism, the law of silence”, when the monks abuse\n\n#Buddhism\n#matthieuricard \n#dalailama\n#rabjamrinpoche\n#lamakunzang \n\nhttps://t.co/1CM2nhHtHV"
+	},
+	{
+		"created_at": "Wed Sep 14 15:42:37 +0000 2022",
+		"id": 1570075234887254000,
+		"id_str": "1570075555550076930",
+		"full_text": "Cher @MatthieuRicard, c'est pas de ton aide qu'on a besoin, ni de tes réponses à ce que l'on sait mieux que toi, ni de ta Fondation Pure Light, ce qu'on a besoin c'est que tu arrête l'hypocrisie, les omissions et que tu te comporte en suivant les voeux que tu as juré de respecter https://t.co/MeDSIlNYcM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						5,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MeDSIlNYcM",
+					"expanded_url": "https://twitter.com/rMdes_/status/1570004482527989763",
+					"display_url": "twitter.com/rMdes_/status/…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉",
+			"description": "Passionné par l'information, la démocratie, la justice et le discernement | @PolBegov @EUwatchers Porte-parole/Spokesperson @OKCinfor",
+			"url": "https://t.co/zNucbsHeDX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zNucbsHeDX",
+							"expanded_url": "https://rmendes.net/",
+							"display_url": "rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2529,
+			"friends_count": 4980,
+			"listed_count": 328,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 14629,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43176,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487400666666577929/p9bHmIgR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487400666666577929/p9bHmIgR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1659387530",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1570004482527989800,
+		"quoted_status_id_str": "1570004482527989763",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MeDSIlNYcM",
+			"expanded": "https://twitter.com/rMdes_/status/1570004482527989763",
+			"display": "twitter.com/rMdes_/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 14 11:00:12 +0000 2022",
+			"id": 1570004482527989800,
+			"id_str": "1570004482527989763",
+			"full_text": "Une mise au point s'impose à propos des affirmations de Matthieu Ricard #2 https://t.co/nHYYxrXS2D",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				98
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nHYYxrXS2D",
+						"expanded_url": "https://twitter.com/i/broadcasts/1YqxoANgqDbGv",
+						"display_url": "twitter.com/i/broadcasts/1…",
+						"indices": [
+							75,
+							98
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://periscope.tv\" rel=\"nofollow\">Periscope</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1562961949,
+				"id_str": "1562961949",
+				"name": "Ricardo Mendes",
+				"screen_name": "rMdes_",
+				"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉",
+				"description": "Passionné par l'information, la démocratie, la justice et le discernement | @PolBegov @EUwatchers Porte-parole/Spokesperson @OKCinfor",
+				"url": "https://t.co/zNucbsHeDX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zNucbsHeDX",
+								"expanded_url": "https://rmendes.net/",
+								"display_url": "rmendes.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2529,
+				"friends_count": 4980,
+				"listed_count": 328,
+				"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+				"favourites_count": 14629,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 43176,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1487400666666577929/p9bHmIgR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487400666666577929/p9bHmIgR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1659387530",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Cher @MatthieuRicard, c'est pas de ton aide qu'on a besoin, ni de tes réponses à ce que l'on sait mieux que toi, ni de ta Fondation Pure Light, ce qu'on a besoin c'est que tu arrête l'hypocrisie, les omissions et que tu te comporte en suivant les voeux que tu as juré de respecter https://t.co/MeDSIlNYcM"
+	},
+	{
+		"created_at": "Wed Sep 14 15:22:19 +0000 2022",
+		"id": 1570070155673100300,
+		"id_str": "1570070447898693634",
+		"full_text": "\"Dont l'une est plus âgée et décide avec lui qui peut être intégrée dans le groupe\"\n\nExactement le même rôle que Yana, consort de Spatz, usée comme une serpierre faisant office de rabatteuse de potentiel candidate pour les dérives sexuelles de Robert Spatz alias Lama Kunzang https://t.co/SXoqLxLDSN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570070146512732200,
+					"id_str": "1570070146512732160",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FcoCestWQAAHBVG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcoCestWQAAHBVG.jpg",
+					"url": "https://t.co/SXoqLxLDSN",
+					"display_url": "pic.twitter.com/SXoqLxLDSN",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1570070155673100288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570070146512732200,
+					"id_str": "1570070146512732160",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FcoCestWQAAHBVG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcoCestWQAAHBVG.jpg",
+					"url": "https://t.co/SXoqLxLDSN",
+					"display_url": "pic.twitter.com/SXoqLxLDSN",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1570070155673100288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2022: 🇫🇷Instruction en cours \n🇧🇪 verdict cassation 5 octobre 2022 | \n2020: Condamné 5 ans sursis | \n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 353,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1075,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "\"Dont l'une est plus âgée et décide avec lui qui peut être intégrée dans le groupe\"\n\nExactement le même rôle que Yana, consort de Spatz, usée comme une serpierre faisant office de rabatteuse de potentiel candidate pour les dérives sexuelles de Robert Spatz alias Lama Kunzang https://t.co/SXoqLxLDSN"
+	},
+	{
+		"created_at": "Wed Sep 14 15:02:34 +0000 2022",
+		"id": 1570065426322952200,
+		"id_str": "1570065477178728459",
+		"full_text": "Page 30 de Bouddhisme, la loi du silence.\n\nQui est derrière #CarlaBruni dans cette scène à l'inauguration de Lerab Ling en 2008?\n\nLe directeur spirituel de la OKC, l'ami de @MatthieuRicard, \"le Lama\" qu'il ne nomme pas ce matin sur @franceinter.\n\n#lebaldeshypocrites https://t.co/OlhJYhCYkv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CarlaBruni",
+					"indices": [
+						60,
+						71
+					]
+				},
+				{
+					"text": "lebaldeshypocrites",
+					"indices": [
+						247,
+						266
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						173,
+						188
+					]
+				},
+				{
+					"screen_name": "franceinter",
+					"name": "France Inter",
+					"id": 34867057,
+					"id_str": "34867057",
+					"indices": [
+						232,
+						244
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570065417707683800,
+					"id_str": "1570065417707683847",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcn-LciXgAcjSjb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcn-LciXgAcjSjb.jpg",
+					"url": "https://t.co/OlhJYhCYkv",
+					"display_url": "pic.twitter.com/OlhJYhCYkv",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1570065426322952194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570065417707683800,
+					"id_str": "1570065417707683847",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcn-LciXgAcjSjb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcn-LciXgAcjSjb.jpg",
+					"url": "https://t.co/OlhJYhCYkv",
+					"display_url": "pic.twitter.com/OlhJYhCYkv",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1570065426322952194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2022: 🇫🇷Instruction en cours \n🇧🇪 verdict cassation 5 octobre 2022 | \n2020: Condamné 5 ans sursis | \n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 353,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1075,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Page 30 de Bouddhisme, la loi du silence.\n\nQui est derrière #CarlaBruni dans cette scène à l'inauguration de Lerab Ling en 2008?\n\nLe directeur spirituel de la OKC, l'ami de @MatthieuRicard, \"le Lama\" qu'il ne nomme pas ce matin sur @franceinter.\n\n#lebaldeshypocrites https://t.co/OlhJYhCYkv"
+	},
+	{
+		"created_at": "Wed Sep 14 14:30:04 +0000 2022",
+		"id": 1569994840833917000,
+		"id_str": "1570057295601573896",
+		"full_text": "Une mise au point s'impose à propos des affirmations de Matthieu Ricard https://t.co/75HGuO0NsP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/75HGuO0NsP",
+					"expanded_url": "https://twitter.com/i/broadcasts/1mnGeRLoLQoJX",
+					"display_url": "twitter.com/i/broadcasts/1…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://periscope.tv\" rel=\"nofollow\">Periscope</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2022: 🇫🇷Instruction en cours \n🇧🇪 verdict cassation 5 octobre 2022 | \n2020: Condamné 5 ans sursis | \n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 353,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1075,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Une mise au point s'impose à propos des affirmations de Matthieu Ricard https://t.co/75HGuO0NsP"
+	},
+	{
+		"created_at": "Wed Sep 14 14:30:02 +0000 2022",
+		"id": 1570004484079911000,
+		"id_str": "1570057289477902338",
+		"full_text": "Une mise au point s'impose à propos des affirmations de Matthieu Ricard #2 https://t.co/mwls1GqUcq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mwls1GqUcq",
+					"expanded_url": "https://twitter.com/i/broadcasts/1zqKVPmLvqDJB",
+					"display_url": "twitter.com/i/broadcasts/1…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://periscope.tv\" rel=\"nofollow\">Periscope</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2022: 🇫🇷Instruction en cours \n🇧🇪 verdict cassation 5 octobre 2022 | \n2020: Condamné 5 ans sursis | \n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 353,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1075,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Une mise au point s'impose à propos des affirmations de Matthieu Ricard #2 https://t.co/mwls1GqUcq"
+	},
+	{
+		"created_at": "Wed Sep 14 11:04:41 +0000 2022",
+		"id": 1570004482527989800,
+		"id_str": "1570005610267086848",
+		"full_text": "Une mise au point s'impose à propos des affirmations de Matthieu Ricard #2 https://t.co/nHYYxrXS2D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nHYYxrXS2D",
+					"expanded_url": "https://twitter.com/i/broadcasts/1YqxoANgqDbGv",
+					"display_url": "twitter.com/i/broadcasts/1…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://periscope.tv\" rel=\"nofollow\">Periscope</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉",
+			"description": "Passionné par l'information, la démocratie, la justice et le discernement | @PolBegov @EUwatchers Porte-parole/Spokesperson @OKCinfor",
+			"url": "https://t.co/zNucbsHeDX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zNucbsHeDX",
+							"expanded_url": "https://rmendes.net/",
+							"display_url": "rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2529,
+			"friends_count": 4980,
+			"listed_count": 328,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 14629,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43176,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487400666666577929/p9bHmIgR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487400666666577929/p9bHmIgR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1659387530",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Une mise au point s'impose à propos des affirmations de Matthieu Ricard #2 https://t.co/nHYYxrXS2D"
+	},
+	{
+		"created_at": "Wed Sep 14 09:38:08 +0000 2022",
+		"id": 1569981849669099500,
+		"id_str": "1569983830659940353",
+		"full_text": "@rMdes_ @OKCinfor N'oublions pas bien entendu que Pema Wangyal Rinpoche et Matthieu Ricard sont des disciples directs et avérés de Kangyur Rinpoche. Ils sont donc \"frères de Vajra\" et se doivent mutuelle assistance.",
+		"truncated": false,
+		"display_text_range": [
+			18,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rMdes_",
+					"name": "Ricardo Mendes",
+					"id": 1562961949,
+					"id_str": "1562961949",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "OKCinfor",
+					"name": "Initiative de Justice OKCinfo",
+					"id": 1097520031955587100,
+					"id_str": "1097520031955587073",
+					"indices": [
+						8,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1569981723269529600,
+		"in_reply_to_status_id_str": "1569981723269529600",
+		"in_reply_to_user_id": 4284488117,
+		"in_reply_to_user_id_str": "4284488117",
+		"in_reply_to_screen_name": "Etzanas1",
+		"user": {
+			"id": 4284488117,
+			"id_str": "4284488117",
+			"name": "etzanas",
+			"screen_name": "Etzanas1",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2,
+			"friends_count": 146,
+			"listed_count": 0,
+			"created_at": "Thu Nov 26 10:46:50 +0000 2015",
+			"favourites_count": 502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "@rMdes_ @OKCinfor N'oublions pas bien entendu que Pema Wangyal Rinpoche et Matthieu Ricard sont des disciples directs et avérés de Kangyur Rinpoche. Ils sont donc \"frères de Vajra\" et se doivent mutuelle assistance."
+	},
+	{
+		"created_at": "Wed Sep 14 09:12:52 +0000 2022",
+		"id": 1569974351927349200,
+		"id_str": "1569977472292384768",
+		"full_text": "@rMdes_ @OKCinfor \"Quand il y a une hiérarchie avec des papes, des cardinaux... Les centres sont indépendants\".\nNon, il y a bien une hiérarchie : Shechen Rabjam Rinpoche est le responsable spirituel d'OKC.\nPema Wangyal Rinpoche est sans doute le guru de Spatz vu qu'il était son maitre de retraite.",
+		"truncated": false,
+		"display_text_range": [
+			18,
+			298
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rMdes_",
+					"name": "Ricardo Mendes",
+					"id": 1562961949,
+					"id_str": "1562961949",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "OKCinfor",
+					"name": "Initiative de Justice OKCinfo",
+					"id": 1097520031955587100,
+					"id_str": "1097520031955587073",
+					"indices": [
+						8,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1569972554554810400,
+		"in_reply_to_status_id_str": "1569972554554810368",
+		"in_reply_to_user_id": 4284488117,
+		"in_reply_to_user_id_str": "4284488117",
+		"in_reply_to_screen_name": "Etzanas1",
+		"user": {
+			"id": 4284488117,
+			"id_str": "4284488117",
+			"name": "etzanas",
+			"screen_name": "Etzanas1",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2,
+			"friends_count": 146,
+			"listed_count": 0,
+			"created_at": "Thu Nov 26 10:46:50 +0000 2015",
+			"favourites_count": 502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "@rMdes_ @OKCinfor \"Quand il y a une hiérarchie avec des papes, des cardinaux... Les centres sont indépendants\".\nNon, il y a bien une hiérarchie : Shechen Rabjam Rinpoche est le responsable spirituel d'OKC.\nPema Wangyal Rinpoche est sans doute le guru de Spatz vu qu'il était son maitre de retraite."
+	},
+	{
 		"created_at": "Wed Sep 14 08:01:29 +0000 2022",
 		"id": 1569939056989196300,
 		"id_str": "1569959508192927744",
@@ -1410,7 +3746,7 @@ Grailbird.data.tweets_2022_09 =
 			"name": "Jean-Loup Adénor",
 			"screen_name": "JL_Adenor",
 			"location": "Paris, France",
-			"description": "Journaliste à @MarianneleMag et auteur. Pic de popularité du prénom : 1950 🤷‍♂️ Ici on parle laïcité, fondamentalismes et dérives sectaires",
+			"description": "Journaliste à @MarianneleMag et auteur. Pic de popularité du prénom : 1950 🤷♂️ Ici on parle laïcité, fondamentalismes et dérives sectaires",
 			"url": "https://t.co/TWZHHqY8GL",
 			"entities": {
 				"url": {
