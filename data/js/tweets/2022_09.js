@@ -1,6 +1,3229 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 06:55:31 +0000 2022",
+		"id": 1570665571154559000,
+		"id_str": "1570667679891193858",
+		"full_text": "Ce serait appréciable que l'@AcAixMarseille communique pour assurer qu'il n'y aura pas d'ouverture d'une école de l'OKC, pour tranquilliser les victimes d'@OKCinfor et pour la sécurité des enfants.\ncc @BernardBeignier\n#bouddhisme\n#DériveSectaire\n#pédocriminalité https://t.co/fubsMj7ZWg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bouddhisme",
+					"indices": [
+						218,
+						229
+					]
+				},
+				{
+					"text": "DériveSectaire",
+					"indices": [
+						230,
+						245
+					]
+				},
+				{
+					"text": "pédocriminalité",
+					"indices": [
+						246,
+						262
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AcAixMarseille",
+					"name": "Acad. Aix-Marseille",
+					"id": 737922321642557400,
+					"id_str": "737922321642557440",
+					"indices": [
+						28,
+						43
+					]
+				},
+				{
+					"screen_name": "OKCinfor",
+					"name": "Initiative de Justice OKCinfo",
+					"id": 1097520031955587100,
+					"id_str": "1097520031955587073",
+					"indices": [
+						155,
+						164
+					]
+				},
+				{
+					"screen_name": "BernardBeignier",
+					"name": "Bernard Beignier",
+					"id": 1141319245537718300,
+					"id_str": "1141319245537718272",
+					"indices": [
+						201,
+						217
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fubsMj7ZWg",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1570656747009998848",
+					"display_url": "twitter.com/OKCinfor/statu…",
+					"indices": [
+						263,
+						286
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 143542394,
+			"id_str": "143542394",
+			"name": "Stéphanie de Vanssay #CitoyensDuWeb",
+			"screen_name": "2vanssay",
+			"location": "IDF  ",
+			"description": "Militante pédagogique optimiste  - Conseillère nationale au SE-Unsa - Compte personnel - Bloque à vue les trolls et autres fâcheux\n#DompterLesTrolls",
+			"url": "https://t.co/zlAm5yQNaS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zlAm5yQNaS",
+							"expanded_url": "http://dompterlestrolls.fr/",
+							"display_url": "dompterlestrolls.fr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14381,
+			"friends_count": 9973,
+			"listed_count": 687,
+			"created_at": "Thu May 13 19:15:45 +0000 2010",
+			"favourites_count": 77234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 187131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5ABB5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241291662028046337/lEt8y2Gb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241291662028046337/lEt8y2Gb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/143542394/1547399253",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1570656747009998800,
+		"quoted_status_id_str": "1570656747009998848",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fubsMj7ZWg",
+			"expanded": "https://twitter.com/OKCinfor/status/1570656747009998848",
+			"display": "twitter.com/OKCinfor/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 16 06:12:04 +0000 2022",
+			"id": 1570656747009998800,
+			"id_str": "1570656747009998848",
+			"full_text": "Enfin, hier soir, par un hasard de la vie, une source à Castelanne nous informe que la OKC aurait fait une demande de réouverture de l'école de Château de Soleil, demande qui a été refusée par la Mairie (Merci !!)\n\nQuel sont les plans de OKC et Rabjam pour château de Soleil ?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1570656737233105000,
+			"in_reply_to_status_id_str": "1570656737233104897",
+			"in_reply_to_user_id": 1097520031955587100,
+			"in_reply_to_user_id_str": "1097520031955587073",
+			"in_reply_to_screen_name": "OKCinfor",
+			"user": {
+				"id": 1097520031955587100,
+				"id_str": "1097520031955587073",
+				"name": "Initiative de Justice OKCinfo",
+				"screen_name": "OKCinfor",
+				"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+				"description": "2022: 🇫🇷Instruction en cours \n🇧🇪 verdict cassation 5 octobre 2022 | \n2020: Condamné 5 ans sursis | \n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+				"url": "https://t.co/uRVeG10dZv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uRVeG10dZv",
+								"expanded_url": "https://okcinfo.news",
+								"display_url": "okcinfo.news",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 196,
+				"friends_count": 353,
+				"listed_count": 2,
+				"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+				"favourites_count": 320,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1097,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "fr"
+		},
+		"retweet_count": 9,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Ce serait appréciable que l'@AcAixMarseille communique pour assurer qu'il n'y aura pas d'ouverture d'une école de l'OKC, pour tranquilliser les victimes d'@OKCinfor et pour la sécurité des enfants.\ncc @BernardBeignier\n#bouddhisme\n#DériveSectaire\n#pédocriminalité https://t.co/fubsMj7ZWg"
+	},
+	{
+		"created_at": "Fri Sep 16 06:50:18 +0000 2022",
+		"id": 1570666368512692200,
+		"id_str": "1570666368512692225",
+		"full_text": "This is what @MatthieuRicard Rabjam Rinpoche, Pema Wangyal Rinpoche should seriously consider and deal with.\nThese two tweets say everything\n\nHave the courage to deal with Reality not just with inner projection of a state of mind that denies agency acknowledgement of suffering",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						13,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1570666366268764200,
+		"in_reply_to_status_id_str": "1570666366268764161",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 383,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 339,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1517,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "This is what @MatthieuRicard Rabjam Rinpoche, Pema Wangyal Rinpoche should seriously consider and deal with.\nThese two tweets say everything\n\nHave the courage to deal with Reality not just with inner projection of a state of mind that denies agency acknowledgement of suffering"
+	},
+	{
+		"created_at": "Fri Sep 16 06:50:17 +0000 2022",
+		"id": 1570666366268764200,
+		"id_str": "1570666366268764161",
+		"full_text": "This is the most powerful thing we have read in years regarding Abuses in Tibetan Buddhism.\n\nBut it's more than that.\n\nIt's universal. It goes beyond the clerical limits imposed by their own infrastructure &amp; institutions, it touch everything and resonate in survivors hearts https://t.co/GfDt0zPATS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GfDt0zPATS",
+					"expanded_url": "https://twitter.com/tenam/status/1569695018428022787",
+					"display_url": "twitter.com/tenam/status/1…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 383,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 339,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1517,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1569695018428022800,
+		"quoted_status_id_str": "1569695018428022787",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GfDt0zPATS",
+			"expanded": "https://twitter.com/tenam/status/1569695018428022787",
+			"display": "twitter.com/tenam/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 13 14:30:30 +0000 2022",
+			"id": 1569695018428022800,
+			"id_str": "1569695018428022787",
+			"full_text": "On hearing about sexual abuse of minors, women and others by Tibetan Buddhist masters, if your knee-jerk reaction is that they should have known better. Or that Buddha has always said that one should be careful in choosing one's guru, then I think you are a part of the problem.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20579823,
+				"id_str": "20579823",
+				"name": "Tenam བསྟན་རྣམ། #Tibet",
+				"screen_name": "tenam",
+				"location": "France",
+				"description": "Exilé en France. La lutte pour le Tibet est tout d'abord un mouvement anti-colonial\n#Rangzen!\nབོད་རང་བཙན\nSolidarité avec Turkestan orientale, HongKong Mongolie",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4250,
+				"friends_count": 1489,
+				"listed_count": 61,
+				"created_at": "Wed Feb 11 09:07:57 +0000 2009",
+				"favourites_count": 28005,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18460,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1569624580381188096/RG7jJ63d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569624580381188096/RG7jJ63d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20579823/1429104551",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 32,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is the most powerful thing we have read in years regarding Abuses in Tibetan Buddhism.\n\nBut it's more than that.\n\nIt's universal. It goes beyond the clerical limits imposed by their own infrastructure &amp; institutions, it touch everything and resonate in survivors hearts https://t.co/GfDt0zPATS"
+	},
+	{
+		"created_at": "Fri Sep 16 06:34:47 +0000 2022",
+		"id": 1570656829151256600,
+		"id_str": "1570662462776811521",
+		"full_text": "On vous conseille de vraiment vraiment, de faire attention à la moindre chose faite (ou pas faite) parce que nous ici on va pas relâcher l'attention ni l'observation de ces \"maîtres\" qui prétendent consacrer un stupa à côté de la tour d'un criminel.\n\nSans même s'en rendre compte",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1570656823199535000,
+		"in_reply_to_status_id_str": "1570656823199535105",
+		"in_reply_to_user_id": 1097520031955587100,
+		"in_reply_to_user_id_str": "1097520031955587073",
+		"in_reply_to_screen_name": "OKCinfor",
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2022: 🇫🇷Instruction en cours \n🇧🇪 verdict cassation 5 octobre 2022 | \n2020: Condamné 5 ans sursis | \n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196,
+			"friends_count": 353,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "On vous conseille de vraiment vraiment, de faire attention à la moindre chose faite (ou pas faite) parce que nous ici on va pas relâcher l'attention ni l'observation de ces \"maîtres\" qui prétendent consacrer un stupa à côté de la tour d'un criminel.\n\nSans même s'en rendre compte"
+	},
+	{
+		"created_at": "Fri Sep 16 06:34:36 +0000 2022",
+		"id": 1570656823199535000,
+		"id_str": "1570662418426245125",
+		"full_text": "Mais si un lieux ne peut être damné pour l'éternité (dixit @MatthieuRicard) la Justice Française, les lois qui gouvernent ce pays sont au dessus des deals entre la OKC et Rabjam / Sechen, ce dernier a fait une Alliance avec OKC et articulé ce silence dans le bouddhisme tibétain.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						59,
+						74
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1570656818699071500,
+		"in_reply_to_status_id_str": "1570656818699071489",
+		"in_reply_to_user_id": 1097520031955587100,
+		"in_reply_to_user_id_str": "1097520031955587073",
+		"in_reply_to_screen_name": "OKCinfor",
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2022: 🇫🇷Instruction en cours \n🇧🇪 verdict cassation 5 octobre 2022 | \n2020: Condamné 5 ans sursis | \n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196,
+			"friends_count": 353,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Mais si un lieux ne peut être damné pour l'éternité (dixit @MatthieuRicard) la Justice Française, les lois qui gouvernent ce pays sont au dessus des deals entre la OKC et Rabjam / Sechen, ce dernier a fait une Alliance avec OKC et articulé ce silence dans le bouddhisme tibétain."
+	},
+	{
+		"created_at": "Fri Sep 16 06:34:34 +0000 2022",
+		"id": 1570656818699071500,
+		"id_str": "1570662409022607360",
+		"full_text": "Rien ne garantis que Château de Soleil alias Nyima-Dzong ne va pas être saisi par la justice ou que OKC ne va pas être démantelé et dissout par un acte de justice, ce qu'il adviendrait de cette propriété et des avoirs OKC est le cadet de nos soucis, nous n'en voulons rien.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1570656813540069400,
+		"in_reply_to_status_id_str": "1570656813540069376",
+		"in_reply_to_user_id": 1097520031955587100,
+		"in_reply_to_user_id_str": "1097520031955587073",
+		"in_reply_to_screen_name": "OKCinfor",
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2022: 🇫🇷Instruction en cours \n🇧🇪 verdict cassation 5 octobre 2022 | \n2020: Condamné 5 ans sursis | \n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196,
+			"friends_count": 353,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Rien ne garantis que Château de Soleil alias Nyima-Dzong ne va pas être saisi par la justice ou que OKC ne va pas être démantelé et dissout par un acte de justice, ce qu'il adviendrait de cette propriété et des avoirs OKC est le cadet de nos soucis, nous n'en voulons rien."
+	},
+	{
+		"created_at": "Fri Sep 16 06:34:27 +0000 2022",
+		"id": 1570656813540069400,
+		"id_str": "1570662379150802944",
+		"full_text": "Une dernière chose.. La OKC est une organisation criminelle qui va être jugée par la Justice, une organisation qui a couvé et activement caché des crimes.\n\nCes actes ont été commis par la direction OKC.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1570656808662081500,
+		"in_reply_to_status_id_str": "1570656808662081537",
+		"in_reply_to_user_id": 1097520031955587100,
+		"in_reply_to_user_id_str": "1097520031955587073",
+		"in_reply_to_screen_name": "OKCinfor",
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2022: 🇫🇷Instruction en cours \n🇧🇪 verdict cassation 5 octobre 2022 | \n2020: Condamné 5 ans sursis | \n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196,
+			"friends_count": 353,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Une dernière chose.. La OKC est une organisation criminelle qui va être jugée par la Justice, une organisation qui a couvé et activement caché des crimes.\n\nCes actes ont été commis par la direction OKC."
+	},
+	{
+		"created_at": "Fri Sep 16 06:34:16 +0000 2022",
+		"id": 1570656808662081500,
+		"id_str": "1570662333185396740",
+		"full_text": "Mais au milieu de tout cela, une route sinueuse mais possible existe pour d'un côté articuler une reconnaissance réelle des vécus, pas que symbolique, et légalement une route existe pour mettre \"l'offrande en pratique\" déposséder la OKC de son bien, soit disant offert.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1570656802425180200,
+		"in_reply_to_status_id_str": "1570656802425180160",
+		"in_reply_to_user_id": 1097520031955587100,
+		"in_reply_to_user_id_str": "1097520031955587073",
+		"in_reply_to_screen_name": "OKCinfor",
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2022: 🇫🇷Instruction en cours \n🇧🇪 verdict cassation 5 octobre 2022 | \n2020: Condamné 5 ans sursis | \n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196,
+			"friends_count": 353,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Mais au milieu de tout cela, une route sinueuse mais possible existe pour d'un côté articuler une reconnaissance réelle des vécus, pas que symbolique, et légalement une route existe pour mettre \"l'offrande en pratique\" déposséder la OKC de son bien, soit disant offert."
+	},
+	{
+		"created_at": "Fri Sep 16 06:34:08 +0000 2022",
+		"id": 1570656802425180200,
+		"id_str": "1570662298087456769",
+		"full_text": "Il ne sera jamais possible d'utiliser ce lieu en toute quiétude et tous les tibétains, Lamas et que sais-je qui y poserait les pieds sans reconnaissance, se verront la cible de l'opprobre public.\n\nIl en faudra de la patience !",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1570656792883134500,
+		"in_reply_to_status_id_str": "1570656792883134464",
+		"in_reply_to_user_id": 1097520031955587100,
+		"in_reply_to_user_id_str": "1097520031955587073",
+		"in_reply_to_screen_name": "OKCinfor",
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2022: 🇫🇷Instruction en cours \n🇧🇪 verdict cassation 5 octobre 2022 | \n2020: Condamné 5 ans sursis | \n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196,
+			"friends_count": 353,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Il ne sera jamais possible d'utiliser ce lieu en toute quiétude et tous les tibétains, Lamas et que sais-je qui y poserait les pieds sans reconnaissance, se verront la cible de l'opprobre public.\n\nIl en faudra de la patience !"
+	},
+	{
+		"created_at": "Fri Sep 16 06:33:59 +0000 2022",
+		"id": 1570656792883134500,
+		"id_str": "1570662263354462210",
+		"full_text": "Hors la OKC Belgique, la OKC France sont sous instructions judiciaire et sont les propriétaires des lieux.\n\nTant que c'est la réalité, tant que le nom Nyima-Dzong est utilisé, tant que Ogyen Kunzang Choling n'est pas dissout par la procédure judiciaire ou la reconnaissance",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1570656788273582000,
+		"in_reply_to_status_id_str": "1570656788273582081",
+		"in_reply_to_user_id": 1097520031955587100,
+		"in_reply_to_user_id_str": "1097520031955587073",
+		"in_reply_to_screen_name": "OKCinfor",
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2022: 🇫🇷Instruction en cours \n🇧🇪 verdict cassation 5 octobre 2022 | \n2020: Condamné 5 ans sursis | \n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196,
+			"friends_count": 353,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Hors la OKC Belgique, la OKC France sont sous instructions judiciaire et sont les propriétaires des lieux.\n\nTant que c'est la réalité, tant que le nom Nyima-Dzong est utilisé, tant que Ogyen Kunzang Choling n'est pas dissout par la procédure judiciaire ou la reconnaissance"
+	},
+	{
+		"created_at": "Fri Sep 16 06:33:57 +0000 2022",
+		"id": 1570656788273582000,
+		"id_str": "1570662254470909955",
+		"full_text": "Avaler des couleuvres pour la réhabilitation du bouddhisme tibétain sous sa forme actuelle (sans gardes fous et sans institutions compatible avec les Lois) on se laissera pas être utiliser pour réhabiliter ce lieu, nous ce qui nous intéresse c'est la condamnation de Robert Spatz.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1570656767926997000,
+		"in_reply_to_status_id_str": "1570656767926996996",
+		"in_reply_to_user_id": 1097520031955587100,
+		"in_reply_to_user_id_str": "1097520031955587073",
+		"in_reply_to_screen_name": "OKCinfor",
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2022: 🇫🇷Instruction en cours \n🇧🇪 verdict cassation 5 octobre 2022 | \n2020: Condamné 5 ans sursis | \n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196,
+			"friends_count": 353,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Avaler des couleuvres pour la réhabilitation du bouddhisme tibétain sous sa forme actuelle (sans gardes fous et sans institutions compatible avec les Lois) on se laissera pas être utiliser pour réhabiliter ce lieu, nous ce qui nous intéresse c'est la condamnation de Robert Spatz."
+	},
+	{
+		"created_at": "Fri Sep 16 06:33:54 +0000 2022",
+		"id": 1570656767926997000,
+		"id_str": "1570662242571685888",
+		"full_text": "Nous nous réservons le droit de juger et critiquer et établir si ce qui aura été fait, pris comme mesure, mis en place pour graver sur le sol de Nyima-Dzong notre vérité est suffisant ou pas et en fonction, on verra ce qu'il est possible d'exprimer.\n\nMais on se laissera pas",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1570656763460087800,
+		"in_reply_to_status_id_str": "1570656763460087809",
+		"in_reply_to_user_id": 1097520031955587100,
+		"in_reply_to_user_id_str": "1097520031955587073",
+		"in_reply_to_screen_name": "OKCinfor",
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2022: 🇫🇷Instruction en cours \n🇧🇪 verdict cassation 5 octobre 2022 | \n2020: Condamné 5 ans sursis | \n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196,
+			"friends_count": 353,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Nous nous réservons le droit de juger et critiquer et établir si ce qui aura été fait, pris comme mesure, mis en place pour graver sur le sol de Nyima-Dzong notre vérité est suffisant ou pas et en fonction, on verra ce qu'il est possible d'exprimer.\n\nMais on se laissera pas"
+	},
+	{
+		"created_at": "Fri Sep 16 06:33:52 +0000 2022",
+		"id": 1570656763460087800,
+		"id_str": "1570662233117687808",
+		"full_text": "Donc @MatthieuRicard un lieu peut être damné pour l'éternité, oui, tant que un processus total de reconnaissance de ce qu'il s'est passé sur place n'est pas entamé, tant qu'une stèle en Pierre ou en Acier impossible à faire disparaître ou oublier n'est pas érigée sur place.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						5,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1570656759962017800,
+		"in_reply_to_status_id_str": "1570656759962017793",
+		"in_reply_to_user_id": 1097520031955587100,
+		"in_reply_to_user_id_str": "1097520031955587073",
+		"in_reply_to_screen_name": "OKCinfor",
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2022: 🇫🇷Instruction en cours \n🇧🇪 verdict cassation 5 octobre 2022 | \n2020: Condamné 5 ans sursis | \n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196,
+			"friends_count": 353,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Donc @MatthieuRicard un lieu peut être damné pour l'éternité, oui, tant que un processus total de reconnaissance de ce qu'il s'est passé sur place n'est pas entamé, tant qu'une stèle en Pierre ou en Acier impossible à faire disparaître ou oublier n'est pas érigée sur place."
+	},
+	{
+		"created_at": "Fri Sep 16 06:33:49 +0000 2022",
+		"id": 1570656759962017800,
+		"id_str": "1570662222405464067",
+		"full_text": "Déjà tant que les procédures judiciaires sont en cours, tant que les procès ne sont pas terminé, tant que la OKC est propriétaire du lieu, tant que Rabjam en est le \"Directeur\" tant que les abus et la dérive n'est pas reconnue dans son ensemble, totalement, pas juste pour le show",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1570656751858622500,
+		"in_reply_to_status_id_str": "1570656751858622464",
+		"in_reply_to_user_id": 1097520031955587100,
+		"in_reply_to_user_id_str": "1097520031955587073",
+		"in_reply_to_screen_name": "OKCinfor",
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2022: 🇫🇷Instruction en cours \n🇧🇪 verdict cassation 5 octobre 2022 | \n2020: Condamné 5 ans sursis | \n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196,
+			"friends_count": 353,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Déjà tant que les procédures judiciaires sont en cours, tant que les procès ne sont pas terminé, tant que la OKC est propriétaire du lieu, tant que Rabjam en est le \"Directeur\" tant que les abus et la dérive n'est pas reconnue dans son ensemble, totalement, pas juste pour le show"
+	},
+	{
+		"created_at": "Fri Sep 16 06:33:47 +0000 2022",
+		"id": 1570656751858622500,
+		"id_str": "1570662212133617670",
+		"full_text": "Ouvrir une \"école publique Bouddhiste\" et recevoir des enfants d'adeptes bouddhistes em France et se doter de l'hubris pour faire la même \"expérience\" mais avec \"des gens de l'extérieur\" et leurs enfants ?\n\nIl faut bannir @OgyenKun de toute notion d'école ou \"centre légitime\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OgyenKun",
+					"name": "OKC",
+					"id": 3665270417,
+					"id_str": "3665270417",
+					"indices": [
+						222,
+						231
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1570656747009998800,
+		"in_reply_to_status_id_str": "1570656747009998848",
+		"in_reply_to_user_id": 1097520031955587100,
+		"in_reply_to_user_id_str": "1097520031955587073",
+		"in_reply_to_screen_name": "OKCinfor",
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2022: 🇫🇷Instruction en cours \n🇧🇪 verdict cassation 5 octobre 2022 | \n2020: Condamné 5 ans sursis | \n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196,
+			"friends_count": 353,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Ouvrir une \"école publique Bouddhiste\" et recevoir des enfants d'adeptes bouddhistes em France et se doter de l'hubris pour faire la même \"expérience\" mais avec \"des gens de l'extérieur\" et leurs enfants ?\n\nIl faut bannir @OgyenKun de toute notion d'école ou \"centre légitime\""
+	},
+	{
+		"created_at": "Fri Sep 16 06:33:44 +0000 2022",
+		"id": 1570656747009998800,
+		"id_str": "1570662201173901312",
+		"full_text": "Enfin, hier soir, par un hasard de la vie, une source à Castelanne nous informe que la OKC aurait fait une demande de réouverture de l'école de Château de Soleil, demande qui a été refusée par la Mairie (Merci !!)\n\nQuel sont les plans de OKC et Rabjam pour château de Soleil ?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1570656737233105000,
+		"in_reply_to_status_id_str": "1570656737233104897",
+		"in_reply_to_user_id": 1097520031955587100,
+		"in_reply_to_user_id_str": "1097520031955587073",
+		"in_reply_to_screen_name": "OKCinfor",
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2022: 🇫🇷Instruction en cours \n🇧🇪 verdict cassation 5 octobre 2022 | \n2020: Condamné 5 ans sursis | \n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196,
+			"friends_count": 353,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Enfin, hier soir, par un hasard de la vie, une source à Castelanne nous informe que la OKC aurait fait une demande de réouverture de l'école de Château de Soleil, demande qui a été refusée par la Mairie (Merci !!)\n\nQuel sont les plans de OKC et Rabjam pour château de Soleil ?"
+	},
+	{
+		"created_at": "Fri Sep 16 06:33:42 +0000 2022",
+		"id": 1570656737233105000,
+		"id_str": "1570662191371808768",
+		"full_text": "L'affirmation que Spatz aurait vidé les lieux, alors que sa dernière visite sur place (2010) est une passation de pouvoir entre Lama Kunzang et Rabjam Rinpoche, de plus légalement, juridiquement, c'est la propriété de OKC. Même si \"offrande\" en a été faite à Rabjam Rinpoche.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1570656732459958300,
+		"in_reply_to_status_id_str": "1570656732459958272",
+		"in_reply_to_user_id": 1097520031955587100,
+		"in_reply_to_user_id_str": "1097520031955587073",
+		"in_reply_to_screen_name": "OKCinfor",
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2022: 🇫🇷Instruction en cours \n🇧🇪 verdict cassation 5 octobre 2022 | \n2020: Condamné 5 ans sursis | \n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196,
+			"friends_count": 353,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "L'affirmation que Spatz aurait vidé les lieux, alors que sa dernière visite sur place (2010) est une passation de pouvoir entre Lama Kunzang et Rabjam Rinpoche, de plus légalement, juridiquement, c'est la propriété de OKC. Même si \"offrande\" en a été faite à Rabjam Rinpoche."
+	},
+	{
+		"created_at": "Fri Sep 16 06:33:40 +0000 2022",
+		"id": 1570656732459958300,
+		"id_str": "1570662181288673280",
+		"full_text": "Par qui il a été invité. C'est très différents que d'affirmer à @franceinter être venu faire l'interprète. C'est un mensonge, un arrangement.\n\n Et puis ce \"Lama invité par un Bouthanais\" c'est rien de moins que le directeur spirituel OKC, combien de fois faudra le dire ?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "franceinter",
+					"name": "France Inter",
+					"id": 34867057,
+					"id_str": "34867057",
+					"indices": [
+						64,
+						76
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1570656726101397500,
+		"in_reply_to_status_id_str": "1570656726101397505",
+		"in_reply_to_user_id": 1097520031955587100,
+		"in_reply_to_user_id_str": "1097520031955587073",
+		"in_reply_to_screen_name": "OKCinfor",
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2022: 🇫🇷Instruction en cours \n🇧🇪 verdict cassation 5 octobre 2022 | \n2020: Condamné 5 ans sursis | \n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196,
+			"friends_count": 353,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Par qui il a été invité. C'est très différents que d'affirmer à @franceinter être venu faire l'interprète. C'est un mensonge, un arrangement.\n\n Et puis ce \"Lama invité par un Bouthanais\" c'est rien de moins que le directeur spirituel OKC, combien de fois faudra le dire ?"
+	},
+	{
+		"created_at": "Fri Sep 16 06:33:35 +0000 2022",
+		"id": 1570656726101397500,
+		"id_str": "1570662160946327557",
+		"full_text": "De plus, que ce soit dans la vidéo, les dizaines de photos qu'on a de la \"consécration\"\n\nIl n'y a pas une seule fois où @MatthieuRicard fait l'interprète, il n'est pas sur place dans un but utilitaire et totalement déconnecté de la réalité, il est \"venu voir son ami Rabjam\" https://t.co/NA6HHJazcX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						120,
+						135
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570656721856594000,
+					"id_str": "1570656721856593921",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FcwX94JXgAEPL_4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcwX94JXgAEPL_4.jpg",
+					"url": "https://t.co/NA6HHJazcX",
+					"display_url": "pic.twitter.com/NA6HHJazcX",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1570656726101397505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570656721856594000,
+					"id_str": "1570656721856593921",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FcwX94JXgAEPL_4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcwX94JXgAEPL_4.jpg",
+					"url": "https://t.co/NA6HHJazcX",
+					"display_url": "pic.twitter.com/NA6HHJazcX",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1570656726101397505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1570648841170616300,
+		"in_reply_to_status_id_str": "1570648841170616322",
+		"in_reply_to_user_id": 1097520031955587100,
+		"in_reply_to_user_id_str": "1097520031955587073",
+		"in_reply_to_screen_name": "OKCinfor",
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2022: 🇫🇷Instruction en cours \n🇧🇪 verdict cassation 5 octobre 2022 | \n2020: Condamné 5 ans sursis | \n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196,
+			"friends_count": 353,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "De plus, que ce soit dans la vidéo, les dizaines de photos qu'on a de la \"consécration\"\n\nIl n'y a pas une seule fois où @MatthieuRicard fait l'interprète, il n'est pas sur place dans un but utilitaire et totalement déconnecté de la réalité, il est \"venu voir son ami Rabjam\" https://t.co/NA6HHJazcX"
+	},
+	{
+		"created_at": "Fri Sep 16 06:33:32 +0000 2022",
+		"id": 1570648841170616300,
+		"id_str": "1570662148996739072",
+		"full_text": "Cette \"consécration\" à été enregistrée en vidéo et éditée par un adepte OKC en 2019 et mise sur YouTube, nous en avons fait une copie disponible ici https://t.co/e6omWtkO5r\nOn y voit @MatthieuRicard dans son élément naturel, inconscient d'où il pose les pieds.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						183,
+						198
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/e6omWtkO5r",
+					"expanded_url": "https://tube.okcinfo.news/w/4aHZXi1UqnYVZmhifainKa",
+					"display_url": "tube.okcinfo.news/w/4aHZXi1UqnYV…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1570648837634793500,
+		"in_reply_to_status_id_str": "1570648837634793473",
+		"in_reply_to_user_id": 1097520031955587100,
+		"in_reply_to_user_id_str": "1097520031955587073",
+		"in_reply_to_screen_name": "OKCinfor",
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2022: 🇫🇷Instruction en cours \n🇧🇪 verdict cassation 5 octobre 2022 | \n2020: Condamné 5 ans sursis | \n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196,
+			"friends_count": 353,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Cette \"consécration\" à été enregistrée en vidéo et éditée par un adepte OKC en 2019 et mise sur YouTube, nous en avons fait une copie disponible ici https://t.co/e6omWtkO5r\nOn y voit @MatthieuRicard dans son élément naturel, inconscient d'où il pose les pieds."
+	},
+	{
+		"created_at": "Fri Sep 16 06:33:29 +0000 2022",
+		"id": 1570648837634793500,
+		"id_str": "1570662138003468291",
+		"full_text": "Le \"Bouthanais\" arrivé sur place il y a 15 ans ? C'est Khempo Tsethen placé à Château de Soleil par Rabjam Rinpoche, Abbé de Sechen, directeur spirituel OKC.\n\n@MatthieuRicard n'est pas venu interpréter,m à un rituel pour \"consacrer un stupa\" (construit à 20 m de la tour des abus)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						159,
+						174
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1570648834828816400,
+		"in_reply_to_status_id_str": "1570648834828816385",
+		"in_reply_to_user_id": 1097520031955587100,
+		"in_reply_to_user_id_str": "1097520031955587073",
+		"in_reply_to_screen_name": "OKCinfor",
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2022: 🇫🇷Instruction en cours \n🇧🇪 verdict cassation 5 octobre 2022 | \n2020: Condamné 5 ans sursis | \n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196,
+			"friends_count": 353,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Le \"Bouthanais\" arrivé sur place il y a 15 ans ? C'est Khempo Tsethen placé à Château de Soleil par Rabjam Rinpoche, Abbé de Sechen, directeur spirituel OKC.\n\n@MatthieuRicard n'est pas venu interpréter,m à un rituel pour \"consacrer un stupa\" (construit à 20 m de la tour des abus)"
+	},
+	{
+		"created_at": "Fri Sep 16 06:33:22 +0000 2022",
+		"id": 1570660082131824600,
+		"id_str": "1570662109041807361",
+		"full_text": "J'ai été bluffé en écoutant ça.. J'espère que dans la région de Castellanne, Verdon, Var, 04120 les autorités commencent à prendre la mesure de l'impact d'autorisations délivrées (école notamment) qui a eu un impact terrible sur notre histoire.\n\nQuels auraient été nos vies sans ? https://t.co/4iGnOQ9jBc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4iGnOQ9jBc",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1570656747009998848",
+					"display_url": "twitter.com/OKCinfor/statu…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉",
+			"description": "Passionné par l'information, la démocratie, la justice et le discernement | @PolBegov @EUwatchers Porte-parole/Spokesperson @OKCinfor",
+			"url": "https://t.co/zNucbsHeDX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zNucbsHeDX",
+							"expanded_url": "https://rmendes.net/",
+							"display_url": "rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2535,
+			"friends_count": 4981,
+			"listed_count": 328,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 14626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487400666666577929/p9bHmIgR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487400666666577929/p9bHmIgR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1659387530",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1570656747009998800,
+		"quoted_status_id_str": "1570656747009998848",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4iGnOQ9jBc",
+			"expanded": "https://twitter.com/OKCinfor/status/1570656747009998848",
+			"display": "twitter.com/OKCinfor/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 16 06:12:04 +0000 2022",
+			"id": 1570656747009998800,
+			"id_str": "1570656747009998848",
+			"full_text": "Enfin, hier soir, par un hasard de la vie, une source à Castelanne nous informe que la OKC aurait fait une demande de réouverture de l'école de Château de Soleil, demande qui a été refusée par la Mairie (Merci !!)\n\nQuel sont les plans de OKC et Rabjam pour château de Soleil ?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1570656737233105000,
+			"in_reply_to_status_id_str": "1570656737233104897",
+			"in_reply_to_user_id": 1097520031955587100,
+			"in_reply_to_user_id_str": "1097520031955587073",
+			"in_reply_to_screen_name": "OKCinfor",
+			"user": {
+				"id": 1097520031955587100,
+				"id_str": "1097520031955587073",
+				"name": "Initiative de Justice OKCinfo",
+				"screen_name": "OKCinfor",
+				"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+				"description": "2022: 🇫🇷Instruction en cours \n🇧🇪 verdict cassation 5 octobre 2022 | \n2020: Condamné 5 ans sursis | \n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+				"url": "https://t.co/uRVeG10dZv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uRVeG10dZv",
+								"expanded_url": "https://okcinfo.news",
+								"display_url": "okcinfo.news",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 196,
+				"friends_count": 353,
+				"listed_count": 2,
+				"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+				"favourites_count": 320,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1097,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "fr"
+		},
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "J'ai été bluffé en écoutant ça.. J'espère que dans la région de Castellanne, Verdon, Var, 04120 les autorités commencent à prendre la mesure de l'impact d'autorisations délivrées (école notamment) qui a eu un impact terrible sur notre histoire.\n\nQuels auraient été nos vies sans ? https://t.co/4iGnOQ9jBc"
+	},
+	{
+		"created_at": "Fri Sep 16 05:41:04 +0000 2022",
+		"id": 1570648834828816400,
+		"id_str": "1570648944908337152",
+		"full_text": "Sur @franceinter @MatthieuRicard fait mention \"d'un Lama\" invité par \"un Bouthanais\" dont il serait venu faire l'interprète.\n\nLe Lama en question c'est l'héritier de Khyentse Rinpoche, defacto Tête de Lignée Nyigmapa, Directeur Spirituel @OgyenKun https://t.co/onxe6IzirO https://t.co/CFC5WXudry",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "franceinter",
+					"name": "France Inter",
+					"id": 34867057,
+					"id_str": "34867057",
+					"indices": [
+						4,
+						16
+					]
+				},
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						17,
+						32
+					]
+				},
+				{
+					"screen_name": "OgyenKun",
+					"name": "OKC",
+					"id": 3665270417,
+					"id_str": "3665270417",
+					"indices": [
+						238,
+						247
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/onxe6IzirO",
+					"expanded_url": "https://twitter.com/rMdes_/status/1570004482527989763",
+					"display_url": "twitter.com/rMdes_/status/…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570648832513278000,
+					"id_str": "1570648832513277954",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FcwQyqDWAAIi_Qq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcwQyqDWAAIi_Qq.jpg",
+					"url": "https://t.co/CFC5WXudry",
+					"display_url": "pic.twitter.com/CFC5WXudry",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1570648834828816385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570648832513278000,
+					"id_str": "1570648832513277954",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FcwQyqDWAAIi_Qq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcwQyqDWAAIi_Qq.jpg",
+					"url": "https://t.co/CFC5WXudry",
+					"display_url": "pic.twitter.com/CFC5WXudry",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1570648834828816385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2022: 🇫🇷Instruction en cours \n🇧🇪 verdict cassation 5 octobre 2022 | \n2020: Condamné 5 ans sursis | \n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196,
+			"friends_count": 353,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1570004482527989800,
+		"quoted_status_id_str": "1570004482527989763",
+		"quoted_status_permalink": {
+			"url": "https://t.co/onxe6IzirO",
+			"expanded": "https://twitter.com/rMdes_/status/1570004482527989763",
+			"display": "twitter.com/rMdes_/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 14 11:00:12 +0000 2022",
+			"id": 1570004482527989800,
+			"id_str": "1570004482527989763",
+			"full_text": "Une mise au point s'impose à propos des affirmations de Matthieu Ricard #2 https://t.co/nHYYxrXS2D",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				98
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nHYYxrXS2D",
+						"expanded_url": "https://twitter.com/i/broadcasts/1YqxoANgqDbGv",
+						"display_url": "twitter.com/i/broadcasts/1…",
+						"indices": [
+							75,
+							98
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://periscope.tv\" rel=\"nofollow\">Periscope</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1562961949,
+				"id_str": "1562961949",
+				"name": "Ricardo Mendes",
+				"screen_name": "rMdes_",
+				"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉",
+				"description": "Passionné par l'information, la démocratie, la justice et le discernement | @PolBegov @EUwatchers Porte-parole/Spokesperson @OKCinfor",
+				"url": "https://t.co/zNucbsHeDX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zNucbsHeDX",
+								"expanded_url": "https://rmendes.net/",
+								"display_url": "rmendes.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2535,
+				"friends_count": 4981,
+				"listed_count": 328,
+				"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+				"favourites_count": 14626,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 43185,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1487400666666577929/p9bHmIgR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487400666666577929/p9bHmIgR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1659387530",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Sur @franceinter @MatthieuRicard fait mention \"d'un Lama\" invité par \"un Bouthanais\" dont il serait venu faire l'interprète.\n\nLe Lama en question c'est l'héritier de Khyentse Rinpoche, defacto Tête de Lignée Nyigmapa, Directeur Spirituel @OgyenKun https://t.co/onxe6IzirO https://t.co/CFC5WXudry"
+	},
+	{
+		"created_at": "Thu Sep 15 13:37:50 +0000 2022",
+		"id": 1570406424701960200,
+		"id_str": "1570406538212413441",
+		"full_text": "@OKCinfor is not an isolated case. Tibetan Buddhists have a very troublesome history, full of child neglect and abuse. Ask yourself: do children really belong in, say, Tibetan monasteries throughout the Himalayas and Western 'Dharma centres' at all? https://t.co/IGNLd4JbZv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinfor",
+					"name": "Initiative de Justice OKCinfo",
+					"id": 1097520031955587100,
+					"id_str": "1097520031955587073",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IGNLd4JbZv",
+					"expanded_url": "https://openbuddhism.org/the-way-buddhists-children-are-treated/",
+					"display_url": "openbuddhism.org/the-way-buddhi…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1097520031955587100,
+		"in_reply_to_user_id_str": "1097520031955587073",
+		"in_reply_to_screen_name": "OKCinfor",
+		"user": {
+			"id": 1396358893949931500,
+			"id_str": "1396358893949931521",
+			"name": "robhogendoorn",
+			"screen_name": "robhogendoorn",
+			"location": "The Netherlands",
+			"description": "I'm an investigative reporter and academic researcher, focussed on the Western reception of Buddhism. My usual MO is independent, inquisitive, and provocative.",
+			"url": "https://t.co/86oa7Q4ryU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/86oa7Q4ryU",
+							"expanded_url": "http://openbuddhism.org",
+							"display_url": "openbuddhism.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 98,
+			"friends_count": 65,
+			"listed_count": 2,
+			"created_at": "Sun May 23 06:54:49 +0000 2021",
+			"favourites_count": 119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1396362392636960773/9vWFK9xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1396362392636960773/9vWFK9xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396358893949931521/1621758316",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@OKCinfor is not an isolated case. Tibetan Buddhists have a very troublesome history, full of child neglect and abuse. Ask yourself: do children really belong in, say, Tibetan monasteries throughout the Himalayas and Western 'Dharma centres' at all? https://t.co/IGNLd4JbZv"
+	},
+	{
+		"created_at": "Thu Sep 15 12:43:54 +0000 2022",
+		"id": 1570392925665742800,
+		"id_str": "1570392967151583234",
+		"full_text": "Sort d'une réunion très positive sur deux plans\n\nLe plan judiciaire \n\nLe plan symbolique et religieux\n\nD'aucun en seront surpris, mais pour comprendre il faudra voir plus loin que le court terme et plutôt l'intérêt long terme de @OKCinfor, on va y arriver 💪",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinfor",
+					"name": "Initiative de Justice OKCinfo",
+					"id": 1097520031955587100,
+					"id_str": "1097520031955587073",
+					"indices": [
+						229,
+						238
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉",
+			"description": "Passionné par l'information, la démocratie, la justice et le discernement | @PolBegov @EUwatchers Porte-parole/Spokesperson @OKCinfor",
+			"url": "https://t.co/zNucbsHeDX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zNucbsHeDX",
+							"expanded_url": "https://rmendes.net/",
+							"display_url": "rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2535,
+			"friends_count": 4981,
+			"listed_count": 328,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 14626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487400666666577929/p9bHmIgR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487400666666577929/p9bHmIgR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1659387530",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Sort d'une réunion très positive sur deux plans\n\nLe plan judiciaire \n\nLe plan symbolique et religieux\n\nD'aucun en seront surpris, mais pour comprendre il faudra voir plus loin que le court terme et plutôt l'intérêt long terme de @OKCinfor, on va y arriver 💪"
+	},
+	{
 		"created_at": "Wed Sep 14 18:27:41 +0000 2022",
 		"id": 1570116913400881200,
 		"id_str": "1570117095349981186",
