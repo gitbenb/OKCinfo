@@ -1,6 +1,501 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 17 07:54:39 +0000 2022",
+		"id": 1571044951273918500,
+		"id_str": "1571044951273918465",
+		"full_text": "Élodie Emery &amp; Wandrille Lanos Present ‘Buddhism: The Unspeakable Truth’\n\nhttps://t.co/qPQsrnw6Cj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qPQsrnw6Cj",
+					"expanded_url": "https://openbuddhism.org/elodie-emery-wandrille-lanos-present-buddhism-the-unspeakable-truth/",
+					"display_url": "openbuddhism.org/elodie-emery-w…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 194,
+			"friends_count": 383,
+			"listed_count": 9,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ro",
+		"text": "Élodie Emery &amp; Wandrille Lanos Present ‘Buddhism: The Unspeakable Truth’\n\nhttps://t.co/qPQsrnw6Cj"
+	},
+	{
+		"created_at": "Fri Sep 16 12:52:22 +0000 2022",
+		"id": 1570757486860464000,
+		"id_str": "1570757486860464129",
+		"full_text": "@tenam @CyprienLuraghi Plus d'informations sur Robert Spatz sur notre site. https://t.co/MFkBS97va1\n\nVoir aussi la page dans le menu de navigation Ligne du temps, avec la présentation slide qui montre comment les plus grands maîtres Nyigmapa ont contribué à la création de Robert Spatz  Lama Kunzang",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			299
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tenam",
+					"name": "Tenam བསྟན་རྣམ། #Tibet",
+					"id": 20579823,
+					"id_str": "20579823",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "CyprienLuraghi",
+					"name": "Cyprien Luraghi",
+					"id": 1095988008002695200,
+					"id_str": "1095988008002695168",
+					"indices": [
+						7,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MFkBS97va1",
+					"expanded_url": "http://Okcinfo.news",
+					"display_url": "Okcinfo.news",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1569619551079354400,
+		"in_reply_to_status_id_str": "1569619551079354369",
+		"in_reply_to_user_id": 20579823,
+		"in_reply_to_user_id_str": "20579823",
+		"in_reply_to_screen_name": "tenam",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 194,
+			"friends_count": 383,
+			"listed_count": 9,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "@tenam @CyprienLuraghi Plus d'informations sur Robert Spatz sur notre site. https://t.co/MFkBS97va1\n\nVoir aussi la page dans le menu de navigation Ligne du temps, avec la présentation slide qui montre comment les plus grands maîtres Nyigmapa ont contribué à la création de Robert Spatz  Lama Kunzang"
+	},
+	{
+		"created_at": "Fri Sep 16 12:44:26 +0000 2022",
+		"id": 1570755490543718400,
+		"id_str": "1570755490543718402",
+		"full_text": "@tenam Tenam, your 2 tweets are the most sensible and the most useful words ever written since the 1993 Dalai-Lama meeting on sexual abuses and the subsequent nothing that enfolded after it (his office removed @DalaiLama signature from the ethical charter that was discussed at the time)",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			287
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tenam",
+					"name": "Tenam བསྟན་རྣམ། #Tibet",
+					"id": 20579823,
+					"id_str": "20579823",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "DalaiLama",
+					"name": "Dalai Lama",
+					"id": 20609518,
+					"id_str": "20609518",
+					"indices": [
+						210,
+						220
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1569695018428022800,
+		"in_reply_to_status_id_str": "1569695018428022787",
+		"in_reply_to_user_id": 20579823,
+		"in_reply_to_user_id_str": "20579823",
+		"in_reply_to_screen_name": "tenam",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 194,
+			"friends_count": 383,
+			"listed_count": 9,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@tenam Tenam, your 2 tweets are the most sensible and the most useful words ever written since the 1993 Dalai-Lama meeting on sexual abuses and the subsequent nothing that enfolded after it (his office removed @DalaiLama signature from the ethical charter that was discussed at the time)"
+	},
+	{
+		"created_at": "Fri Sep 16 11:15:17 +0000 2022",
+		"id": 1570732998013878300,
+		"id_str": "1570733054955778049",
+		"full_text": "The 2018 petition is still open for signatures, let's push it far and wide so that @DalaiLama @NetTibet dare climbing down their ivory tower and connect to the real world.\n\nhttps://t.co/DRydUqSswq\n\n#metooguru #metoo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "metooguru",
+					"indices": [
+						198,
+						208
+					]
+				},
+				{
+					"text": "metoo",
+					"indices": [
+						209,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DalaiLama",
+					"name": "Dalai Lama",
+					"id": 20609518,
+					"id_str": "20609518",
+					"indices": [
+						83,
+						93
+					]
+				},
+				{
+					"screen_name": "NetTibet",
+					"name": "Tibet.net",
+					"id": 918420895495946200,
+					"id_str": "918420895495946240",
+					"indices": [
+						94,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DRydUqSswq",
+					"expanded_url": "https://www.change.org/p/help-survivors-support-the-dalai-lama-s-effort-to-remedy-sexual-abuse",
+					"display_url": "change.org/p/help-survivo…",
+					"indices": [
+						173,
+						196
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 890549322240196600,
+			"id_str": "890549322240196612",
+			"name": "Tibetan Buddhism Leaks",
+			"screen_name": "BuddhistLeaks",
+			"location": "Dharamsala",
+			"description": "Amplifying comments & news regarding Tibetan Buddhism sexual abuses allegations crimes : ⛔ FPMT, Shambhala, RIGPA, FWBO, NKT, Triratna, Ogyen Kunzang Choling",
+			"url": "https://t.co/hUPUjKwEpU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hUPUjKwEpU",
+							"expanded_url": "https://AbusesInTibetanBuddhism.info",
+							"display_url": "AbusesInTibetanBuddhism.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 702,
+			"friends_count": 1741,
+			"listed_count": 0,
+			"created_at": "Thu Jul 27 12:27:58 +0000 2017",
+			"favourites_count": 352,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12808,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/890549322240196612/1608375674",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The 2018 petition is still open for signatures, let's push it far and wide so that @DalaiLama @NetTibet dare climbing down their ivory tower and connect to the real world.\n\nhttps://t.co/DRydUqSswq\n\n#metooguru #metoo"
+	},
+	{
 		"created_at": "Fri Sep 16 06:55:31 +0000 2022",
 		"id": 1570665571154559000,
 		"id_str": "1570667679891193858",
