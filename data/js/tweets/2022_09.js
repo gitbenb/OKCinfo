@@ -1,6 +1,368 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 24 07:56:09 +0000 2022",
+		"id": 1573580645166628900,
+		"id_str": "1573582044747255808",
+		"full_text": "Tibetan Buddhism survivors should avoid altogether Tenpel blogs, Tenpel contact, Tenpel narratives entirely and instead, pretty much like the @OKCinformation initiative, create their own structure outside of the reach &amp; influence of wolves under sheep clothing.\n\nAvoid TP. 🙏",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinformation",
+					"name": "OKCinfo Research",
+					"id": 3309353195,
+					"id_str": "3309353195",
+					"indices": [
+						142,
+						157
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1573580643396718600,
+		"in_reply_to_status_id_str": "1573580643396718593",
+		"in_reply_to_user_id": 890549322240196600,
+		"in_reply_to_user_id_str": "890549322240196612",
+		"in_reply_to_screen_name": "BuddhistLeaks",
+		"user": {
+			"id": 890549322240196600,
+			"id_str": "890549322240196612",
+			"name": "Tibetan Buddhism Leaks",
+			"screen_name": "BuddhistLeaks",
+			"location": "Dharamsala",
+			"description": "Amplifying comments & news regarding Tibetan Buddhism sexual abuses allegations crimes : ⛔ FPMT, Shambhala, RIGPA, FWBO, NKT, Triratna, Ogyen Kunzang Choling",
+			"url": "https://t.co/hUPUjKwEpU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hUPUjKwEpU",
+							"expanded_url": "https://AbusesInTibetanBuddhism.info",
+							"display_url": "AbusesInTibetanBuddhism.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 708,
+			"friends_count": 1740,
+			"listed_count": 0,
+			"created_at": "Thu Jul 27 12:27:58 +0000 2017",
+			"favourites_count": 355,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/890549322240196612/1608375674",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Tibetan Buddhism survivors should avoid altogether Tenpel blogs, Tenpel contact, Tenpel narratives entirely and instead, pretty much like the @OKCinformation initiative, create their own structure outside of the reach &amp; influence of wolves under sheep clothing.\n\nAvoid TP. 🙏"
+	},
+	{
+		"created_at": "Sat Sep 24 07:56:07 +0000 2022",
+		"id": 1573580661415362600,
+		"id_str": "1573582036165689345",
+		"full_text": "Survivors, pretty much like @OKCinformation structure have to build their own websites/blogs, social media on different platforms and should be very very careful when allowing their story on properties that are using them to pose as survivors supporters,when they are just dogs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinformation",
+					"name": "OKCinfo Research",
+					"id": 3309353195,
+					"id_str": "3309353195",
+					"indices": [
+						28,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1573580658236088300,
+		"in_reply_to_status_id_str": "1573580658236088321",
+		"in_reply_to_user_id": 890549322240196600,
+		"in_reply_to_user_id_str": "890549322240196612",
+		"in_reply_to_screen_name": "BuddhistLeaks",
+		"user": {
+			"id": 890549322240196600,
+			"id_str": "890549322240196612",
+			"name": "Tibetan Buddhism Leaks",
+			"screen_name": "BuddhistLeaks",
+			"location": "Dharamsala",
+			"description": "Amplifying comments & news regarding Tibetan Buddhism sexual abuses allegations crimes : ⛔ FPMT, Shambhala, RIGPA, FWBO, NKT, Triratna, Ogyen Kunzang Choling",
+			"url": "https://t.co/hUPUjKwEpU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hUPUjKwEpU",
+							"expanded_url": "https://AbusesInTibetanBuddhism.info",
+							"display_url": "AbusesInTibetanBuddhism.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 708,
+			"friends_count": 1740,
+			"listed_count": 0,
+			"created_at": "Thu Jul 27 12:27:58 +0000 2017",
+			"favourites_count": 355,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/890549322240196612/1608375674",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Survivors, pretty much like @OKCinformation structure have to build their own websites/blogs, social media on different platforms and should be very very careful when allowing their story on properties that are using them to pose as survivors supporters,when they are just dogs"
+	},
+	{
+		"created_at": "Fri Sep 23 19:18:34 +0000 2022",
+		"id": 1573391390670819300,
+		"id_str": "1573391390670819328",
+		"full_text": "@agleig @hridayartha @robhogendoorn @PeljorTenzin This is a cliché. Not the case here. We're a group of 40 to 80 people depending how you segment. I don't think the majority \"revere\" anyone, for many or most, it certainly isn't the Dalai. We're enough to dare ourselves painting another picture of reality\n\nhttps://t.co/27EENInCmK",
+		"truncated": false,
+		"display_text_range": [
+			50,
+			330
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "agleig",
+					"name": "Ann Gleig",
+					"id": 3364125831,
+					"id_str": "3364125831",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "hridayartha",
+					"name": "hridayartha",
+					"id": 565518712,
+					"id_str": "565518712",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"screen_name": "robhogendoorn",
+					"name": "robhogendoorn",
+					"id": 1396358893949931500,
+					"id_str": "1396358893949931521",
+					"indices": [
+						21,
+						35
+					]
+				},
+				{
+					"screen_name": "PeljorTenzin",
+					"name": "Tenzin Peljor",
+					"id": 2873081511,
+					"id_str": "2873081511",
+					"indices": [
+						36,
+						49
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/27EENInCmK",
+					"expanded_url": "http://Okcinfo.news/en/",
+					"display_url": "Okcinfo.news/en/",
+					"indices": [
+						307,
+						330
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1573356953295790000,
+		"in_reply_to_status_id_str": "1573356953295790082",
+		"in_reply_to_user_id": 3364125831,
+		"in_reply_to_user_id_str": "3364125831",
+		"in_reply_to_screen_name": "agleig",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 384,
+			"listed_count": 9,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1540,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@agleig @hridayartha @robhogendoorn @PeljorTenzin This is a cliché. Not the case here. We're a group of 40 to 80 people depending how you segment. I don't think the majority \"revere\" anyone, for many or most, it certainly isn't the Dalai. We're enough to dare ourselves painting another picture of reality\n\nhttps://t.co/27EENInCmK"
+	},
+	{
 		"created_at": "Fri Sep 23 07:49:40 +0000 2022",
 		"id": 1573218022638092300,
 		"id_str": "1573218022638092288",
