@@ -1,6 +1,623 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 24 09:11:06 +0000 2022",
+		"id": 1573594234321518600,
+		"id_str": "1573600906813358080",
+		"full_text": "@hridayartha A culture of silence is being replaced in part by a culture of idle chatter. This gives people a false sense of security, because abuses are 'talked about.' Rumour-mongering Buddhist blogs shy away professional journalists and academics, which makes them counterproductive.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			286
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hridayartha",
+					"name": "hridayartha",
+					"id": 565518712,
+					"id_str": "565518712",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1573585885936877600,
+		"in_reply_to_status_id_str": "1573585885936877568",
+		"in_reply_to_user_id": 565518712,
+		"in_reply_to_user_id_str": "565518712",
+		"in_reply_to_screen_name": "hridayartha",
+		"user": {
+			"id": 1396358893949931500,
+			"id_str": "1396358893949931521",
+			"name": "robhogendoorn",
+			"screen_name": "robhogendoorn",
+			"location": "The Netherlands",
+			"description": "I'm an investigative reporter and academic researcher, focussed on the Western reception of Buddhism. My usual MO is independent, inquisitive, and provocative.",
+			"url": "https://t.co/86oa7Q4ryU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/86oa7Q4ryU",
+							"expanded_url": "http://openbuddhism.org",
+							"display_url": "openbuddhism.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104,
+			"friends_count": 64,
+			"listed_count": 3,
+			"created_at": "Sun May 23 06:54:49 +0000 2021",
+			"favourites_count": 183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1022,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1396362392636960773/9vWFK9xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1396362392636960773/9vWFK9xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396358893949931521/1621758316",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@hridayartha A culture of silence is being replaced in part by a culture of idle chatter. This gives people a false sense of security, because abuses are 'talked about.' Rumour-mongering Buddhist blogs shy away professional journalists and academics, which makes them counterproductive."
+	},
+	{
+		"created_at": "Sat Sep 24 09:11:01 +0000 2022",
+		"id": 1573585885936877600,
+		"id_str": "1573600883979522056",
+		"full_text": "In my (not b&amp;w) blogging, I try to look for causes that may entertain the silence and inertia in TB. The “silence” requires a lot of constant media noise (communication) and the inertia a lot of ongoing activity behind the screens. I admit I have a clear bias for survivors",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 565518712,
+			"id_str": "565518712",
+			"name": "hridayartha",
+			"screen_name": "hridayartha",
+			"location": "France",
+			"description": "Compte Twitter associé au blog Dans le Sillage d'Advayavajra",
+			"url": "http://t.co/fLn1I35iNa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/fLn1I35iNa",
+							"expanded_url": "http://hridayartha.blogspot.fr/",
+							"display_url": "hridayartha.blogspot.fr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 114,
+			"friends_count": 365,
+			"listed_count": 7,
+			"created_at": "Sat Apr 28 15:17:32 +0000 2012",
+			"favourites_count": 2901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3966,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1191009879793778694/0prPxIsk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191009879793778694/0prPxIsk_normal.jpg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "In my (not b&amp;w) blogging, I try to look for causes that may entertain the silence and inertia in TB. The “silence” requires a lot of constant media noise (communication) and the inertia a lot of ongoing activity behind the screens. I admit I have a clear bias for survivors"
+	},
+	{
+		"created_at": "Sat Sep 24 09:10:44 +0000 2022",
+		"id": 1573600813678739500,
+		"id_str": "1573600813678739457",
+		"full_text": "These comments were made before the Documentary even aired in France. @MatthieuRicard did you watch the documentary before making these comments or is this a demonstration of your practice and ability to create disinformation based on your own projections?\n\nWhich is it? https://t.co/O67uY0erCN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						70,
+						85
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/O67uY0erCN",
+					"expanded_url": "https://twitter.com/hridayartha/status/1573564849145118720",
+					"display_url": "twitter.com/hridayartha/st…",
+					"indices": [
+						271,
+						294
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 384,
+			"listed_count": 9,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1573564849145118700,
+		"quoted_status_id_str": "1573564849145118720",
+		"quoted_status_permalink": {
+			"url": "https://t.co/O67uY0erCN",
+			"expanded": "https://twitter.com/hridayartha/status/1573564849145118720",
+			"display": "twitter.com/hridayartha/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 24 06:47:50 +0000 2022",
+			"id": 1573564849145118700,
+			"id_str": "1573564849145118720",
+			"full_text": "MR: \"the documentary you are talking about says that all Buddhism is rotten, which is the same as saying that the fruit of the whole world is rotten.\" Some survivors tell their story and it is shown how since 1993 nothing has been done to help them and improve the situation",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 565518712,
+				"id_str": "565518712",
+				"name": "hridayartha",
+				"screen_name": "hridayartha",
+				"location": "France",
+				"description": "Compte Twitter associé au blog Dans le Sillage d'Advayavajra",
+				"url": "http://t.co/fLn1I35iNa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/fLn1I35iNa",
+								"expanded_url": "http://hridayartha.blogspot.fr/",
+								"display_url": "hridayartha.blogspot.fr",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 114,
+				"friends_count": 365,
+				"listed_count": 7,
+				"created_at": "Sat Apr 28 15:17:32 +0000 2012",
+				"favourites_count": 2901,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3966,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1191009879793778694/0prPxIsk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191009879793778694/0prPxIsk_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These comments were made before the Documentary even aired in France. @MatthieuRicard did you watch the documentary before making these comments or is this a demonstration of your practice and ability to create disinformation based on your own projections?\n\nWhich is it? https://t.co/O67uY0erCN"
+	},
+	{
+		"created_at": "Sat Sep 24 09:08:03 +0000 2022",
+		"id": 1573600137057796000,
+		"id_str": "1573600137057796103",
+		"full_text": "@hridayartha Where sexual abuses enfolded, without being recognized and without removing a pedocriminal name from the @OgyenKun website. https://t.co/oEKikyzdqK",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hridayartha",
+					"name": "hridayartha",
+					"id": 565518712,
+					"id_str": "565518712",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "OgyenKun",
+					"name": "OKC",
+					"id": 3665270417,
+					"id_str": "3665270417",
+					"indices": [
+						118,
+						127
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1573600134625202200,
+					"id_str": "1573600134625202176",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FdaM_DLXkAAZbnq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdaM_DLXkAAZbnq.jpg",
+					"url": "https://t.co/oEKikyzdqK",
+					"display_url": "pic.twitter.com/oEKikyzdqK",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1573600137057796103/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 744,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 422,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 744,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573600134625202200,
+					"id_str": "1573600134625202176",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FdaM_DLXkAAZbnq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdaM_DLXkAAZbnq.jpg",
+					"url": "https://t.co/oEKikyzdqK",
+					"display_url": "pic.twitter.com/oEKikyzdqK",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1573600137057796103/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 744,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 422,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 744,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1573593564050858000,
+		"in_reply_to_status_id_str": "1573593564050857987",
+		"in_reply_to_user_id": 565518712,
+		"in_reply_to_user_id_str": "565518712",
+		"in_reply_to_screen_name": "hridayartha",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 384,
+			"listed_count": 9,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@hridayartha Where sexual abuses enfolded, without being recognized and without removing a pedocriminal name from the @OgyenKun website. https://t.co/oEKikyzdqK"
+	},
+	{
 		"created_at": "Sat Sep 24 07:56:09 +0000 2022",
 		"id": 1573580645166628900,
 		"id_str": "1573582044747255808",
