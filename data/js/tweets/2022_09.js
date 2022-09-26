@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 26 07:58:29 +0000 2022",
+		"id": 1574305552284668000,
+		"id_str": "1574307405063933952",
+		"full_text": "Si il devait y avoir un Gendarme dans le Bouddhisme Tibétain en Occident, en France, @UBF_Actu serait la pire incarnation d'une telle idée.\n\n#UBF n'a aucune crédibilité sur la question, hésite, n'a pas de position claire.\n\nEst dans l'attente d'instruction\n https://t.co/VjCKzNhIos https://t.co/b9RUf3rP8j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UBF",
+					"indices": [
+						141,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UBF_Actu",
+					"name": "UBF",
+					"id": 1184912850,
+					"id_str": "1184912850",
+					"indices": [
+						85,
+						94
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VjCKzNhIos",
+					"expanded_url": "https://www.bouddhisme-france.org/la-federation/espace-presse-communiques/Communique-de-l-UBE-abus-dans-des-communautes",
+					"display_url": "bouddhisme-france.org/la-federation/…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1574305543635746800,
+					"id_str": "1574305543635746816",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FdkOjQhWQAAV4uR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdkOjQhWQAAV4uR.jpg",
+					"url": "https://t.co/b9RUf3rP8j",
+					"display_url": "pic.twitter.com/b9RUf3rP8j",
+					"expanded_url": "https://twitter.com/rMdes_/status/1574305552284667905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 530,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 841,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 841,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1574305543635746800,
+					"id_str": "1574305543635746816",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FdkOjQhWQAAV4uR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdkOjQhWQAAV4uR.jpg",
+					"url": "https://t.co/b9RUf3rP8j",
+					"display_url": "pic.twitter.com/b9RUf3rP8j",
+					"expanded_url": "https://twitter.com/rMdes_/status/1574305552284667905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 530,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 841,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 841,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉",
+			"description": "Passionné par l'information, la démocratie, la justice et le discernement | @PolBegov @EUwatchers Porte-parole/Spokesperson @OKCinfor",
+			"url": "https://t.co/zNucbsHeDX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zNucbsHeDX",
+							"expanded_url": "https://rmendes.net/",
+							"display_url": "rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2564,
+			"friends_count": 4986,
+			"listed_count": 327,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 14678,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1571860143029067776/AHmL0ClA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571860143029067776/AHmL0ClA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1659387530",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Si il devait y avoir un Gendarme dans le Bouddhisme Tibétain en Occident, en France, @UBF_Actu serait la pire incarnation d'une telle idée.\n\n#UBF n'a aucune crédibilité sur la question, hésite, n'a pas de position claire.\n\nEst dans l'attente d'instruction\n https://t.co/VjCKzNhIos https://t.co/b9RUf3rP8j"
+	},
+	{
 		"created_at": "Sat Sep 24 09:11:06 +0000 2022",
 		"id": 1573594234321518600,
 		"id_str": "1573600906813358080",
