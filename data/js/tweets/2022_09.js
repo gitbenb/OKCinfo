@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 29 05:05:30 +0000 2022",
+		"id": 1575325592987189200,
+		"id_str": "1575351038541897729",
+		"full_text": "Ceux qui disent que les auteurs du documentaire et du livre associé, Bouddhisme, la loi du silence, ont un programme anti-bouddhiste, et qu'ils veulent faire tomber des personnes importantes dans le bouddhisme, comme le @DalaiLama ou @MatthieuRicard devraient s'asseoir 2 minutes https://t.co/0Zil9vMI0f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DalaiLama",
+					"name": "Dalai Lama",
+					"id": 20609518,
+					"id_str": "20609518",
+					"indices": [
+						220,
+						230
+					]
+				},
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						234,
+						249
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1575325586855190500,
+					"id_str": "1575325586855190530",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FdyuRloWYAImv5u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdyuRloWYAImv5u.jpg",
+					"url": "https://t.co/0Zil9vMI0f",
+					"display_url": "pic.twitter.com/0Zil9vMI0f",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1575325592987189248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 780,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 754,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 427,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1575325586855190500,
+					"id_str": "1575325586855190530",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FdyuRloWYAImv5u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdyuRloWYAImv5u.jpg",
+					"url": "https://t.co/0Zil9vMI0f",
+					"display_url": "pic.twitter.com/0Zil9vMI0f",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1575325592987189248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 780,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 754,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 427,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1575325590349136000,
+					"id_str": "1575325590349135873",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FdyuRypXwAEUoaf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdyuRypXwAEUoaf.jpg",
+					"url": "https://t.co/0Zil9vMI0f",
+					"display_url": "pic.twitter.com/0Zil9vMI0f",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1575325592987189248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 502,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 427,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 502,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2022: 🇫🇷Instruction en cours \n🇧🇪 verdict cassation 5 octobre 2022 | \n2020: Condamné 5 ans sursis | \n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 221,
+			"friends_count": 354,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 329,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Ceux qui disent que les auteurs du documentaire et du livre associé, Bouddhisme, la loi du silence, ont un programme anti-bouddhiste, et qu'ils veulent faire tomber des personnes importantes dans le bouddhisme, comme le @DalaiLama ou @MatthieuRicard devraient s'asseoir 2 minutes https://t.co/0Zil9vMI0f"
+	},
+	{
 		"created_at": "Mon Sep 26 07:58:29 +0000 2022",
 		"id": 1574305552284668000,
 		"id_str": "1574307405063933952",
