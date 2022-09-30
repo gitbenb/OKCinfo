@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 29 09:43:21 +0000 2022",
+		"id": 1575420920272928800,
+		"id_str": "1575420961456852993",
+		"full_text": "Pour les Bouddhistes qui ont besoin de comprendre un peu plus comment, une \"Lignée Authentique\" a pu se vautrer dans de telles dérives avec le soutien de \"La Lignée\" et le soutien de toutes les références du Bouddhisme Tibétain.\n\nLa présentation à été conçue pour des bouddhistes https://t.co/Zgprkfo2cd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Zgprkfo2cd",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1572872166063935488",
+					"display_url": "twitter.com/OKCinformation…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2022: 🇫🇷Instruction en cours \n🇧🇪 verdict cassation 5 octobre 2022 | \n2020: Condamné 5 ans sursis | \n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 223,
+			"friends_count": 355,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1572872166063935500,
+		"quoted_status_id_str": "1572872166063935488",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Zgprkfo2cd",
+			"expanded": "https://twitter.com/OKCinformation/status/1572872166063935488",
+			"display": "twitter.com/OKCinformation…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 22 08:55:21 +0000 2022",
+			"id": 1572872166063935500,
+			"id_str": "1572872166063935488",
+			"full_text": "40 years of abuses in the name of Dharma.\n\nThis slide deck was designed 6 years ago, in an attempt to reach out to fellow Buddhist \"Masters\" and get them to take 5 minutes to think about their own role in the making of Lama Kunzang Dorje aka Robert Spatz\n\nhttps://t.co/gFNuwXG4OZ https://t.co/7OzdLJfPSa",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gFNuwXG4OZ",
+						"expanded_url": "https://docs.google.com/presentation/d/15R6IyzQve02wrvivapdOPFnq_ZQjtdFSfWWrE7imtt8/edit?usp=drivesdk",
+						"display_url": "docs.google.com/presentation/d…",
+						"indices": [
+							256,
+							279
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1572872163908096000,
+						"id_str": "1572872163908096001",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/FdP25k7XkAEzg-0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FdP25k7XkAEzg-0.jpg",
+						"url": "https://t.co/7OzdLJfPSa",
+						"display_url": "pic.twitter.com/7OzdLJfPSa",
+						"expanded_url": "https://twitter.com/OKCinformation/status/1572872166063935488/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 579,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 579,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1572872163908096000,
+						"id_str": "1572872163908096001",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/FdP25k7XkAEzg-0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FdP25k7XkAEzg-0.jpg",
+						"url": "https://t.co/7OzdLJfPSa",
+						"display_url": "pic.twitter.com/7OzdLJfPSa",
+						"expanded_url": "https://twitter.com/OKCinformation/status/1572872166063935488/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 579,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 579,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3309353195,
+				"id_str": "3309353195",
+				"name": "OKCinfo Research",
+				"screen_name": "OKCinformation",
+				"location": "Belgique",
+				"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+				"url": "https://t.co/zYcyQtvumv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zYcyQtvumv",
+								"expanded_url": "https://okcinfo.news/en",
+								"display_url": "okcinfo.news/en",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 199,
+				"friends_count": 384,
+				"listed_count": 10,
+				"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+				"favourites_count": 343,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1549,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Pour les Bouddhistes qui ont besoin de comprendre un peu plus comment, une \"Lignée Authentique\" a pu se vautrer dans de telles dérives avec le soutien de \"La Lignée\" et le soutien de toutes les références du Bouddhisme Tibétain.\n\nLa présentation à été conçue pour des bouddhistes https://t.co/Zgprkfo2cd"
+	},
+	{
 		"created_at": "Thu Sep 29 05:05:30 +0000 2022",
 		"id": 1575325592987189200,
 		"id_str": "1575351038541897729",
