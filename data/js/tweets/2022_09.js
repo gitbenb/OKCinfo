@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 30 12:55:33 +0000 2022",
+		"id": 1575831670263283700,
+		"id_str": "1575831714932236289",
+		"full_text": "OKCinfo et un bout de ma vie dans le Parisien Week-end.\n\nEn lisant je me rend compte à quel point, même après \"la libération de la parole\" il y a encore tellement, mais tellement de choses non dites.\n\nEt pourtant c'est déjà tellement énorme...aberrant. \n\nhttps://t.co/Eymvt0maFz https://t.co/0H5fc4sHTj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Eymvt0maFz",
+					"expanded_url": "https://drive.google.com/file/d/1cbvb7gqALyWM7JuvbqIPI2ySJHXpoUxC/view",
+					"display_url": "drive.google.com/file/d/1cbvb7g…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1575831667868143600,
+					"id_str": "1575831667868143621",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd56jYUXkAUUOfI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd56jYUXkAUUOfI.jpg",
+					"url": "https://t.co/0H5fc4sHTj",
+					"display_url": "pic.twitter.com/0H5fc4sHTj",
+					"expanded_url": "https://twitter.com/rMdes_/status/1575831670263283713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 655,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1063,
+							"h": 1103,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1063,
+							"h": 1103,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1575831667868143600,
+					"id_str": "1575831667868143621",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd56jYUXkAUUOfI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd56jYUXkAUUOfI.jpg",
+					"url": "https://t.co/0H5fc4sHTj",
+					"display_url": "pic.twitter.com/0H5fc4sHTj",
+					"expanded_url": "https://twitter.com/rMdes_/status/1575831670263283713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 655,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1063,
+							"h": 1103,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1063,
+							"h": 1103,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉",
+			"description": "Passionné par l'information, la démocratie, la justice et le discernement | @PolBegov @EUwatchers Porte-parole/Spokesperson @OKCinfor",
+			"url": "https://t.co/zNucbsHeDX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zNucbsHeDX",
+							"expanded_url": "https://rmendes.net/",
+							"display_url": "rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2566,
+			"friends_count": 4990,
+			"listed_count": 326,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 14699,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43456,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1576114396400590848/7zquaAE__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1576114396400590848/7zquaAE__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1659387530",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "OKCinfo et un bout de ma vie dans le Parisien Week-end.\n\nEn lisant je me rend compte à quel point, même après \"la libération de la parole\" il y a encore tellement, mais tellement de choses non dites.\n\nEt pourtant c'est déjà tellement énorme...aberrant. \n\nhttps://t.co/Eymvt0maFz https://t.co/0H5fc4sHTj"
+	},
+	{
 		"created_at": "Thu Sep 29 09:43:21 +0000 2022",
 		"id": 1575420920272928800,
 		"id_str": "1575420961456852993",
