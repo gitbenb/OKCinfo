@@ -1,6 +1,640 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 06 07:04:10 +0000 2022",
+		"id": 1577908834756092000,
+		"id_str": "1577917617062420480",
+		"full_text": "Justice : le pourvoi de Robert Spatz dans le dossier de la secte OKC est rejeté\n\n@OKCinfor @OKCinformation\n\nMais vu que ce n'est pas une affaire importante en Belgique, la presse n'est même pas au courant qu'il touchera 2.8 millions d'euros 🇧🇪 \n\nhttps://t.co/vGDVxY6AeD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinfor",
+					"name": "Initiative de Justice OKCinfo",
+					"id": 1097520031955587100,
+					"id_str": "1097520031955587073",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"screen_name": "OKCinformation",
+					"name": "OKCinfo Research",
+					"id": 3309353195,
+					"id_str": "3309353195",
+					"indices": [
+						91,
+						106
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vGDVxY6AeD",
+					"expanded_url": "https://bx1.be/categories/news/justice-le-pourvoi-de-robert-spatz-dans-le-dossier-de-la-secte-okc-est-rejete/",
+					"display_url": "bx1.be/categories/new…",
+					"indices": [
+						246,
+						269
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2359778089,
+			"id_str": "2359778089",
+			"name": "Veille infopol",
+			"screen_name": "PolBegov",
+			"location": "in a Docker Container",
+			"description": "NewsBot Veille Info 🇧🇪\nAuto-Alimenté par les sections politique, économie régions des médias Belge - A-partisan, pas aPolitique! \n|\nOpinions et RT ~@ rMdes_",
+			"url": "https://t.co/DKlVZrb1l2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DKlVZrb1l2",
+							"expanded_url": "https://euwatch.live/polbegov-begov/",
+							"display_url": "euwatch.live/polbegov-begov/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5555,
+			"friends_count": 2754,
+			"listed_count": 250,
+			"created_at": "Mon Feb 24 16:54:12 +0000 2014",
+			"favourites_count": 7450,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 373190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366445232179605507/aumS2UHQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366445232179605507/aumS2UHQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2359778089/1448275480",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Justice : le pourvoi de Robert Spatz dans le dossier de la secte OKC est rejeté\n\n@OKCinfor @OKCinformation\n\nMais vu que ce n'est pas une affaire importante en Belgique, la presse n'est même pas au courant qu'il touchera 2.8 millions d'euros 🇧🇪 \n\nhttps://t.co/vGDVxY6AeD"
+	},
+	{
+		"created_at": "Thu Oct 06 06:39:11 +0000 2022",
+		"id": 1577911327573647400,
+		"id_str": "1577911327573647363",
+		"full_text": "Justice : le pourvoi de Robert Spatz dans le dossier de la secte OKC est rejeté\n\nhttps://t.co/XTf6Jud2PF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XTf6Jud2PF",
+					"expanded_url": "https://bx1.be/categories/news/justice-le-pourvoi-de-robert-spatz-dans-le-dossier-de-la-secte-okc-est-rejete/",
+					"display_url": "bx1.be/categories/new…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 205,
+			"friends_count": 384,
+			"listed_count": 10,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Justice : le pourvoi de Robert Spatz dans le dossier de la secte OKC est rejeté\n\nhttps://t.co/XTf6Jud2PF"
+	},
+	{
+		"created_at": "Wed Oct 05 20:23:37 +0000 2022",
+		"id": 1577756416756093000,
+		"id_str": "1577756416756092936",
+		"full_text": "A fire, a fire of rightful wrath into action.\n\nConcrete actions to alleviate terrible horrible wrongs.\n\nLiterally 40 years of abuses in the name of the Dharma (see our website for the slides)\n\nSomething huge is coming. https://t.co/G1HvIyBUSk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1577756405410439200,
+					"id_str": "1577756405410439169",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1577756405410439169/pu/img/g5hFf0nTfVCUU5Vp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1577756405410439169/pu/img/g5hFf0nTfVCUU5Vp.jpg",
+					"url": "https://t.co/G1HvIyBUSk",
+					"display_url": "pic.twitter.com/G1HvIyBUSk",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1577756416756092936/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 308,
+							"h": 200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 308,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 308,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577756405410439200,
+					"id_str": "1577756405410439169",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1577756405410439169/pu/img/g5hFf0nTfVCUU5Vp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1577756405410439169/pu/img/g5hFf0nTfVCUU5Vp.jpg",
+					"url": "https://t.co/G1HvIyBUSk",
+					"display_url": "pic.twitter.com/G1HvIyBUSk",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1577756416756092936/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 308,
+							"h": 200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 308,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 308,
+							"h": 200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							77,
+							50
+						],
+						"duration_millis": 4950,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1577756405410439169/pu/pl/YQWw4Tt7hmOtj5S9.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1577756405410439169/pu/vid/308x200/QdQ0eX9kM8twB2KS.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1577756400134021000,
+		"in_reply_to_status_id_str": "1577756400134021122",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 205,
+			"friends_count": 384,
+			"listed_count": 10,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A fire, a fire of rightful wrath into action.\n\nConcrete actions to alleviate terrible horrible wrongs.\n\nLiterally 40 years of abuses in the name of the Dharma (see our website for the slides)\n\nSomething huge is coming. https://t.co/G1HvIyBUSk"
+	},
+	{
+		"created_at": "Wed Oct 05 20:23:33 +0000 2022",
+		"id": 1577756400134021000,
+		"id_str": "1577756400134021122",
+		"full_text": "Of the achievements this represents but on top of that are the very real actions being taken in the background to enable Tibetan Buddhism institutions to act, better late than never, they say.\n\nWe do not pretend to change Tibetan Buddhism, it's not our task, but we have ignited",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1577756395591573500,
+		"in_reply_to_status_id_str": "1577756395591573506",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 205,
+			"friends_count": 384,
+			"listed_count": 10,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Of the achievements this represents but on top of that are the very real actions being taken in the background to enable Tibetan Buddhism institutions to act, better late than never, they say.\n\nWe do not pretend to change Tibetan Buddhism, it's not our task, but we have ignited"
+	},
+	{
+		"created_at": "Wed Oct 05 20:23:32 +0000 2022",
+		"id": 1577756395591573500,
+		"id_str": "1577756395591573506",
+		"full_text": "There will be more information posted on https://t.co/fTgFcu0wbr but for now, today's verdict is the end of a very long difficult journey with many sacrifices and many obstacles overcome.\n\nIt's the end of a chapter on a ongoing story being written as we contemplate the extent",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fTgFcu0wbr",
+					"expanded_url": "http://okcinfo.news/en/",
+					"display_url": "okcinfo.news/en/",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1577756392773099500,
+		"in_reply_to_status_id_str": "1577756392773099522",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 205,
+			"friends_count": 384,
+			"listed_count": 10,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There will be more information posted on https://t.co/fTgFcu0wbr but for now, today's verdict is the end of a very long difficult journey with many sacrifices and many obstacles overcome.\n\nIt's the end of a chapter on a ongoing story being written as we contemplate the extent"
+	},
+	{
 		"created_at": "Wed Oct 05 06:15:10 +0000 2022",
 		"id": 1577542837067030500,
 		"id_str": "1577542894998650883",
