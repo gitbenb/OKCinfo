@@ -1,6 +1,2012 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 10 08:08:27 +0000 2022",
+		"id": 1579189579701448700,
+		"id_str": "1579383344852529153",
+		"full_text": "Le niveau de manipulation et d'interférence dans cette enquête de la part de la direction OKC France ne peut pas être sous estimé.\n\nC'était du lobbying que JL fesait et à continué à faire pendant des années pour décorer tout cela dans une normalité insupportable. https://t.co/1q4pO9JX3k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1q4pO9JX3k",
+					"expanded_url": "https://twitter.com/2vanssay/status/1579185936428331008",
+					"display_url": "twitter.com/2vanssay/statu…",
+					"indices": [
+						264,
+						287
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2022: 🇫🇷Instruction en cours \n🇧🇪 verdict cassation 5 octobre 2022 | \n2020: Condamné 5 ans sursis | \n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 226,
+			"friends_count": 355,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1259,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1579185936428331000,
+		"quoted_status_id_str": "1579185936428331008",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1q4pO9JX3k",
+			"expanded": "https://twitter.com/2vanssay/status/1579185936428331008",
+			"display": "twitter.com/2vanssay/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 09 19:04:01 +0000 2022",
+			"id": 1579185936428331000,
+			"id_str": "1579185936428331008",
+			"full_text": "Cette enquête sociale, qui date de 1996 est consultable dans son intégralité ici : https://t.co/ZrnE1Y80Q7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				106
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZrnE1Y80Q7",
+						"expanded_url": "https://drive.google.com/file/d/0B7ZZBZAiuR-zSDZVeHM1aXd2TFU/view?usp=sharing&resourcekey=0-qiu1sG3_J7w9oCcKDY4qhQ",
+						"display_url": "drive.google.com/file/d/0B7ZZBZ…",
+						"indices": [
+							83,
+							106
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1579184762841075700,
+			"in_reply_to_status_id_str": "1579184762841075713",
+			"in_reply_to_user_id": 143542394,
+			"in_reply_to_user_id_str": "143542394",
+			"in_reply_to_screen_name": "2vanssay",
+			"user": {
+				"id": 143542394,
+				"id_str": "143542394",
+				"name": "Stéphanie de Vanssay #CitoyensDuWeb",
+				"screen_name": "2vanssay",
+				"location": "IDF  ",
+				"description": "Militante pédagogique optimiste  - Conseillère nationale au SE-Unsa - Compte personnel - Bloque à vue les trolls et autres fâcheux\n#DompterLesTrolls",
+				"url": "https://t.co/zlAm5yQNaS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zlAm5yQNaS",
+								"expanded_url": "http://dompterlestrolls.fr/",
+								"display_url": "dompterlestrolls.fr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14400,
+				"friends_count": 9979,
+				"listed_count": 687,
+				"created_at": "Thu May 13 19:15:45 +0000 2010",
+				"favourites_count": 78156,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 188290,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1241291662028046337/lEt8y2Gb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241291662028046337/lEt8y2Gb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/143542394/1547399253",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 7,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Le niveau de manipulation et d'interférence dans cette enquête de la part de la direction OKC France ne peut pas être sous estimé.\n\nC'était du lobbying que JL fesait et à continué à faire pendant des années pour décorer tout cela dans une normalité insupportable. https://t.co/1q4pO9JX3k"
+	},
+	{
+		"created_at": "Mon Oct 10 07:58:42 +0000 2022",
+		"id": 1579380888886182000,
+		"id_str": "1579380888886181889",
+		"full_text": "Archives :\n\nDu Om Dorje Institute à la création de la Ogyen Kunzang Choling (OKC) et le mythe du vénérable Lama Kunzang Dorje\n\nLa genèse de la dérive OKC vue de l'intérieur. \n\nhttps://t.co/BwVsctOazm https://t.co/cEuldrqgJB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BwVsctOazm",
+					"expanded_url": "https://drive.google.com/drive/folders/0B7ZZBZAiuR-zQWJCX2EtcGpWOHc?resourcekey=0-4M7WZM3N-nB1i4PUzgCV0A",
+					"display_url": "drive.google.com/drive/folders/…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1579380883429154800,
+					"id_str": "1579380883429154817",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FesWi6nWYAERylJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FesWi6nWYAERylJ.jpg",
+					"url": "https://t.co/cEuldrqgJB",
+					"display_url": "pic.twitter.com/cEuldrqgJB",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1579380888886181889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 639,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 362,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 2027,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579380883429154800,
+					"id_str": "1579380883429154817",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FesWi6nWYAERylJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FesWi6nWYAERylJ.jpg",
+					"url": "https://t.co/cEuldrqgJB",
+					"display_url": "pic.twitter.com/cEuldrqgJB",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1579380888886181889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 639,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 362,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 2027,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 207,
+			"friends_count": 384,
+			"listed_count": 8,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1654,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Archives :\n\nDu Om Dorje Institute à la création de la Ogyen Kunzang Choling (OKC) et le mythe du vénérable Lama Kunzang Dorje\n\nLa genèse de la dérive OKC vue de l'intérieur. \n\nhttps://t.co/BwVsctOazm https://t.co/cEuldrqgJB"
+	},
+	{
+		"created_at": "Mon Oct 10 07:09:17 +0000 2022",
+		"id": 1579368456251928600,
+		"id_str": "1579368456251928576",
+		"full_text": "@PhilipDeslippe @agleig To us, the legitimacy question is a off-topic.\nIt's precisely the main argument of the cult itself, in court, since 7 years now. And before that for 20 years during the instruction of the case.\n\nIt's a way to get dragged into the cult narrative and avoid the actual issue.",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			296
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhilipDeslippe",
+					"name": "Philip Deslippe",
+					"id": 331254366,
+					"id_str": "331254366",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "agleig",
+					"name": "Ann Gleig",
+					"id": 3364125831,
+					"id_str": "3364125831",
+					"indices": [
+						16,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1579278084372471800,
+		"in_reply_to_status_id_str": "1579278084372471809",
+		"in_reply_to_user_id": 331254366,
+		"in_reply_to_user_id_str": "331254366",
+		"in_reply_to_screen_name": "PhilipDeslippe",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 207,
+			"friends_count": 384,
+			"listed_count": 8,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1654,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PhilipDeslippe @agleig To us, the legitimacy question is a off-topic.\nIt's precisely the main argument of the cult itself, in court, since 7 years now. And before that for 20 years during the instruction of the case.\n\nIt's a way to get dragged into the cult narrative and avoid the actual issue."
+	},
+	{
+		"created_at": "Sun Oct 09 19:35:12 +0000 2022",
+		"id": 1579193783522300000,
+		"id_str": "1579193783522299904",
+		"full_text": "The @artefr \"Bouddhisme, la loi du silence\" documentary\n\"Buddhism, the Unspeakable Truth\" , is now accessible with English subtitles for international audiences.\n\nPlease share this far &amp; wide! \n\n#Buddhism #TibetanBuddhism \n\nhttps://t.co/r6e1M5KfMy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Buddhism",
+					"indices": [
+						199,
+						208
+					]
+				},
+				{
+					"text": "TibetanBuddhism",
+					"indices": [
+						209,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ARTEfr",
+					"name": "ARTE",
+					"id": 14140057,
+					"id_str": "14140057",
+					"indices": [
+						4,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/r6e1M5KfMy",
+					"expanded_url": "https://youtu.be/be4bntWJmME",
+					"display_url": "youtu.be/be4bntWJmME",
+					"indices": [
+						228,
+						251
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 207,
+			"friends_count": 384,
+			"listed_count": 8,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1654,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @artefr \"Bouddhisme, la loi du silence\" documentary\n\"Buddhism, the Unspeakable Truth\" , is now accessible with English subtitles for international audiences.\n\nPlease share this far &amp; wide! \n\n#Buddhism #TibetanBuddhism \n\nhttps://t.co/r6e1M5KfMy"
+	},
+	{
+		"created_at": "Sun Oct 09 18:34:16 +0000 2022",
+		"id": 1579178448848769000,
+		"id_str": "1579178448848769024",
+		"full_text": "@PhilipDeslippe @agleig I honestly think these scholars are harming the future.",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhilipDeslippe",
+					"name": "Philip Deslippe",
+					"id": 331254366,
+					"id_str": "331254366",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "agleig",
+					"name": "Ann Gleig",
+					"id": 3364125831,
+					"id_str": "3364125831",
+					"indices": [
+						16,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1579155941060006000,
+		"in_reply_to_status_id_str": "1579155941060005889",
+		"in_reply_to_user_id": 331254366,
+		"in_reply_to_user_id_str": "331254366",
+		"in_reply_to_screen_name": "PhilipDeslippe",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 207,
+			"friends_count": 384,
+			"listed_count": 8,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1654,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PhilipDeslippe @agleig I honestly think these scholars are harming the future."
+	},
+	{
+		"created_at": "Sun Oct 09 15:50:09 +0000 2022",
+		"id": 1579135691099091000,
+		"id_str": "1579137145998307328",
+		"full_text": "Suite à la diffusion de \"Bouddhisme, la loi du silence\" d'@ARTEfr, je me suis penchée sur l'affaire de la secte #OKC et les témoignages des enfants élevés sous emprise, violentés, abusés, violés pour certains, en France il n'y a pas si longtemps que cela.\nhttps://t.co/5P10Mdzkg5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OKC",
+					"indices": [
+						112,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ARTEfr",
+					"name": "ARTE",
+					"id": 14140057,
+					"id_str": "14140057",
+					"indices": [
+						58,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5P10Mdzkg5",
+					"expanded_url": "https://www.youtube.com/watch?v=rhn4IO3XO20",
+					"display_url": "youtube.com/watch?v=rhn4IO…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 143542394,
+			"id_str": "143542394",
+			"name": "Stéphanie de Vanssay #CitoyensDuWeb",
+			"screen_name": "2vanssay",
+			"location": "IDF  ",
+			"description": "Militante pédagogique optimiste  - Conseillère nationale au SE-Unsa - Compte personnel - Bloque à vue les trolls et autres fâcheux\n#DompterLesTrolls",
+			"url": "https://t.co/zlAm5yQNaS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zlAm5yQNaS",
+							"expanded_url": "http://dompterlestrolls.fr/",
+							"display_url": "dompterlestrolls.fr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14400,
+			"friends_count": 9979,
+			"listed_count": 687,
+			"created_at": "Thu May 13 19:15:45 +0000 2010",
+			"favourites_count": 78156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 188290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5ABB5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241291662028046337/lEt8y2Gb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241291662028046337/lEt8y2Gb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/143542394/1547399253",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 70,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Suite à la diffusion de \"Bouddhisme, la loi du silence\" d'@ARTEfr, je me suis penchée sur l'affaire de la secte #OKC et les témoignages des enfants élevés sous emprise, violentés, abusés, violés pour certains, en France il n'y a pas si longtemps que cela.\nhttps://t.co/5P10Mdzkg5"
+	},
+	{
+		"created_at": "Sun Oct 09 15:03:48 +0000 2022",
+		"id": 1579125483190435800,
+		"id_str": "1579125483190435841",
+		"full_text": "@brunomshirley I was putting Buddhism before Hinduism, I guess it all depends on the perspective/culture from where you count but that's what Google say : https://t.co/ccVGrsuUI1",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brunomshirley",
+					"name": "Bruno Marshall Shirley",
+					"id": 2378011976,
+					"id_str": "2378011976",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1579125474218975200,
+					"id_str": "1579125474218975232",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FeouQJKXoAAt9TY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeouQJKXoAAt9TY.jpg",
+					"url": "https://t.co/ccVGrsuUI1",
+					"display_url": "pic.twitter.com/ccVGrsuUI1",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1579125483190435841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 356,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 628,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1071,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579125474218975200,
+					"id_str": "1579125474218975232",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FeouQJKXoAAt9TY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeouQJKXoAAt9TY.jpg",
+					"url": "https://t.co/ccVGrsuUI1",
+					"display_url": "pic.twitter.com/ccVGrsuUI1",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1579125483190435841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 356,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 628,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1071,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1579124743483326500,
+		"in_reply_to_status_id_str": "1579124743483326464",
+		"in_reply_to_user_id": 2378011976,
+		"in_reply_to_user_id_str": "2378011976",
+		"in_reply_to_screen_name": "brunomshirley",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 207,
+			"friends_count": 384,
+			"listed_count": 8,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1654,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@brunomshirley I was putting Buddhism before Hinduism, I guess it all depends on the perspective/culture from where you count but that's what Google say : https://t.co/ccVGrsuUI1"
+	},
+	{
+		"created_at": "Sun Oct 09 12:34:12 +0000 2022",
+		"id": 1579087454011019300,
+		"id_str": "1579087833733947399",
+		"full_text": "@OKCinformation We need much more acknowledgement and wrestling with this. I am trying along with other colleagues to identify the problems in  the field offer alternative feminist grounded perspectives on abuse",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinformation",
+					"name": "OKCinfo Research",
+					"id": 3309353195,
+					"id_str": "3309353195",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1579085357265858600,
+		"in_reply_to_status_id_str": "1579085357265858562",
+		"in_reply_to_user_id": 3364125831,
+		"in_reply_to_user_id_str": "3364125831",
+		"in_reply_to_screen_name": "agleig",
+		"user": {
+			"id": 3364125831,
+			"id_str": "3364125831",
+			"name": "Ann Gleig",
+			"screen_name": "agleig",
+			"location": "",
+			"description": "Religious Studies. She/Her. Bad Buddhist. Scouser. LFC. Youngest of 5. Own Views.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1832,
+			"friends_count": 1644,
+			"listed_count": 20,
+			"created_at": "Tue Jul 07 13:45:34 +0000 2015",
+			"favourites_count": 27895,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502401394216632321/nsSUm6Iy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502401394216632321/nsSUm6Iy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3364125831/1662506271",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@OKCinformation We need much more acknowledgement and wrestling with this. I am trying along with other colleagues to identify the problems in  the field offer alternative feminist grounded perspectives on abuse"
+	},
+	{
+		"created_at": "Sun Oct 09 12:29:27 +0000 2022",
+		"id": 1579086640412504000,
+		"id_str": "1579086640412504064",
+		"full_text": "@agleig It's happening massively in the US (more than elsewhere) with Tibetan Buddhism.\n\nThere is an entire class of \"academics\" on Twitter surfing on the Tibetan culture, utterly unaware or blind of the very systemic abuses of their object of study. It's not just a little, it's denial.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			287
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "agleig",
+					"name": "Ann Gleig",
+					"id": 3364125831,
+					"id_str": "3364125831",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1579085020765032400,
+		"in_reply_to_status_id_str": "1579085020765032450",
+		"in_reply_to_user_id": 3364125831,
+		"in_reply_to_user_id_str": "3364125831",
+		"in_reply_to_screen_name": "agleig",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 207,
+			"friends_count": 384,
+			"listed_count": 8,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1654,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@agleig It's happening massively in the US (more than elsewhere) with Tibetan Buddhism.\n\nThere is an entire class of \"academics\" on Twitter surfing on the Tibetan culture, utterly unaware or blind of the very systemic abuses of their object of study. It's not just a little, it's denial."
+	},
+	{
+		"created_at": "Sun Oct 09 12:28:04 +0000 2022",
+		"id": 1579085357265858600,
+		"id_str": "1579086291890999296",
+		"full_text": "@OKCinformation And religious studies as a field needs to come to terms with this more. Our scholarship is being used to defend abusive teachers and communities.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinformation",
+					"name": "OKCinfo Research",
+					"id": 3309353195,
+					"id_str": "3309353195",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1579080735742652400,
+		"in_reply_to_status_id_str": "1579080735742652417",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3364125831,
+			"id_str": "3364125831",
+			"name": "Ann Gleig",
+			"screen_name": "agleig",
+			"location": "",
+			"description": "Religious Studies. She/Her. Bad Buddhist. Scouser. LFC. Youngest of 5. Own Views.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1832,
+			"friends_count": 1644,
+			"listed_count": 20,
+			"created_at": "Tue Jul 07 13:45:34 +0000 2015",
+			"favourites_count": 27895,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502401394216632321/nsSUm6Iy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502401394216632321/nsSUm6Iy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3364125831/1662506271",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@OKCinformation And religious studies as a field needs to come to terms with this more. Our scholarship is being used to defend abusive teachers and communities."
+	},
+	{
+		"created_at": "Sun Oct 09 12:28:01 +0000 2022",
+		"id": 1579085020765032400,
+		"id_str": "1579086279412961280",
+		"full_text": "@OKCinformation I think when harm and legitimacy are conflated and one’s goal is to legitimate, it makes you less likely to fully acknowledge harm. Your point about NRM scholarship legitimating minority religions is important but not just for NRMs. Religious Studies scholarship does legitimate",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			294
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinformation",
+					"name": "OKCinfo Research",
+					"id": 3309353195,
+					"id_str": "3309353195",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1579080735742652400,
+		"in_reply_to_status_id_str": "1579080735742652417",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3364125831,
+			"id_str": "3364125831",
+			"name": "Ann Gleig",
+			"screen_name": "agleig",
+			"location": "",
+			"description": "Religious Studies. She/Her. Bad Buddhist. Scouser. LFC. Youngest of 5. Own Views.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1832,
+			"friends_count": 1644,
+			"listed_count": 20,
+			"created_at": "Tue Jul 07 13:45:34 +0000 2015",
+			"favourites_count": 27895,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502401394216632321/nsSUm6Iy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502401394216632321/nsSUm6Iy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3364125831/1662506271",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@OKCinformation I think when harm and legitimacy are conflated and one’s goal is to legitimate, it makes you less likely to fully acknowledge harm. Your point about NRM scholarship legitimating minority religions is important but not just for NRMs. Religious Studies scholarship does legitimate"
+	},
+	{
+		"created_at": "Sun Oct 09 12:08:25 +0000 2022",
+		"id": 1579081347179884500,
+		"id_str": "1579081347179884544",
+		"full_text": "@agleig On your last point (harm vs legitimate) take Susan J Palmer or Soteria International, they obviously got lobbyied by \"minority religions\" and instead of detecting potential harm, instead of digging out the hidden, they propulsed these drifts propaganda into books &amp; news sites.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			289
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "agleig",
+					"name": "Ann Gleig",
+					"id": 3364125831,
+					"id_str": "3364125831",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1579075699100749800,
+		"in_reply_to_status_id_str": "1579075699100749824",
+		"in_reply_to_user_id": 3364125831,
+		"in_reply_to_user_id_str": "3364125831",
+		"in_reply_to_screen_name": "agleig",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 207,
+			"friends_count": 384,
+			"listed_count": 8,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1654,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@agleig On your last point (harm vs legitimate) take Susan J Palmer or Soteria International, they obviously got lobbyied by \"minority religions\" and instead of detecting potential harm, instead of digging out the hidden, they propulsed these drifts propaganda into books &amp; news sites."
+	},
+	{
+		"created_at": "Sun Oct 09 12:05:59 +0000 2022",
+		"id": 1579080735742652400,
+		"id_str": "1579080735742652417",
+		"full_text": "@agleig My point wasn't about legitimacy, but rather the role of academics that end up normalizing NRM's that without the exposure given by academics would never transit from \"minority religion\" to world religion.  The entire notion of NRM in the US is utter bolocks if you ask us.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "agleig",
+					"name": "Ann Gleig",
+					"id": 3364125831,
+					"id_str": "3364125831",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1579075699100749800,
+		"in_reply_to_status_id_str": "1579075699100749824",
+		"in_reply_to_user_id": 3364125831,
+		"in_reply_to_user_id_str": "3364125831",
+		"in_reply_to_screen_name": "agleig",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 207,
+			"friends_count": 384,
+			"listed_count": 8,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1654,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@agleig My point wasn't about legitimacy, but rather the role of academics that end up normalizing NRM's that without the exposure given by academics would never transit from \"minority religion\" to world religion.  The entire notion of NRM in the US is utter bolocks if you ask us."
+	},
+	{
+		"created_at": "Sun Oct 09 12:04:25 +0000 2022",
+		"id": 1579075699100749800,
+		"id_str": "1579080339867111425",
+		"full_text": "@OKCinformation I don’t think it’s helpful to focus on legitimacy. I think the issue is to confront abuse when it happens. Abuse happens in both world religions &amp; minority religions. Minority religions become world religions. Trying to distinguish between the two moves one away from naming abuse",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			300
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinformation",
+					"name": "OKCinfo Research",
+					"id": 3309353195,
+					"id_str": "3309353195",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1578995600582140000,
+		"in_reply_to_status_id_str": "1578995600582139906",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3364125831,
+			"id_str": "3364125831",
+			"name": "Ann Gleig",
+			"screen_name": "agleig",
+			"location": "",
+			"description": "Religious Studies. She/Her. Bad Buddhist. Scouser. LFC. Youngest of 5. Own Views.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1832,
+			"friends_count": 1644,
+			"listed_count": 20,
+			"created_at": "Tue Jul 07 13:45:34 +0000 2015",
+			"favourites_count": 27895,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502401394216632321/nsSUm6Iy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502401394216632321/nsSUm6Iy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3364125831/1662506271",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@OKCinformation I don’t think it’s helpful to focus on legitimacy. I think the issue is to confront abuse when it happens. Abuse happens in both world religions &amp; minority religions. Minority religions become world religions. Trying to distinguish between the two moves one away from naming abuse"
+	},
+	{
+		"created_at": "Sun Oct 09 10:13:13 +0000 2022",
+		"id": 1579052354506461200,
+		"id_str": "1579052354506461188",
+		"full_text": "In full here https://t.co/GSOMCRN4yr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GSOMCRN4yr",
+					"expanded_url": "https://12ft.io/proxy?q=https%3A%2F%2Fwww.knack.be%2Fnieuws%2Fbelgie%2Fmaatschappij%2Fricardo-mendes-getuigt-over-misbruik-en-zijn-juridische-strijd-perverten-gedijen-goed-in-het-tibetaanse-boeddhisme%2F",
+					"display_url": "12ft.io/proxy?q=https%…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1579052352086368300,
+		"in_reply_to_status_id_str": "1579052352086368256",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 207,
+			"friends_count": 384,
+			"listed_count": 8,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1654,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In full here https://t.co/GSOMCRN4yr"
+	},
+	{
+		"created_at": "Sun Oct 09 10:13:12 +0000 2022",
+		"id": 1579052352086368300,
+		"id_str": "1579052352086368256",
+		"full_text": "Ricardo Mendes getuigt over misbruik en zijn juridische strijd: ‘Perverten gedijen goed in het Tibetaanse boeddhisme’\n\n@OKCinfor \n\nhttps://t.co/kHLqHXHwMS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinfor",
+					"name": "Initiative de Justice OKCinfo",
+					"id": 1097520031955587100,
+					"id_str": "1097520031955587073",
+					"indices": [
+						119,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kHLqHXHwMS",
+					"expanded_url": "https://www.knack.be/nieuws/belgie/maatschappij/ricardo-mendes-getuigt-over-misbruik-en-zijn-juridische-strijd-perverten-gedijen-goed-in-het-tibetaanse-boeddhisme/",
+					"display_url": "knack.be/nieuws/belgie/…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 207,
+			"friends_count": 384,
+			"listed_count": 8,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1654,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ricardo Mendes getuigt over misbruik en zijn juridische strijd: ‘Perverten gedijen goed in het Tibetaanse boeddhisme’\n\n@OKCinfor \n\nhttps://t.co/kHLqHXHwMS"
+	},
+	{
 		"created_at": "Sun Oct 09 06:27:43 +0000 2022",
 		"id": 1578995607091703800,
 		"id_str": "1578995607091703808",
