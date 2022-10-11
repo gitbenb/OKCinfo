@@ -1,6 +1,1295 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 11 07:59:34 +0000 2022",
+		"id": 1579743397279314000,
+		"id_str": "1579743495711227904",
+		"full_text": "Le documentaire sur les abus sexuels, physiques et spirituels dans le Bouddhisme tibétain, désormais en 3 langues sur YouTube 🇫🇷🇬🇧🇩🇪\nhttps://t.co/EM4OCLuSQf https://t.co/xF9Wv9YiqN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EM4OCLuSQf",
+					"expanded_url": "https://youtube.com/playlist?list=PLiPB56AeyS2se8eKP8BmkqaH4fpUxHgkv",
+					"display_url": "youtube.com/playlist?list=…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1579743394649325600,
+					"id_str": "1579743394649325570",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FexgP2JXwAICQFg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FexgP2JXwAICQFg.jpg",
+					"url": "https://t.co/xF9Wv9YiqN",
+					"display_url": "pic.twitter.com/xF9Wv9YiqN",
+					"expanded_url": "https://twitter.com/rMdes_/status/1579743397279313920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 672,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1927,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 381,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579743394649325600,
+					"id_str": "1579743394649325570",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FexgP2JXwAICQFg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FexgP2JXwAICQFg.jpg",
+					"url": "https://t.co/xF9Wv9YiqN",
+					"display_url": "pic.twitter.com/xF9Wv9YiqN",
+					"expanded_url": "https://twitter.com/rMdes_/status/1579743397279313920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 672,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1927,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 381,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉",
+			"description": "Passionné par l'information, la démocratie, la justice et le discernement | @PolBegov @EUwatchers Porte-parole/Spokesperson @OKCinfor",
+			"url": "https://t.co/zNucbsHeDX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zNucbsHeDX",
+							"expanded_url": "https://rmendes.net/",
+							"display_url": "rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2580,
+			"friends_count": 4997,
+			"listed_count": 326,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 14755,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1576114396400590848/7zquaAE__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1576114396400590848/7zquaAE__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1659387530",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Le documentaire sur les abus sexuels, physiques et spirituels dans le Bouddhisme tibétain, désormais en 3 langues sur YouTube 🇫🇷🇬🇧🇩🇪\nhttps://t.co/EM4OCLuSQf https://t.co/xF9Wv9YiqN"
+	},
+	{
+		"created_at": "Tue Oct 11 07:56:00 +0000 2022",
+		"id": 1579742600357376000,
+		"id_str": "1579742600357376000",
+		"full_text": "@FinniganMary @agleig Also, there is a reason if the 8 are not part of the documentary, did you ever asked yourself why?\n\nDid it ever surfaced on that brain of yours that the 8 didn't want to participate for reasons that belong to them and that have nothing to do with \"your work\"?\n\nYou are shameful.",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			300
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FinniganMary",
+					"name": "Mary Finnigan",
+					"id": 532171116,
+					"id_str": "532171116",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "agleig",
+					"name": "Ann Gleig",
+					"id": 3364125831,
+					"id_str": "3364125831",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1579737323021160400,
+		"in_reply_to_status_id_str": "1579737323021160448",
+		"in_reply_to_user_id": 532171116,
+		"in_reply_to_user_id_str": "532171116",
+		"in_reply_to_screen_name": "FinniganMary",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 207,
+			"friends_count": 384,
+			"listed_count": 8,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1664,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@FinniganMary @agleig Also, there is a reason if the 8 are not part of the documentary, did you ever asked yourself why?\n\nDid it ever surfaced on that brain of yours that the 8 didn't want to participate for reasons that belong to them and that have nothing to do with \"your work\"?\n\nYou are shameful."
+	},
+	{
+		"created_at": "Tue Oct 11 07:53:54 +0000 2022",
+		"id": 1579742070373486600,
+		"id_str": "1579742070373486595",
+		"full_text": "@FinniganMary @agleig Dear Mary, your comments against the documentary are rooted on your absence of this documentary, and you are absent, because you are compromised. You can only see what you made your name with, anything outside is beyond your capabilities. It's really sad to watch you slander it.",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			301
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FinniganMary",
+					"name": "Mary Finnigan",
+					"id": 532171116,
+					"id_str": "532171116",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "agleig",
+					"name": "Ann Gleig",
+					"id": 3364125831,
+					"id_str": "3364125831",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1579737323021160400,
+		"in_reply_to_status_id_str": "1579737323021160448",
+		"in_reply_to_user_id": 532171116,
+		"in_reply_to_user_id_str": "532171116",
+		"in_reply_to_screen_name": "FinniganMary",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 207,
+			"friends_count": 384,
+			"listed_count": 8,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1664,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@FinniganMary @agleig Dear Mary, your comments against the documentary are rooted on your absence of this documentary, and you are absent, because you are compromised. You can only see what you made your name with, anything outside is beyond your capabilities. It's really sad to watch you slander it."
+	},
+	{
+		"created_at": "Tue Oct 11 06:36:02 +0000 2022",
+		"id": 1579722473330724900,
+		"id_str": "1579722473330724864",
+		"full_text": "Thanks for having taken the time to watch it and thanks for sharing it 🙏❤️ https://t.co/9E1ej4O4ln",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9E1ej4O4ln",
+					"expanded_url": "https://twitter.com/agleig/status/1579656113725018112",
+					"display_url": "twitter.com/agleig/status/…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 207,
+			"friends_count": 384,
+			"listed_count": 8,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1664,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1579656113725018000,
+		"quoted_status_id_str": "1579656113725018112",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9E1ej4O4ln",
+			"expanded": "https://twitter.com/agleig/status/1579656113725018112",
+			"display": "twitter.com/agleig/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 11 02:12:20 +0000 2022",
+			"id": 1579656113725018000,
+			"id_str": "1579656113725018112",
+			"full_text": "A disturbing but excellent documentary about abuse in Tibetan Buddhism. It does for Buddhism what Spotlight did for Catholicism: expose the fact that across religious contexts, the patriarchy will always protect itself at a terrible cost for others. https://t.co/uoniveYJZS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uoniveYJZS",
+						"expanded_url": "https://www.arte.tv/en/videos/095177-000-A/abuse-in-buddhism/",
+						"display_url": "arte.tv/en/videos/0951…",
+						"indices": [
+							250,
+							273
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3364125831,
+				"id_str": "3364125831",
+				"name": "Ann Gleig",
+				"screen_name": "agleig",
+				"location": "",
+				"description": "Religious Studies. She/Her. Bad Buddhist. Scouser. LFC. Youngest of 5. Own Views.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1845,
+				"friends_count": 1644,
+				"listed_count": 20,
+				"created_at": "Tue Jul 07 13:45:34 +0000 2015",
+				"favourites_count": 27932,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18312,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1502401394216632321/nsSUm6Iy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502401394216632321/nsSUm6Iy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3364125831/1662506271",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 63,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks for having taken the time to watch it and thanks for sharing it 🙏❤️ https://t.co/9E1ej4O4ln"
+	},
+	{
+		"created_at": "Tue Oct 11 06:33:27 +0000 2022",
+		"id": 1579656113725018000,
+		"id_str": "1579721823654379521",
+		"full_text": "A disturbing but excellent documentary about abuse in Tibetan Buddhism. It does for Buddhism what Spotlight did for Catholicism: expose the fact that across religious contexts, the patriarchy will always protect itself at a terrible cost for others. https://t.co/uoniveYJZS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uoniveYJZS",
+					"expanded_url": "https://www.arte.tv/en/videos/095177-000-A/abuse-in-buddhism/",
+					"display_url": "arte.tv/en/videos/0951…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3364125831,
+			"id_str": "3364125831",
+			"name": "Ann Gleig",
+			"screen_name": "agleig",
+			"location": "",
+			"description": "Religious Studies. She/Her. Bad Buddhist. Scouser. LFC. Youngest of 5. Own Views.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1845,
+			"friends_count": 1644,
+			"listed_count": 20,
+			"created_at": "Tue Jul 07 13:45:34 +0000 2015",
+			"favourites_count": 27932,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18312,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502401394216632321/nsSUm6Iy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502401394216632321/nsSUm6Iy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3364125831/1662506271",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A disturbing but excellent documentary about abuse in Tibetan Buddhism. It does for Buddhism what Spotlight did for Catholicism: expose the fact that across religious contexts, the patriarchy will always protect itself at a terrible cost for others. https://t.co/uoniveYJZS"
+	},
+	{
+		"created_at": "Mon Oct 10 09:59:12 +0000 2022",
+		"id": 1579189776875655200,
+		"id_str": "1579411213758640131",
+		"full_text": "N'oubliez pas de retweeter, de suivre @OKCinfor &amp; @rMdes_, de consulter leur site et de vous tenir prêts à les soutenir dans la bataille judiciaire qui s'ouvreen France. \nIls méritent qu'on leur rende justice !  \nhttps://t.co/ma7btiJ4e6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinfor",
+					"name": "Initiative de Justice OKCinfo",
+					"id": 1097520031955587100,
+					"id_str": "1097520031955587073",
+					"indices": [
+						38,
+						47
+					]
+				},
+				{
+					"screen_name": "rMdes_",
+					"name": "Ricardo Mendes",
+					"id": 1562961949,
+					"id_str": "1562961949",
+					"indices": [
+						54,
+						61
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ma7btiJ4e6",
+					"expanded_url": "https://okcinfo.news/",
+					"display_url": "okcinfo.news",
+					"indices": [
+						217,
+						240
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1579188947225563100,
+		"in_reply_to_status_id_str": "1579188947225563144",
+		"in_reply_to_user_id": 143542394,
+		"in_reply_to_user_id_str": "143542394",
+		"in_reply_to_screen_name": "2vanssay",
+		"user": {
+			"id": 143542394,
+			"id_str": "143542394",
+			"name": "Stéphanie de Vanssay #CitoyensDuWeb",
+			"screen_name": "2vanssay",
+			"location": "IDF  ",
+			"description": "Militante pédagogique optimiste  - Conseillère nationale au SE-Unsa - Compte personnel - Bloque à vue les trolls et autres fâcheux\n#DompterLesTrolls",
+			"url": "https://t.co/zlAm5yQNaS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zlAm5yQNaS",
+							"expanded_url": "http://dompterlestrolls.fr/",
+							"display_url": "dompterlestrolls.fr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14403,
+			"friends_count": 9979,
+			"listed_count": 687,
+			"created_at": "Thu May 13 19:15:45 +0000 2010",
+			"favourites_count": 78191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 188327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5ABB5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241291662028046337/lEt8y2Gb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241291662028046337/lEt8y2Gb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/143542394/1547399253",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "N'oubliez pas de retweeter, de suivre @OKCinfor &amp; @rMdes_, de consulter leur site et de vous tenir prêts à les soutenir dans la bataille judiciaire qui s'ouvreen France. \nIls méritent qu'on leur rende justice !  \nhttps://t.co/ma7btiJ4e6"
+	},
+	{
+		"created_at": "Mon Oct 10 09:59:09 +0000 2022",
+		"id": 1579411090412548000,
+		"id_str": "1579411202379161600",
+		"full_text": "Un Fil Twitter par @2vanssay qui revient à l'origine d'une partie des abus, sexuels et physiques contre une partie d'entre nous dans les années 80,90.\n\nJusqu'au à la déportation vers le Portugal en 1993.\n\nhttps://t.co/sZ6okGZge8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "2vanssay",
+					"name": "Stéphanie de Vanssay #CitoyensDuWeb",
+					"id": 143542394,
+					"id_str": "143542394",
+					"indices": [
+						19,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sZ6okGZge8",
+					"expanded_url": "https://threadreaderapp.com/thread/1579135691099090944.html",
+					"display_url": "threadreaderapp.com/thread/1579135…",
+					"indices": [
+						205,
+						228
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2022: 🇫🇷Instruction en cours \n🇧🇪 verdict cassation 5 octobre 2022 | \n2020: Condamné 5 ans sursis | \n2016: Condamné 4 ans sursis\ncontact @rMdes_",
+			"url": "https://t.co/uRVeG10dZv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10dZv",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 227,
+			"friends_count": 355,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1641541008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Un Fil Twitter par @2vanssay qui revient à l'origine d'une partie des abus, sexuels et physiques contre une partie d'entre nous dans les années 80,90.\n\nJusqu'au à la déportation vers le Portugal en 1993.\n\nhttps://t.co/sZ6okGZge8"
+	},
+	{
+		"created_at": "Mon Oct 10 09:47:59 +0000 2022",
+		"id": 1579408392434880500,
+		"id_str": "1579408392434880514",
+		"full_text": "@2vanssay @OKCinfor @rMdes_ Please unroll @threadreaderapp",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "2vanssay",
+					"name": "Stéphanie de Vanssay #CitoyensDuWeb",
+					"id": 143542394,
+					"id_str": "143542394",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "OKCinfor",
+					"name": "Initiative de Justice OKCinfo",
+					"id": 1097520031955587100,
+					"id_str": "1097520031955587073",
+					"indices": [
+						10,
+						19
+					]
+				},
+				{
+					"screen_name": "rMdes_",
+					"name": "Ricardo Mendes",
+					"id": 1562961949,
+					"id_str": "1562961949",
+					"indices": [
+						20,
+						27
+					]
+				},
+				{
+					"screen_name": "threadreaderapp",
+					"name": "Thread Reader App",
+					"id": 895814938995957800,
+					"id_str": "895814938995957760",
+					"indices": [
+						42,
+						58
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1579189776875655200,
+		"in_reply_to_status_id_str": "1579189776875655168",
+		"in_reply_to_user_id": 143542394,
+		"in_reply_to_user_id_str": "143542394",
+		"in_reply_to_screen_name": "2vanssay",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 207,
+			"friends_count": 384,
+			"listed_count": 8,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1664,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@2vanssay @OKCinfor @rMdes_ Please unroll @threadreaderapp"
+	},
+	{
+		"created_at": "Mon Oct 10 09:09:14 +0000 2022",
+		"id": 1579398642334838800,
+		"id_str": "1579398642334838784",
+		"full_text": "Can't see it? Get @mullvadnet https://t.co/MfiZYyDvmd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mullvadnet",
+					"name": "Mullvad.net",
+					"id": 38818843,
+					"id_str": "38818843",
+					"indices": [
+						18,
+						29
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1579398636500390000,
+					"id_str": "1579398636500389888",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FesmsR9XkAAkBLy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FesmsR9XkAAkBLy.jpg",
+					"url": "https://t.co/MfiZYyDvmd",
+					"display_url": "pic.twitter.com/MfiZYyDvmd",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1579398642334838784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 945,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579398636500390000,
+					"id_str": "1579398636500389888",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FesmsR9XkAAkBLy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FesmsR9XkAAkBLy.jpg",
+					"url": "https://t.co/MfiZYyDvmd",
+					"display_url": "pic.twitter.com/MfiZYyDvmd",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1579398642334838784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 945,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1579193783522300000,
+		"in_reply_to_status_id_str": "1579193783522299904",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 207,
+			"friends_count": 384,
+			"listed_count": 8,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1664,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Can't see it? Get @mullvadnet https://t.co/MfiZYyDvmd"
+	},
+	{
 		"created_at": "Mon Oct 10 08:08:27 +0000 2022",
 		"id": 1579189579701448700,
 		"id_str": "1579383344852529153",
