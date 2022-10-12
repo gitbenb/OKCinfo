@@ -1,6 +1,384 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 12 06:34:36 +0000 2022",
+		"id": 1579409713644859400,
+		"id_str": "1580084500880818177",
+		"full_text": "Tenzin Peljor's trying to cover the world with leather, to keep himself from hurting his feet. Don't be fooled by his frantic apologetics. He's clutching at straws. https://t.co/ta7bn138B1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1579408815971254300,
+					"id_str": "1579408815971254274",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/Fesv8zcWQAIWs2O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fesv8zcWQAIWs2O.jpg",
+					"url": "https://t.co/ta7bn138B1",
+					"display_url": "pic.twitter.com/ta7bn138B1",
+					"expanded_url": "https://twitter.com/robhogendoorn/status/1579409713644859392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 308,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 927,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 543,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579408815971254300,
+					"id_str": "1579408815971254274",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/Fesv8zcWQAIWs2O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fesv8zcWQAIWs2O.jpg",
+					"url": "https://t.co/ta7bn138B1",
+					"display_url": "pic.twitter.com/ta7bn138B1",
+					"expanded_url": "https://twitter.com/robhogendoorn/status/1579409713644859392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 308,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 927,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 543,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396358893949931500,
+			"id_str": "1396358893949931521",
+			"name": "robhogendoorn",
+			"screen_name": "robhogendoorn",
+			"location": "The Netherlands",
+			"description": "I'm an investigative reporter and academic researcher, focussed on the Western reception of Buddhism. My usual MO is independent, inquisitive, and provocative.",
+			"url": "https://t.co/86oa7Q4ryU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/86oa7Q4ryU",
+							"expanded_url": "http://openbuddhism.org",
+							"display_url": "openbuddhism.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 117,
+			"friends_count": 61,
+			"listed_count": 3,
+			"created_at": "Sun May 23 06:54:49 +0000 2021",
+			"favourites_count": 294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1328,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1396362392636960773/9vWFK9xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1396362392636960773/9vWFK9xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396358893949931521/1621758316",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tenzin Peljor's trying to cover the world with leather, to keep himself from hurting his feet. Don't be fooled by his frantic apologetics. He's clutching at straws. https://t.co/ta7bn138B1"
+	},
+	{
+		"created_at": "Wed Oct 12 06:02:05 +0000 2022",
+		"id": 1579806306927792000,
+		"id_str": "1580076316908408832",
+		"full_text": "What is it about scholars and academics that they can \"study\" the dogma used to abuse survivors but the moment they are challenged on Twitter they block the account?\n\nYou don't get to define our experiences or the boundary you decide to impose us to protect your little peace.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 890549322240196600,
+			"id_str": "890549322240196612",
+			"name": "Tibetan Buddhism Leaks",
+			"screen_name": "BuddhistLeaks",
+			"location": "Dharamsala",
+			"description": "Amplifying comments & news regarding Tibetan Buddhism sexual abuses crimes : ⛔ FPMT, Shambhala, RIGPA, FWBO, NKT, Triratna, Ogyen Kunzang Choling/OKC",
+			"url": "https://t.co/hUPUjKxcfs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hUPUjKxcfs",
+							"expanded_url": "https://AbusesInTibetanBuddhism.info",
+							"display_url": "AbusesInTibetanBuddhism.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 718,
+			"friends_count": 1743,
+			"listed_count": 9,
+			"created_at": "Thu Jul 27 12:27:58 +0000 2017",
+			"favourites_count": 368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/890549322240196612/1608375674",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "What is it about scholars and academics that they can \"study\" the dogma used to abuse survivors but the moment they are challenged on Twitter they block the account?\n\nYou don't get to define our experiences or the boundary you decide to impose us to protect your little peace."
+	},
+	{
+		"created_at": "Tue Oct 11 10:12:55 +0000 2022",
+		"id": 1579777054253670400,
+		"id_str": "1579777054253670400",
+		"full_text": "@agleig You blocked a group account.\n\nThe person you think you blocked is not a survivor of sexual abuses, he's a survivor of physical &amp; spiritual abuses as child born into a Tibetan Buddhist \"community\" / cult. \n\nBut not sexual abuses.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "agleig",
+					"name": "Ann Gleig",
+					"id": 3364125831,
+					"id_str": "3364125831",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1579775679142297600,
+		"in_reply_to_status_id_str": "1579775679142297602",
+		"in_reply_to_user_id": 3364125831,
+		"in_reply_to_user_id_str": "3364125831",
+		"in_reply_to_screen_name": "agleig",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 210,
+			"friends_count": 386,
+			"listed_count": 8,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 352,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@agleig You blocked a group account.\n\nThe person you think you blocked is not a survivor of sexual abuses, he's a survivor of physical &amp; spiritual abuses as child born into a Tibetan Buddhist \"community\" / cult. \n\nBut not sexual abuses."
+	},
+	{
 		"created_at": "Tue Oct 11 07:59:34 +0000 2022",
 		"id": 1579743397279314000,
 		"id_str": "1579743495711227904",
