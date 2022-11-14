@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sun Nov 13 09:59:53 +0000 2022",
+		"id": 1591450578508714000,
+		"id_str": "1591732574875168773",
+		"full_text": "Que faire en Belgique quand une  ASBL, deux SC et une Fondation ne publient pas leurs comptes annuels, status actualisés et autres titres de propriétés immobilières au moniteur belge,\n\ncomme c'est requis par la loi ?\n\n#avocats #conseils #twitterhelp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "avocats",
+					"indices": [
+						218,
+						226
+					]
+				},
+				{
+					"text": "conseils",
+					"indices": [
+						227,
+						236
+					]
+				},
+				{
+					"text": "twitterhelp",
+					"indices": [
+						237,
+						249
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo @rmdes@mstdn.social",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉💉",
+			"description": "Passionné par l'information, la démocratie, la justice et le discernement | Porte-parole/Partie Civile @OKCinfor ¦",
+			"url": "https://t.co/zNucbspDfn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zNucbspDfn",
+							"expanded_url": "https://rmendes.net/",
+							"display_url": "rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2579,
+			"friends_count": 4999,
+			"listed_count": 315,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 14790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1576114396400590848/7zquaAE__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1576114396400590848/7zquaAE__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1659387530",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Que faire en Belgique quand une  ASBL, deux SC et une Fondation ne publient pas leurs comptes annuels, status actualisés et autres titres de propriétés immobilières au moniteur belge,\n\ncomme c'est requis par la loi ?\n\n#avocats #conseils #twitterhelp"
+	},
+	{
 		"created_at": "Fri Nov 04 10:31:32 +0000 2022",
 		"id": 1588469689180733400,
 		"id_str": "1588479048959021056",
