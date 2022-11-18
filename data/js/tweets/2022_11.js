@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Thu Nov 17 11:58:58 +0000 2022",
+		"id": 1593211398360006700,
+		"id_str": "1593212093607866368",
+		"full_text": "La dérive sectaire Ogyen Kunzang Choling du belge Robert Spatz, qui a été acquittée dû à une instruction lacunaire et bâclée, va se retrouver subsidiée par l'état belge à partir de 2023. @VincentVQ https://t.co/ElN4wIXmLS\n\nRobert Spatz a été condamné à 5 ans avec sursis en 2020",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VincentVQ",
+					"name": "Vincent Van Quickenborne",
+					"id": 102008468,
+					"id_str": "102008468",
+					"indices": [
+						187,
+						197
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ElN4wIXmLS",
+					"expanded_url": "https://youtu.be/EbP5k0JrU9M",
+					"display_url": "youtu.be/EbP5k0JrU9M",
+					"indices": [
+						198,
+						221
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1593203952258273300,
+		"in_reply_to_status_id_str": "1593203952258273280",
+		"in_reply_to_user_id": 2359778089,
+		"in_reply_to_user_id_str": "2359778089",
+		"in_reply_to_screen_name": "PolBegov",
+		"user": {
+			"id": 2359778089,
+			"id_str": "2359778089",
+			"name": "Veille infopol",
+			"screen_name": "PolBegov",
+			"location": "in a Docker Container",
+			"description": "NewsBot Veille Info 🇧🇪\nAuto-Alimenté par les sections politique, économie régions des médias Belge - A-partisan, pas aPolitique! \n|\nOpinions et RT ~@ rMdes_",
+			"url": "https://t.co/DKlVZrb1l2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DKlVZrb1l2",
+							"expanded_url": "https://euwatch.live/polbegov-begov/",
+							"display_url": "euwatch.live/polbegov-begov/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5553,
+			"friends_count": 2750,
+			"listed_count": 252,
+			"created_at": "Mon Feb 24 16:54:12 +0000 2014",
+			"favourites_count": 7480,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 383088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366445232179605507/aumS2UHQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366445232179605507/aumS2UHQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2359778089/1448275480",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "La dérive sectaire Ogyen Kunzang Choling du belge Robert Spatz, qui a été acquittée dû à une instruction lacunaire et bâclée, va se retrouver subsidiée par l'état belge à partir de 2023. @VincentVQ https://t.co/ElN4wIXmLS\n\nRobert Spatz a été condamné à 5 ans avec sursis en 2020"
+	},
+	{
 		"created_at": "Sun Nov 13 09:59:53 +0000 2022",
 		"id": 1591450578508714000,
 		"id_str": "1591732574875168773",
