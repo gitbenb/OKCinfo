@@ -1,6 +1,418 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Fri Nov 25 01:16:37 +0000 2022",
+		"id": 1595949544717848600,
+		"id_str": "1595949544717848576",
+		"full_text": "‘Buddhism: The Unspeakable Truth’ Elevates Victims’ Stories in Imperfect Documentary https://t.co/GcjdhBEtLC via @tricyclemag",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tricyclemag",
+					"name": "Tricycle Magazine",
+					"id": 19619541,
+					"id_str": "19619541",
+					"indices": [
+						113,
+						125
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GcjdhBEtLC",
+					"expanded_url": "https://tricycle.org/article/buddhism-the-unspeakable-truth/",
+					"display_url": "tricycle.org/article/buddhi…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 208,
+			"friends_count": 387,
+			"listed_count": 9,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1684,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘Buddhism: The Unspeakable Truth’ Elevates Victims’ Stories in Imperfect Documentary https://t.co/GcjdhBEtLC via @tricyclemag"
+	},
+	{
+		"created_at": "Thu Nov 24 15:09:48 +0000 2022",
+		"id": 1595796833636343800,
+		"id_str": "1595796833636343808",
+		"full_text": "@WJBreports Thank you for this review, also thank you for making Spatz visible\n\nWhat this documentary says out loud is that more exposure is👍\nit shows that there is SEVERAL missing aspects of TB that should ALSO be exposed/debated in the West.\n\nUnder the hood things are moving, thanks to it https://t.co/Hf7riC1LXT",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			291
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WJBreports",
+					"name": "Wendy Biddlecombe Agsar",
+					"id": 86838333,
+					"id_str": "86838333",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1595796822378815500,
+					"id_str": "1595796822378815488",
+					"indices": [
+						292,
+						315
+					],
+					"media_url": "http://pbs.twimg.com/media/FiVowUuWIAAxEJe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiVowUuWIAAxEJe.jpg",
+					"url": "https://t.co/Hf7riC1LXT",
+					"display_url": "pic.twitter.com/Hf7riC1LXT",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1595796833636343808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 452,
+							"h": 669,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 452,
+							"h": 669,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 669,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1595796822378815500,
+					"id_str": "1595796822378815488",
+					"indices": [
+						292,
+						315
+					],
+					"media_url": "http://pbs.twimg.com/media/FiVowUuWIAAxEJe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiVowUuWIAAxEJe.jpg",
+					"url": "https://t.co/Hf7riC1LXT",
+					"display_url": "pic.twitter.com/Hf7riC1LXT",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1595796833636343808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 452,
+							"h": 669,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 452,
+							"h": 669,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 669,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1595796825696620500,
+					"id_str": "1595796825696620546",
+					"indices": [
+						292,
+						315
+					],
+					"media_url": "http://pbs.twimg.com/media/FiVowhFX0AIEYwl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiVowhFX0AIEYwl.jpg",
+					"url": "https://t.co/Hf7riC1LXT",
+					"display_url": "pic.twitter.com/Hf7riC1LXT",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1595796833636343808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 450,
+							"h": 338,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 450,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 450,
+							"h": 338,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1595796828351594500,
+					"id_str": "1595796828351594496",
+					"indices": [
+						292,
+						315
+					],
+					"media_url": "http://pbs.twimg.com/media/FiVowq-XgAAskvf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiVowq-XgAAskvf.jpg",
+					"url": "https://t.co/Hf7riC1LXT",
+					"display_url": "pic.twitter.com/Hf7riC1LXT",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1595796833636343808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1595796831400779800,
+					"id_str": "1595796831400779777",
+					"indices": [
+						292,
+						315
+					],
+					"media_url": "http://pbs.twimg.com/media/FiVow2VWYAE-zBS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiVow2VWYAE-zBS.jpg",
+					"url": "https://t.co/Hf7riC1LXT",
+					"display_url": "pic.twitter.com/Hf7riC1LXT",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1595796833636343808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 220,
+							"h": 277,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 220,
+							"h": 277,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 220,
+							"h": 277,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1595375791428321300,
+		"in_reply_to_status_id_str": "1595375791428321280",
+		"in_reply_to_user_id": 86838333,
+		"in_reply_to_user_id_str": "86838333",
+		"in_reply_to_screen_name": "WJBreports",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 208,
+			"friends_count": 387,
+			"listed_count": 9,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1684,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@WJBreports Thank you for this review, also thank you for making Spatz visible\n\nWhat this documentary says out loud is that more exposure is👍\nit shows that there is SEVERAL missing aspects of TB that should ALSO be exposed/debated in the West.\n\nUnder the hood things are moving, thanks to it https://t.co/Hf7riC1LXT"
+	},
+	{
 		"created_at": "Thu Nov 17 11:58:58 +0000 2022",
 		"id": 1593211398360006700,
 		"id_str": "1593212093607866368",
