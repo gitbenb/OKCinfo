@@ -1,6 +1,484 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Fri Nov 25 16:09:52 +0000 2022",
+		"id": 1596156656655929300,
+		"id_str": "1596174340365733889",
+		"full_text": "@OKCinformation @tricyclemag So while it is good that this documentary is reviewed in a Buddhist magazine, the counter arguments to supposedly expose its flaws are just low level hanging fruits, taken and used to discredit the work Journalist have done, not TB institutions. Not the Dalaï.\nNot the Sanghas!",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			306
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinformation",
+					"name": "OKCinfo Research",
+					"id": 3309353195,
+					"id_str": "3309353195",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "tricyclemag",
+					"name": "Tricycle Magazine",
+					"id": 19619541,
+					"id_str": "19619541",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1595949544717848600,
+		"in_reply_to_status_id_str": "1595949544717848576",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "@rmdes@mstdn.social",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉💉",
+			"description": "Passionné par l'information, la démocratie, la justice et le discernement | Porte-parole/Partie Civile @OKCinfor ¦",
+			"url": "https://t.co/zNucbsHeDX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zNucbsHeDX",
+							"expanded_url": "https://rmendes.net/",
+							"display_url": "rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2564,
+			"friends_count": 4989,
+			"listed_count": 314,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 14822,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1576114396400590848/7zquaAE__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1576114396400590848/7zquaAE__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1659387530",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@OKCinformation @tricyclemag So while it is good that this documentary is reviewed in a Buddhist magazine, the counter arguments to supposedly expose its flaws are just low level hanging fruits, taken and used to discredit the work Journalist have done, not TB institutions. Not the Dalaï.\nNot the Sanghas!"
+	},
+	{
+		"created_at": "Fri Nov 25 16:09:48 +0000 2022",
+		"id": 1596156124775989200,
+		"id_str": "1596174320669163524",
+		"full_text": "@OKCinformation @tricyclemag So what could @artefr done more? Add even more information to a already packed documentary that was designed for a wide audience, global audience, that sometimes know nothing about Tibetan Buddhism in the West or East? \n\nAdding more information would have turned doc indigestion",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			307
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinformation",
+					"name": "OKCinfo Research",
+					"id": 3309353195,
+					"id_str": "3309353195",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "tricyclemag",
+					"name": "Tricycle Magazine",
+					"id": 19619541,
+					"id_str": "19619541",
+					"indices": [
+						16,
+						28
+					]
+				},
+				{
+					"screen_name": "ARTEfr",
+					"name": "ARTE",
+					"id": 14140057,
+					"id_str": "14140057",
+					"indices": [
+						43,
+						50
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1595949544717848600,
+		"in_reply_to_status_id_str": "1595949544717848576",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "@rmdes@mstdn.social",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉💉",
+			"description": "Passionné par l'information, la démocratie, la justice et le discernement | Porte-parole/Partie Civile @OKCinfor ¦",
+			"url": "https://t.co/zNucbsHeDX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zNucbsHeDX",
+							"expanded_url": "https://rmendes.net/",
+							"display_url": "rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2564,
+			"friends_count": 4989,
+			"listed_count": 314,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 14822,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1576114396400590848/7zquaAE__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1576114396400590848/7zquaAE__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1659387530",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@OKCinformation @tricyclemag So what could @artefr done more? Add even more information to a already packed documentary that was designed for a wide audience, global audience, that sometimes know nothing about Tibetan Buddhism in the West or East? \n\nAdding more information would have turned doc indigestion"
+	},
+	{
+		"created_at": "Fri Nov 25 16:09:32 +0000 2022",
+		"id": 1596155544381067300,
+		"id_str": "1596174253598314497",
+		"full_text": "@OKCinformation @tricyclemag I also sincerely ask the critics of this Documentary (specifically a certain monk to which this review keeps linking to and a monk that has conflict of interests via his blogs/sites and position inside Buddhist Unions)\n\n1h28 min is already long, the Int Version is 58 mins",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			301
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinformation",
+					"name": "OKCinfo Research",
+					"id": 3309353195,
+					"id_str": "3309353195",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "tricyclemag",
+					"name": "Tricycle Magazine",
+					"id": 19619541,
+					"id_str": "19619541",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1595949544717848600,
+		"in_reply_to_status_id_str": "1595949544717848576",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "@rmdes@mstdn.social",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉💉",
+			"description": "Passionné par l'information, la démocratie, la justice et le discernement | Porte-parole/Partie Civile @OKCinfor ¦",
+			"url": "https://t.co/zNucbsHeDX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zNucbsHeDX",
+							"expanded_url": "https://rmendes.net/",
+							"display_url": "rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2564,
+			"friends_count": 4989,
+			"listed_count": 314,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 14822,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1576114396400590848/7zquaAE__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1576114396400590848/7zquaAE__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1659387530",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@OKCinformation @tricyclemag I also sincerely ask the critics of this Documentary (specifically a certain monk to which this review keeps linking to and a monk that has conflict of interests via his blogs/sites and position inside Buddhist Unions)\n\n1h28 min is already long, the Int Version is 58 mins"
+	},
+	{
+		"created_at": "Fri Nov 25 16:09:26 +0000 2022",
+		"id": 1596154827184418800,
+		"id_str": "1596174229376208898",
+		"full_text": "@OKCinformation @tricyclemag In fact, there is no such thing as Perfection, we're all Imperfect humans, no matter what we do, even more from a Tibetan Buddhist perspective is flawed from the start (unless you have the View, which even Kangyour, Dilgo or Dudjom DID NOT HAVE to see through Spatz myths.)",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			302
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinformation",
+					"name": "OKCinfo Research",
+					"id": 3309353195,
+					"id_str": "3309353195",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "tricyclemag",
+					"name": "Tricycle Magazine",
+					"id": 19619541,
+					"id_str": "19619541",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1595949544717848600,
+		"in_reply_to_status_id_str": "1595949544717848576",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "@rmdes@mstdn.social",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉💉",
+			"description": "Passionné par l'information, la démocratie, la justice et le discernement | Porte-parole/Partie Civile @OKCinfor ¦",
+			"url": "https://t.co/zNucbsHeDX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zNucbsHeDX",
+							"expanded_url": "https://rmendes.net/",
+							"display_url": "rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2564,
+			"friends_count": 4989,
+			"listed_count": 314,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 14822,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1576114396400590848/7zquaAE__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1576114396400590848/7zquaAE__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1659387530",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@OKCinformation @tricyclemag In fact, there is no such thing as Perfection, we're all Imperfect humans, no matter what we do, even more from a Tibetan Buddhist perspective is flawed from the start (unless you have the View, which even Kangyour, Dilgo or Dudjom DID NOT HAVE to see through Spatz myths.)"
+	},
+	{
 		"created_at": "Fri Nov 25 01:16:37 +0000 2022",
 		"id": 1595949544717848600,
 		"id_str": "1595949544717848576",
