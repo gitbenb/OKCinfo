@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Thu Dec 15 06:33:33 +0000 2022",
+		"id": 1603276932103262200,
+		"id_str": "1603277059622686720",
+		"full_text": "Ça parle de Robert Spatz, de \"NRM\", Dérives sectaires, Bouddhisme Tibétain et la responsabilité de la hiérarchie qui prétend ne pas en être une.\n\nMerci à @hridayartha de continuer à pousser la réflection sur la nature des communauté bouddhiste tibétaine en Occident. https://t.co/61ewNj5IlO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hridayartha",
+					"name": "hridayartha",
+					"id": 565518712,
+					"id_str": "565518712",
+					"indices": [
+						154,
+						166
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/61ewNj5IlO",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1603266617156440066",
+					"display_url": "twitter.com/OKCinformation…",
+					"indices": [
+						267,
+						290
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉💉",
+			"description": "Passionné par l'information, la démocratie, la justice et le discernement | Porte-parole/Partie Civile @OKCinfor ¦   \n🐘@rmdes@mstdn.social",
+			"url": "https://t.co/zNucbsHeDX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zNucbsHeDX",
+							"expanded_url": "https://rmendes.net/",
+							"display_url": "rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2561,
+			"friends_count": 4998,
+			"listed_count": 314,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 14785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1576114396400590848/7zquaAE__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1576114396400590848/7zquaAE__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1659387530",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1603266617156440000,
+		"quoted_status_id_str": "1603266617156440066",
+		"quoted_status_permalink": {
+			"url": "https://t.co/61ewNj5IlO",
+			"expanded": "https://twitter.com/OKCinformation/status/1603266617156440066",
+			"display": "twitter.com/OKCinformation…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 15 05:52:03 +0000 2022",
+			"id": 1603266617156440000,
+			"id_str": "1603266617156440066",
+			"full_text": "Healing dysfunctional communities in a context of religion and cult?\n\n#OgyenKunzangCholing \n\nhttps://t.co/TFJ2Ss1CeR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				116
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OgyenKunzangCholing",
+						"indices": [
+							70,
+							90
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/TFJ2Ss1CeR",
+						"expanded_url": "http://hridayartha.blogspot.fr/",
+						"display_url": "hridayartha.blogspot.fr",
+						"indices": [
+							93,
+							116
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3309353195,
+				"id_str": "3309353195",
+				"name": "OKCinfo Research",
+				"screen_name": "OKCinformation",
+				"location": "Belgique",
+				"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+				"url": "https://t.co/zYcyQtvumv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zYcyQtvumv",
+								"expanded_url": "https://okcinfo.news/en",
+								"display_url": "okcinfo.news/en",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 208,
+				"friends_count": 387,
+				"listed_count": 9,
+				"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+				"favourites_count": 355,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1701,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Ça parle de Robert Spatz, de \"NRM\", Dérives sectaires, Bouddhisme Tibétain et la responsabilité de la hiérarchie qui prétend ne pas en être une.\n\nMerci à @hridayartha de continuer à pousser la réflection sur la nature des communauté bouddhiste tibétaine en Occident. https://t.co/61ewNj5IlO"
+	},
+	{
+		"created_at": "Thu Dec 15 05:52:03 +0000 2022",
+		"id": 1603266617156440000,
+		"id_str": "1603266617156440066",
+		"full_text": "Healing dysfunctional communities in a context of religion and cult?\n\n#OgyenKunzangCholing \n\nhttps://t.co/TFJ2Ss1CeR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OgyenKunzangCholing",
+					"indices": [
+						70,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TFJ2Ss1CeR",
+					"expanded_url": "http://hridayartha.blogspot.fr/",
+					"display_url": "hridayartha.blogspot.fr",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 208,
+			"friends_count": 387,
+			"listed_count": 9,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 355,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Healing dysfunctional communities in a context of religion and cult?\n\n#OgyenKunzangCholing \n\nhttps://t.co/TFJ2Ss1CeR"
+	},
+	{
 		"created_at": "Sun Dec 11 06:12:30 +0000 2022",
 		"id": 1601822159231684600,
 		"id_str": "1601822212620689410",
