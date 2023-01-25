@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Tue Jan 24 11:12:37 +0000 2023",
+		"id": 1617829039280099300,
+		"id_str": "1617842806499987457",
+		"full_text": "These 3 core elements where used against Ogyen Kunzang Choling aka OKC cult against adepts, parents and their children's.\n\nMore context : https://t.co/nTpPtrKr4g https://t.co/ugD6Q84hIO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nTpPtrKr4g",
+					"expanded_url": "http://okcinfo.news/en/",
+					"display_url": "okcinfo.news/en/",
+					"indices": [
+						138,
+						161
+					]
+				},
+				{
+					"url": "https://t.co/ugD6Q84hIO",
+					"expanded_url": "https://twitter.com/RickAlanRoss/status/1616812116585107458",
+					"display_url": "twitter.com/RickAlanRoss/s…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 210,
+			"friends_count": 387,
+			"listed_count": 9,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 355,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1616812116585107500,
+		"quoted_status_id_str": "1616812116585107458",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ugD6Q84hIO",
+			"expanded": "https://twitter.com/RickAlanRoss/status/1616812116585107458",
+			"display": "twitter.com/RickAlanRoss/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 21 14:57:02 +0000 2023",
+			"id": 1616812116585107500,
+			"id_str": "1616812116585107458",
+			"full_text": "There is a consensus on the defining three core elements of a destructive cult. An absolute totalitarian leader who becomes an object of worship. Use of coercive persuasion to gain undue influence. Exploitation, abuse, and harm is done to followers. https://t.co/rtdVY995c6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rtdVY995c6",
+						"expanded_url": "https://www.eckerd.edu/news/blog/cults-winter-term-course/",
+						"display_url": "eckerd.edu/news/blog/cult…",
+						"indices": [
+							250,
+							273
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 30455868,
+				"id_str": "30455868",
+				"name": "Rick Alan Ross",
+				"screen_name": "RickAlanRoss",
+				"location": "Trenton, New Jersey USA",
+				"description": "Executive Director of Cult Education Institute https://t.co/UiYek3nvfY \ncourt expert and author of the book  -- Cults Inside Out: How People Get In and Can Get Out",
+				"url": "http://t.co/OshtoIGw0F",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/OshtoIGw0F",
+								"expanded_url": "http://www.culteducation.com",
+								"display_url": "culteducation.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/UiYek3nvfY",
+								"expanded_url": "http://culteducation.com",
+								"display_url": "culteducation.com",
+								"indices": [
+									47,
+									70
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7739,
+				"friends_count": 0,
+				"listed_count": 108,
+				"created_at": "Sat Apr 11 14:32:15 +0000 2009",
+				"favourites_count": 7,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 31252,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "4E82BE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/496546927597453313/iCJbymcL_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/496546927597453313/iCJbymcL_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/30455868/1441005902",
+				"profile_link_color": "074B94",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FDDCAF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These 3 core elements where used against Ogyen Kunzang Choling aka OKC cult against adepts, parents and their children's.\n\nMore context : https://t.co/nTpPtrKr4g https://t.co/ugD6Q84hIO"
+	},
+	{
 		"created_at": "Sat Jan 21 09:55:02 +0000 2023",
 		"id": 1616736118099308500,
 		"id_str": "1616736118099308547",
