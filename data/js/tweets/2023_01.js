@@ -1,6 +1,652 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Thu Jan 26 13:13:20 +0000 2023",
+		"id": 1618142780303495200,
+		"id_str": "1618597961847689216",
+		"full_text": "C'est pas tous les jours que je me retrouve à donner ma voix et mes soupirs 😁 à un documentaire ARTE qui aura pris plus de 3 ans à tourner, après plus de 10 d'enquête\n\nDocumentaire ARTE : Bouddhisme la loi du silence\n\n(re)voir le docu c'est par ici :\n\nhttps://t.co/oMHmdETWj9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oMHmdETWj9",
+					"expanded_url": "https://youtu.be/XcbpwOzoejw",
+					"display_url": "youtu.be/XcbpwOzoejw",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉💉",
+			"description": "Passionné par l'information, la démocratie, la justice et le discernement | Lanceur d'alertes Porte-parole @OKCinfor ¦   \n🐘@rmdes@mstdn.social",
+			"url": "https://t.co/zNucbsHeDX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zNucbsHeDX",
+							"expanded_url": "https://rmendes.net/",
+							"display_url": "rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2585,
+			"friends_count": 4932,
+			"listed_count": 313,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 14917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44949,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1613414626275762176/F9Zxk89z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1613414626275762176/F9Zxk89z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1659387530",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "C'est pas tous les jours que je me retrouve à donner ma voix et mes soupirs 😁 à un documentaire ARTE qui aura pris plus de 3 ans à tourner, après plus de 10 d'enquête\n\nDocumentaire ARTE : Bouddhisme la loi du silence\n\n(re)voir le docu c'est par ici :\n\nhttps://t.co/oMHmdETWj9"
+	},
+	{
+		"created_at": "Thu Jan 26 13:13:16 +0000 2023",
+		"id": 1618167823054016500,
+		"id_str": "1618597942147043330",
+		"full_text": "Très curieux de qui va être invité à nourrir cette réflexion.\n\nOn est disponible en tout cas. https://t.co/R1oA7Kc5xo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R1oA7Kc5xo",
+					"expanded_url": "https://twitter.com/SoniaBackes/status/1616069812526120966",
+					"display_url": "twitter.com/SoniaBackes/st…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2023🇫🇷Instruction en cours | \n2022🇧🇪Rejet du pourvoi en cassation des accusés | \n2020🇧🇪Condamné 5 ans sursis | \n2017🇧🇪Condamné 4 ans sursis | \n📞@rMdes_",
+			"url": "https://t.co/5PicHe4Xbq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5PicHe4Xbq",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 226,
+			"friends_count": 392,
+			"listed_count": 1,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1312,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1667149629",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1616069812526121000,
+		"quoted_status_id_str": "1616069812526120966",
+		"quoted_status_permalink": {
+			"url": "https://t.co/R1oA7Kc5xo",
+			"expanded": "https://twitter.com/SoniaBackes/status/1616069812526120966",
+			"display": "twitter.com/SoniaBackes/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 19 13:47:23 +0000 2023",
+			"id": 1616069812526121000,
+			"id_str": "1616069812526120966",
+			"full_text": "La préparation des assises des dérives sectaires, qui se tiendront au printemps, avance.\n\nJ'ai reçu ce matin @JoCesbron, Présidente de @unadfi. Nous partageons la volonté que les assises identifient de nouvelles mesures pour mieux accompagner les victimes du phénomène #sectaire. https://t.co/SYwQPCfjDp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "sectaire",
+						"indices": [
+							269,
+							278
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JoCesbron",
+						"name": "Josephine Cesbron born Lindgren",
+						"id": 1476206001179213800,
+						"id_str": "1476206001179213827",
+						"indices": [
+							109,
+							119
+						]
+					},
+					{
+						"screen_name": "unadfi",
+						"name": "UNADFI aide aux victimes de sectes",
+						"id": 1036565953805463600,
+						"id_str": "1036565953805463552",
+						"indices": [
+							135,
+							142
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1616069807845113900,
+						"id_str": "1616069807845113856",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/Fm1u7YzXgAAL3V1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fm1u7YzXgAAL3V1.jpg",
+						"url": "https://t.co/SYwQPCfjDp",
+						"display_url": "pic.twitter.com/SYwQPCfjDp",
+						"expanded_url": "https://twitter.com/SoniaBackes/status/1616069812526120966/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 853,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1616069807845113900,
+						"id_str": "1616069807845113856",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/Fm1u7YzXgAAL3V1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fm1u7YzXgAAL3V1.jpg",
+						"url": "https://t.co/SYwQPCfjDp",
+						"display_url": "pic.twitter.com/SYwQPCfjDp",
+						"expanded_url": "https://twitter.com/SoniaBackes/status/1616069812526120966/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 853,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 314037101,
+				"id_str": "314037101",
+				"name": "Sonia Backes",
+				"screen_name": "SoniaBackes",
+				"location": "",
+				"description": "Secrétaire d'État en charge de la Citoyenneté auprès du Ministre de l'Intérieur et des Outre-mer • Présidente de la Province Sud de Nouvelle-Calédonie",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6375,
+				"friends_count": 602,
+				"listed_count": 136,
+				"created_at": "Thu Jun 09 16:21:02 +0000 2011",
+				"favourites_count": 1319,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 768,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1547243711377149952/TN46xwGW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1547243711377149952/TN46xwGW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/314037101/1641801230",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 60,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Très curieux de qui va être invité à nourrir cette réflexion.\n\nOn est disponible en tout cas. https://t.co/R1oA7Kc5xo"
+	},
+	{
+		"created_at": "Thu Jan 26 13:13:11 +0000 2023",
+		"id": 1618507857124810800,
+		"id_str": "1618597923272691712",
+		"full_text": "@CABUSC C'est bien ce qui me fait peur.\nAujourd'hui dans la lutte anti secte, le Calvaire et la Réalité vécu par des enfants tombé dans ces milieux n'est pas décrit par les premiers concernés, mais imaginé par des associations, académiques, écrivains, psychologue, mais pas par nous.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CABUSC",
+					"name": "CABUS Christian ",
+					"id": 1010266118,
+					"id_str": "1010266118",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1618503626099683300,
+		"in_reply_to_status_id_str": "1618503626099683328",
+		"in_reply_to_user_id": 1010266118,
+		"in_reply_to_user_id_str": "1010266118",
+		"in_reply_to_screen_name": "CABUSC",
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉💉",
+			"description": "Passionné par l'information, la démocratie, la justice et le discernement | Lanceur d'alertes Porte-parole @OKCinfor ¦   \n🐘@rmdes@mstdn.social",
+			"url": "https://t.co/zNucbsHeDX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zNucbsHeDX",
+							"expanded_url": "https://rmendes.net/",
+							"display_url": "rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2585,
+			"friends_count": 4932,
+			"listed_count": 313,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 14917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44949,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1613414626275762176/F9Zxk89z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1613414626275762176/F9Zxk89z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1659387530",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "@CABUSC C'est bien ce qui me fait peur.\nAujourd'hui dans la lutte anti secte, le Calvaire et la Réalité vécu par des enfants tombé dans ces milieux n'est pas décrit par les premiers concernés, mais imaginé par des associations, académiques, écrivains, psychologue, mais pas par nous."
+	},
+	{
+		"created_at": "Thu Jan 26 11:41:31 +0000 2023",
+		"id": 1618574856009977900,
+		"id_str": "1618574856009977857",
+		"full_text": "@JeanneSoradt @Cyril_dgnr Une partie des monologues de Spatz (source : transcription audio (k7) dactylographié par ses adeptes proches, digitalisé par nos soins)\nhttps://t.co/MrXVdQUxcI",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JeanneSoradt",
+					"name": "Jeanne Soradt",
+					"id": 1459565982763131000,
+					"id_str": "1459565982763130882",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Cyril_dgnr",
+					"name": "🍂 Cyril-DGNR-Gambari 🍂",
+					"id": 1103753507763617800,
+					"id_str": "1103753507763617792",
+					"indices": [
+						14,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MrXVdQUxcI",
+					"expanded_url": "https://okcinfo.news/les-monologues-de-robert-spatz-alias-lama-kunzang/",
+					"display_url": "okcinfo.news/les-monologues…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1618573840212463600,
+		"in_reply_to_status_id_str": "1618573840212463619",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 213,
+			"friends_count": 387,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "@JeanneSoradt @Cyril_dgnr Une partie des monologues de Spatz (source : transcription audio (k7) dactylographié par ses adeptes proches, digitalisé par nos soins)\nhttps://t.co/MrXVdQUxcI"
+	},
+	{
 		"created_at": "Tue Jan 24 11:12:37 +0000 2023",
 		"id": 1617829039280099300,
 		"id_str": "1617842806499987457",
