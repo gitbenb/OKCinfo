@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Fri Jan 27 08:22:02 +0000 2023",
+		"id": 1618886621574860800,
+		"id_str": "1618887039453401090",
+		"full_text": "Quand t'as passé 7 ans sur les réseaux sociaux, quasi seul, à donner de la visibilité à @OKCinfor qui en🇧🇪, était cause perdue d'avance (5 ans avec sursis)\n\nQuand tu sais à quel point c'est difficile de soulever des montagnes, t'es plus ouvert à aider les autres à être visible.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinfor",
+					"name": "Initiative de Justice OKCinfo",
+					"id": 1097520031955587100,
+					"id_str": "1097520031955587073",
+					"indices": [
+						88,
+						97
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉💉",
+			"description": "Passionné par l'information, la démocratie, la justice et le discernement | Lanceur d'alertes Porte-parole @OKCinfor ¦   \n🐘@rmdes@mstdn.social",
+			"url": "https://t.co/zNucbsHeDX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zNucbsHeDX",
+							"expanded_url": "https://rmendes.net/",
+							"display_url": "rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2587,
+			"friends_count": 4936,
+			"listed_count": 313,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 14939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44997,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1613414626275762176/F9Zxk89z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1613414626275762176/F9Zxk89z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1659387530",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "Quand t'as passé 7 ans sur les réseaux sociaux, quasi seul, à donner de la visibilité à @OKCinfor qui en🇧🇪, était cause perdue d'avance (5 ans avec sursis)\n\nQuand tu sais à quel point c'est difficile de soulever des montagnes, t'es plus ouvert à aider les autres à être visible."
+	},
+	{
 		"created_at": "Thu Jan 26 13:13:20 +0000 2023",
 		"id": 1618142780303495200,
 		"id_str": "1618597961847689216",
