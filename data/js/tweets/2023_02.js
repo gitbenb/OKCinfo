@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Tue Feb 07 08:44:03 +0000 2023",
+		"id": 1622584354214928400,
+		"id_str": "1622878848818839553",
+		"full_text": "You were absolutely not honest or truthful in \"dealing\" with 4 Abuse survivors that asked you 4 concrete actions to do in the present about it in 2018\".\n\nYou were deceitful at the very least, you still have 12 unique stories of Sexual Abuses inside Tibetan Buddhism gathering dust https://t.co/6A1fPaHBDe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6A1fPaHBDe",
+					"expanded_url": "https://twitter.com/DalaiLama/status/1622535659822145537",
+					"display_url": "twitter.com/DalaiLama/stat…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 890549322240196600,
+			"id_str": "890549322240196612",
+			"name": "Tibetan Buddhism Leaks",
+			"screen_name": "BuddhistLeaks",
+			"location": "Dharamsala",
+			"description": "Amplifying comments & news regarding Tibetan Buddhism sexual abuses crimes : ⛔ FPMT, Shambhala, RIGPA, FWBO, NKT, Triratna, Ogyen Kunzang Choling/OKC",
+			"url": "https://t.co/hUPUjKxcfs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hUPUjKxcfs",
+							"expanded_url": "https://AbusesInTibetanBuddhism.info",
+							"display_url": "AbusesInTibetanBuddhism.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 740,
+			"friends_count": 1705,
+			"listed_count": 0,
+			"created_at": "Thu Jul 27 12:27:58 +0000 2017",
+			"favourites_count": 371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13008,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/890549322240196612/1608375674",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1622535659822145500,
+		"quoted_status_id_str": "1622535659822145537",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6A1fPaHBDe",
+			"expanded": "https://twitter.com/DalaiLama/status/1622535659822145537",
+			"display": "twitter.com/DalaiLama/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 06 10:00:21 +0000 2023",
+			"id": 1622535659822145500,
+			"id_str": "1622535659822145537",
+			"full_text": "It is important to be honest and truthful in all our dealings with others. A meaningful life is one that is based on moral integrity, honesty and truthfulness.x",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				160
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20609518,
+				"id_str": "20609518",
+				"name": "Dalai Lama",
+				"screen_name": "DalaiLama",
+				"location": "Dharamsala, India",
+				"description": "Welcome to the official twitter page of the Office of His Holiness the 14th Dalai Lama.",
+				"url": "http://t.co/AKctyfx8On",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/AKctyfx8On",
+								"expanded_url": "http://dalailama.com",
+								"display_url": "dalailama.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19173817,
+				"friends_count": 0,
+				"listed_count": 71458,
+				"created_at": "Wed Feb 11 18:34:22 +0000 2009",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1865,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFD21D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/529214699041067008/fqPBAr5s_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/529214699041067008/fqPBAr5s_normal.jpeg",
+				"profile_link_color": "7D1900",
+				"profile_sidebar_border_color": "E8E3CE",
+				"profile_sidebar_fill_color": "F7F2DC",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7550,
+			"favorite_count": 34741,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You were absolutely not honest or truthful in \"dealing\" with 4 Abuse survivors that asked you 4 concrete actions to do in the present about it in 2018\".\n\nYou were deceitful at the very least, you still have 12 unique stories of Sexual Abuses inside Tibetan Buddhism gathering dust https://t.co/6A1fPaHBDe"
+	},
+	{
 		"created_at": "Sun Feb 05 14:38:09 +0000 2023",
 		"id": 1621877126914777000,
 		"id_str": "1622243184242827264",
