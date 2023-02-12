@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Sat Feb 11 10:00:48 +0000 2023",
+		"id": 1624018263440085000,
+		"id_str": "1624347712924655616",
+		"full_text": "15:00 \"Please think of the kid's life\"\n\nThat's good, that's a good seed, but it's not enough. \n\nif you know deep in your bone something hurt other human beings, certainly kids, stop the system, instead of doing consulting and coaching about it . \n\nThat's not Wise  @khyentsenorbu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "khyentsenorbu",
+					"name": "Dzongsar J. Khyentse",
+					"id": 84971762,
+					"id_str": "84971762",
+					"indices": [
+						265,
+						279
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2023🇫🇷Instruction en cours | \n2022🇧🇪Rejet du pourvoi en cassation des accusés | \n2020🇧🇪Condamné 5 ans sursis | \n2017🇧🇪Condamné 4 ans sursis | \n📞@rMdes_",
+			"url": "https://t.co/5PicHe4Xbq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5PicHe4Xbq",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 227,
+			"friends_count": 412,
+			"listed_count": 1,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1354,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1667149629",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "15:00 \"Please think of the kid's life\"\n\nThat's good, that's a good seed, but it's not enough. \n\nif you know deep in your bone something hurt other human beings, certainly kids, stop the system, instead of doing consulting and coaching about it . \n\nThat's not Wise  @khyentsenorbu"
+	},
+	{
 		"created_at": "Tue Feb 07 08:44:03 +0000 2023",
 		"id": 1622584354214928400,
 		"id_str": "1622878848818839553",
