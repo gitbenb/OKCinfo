@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Sun Feb 12 15:46:33 +0000 2023",
+		"id": 1624738692148363300,
+		"id_str": "1624797114084519936",
+		"full_text": "@QBFerreol @DerivesSectes Pour l'avoir vécu dans @OgyenKun, ce livre m'a ouvert les yeux sur la fonction du langage comme outil de manipulation/emprise/coercion et les points communs entre toute sorte de groupe qui articule ces même techniques. Vivement recommandé !",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "QBFerreol",
+					"name": "Quentin Bruet-Ferréol",
+					"id": 112965411,
+					"id_str": "112965411",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "DerivesSectes",
+					"name": "DS/SD",
+					"id": 1411708898231345200,
+					"id_str": "1411708898231345161",
+					"indices": [
+						11,
+						25
+					]
+				},
+				{
+					"screen_name": "OgyenKun",
+					"name": "OKC",
+					"id": 3665270417,
+					"id_str": "3665270417",
+					"indices": [
+						49,
+						58
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1624668301342425000,
+		"in_reply_to_status_id_str": "1624668301342425096",
+		"in_reply_to_user_id": 112965411,
+		"in_reply_to_user_id_str": "112965411",
+		"in_reply_to_screen_name": "QBFerreol",
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉💉",
+			"description": "Passionné par la Tech, l'information, la démocratie, Justice et discernement | Lanceur d'alertes Porte-parole @OKCinfor ¦   \n🐘@rmdes@mstdn.social",
+			"url": "https://t.co/zNucbsHeDX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zNucbsHeDX",
+							"expanded_url": "https://rmendes.net/",
+							"display_url": "rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2591,
+			"friends_count": 4606,
+			"listed_count": 313,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 15069,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 45427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1613414626275762176/F9Zxk89z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1613414626275762176/F9Zxk89z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1676218801",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "fr",
+		"text": "@QBFerreol @DerivesSectes Pour l'avoir vécu dans @OgyenKun, ce livre m'a ouvert les yeux sur la fonction du langage comme outil de manipulation/emprise/coercion et les points communs entre toute sorte de groupe qui articule ces même techniques. Vivement recommandé !"
+	},
+	{
 		"created_at": "Sat Feb 11 10:00:48 +0000 2023",
 		"id": 1624018263440085000,
 		"id_str": "1624347712924655616",
