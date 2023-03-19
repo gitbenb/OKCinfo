@@ -1,6 +1,387 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Sat Mar 18 16:05:59 +0000 2023",
+		"id": 1637123189221326800,
+		"id_str": "1637123189221326855",
+		"full_text": "Tibetan Buddhism is an dis-organized religion pretending to be a philosophy. https://t.co/d0TlT8yuaa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d0TlT8yuaa",
+					"expanded_url": "https://twitter.com/TaraTripleExcel/status/1636323328276463616",
+					"display_url": "twitter.com/TaraTripleExce…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 214,
+			"friends_count": 386,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1636323328276463600,
+		"quoted_status_id_str": "1636323328276463616",
+		"quoted_status_permalink": {
+			"url": "https://t.co/d0TlT8yuaa",
+			"expanded": "https://twitter.com/TaraTripleExcel/status/1636323328276463616",
+			"display": "twitter.com/TaraTripleExce…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 16 11:07:37 +0000 2023",
+			"id": 1636323328276463600,
+			"id_str": "1636323328276463616",
+			"full_text": "People often ask me if Buddhism is a religion or a philosophy. Buddhism may look like а religion or a philosophy, but in fact it is neither. Buddhism is a commitment to truth. Purpose of Buddhism is to understand and experience things as they really are. Chokyi Nyima Rinpoche https://t.co/FHXucyO3Kj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1636323315491979300,
+						"id_str": "1636323315491979269",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/FrVjYsWWwAUxWNF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FrVjYsWWwAUxWNF.jpg",
+						"url": "https://t.co/FHXucyO3Kj",
+						"display_url": "pic.twitter.com/FHXucyO3Kj",
+						"expanded_url": "https://twitter.com/TaraTripleExcel/status/1636323328276463616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 428,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 850,
+								"h": 1350,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 756,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1636323315491979300,
+						"id_str": "1636323315491979269",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/FrVjYsWWwAUxWNF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FrVjYsWWwAUxWNF.jpg",
+						"url": "https://t.co/FHXucyO3Kj",
+						"display_url": "pic.twitter.com/FHXucyO3Kj",
+						"expanded_url": "https://twitter.com/TaraTripleExcel/status/1636323328276463616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 428,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 850,
+								"h": 1350,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 756,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2476242207,
+				"id_str": "2476242207",
+				"name": "Tara's Triple Excellence program",
+				"screen_name": "TaraTripleExcel",
+				"location": "Tara's Triple Excellence",
+				"description": "Entire Buddhist path in a unique daily program based on Tara’s revelation. Caters for today’s fast world. Modern but not watered down. Check pinned post 4 info.",
+				"url": "https://t.co/HamydTO10k",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HamydTO10k",
+								"expanded_url": "http://www.dharmasun.org/tte",
+								"display_url": "dharmasun.org/tte",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 647,
+				"friends_count": 75,
+				"listed_count": 21,
+				"created_at": "Fri Apr 11 13:26:13 +0000 2014",
+				"favourites_count": 74,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1095,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1456657594202968065/ebYi00Mm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1456657594202968065/ebYi00Mm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2476242207/1636129818",
+				"profile_link_color": "00B35C",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 61,
+			"favorite_count": 270,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tibetan Buddhism is an dis-organized religion pretending to be a philosophy. https://t.co/d0TlT8yuaa"
+	},
+	{
+		"created_at": "Sat Mar 18 16:02:37 +0000 2023",
+		"id": 1636796491795660800,
+		"id_str": "1637122344962457602",
+		"full_text": "@TaraTripleExcel Since when does a commitment to truth require temples, idols, prayers, donations, prostrations, and the like?",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TaraTripleExcel",
+					"name": "Tara's Triple Excellence program",
+					"id": 2476242207,
+					"id_str": "2476242207",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1636323328276463600,
+		"in_reply_to_status_id_str": "1636323328276463616",
+		"in_reply_to_user_id": 2476242207,
+		"in_reply_to_user_id_str": "2476242207",
+		"in_reply_to_screen_name": "TaraTripleExcel",
+		"user": {
+			"id": 44013577,
+			"id_str": "44013577",
+			"name": "ClaudiaK",
+			"screen_name": "claudiakathryn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Tue Jun 02 00:21:49 +0000 2009",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/713203363689541632/MkwsW-hI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/713203363689541632/MkwsW-hI_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@TaraTripleExcel Since when does a commitment to truth require temples, idols, prayers, donations, prostrations, and the like?"
+	},
+	{
 		"created_at": "Fri Mar 17 19:47:25 +0000 2023",
 		"id": 1636816529747587000,
 		"id_str": "1636816529747587073",
