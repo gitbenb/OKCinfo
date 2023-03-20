@@ -1,6 +1,348 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Sun Mar 19 09:50:46 +0000 2023",
+		"id": 1637391093485510700,
+		"id_str": "1637391152264404992",
+		"full_text": "C'est en anglais, mais faut vraiment écouter cette vidéo pour se rendre compte de la folie de ces gens..\n\nCe thread est en réaction à différent passage de la vidéo.\n\n#Tulku #BouddhismeLoiduSilence https://t.co/BFh91mH4nI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Tulku",
+					"indices": [
+						166,
+						172
+					]
+				},
+				{
+					"text": "BouddhismeLoiduSilence",
+					"indices": [
+						173,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BFh91mH4nI",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1624018266464088066",
+					"display_url": "twitter.com/OKCinfor/statu…",
+					"indices": [
+						197,
+						220
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉💉",
+			"description": "Passionné par la Tech, l'information, la démocratie, Justice et discernement | Partie civile 🇧🇪 et Porte-parole @OKCinfor 🇫🇷 ¦   \n🐘@rmdes@mstdn.social",
+			"url": "https://t.co/zNucbsHeDX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zNucbsHeDX",
+							"expanded_url": "https://rmendes.net/",
+							"display_url": "rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2591,
+			"friends_count": 4438,
+			"listed_count": 314,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 15146,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 45745,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1626312990881456128/fnNyjmnb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1626312990881456128/fnNyjmnb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1677575068",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1624018266464088000,
+		"quoted_status_id_str": "1624018266464088066",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BFh91mH4nI",
+			"expanded": "https://twitter.com/OKCinfor/status/1624018266464088066",
+			"display": "twitter.com/OKCinfor/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 10 12:11:42 +0000 2023",
+			"id": 1624018266464088000,
+			"id_str": "1624018266464088066",
+			"full_text": "Another aspect that couldn't fit in the #documentary Buddhism, the Unspeakable Truth / The Law of Silence\n\nSuch hypocrisy while benefiting from the system itself is why Tibetan Buddhism cannot be reformed and designed to uphold basic Human Right Values. 2/2 https://t.co/T4SrsbsoGh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				257
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "documentary",
+						"indices": [
+							40,
+							52
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1624008290064601000,
+						"id_str": "1624008290064601089",
+						"indices": [
+							258,
+							281
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1624008290064601089/img/oNPCKHUJp3U4Y7Hw.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1624008290064601089/img/oNPCKHUJp3U4Y7Hw.jpg",
+						"url": "https://t.co/T4SrsbsoGh",
+						"display_url": "pic.twitter.com/T4SrsbsoGh",
+						"expanded_url": "https://twitter.com/OKCinfor/status/1624018266464088066/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1624008290064601000,
+						"id_str": "1624008290064601089",
+						"indices": [
+							258,
+							281
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1624008290064601089/img/oNPCKHUJp3U4Y7Hw.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1624008290064601089/img/oNPCKHUJp3U4Y7Hw.jpg",
+						"url": "https://t.co/T4SrsbsoGh",
+						"display_url": "pic.twitter.com/T4SrsbsoGh",
+						"expanded_url": "https://twitter.com/OKCinfor/status/1624018266464088066/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 956834,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1624008290064601089/vid/1280x720/G7pshElmg_AelMFW.mp4?tag=16"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1624008290064601089/vid/640x360/os5AMjs1BKxEaDpu.mp4?tag=16"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1624008290064601089/vid/480x270/GaGC8mzKzgMh-6M4.mp4?tag=16"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1624008290064601089/pl/2-JowiZL_FmHyvmy.m3u8?tag=16&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1624018263440085000,
+			"in_reply_to_status_id_str": "1624018263440084993",
+			"in_reply_to_user_id": 1097520031955587100,
+			"in_reply_to_user_id_str": "1097520031955587073",
+			"in_reply_to_screen_name": "OKCinfor",
+			"user": {
+				"id": 1097520031955587100,
+				"id_str": "1097520031955587073",
+				"name": "Initiative Justice OKCinfo",
+				"screen_name": "OKCinfor",
+				"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+				"description": "2023🇫🇷Instruction en cours | \n2022🇧🇪Rejet du pourvoi en cassation des accusés | \n2020🇧🇪Condamné 5 ans sursis | \n2017🇧🇪Condamné 4 ans sursis | \n📞@rMdes_",
+				"url": "https://t.co/uRVeG10dZv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uRVeG10dZv",
+								"expanded_url": "https://okcinfo.news",
+								"display_url": "okcinfo.news",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 249,
+				"friends_count": 411,
+				"listed_count": 2,
+				"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+				"favourites_count": 414,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1454,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1667149629",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "C'est en anglais, mais faut vraiment écouter cette vidéo pour se rendre compte de la folie de ces gens..\n\nCe thread est en réaction à différent passage de la vidéo.\n\n#Tulku #BouddhismeLoiduSilence https://t.co/BFh91mH4nI"
+	},
+	{
 		"created_at": "Sat Mar 18 16:05:59 +0000 2023",
 		"id": 1637123189221326800,
 		"id_str": "1637123189221326855",
