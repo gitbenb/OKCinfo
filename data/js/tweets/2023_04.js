@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Fri Apr 07 21:49:54 +0000 2023",
+		"id": 1644455922914279400,
+		"id_str": "1644457496549965824",
+		"full_text": "Avant | Après 🧵🧶⬇️ https://t.co/M9XoYFlhJV https://t.co/muHhS3vi2f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M9XoYFlhJV",
+					"expanded_url": "https://twitter.com/i/web/status/1644455922914279426",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1644455708115497000,
+					"id_str": "1644455708115496961",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1644455708115496961/pu/img/7uhj_aD0vY8ngRLZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1644455708115496961/pu/img/7uhj_aD0vY8ngRLZ.jpg",
+					"url": "https://t.co/muHhS3vi2f",
+					"display_url": "pic.twitter.com/muHhS3vi2f",
+					"expanded_url": "https://twitter.com/DerivesSectes/status/1644455922914279426/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1644455708115497000,
+					"id_str": "1644455708115496961",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1644455708115496961/pu/img/7uhj_aD0vY8ngRLZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1644455708115496961/pu/img/7uhj_aD0vY8ngRLZ.jpg",
+					"url": "https://t.co/muHhS3vi2f",
+					"display_url": "pic.twitter.com/muHhS3vi2f",
+					"expanded_url": "https://twitter.com/DerivesSectes/status/1644455922914279426/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 82940,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1644455708115496961/pu/pl/bAR7BXUNMnRpfDYt.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1644455708115496961/pu/vid/480x270/cgwGiIiBf0foOk5x.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1644455708115496961/pu/vid/1280x720/uyML5CEuLB_kk0dQ.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1644455708115496961/pu/vid/640x360/HOeX3C7iEXFtfT95.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1411708898231345200,
+			"id_str": "1411708898231345161",
+			"name": "DS/SD",
+			"screen_name": "DerivesSectes",
+			"location": "DataLove",
+			"description": "Veille info sur les dérives sectaires \n| \n\nInfo monitoring about High Control/Coercive Group abuses / Sectarian Toxic Drifts. #Cultish \n| 🇺🇸🇫🇷🇧🇪🇪🇸",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 844,
+			"friends_count": 712,
+			"listed_count": 12,
+			"created_at": "Sun Jul 04 15:30:15 +0000 2021",
+			"favourites_count": 693,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12237,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412715514900713472/GwkxtjG3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412715514900713472/GwkxtjG3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1411708898231345161/1626877265",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Avant | Après 🧵🧶⬇️ https://t.co/M9XoYFlhJV https://t.co/muHhS3vi2f"
+	},
+	{
 		"created_at": "Thu Apr 06 17:00:00 +0000 2023",
 		"id": 1643976969183461400,
 		"id_str": "1644022153489031178",
