@@ -1,6 +1,404 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Sun Apr 09 19:04:59 +0000 2023",
+		"id": 1644970753765388300,
+		"id_str": "1645140771731824642",
+		"full_text": "En 2018 on était 4, tous des cas séparés, moi pour représenter @OKCinfor où c'est pas moins de 11 cas d'abus sexuels qui ont été recensé.\n\nIl s'est foutu de notre gueule en nous faisant croire qu'on lui avait donné des munitions et qu'il allait faire quelque chose. https://t.co/hMwGSCS1AL https://t.co/C4a63eJcDw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			289
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinfor",
+					"name": "Initiative de Justice OKCinfo",
+					"id": 1097520031955587100,
+					"id_str": "1097520031955587073",
+					"indices": [
+						63,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hMwGSCS1AL",
+					"expanded_url": "https://twitter.com/rMdes_/status/1643967963798568960",
+					"display_url": "twitter.com/rMdes_/status/…",
+					"indices": [
+						266,
+						289
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1644970751882141700,
+					"id_str": "1644970751882141696",
+					"indices": [
+						290,
+						313
+					],
+					"media_url": "http://pbs.twimg.com/media/FtQcLvPXoAA-ran.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtQcLvPXoAA-ran.jpg",
+					"url": "https://t.co/C4a63eJcDw",
+					"display_url": "pic.twitter.com/C4a63eJcDw",
+					"expanded_url": "https://twitter.com/rMdes_/status/1644970753765388289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 715,
+							"h": 457,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 435,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 715,
+							"h": 457,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1644970751882141700,
+					"id_str": "1644970751882141696",
+					"indices": [
+						290,
+						313
+					],
+					"media_url": "http://pbs.twimg.com/media/FtQcLvPXoAA-ran.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtQcLvPXoAA-ran.jpg",
+					"url": "https://t.co/C4a63eJcDw",
+					"display_url": "pic.twitter.com/C4a63eJcDw",
+					"expanded_url": "https://twitter.com/rMdes_/status/1644970753765388289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 715,
+							"h": 457,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 435,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 715,
+							"h": 457,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉💉",
+			"description": "Geek sur la Tech, l'information, la démocratie, la Justice et le discernement | Partie civile 🇧🇪 et Porte-parole @OKCinfor 🇫🇷 ¦   \n🐘@rmdes@mstdn.social",
+			"url": "https://t.co/zNucbsHMtv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zNucbsHMtv",
+							"expanded_url": "https://rmendes.net/",
+							"display_url": "rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2868,
+			"friends_count": 4452,
+			"listed_count": 317,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 15441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1641853637939822610/OQBRLhbH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1641853637939822610/OQBRLhbH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1677575068",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1643967963798569000,
+		"quoted_status_id_str": "1643967963798568960",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hMwGSCS1AL",
+			"expanded": "https://twitter.com/rMdes_/status/1643967963798568960",
+			"display": "twitter.com/rMdes_/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 06 13:24:40 +0000 2023",
+			"id": 1643967963798569000,
+			"id_str": "1643967963798568960",
+			"full_text": "Oui, J'accuse.\n\nJ'accuse le @DalaiLama de n'avoir rien fait sur les 4 promesses qu'il nous a fait en 2018, disponible sur ce lien, traduite en 🇫🇷 ci-dessous. \nhttps://t.co/O3afbQ51gQ https://t.co/xo704gcols",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				182
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DalaiLama",
+						"name": "Dalai Lama",
+						"id": 20609518,
+						"id_str": "20609518",
+						"indices": [
+							28,
+							38
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/O3afbQ51gQ",
+						"expanded_url": "https://www.buddhistdoor.net/news/dalai-lama-speaks-on-abuse-by-dharma-teachers-after-meeting-alleged-victims/",
+						"display_url": "buddhistdoor.net/news/dalai-lam…",
+						"indices": [
+							159,
+							182
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1643967961990938600,
+						"id_str": "1643967961990938626",
+						"indices": [
+							183,
+							206
+						],
+						"media_url": "http://pbs.twimg.com/media/FtCMJryXwAIFQrK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FtCMJryXwAIFQrK.jpg",
+						"url": "https://t.co/xo704gcols",
+						"display_url": "pic.twitter.com/xo704gcols",
+						"expanded_url": "https://twitter.com/rMdes_/status/1643967963798568960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 715,
+								"h": 457,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 435,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 715,
+								"h": 457,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1643967961990938600,
+						"id_str": "1643967961990938626",
+						"indices": [
+							183,
+							206
+						],
+						"media_url": "http://pbs.twimg.com/media/FtCMJryXwAIFQrK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FtCMJryXwAIFQrK.jpg",
+						"url": "https://t.co/xo704gcols",
+						"display_url": "pic.twitter.com/xo704gcols",
+						"expanded_url": "https://twitter.com/rMdes_/status/1643967963798568960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 715,
+								"h": 457,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 435,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 715,
+								"h": 457,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1562961949,
+				"id_str": "1562961949",
+				"name": "Ricardo Mendes",
+				"screen_name": "rMdes_",
+				"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉💉",
+				"description": "Geek sur la Tech, l'information, la démocratie, la Justice et le discernement | Partie civile 🇧🇪 et Porte-parole @OKCinfor 🇫🇷 ¦   \n🐘@rmdes@mstdn.social",
+				"url": "https://t.co/zNucbsHMtv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zNucbsHMtv",
+								"expanded_url": "https://rmendes.net/",
+								"display_url": "rmendes.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2868,
+				"friends_count": 4452,
+				"listed_count": 317,
+				"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+				"favourites_count": 15441,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 46346,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1641853637939822610/OQBRLhbH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1641853637939822610/OQBRLhbH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1677575068",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 13,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "En 2018 on était 4, tous des cas séparés, moi pour représenter @OKCinfor où c'est pas moins de 11 cas d'abus sexuels qui ont été recensé.\n\nIl s'est foutu de notre gueule en nous faisant croire qu'on lui avait donné des munitions et qu'il allait faire quelque chose. https://t.co/hMwGSCS1AL https://t.co/C4a63eJcDw"
+	},
+	{
 		"created_at": "Fri Apr 07 21:49:54 +0000 2023",
 		"id": 1644455922914279400,
 		"id_str": "1644457496549965824",
