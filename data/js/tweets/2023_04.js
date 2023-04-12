@@ -1,6 +1,822 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Tue Apr 11 22:34:15 +0000 2023",
+		"id": 1645916243226919000,
+		"id_str": "1645918208279314433",
+		"full_text": "If people knew about this, perhaps they would drop the #SuckMyTongue for a minute and actually learn about #Buddhism the Law of Silence and the plight of survivors seeking Justice against institutions that have completely lost touch with reality @DalaiLama  #DalaiLamaGoOut https://t.co/VBoYJjizOh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SuckMyTongue",
+					"indices": [
+						55,
+						68
+					]
+				},
+				{
+					"text": "Buddhism",
+					"indices": [
+						107,
+						116
+					]
+				},
+				{
+					"text": "DalaiLamaGoOut",
+					"indices": [
+						258,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DalaiLama",
+					"name": "Dalai Lama",
+					"id": 20609518,
+					"id_str": "20609518",
+					"indices": [
+						246,
+						256
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VBoYJjizOh",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1645108059776360448",
+					"display_url": "twitter.com/OKCinfor/statu…",
+					"indices": [
+						274,
+						297
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 890549322240196600,
+			"id_str": "890549322240196612",
+			"name": "Tibetan Buddhism Leaks",
+			"screen_name": "BuddhistLeaks",
+			"location": "Dharamsala",
+			"description": "Amplifying comments & news regarding Tibetan Buddhism sexual abuses crimes : ⛔ FPMT, Shambhala, RIGPA, FWBO, NKT, Triratna, Ogyen Kunzang Choling/OKC",
+			"url": "https://t.co/hUPUjKxcfs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hUPUjKxcfs",
+							"expanded_url": "https://AbusesInTibetanBuddhism.info",
+							"display_url": "AbusesInTibetanBuddhism.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 840,
+			"friends_count": 1715,
+			"listed_count": 0,
+			"created_at": "Thu Jul 27 12:27:58 +0000 2017",
+			"favourites_count": 396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13236,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/890549322240196612/1608375674",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1645108059776360400,
+		"quoted_status_id_str": "1645108059776360448",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VBoYJjizOh",
+			"expanded": "https://twitter.com/OKCinfor/status/1645108059776360448",
+			"display": "twitter.com/OKCinfor/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 09 16:55:00 +0000 2023",
+			"id": 1645108059776360400,
+			"id_str": "1645108059776360448",
+			"full_text": "Summary in English about OKCinfo &amp; the Tibetan Buddhism issues https://t.co/1WYYO6Uf3f",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				90
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1WYYO6Uf3f",
+						"expanded_url": "https://twitter.com/i/broadcasts/1mnxeRXoQbZKX",
+						"display_url": "twitter.com/i/broadcasts/1…",
+						"indices": [
+							67,
+							90
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://periscope.tv\" rel=\"nofollow\">Periscope</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1097520031955587100,
+				"id_str": "1097520031955587073",
+				"name": "Initiative de Justice OKCinfo",
+				"screen_name": "OKCinfor",
+				"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+				"description": "2023🇫🇷Instruction en cours | \n2022🇧🇪Rejet du pourvoi en cassation des accusés | \n2020🇧🇪Condamné 5 ans sursis | \n2017🇧🇪Condamné 4 ans sursis | \n📞@rMdes_",
+				"url": "https://t.co/uRVeG10LP3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uRVeG10LP3",
+								"expanded_url": "https://okcinfo.news",
+								"display_url": "okcinfo.news",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 282,
+				"friends_count": 415,
+				"listed_count": 2,
+				"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+				"favourites_count": 438,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1516,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1667149629",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If people knew about this, perhaps they would drop the #SuckMyTongue for a minute and actually learn about #Buddhism the Law of Silence and the plight of survivors seeking Justice against institutions that have completely lost touch with reality @DalaiLama  #DalaiLamaGoOut https://t.co/VBoYJjizOh"
+	},
+	{
+		"created_at": "Tue Apr 11 19:38:57 +0000 2023",
+		"id": 1645861144114937900,
+		"id_str": "1645874094678904843",
+		"full_text": "Faut perdre 16 min de votre vie, comprendre l'anglais pour saisir ce \"truc\" comme reponse d'une \"Maître\" Bouddhiste à la vidéo du Dalaï-Lama et l'attentat a la pudeur qui s'en est suivi pour percevoir la dissonance cognitive que transporte les adeptes BT\n\nhttps://t.co/Mp2kOQqXxe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Mp2kOQqXxe",
+					"expanded_url": "https://youtu.be/oiOK0cNqcw8",
+					"display_url": "youtu.be/oiOK0cNqcw8",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉💉",
+			"description": "Geek sur la Tech, l'information, la démocratie, la Justice et le discernement | Partie civile 🇧🇪 et Porte-parole @OKCinfor 🇫🇷 ¦   \n🐘@rmdes@mstdn.social",
+			"url": "https://t.co/zNucbsHMtv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zNucbsHMtv",
+							"expanded_url": "https://rmendes.net/",
+							"display_url": "rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2910,
+			"friends_count": 4461,
+			"listed_count": 317,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 15504,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1641853637939822610/OQBRLhbH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1641853637939822610/OQBRLhbH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1677575068",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Faut perdre 16 min de votre vie, comprendre l'anglais pour saisir ce \"truc\" comme reponse d'une \"Maître\" Bouddhiste à la vidéo du Dalaï-Lama et l'attentat a la pudeur qui s'en est suivi pour percevoir la dissonance cognitive que transporte les adeptes BT\n\nhttps://t.co/Mp2kOQqXxe"
+	},
+	{
+		"created_at": "Tue Apr 11 13:31:07 +0000 2023",
+		"id": 1645758623912722400,
+		"id_str": "1645781524019838977",
+		"full_text": "Survivor of Sexual Abuses inside Ogyen Kunzang Choling call-out to Dalai-Lama - 2021 https://t.co/l9pvwcVeBf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l9pvwcVeBf",
+					"expanded_url": "https://twitter.com/i/broadcasts/1BRJjZrYyZWJw",
+					"display_url": "twitter.com/i/broadcasts/1…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://periscope.tv\" rel=\"nofollow\">Periscope</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2023🇫🇷Instruction en cours | \n2022🇧🇪Rejet du pourvoi en cassation des accusés | \n2020🇧🇪Condamné 5 ans sursis | \n2017🇧🇪Condamné 4 ans sursis | \n📞@rMdes_",
+			"url": "https://t.co/uRVeG10LP3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10LP3",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 282,
+			"friends_count": 415,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 438,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1516,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1667149629",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Survivor of Sexual Abuses inside Ogyen Kunzang Choling call-out to Dalai-Lama - 2021 https://t.co/l9pvwcVeBf"
+	},
+	{
+		"created_at": "Tue Apr 11 13:31:03 +0000 2023",
+		"id": 1645760652315861000,
+		"id_str": "1645781509469765634",
+		"full_text": "En Première sur @youtube  Live Survivor of Sexual Abuses inside Ogyen Kunzang Choling call-out to Dalai-Lama - 2021 - YouTube #DalaiLama #TibetanBuddhism https://t.co/EpFjKjL89U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DalaiLama",
+					"indices": [
+						126,
+						136
+					]
+				},
+				{
+					"text": "TibetanBuddhism",
+					"indices": [
+						137,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						16,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EpFjKjL89U",
+					"expanded_url": "https://twitter.com/i/broadcasts/1ypJddmwNEaJW",
+					"display_url": "twitter.com/i/broadcasts/1…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://periscope.tv\" rel=\"nofollow\">Periscope</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2023🇫🇷Instruction en cours | \n2022🇧🇪Rejet du pourvoi en cassation des accusés | \n2020🇧🇪Condamné 5 ans sursis | \n2017🇧🇪Condamné 4 ans sursis | \n📞@rMdes_",
+			"url": "https://t.co/uRVeG10LP3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10LP3",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 282,
+			"friends_count": 415,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 438,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1516,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1667149629",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "En Première sur @youtube  Live Survivor of Sexual Abuses inside Ogyen Kunzang Choling call-out to Dalai-Lama - 2021 - YouTube #DalaiLama #TibetanBuddhism https://t.co/EpFjKjL89U"
+	},
+	{
+		"created_at": "Tue Apr 11 13:31:00 +0000 2023",
+		"id": 1645778708429512700,
+		"id_str": "1645781497142718465",
+		"full_text": "Survivor of Sexual Abuses inside Ogyen Kunzang Choling call-out to Dalai-Lama - 2021 \n\nin 2021 we tried, again, after the lack of action of the 2018 meeting in Rotterdam with the Dalai-Lama, we tried to again, get him to remove his support for Ogyan Kunzang Choling, that he… https://t.co/QRG65vS3dD https://t.co/te5GYUn2Op",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			299
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QRG65vS3dD",
+					"expanded_url": "https://twitter.com/i/web/status/1645778708429512704",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						276,
+						299
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1645777198165401600,
+					"id_str": "1645777198165401604",
+					"indices": [
+						300,
+						323
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1645777198165401604/pu/img/2DROQ347zMNZC00e.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1645777198165401604/pu/img/2DROQ347zMNZC00e.jpg",
+					"url": "https://t.co/te5GYUn2Op",
+					"display_url": "pic.twitter.com/te5GYUn2Op",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1645778708429512704/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1645777198165401600,
+					"id_str": "1645777198165401604",
+					"indices": [
+						300,
+						323
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1645777198165401604/pu/img/2DROQ347zMNZC00e.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1645777198165401604/pu/img/2DROQ347zMNZC00e.jpg",
+					"url": "https://t.co/te5GYUn2Op",
+					"display_url": "pic.twitter.com/te5GYUn2Op",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1645778708429512704/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 136351,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1645777198165401604/pu/vid/480x270/pkg1ry9Bvgz3vpAg.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1645777198165401604/pu/vid/640x360/LJgch134lDWwxs-J.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1645777198165401604/pu/vid/1280x720/n-itLYgH9LvUOnaB.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1645777198165401604/pu/pl/aon41Ll3kCJNLq4T.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097520031955587100,
+			"id_str": "1097520031955587073",
+			"name": "Initiative de Justice OKCinfo",
+			"screen_name": "OKCinfor",
+			"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+			"description": "2023🇫🇷Instruction en cours | \n2022🇧🇪Rejet du pourvoi en cassation des accusés | \n2020🇧🇪Condamné 5 ans sursis | \n2017🇧🇪Condamné 4 ans sursis | \n📞@rMdes_",
+			"url": "https://t.co/uRVeG10LP3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uRVeG10LP3",
+							"expanded_url": "https://okcinfo.news",
+							"display_url": "okcinfo.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 282,
+			"friends_count": 415,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+			"favourites_count": 438,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1516,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1667149629",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Survivor of Sexual Abuses inside Ogyen Kunzang Choling call-out to Dalai-Lama - 2021 \n\nin 2021 we tried, again, after the lack of action of the 2018 meeting in Rotterdam with the Dalai-Lama, we tried to again, get him to remove his support for Ogyan Kunzang Choling, that he… https://t.co/QRG65vS3dD https://t.co/te5GYUn2Op"
+	},
+	{
 		"created_at": "Sun Apr 09 19:04:59 +0000 2023",
 		"id": 1644970753765388300,
 		"id_str": "1645140771731824642",
