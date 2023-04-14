@@ -1,6 +1,857 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Fri Apr 14 06:41:17 +0000 2023",
+		"id": 1646765550553505800,
+		"id_str": "1646765550553505792",
+		"full_text": "Thanks for watching, #Buddhism the Law of Silence also known as Buddhism the Unspeakable Truth, don't forget to subscribe, to like and share, it will help algorithms suggest this documentary to more people and hopefully disrupt the business as usual for the abuses to stop. https://t.co/AyubXrfwNZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Buddhism",
+					"indices": [
+						21,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1646765527325454300,
+					"id_str": "1646765527325454338",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/Ftp8hayXsAI7AZ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ftp8hayXsAI7AZ5.jpg",
+					"url": "https://t.co/AyubXrfwNZ",
+					"display_url": "pic.twitter.com/AyubXrfwNZ",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1646765550553505792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 945,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1646765527325454300,
+					"id_str": "1646765527325454338",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/Ftp8hayXsAI7AZ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ftp8hayXsAI7AZ5.jpg",
+					"url": "https://t.co/AyubXrfwNZ",
+					"display_url": "pic.twitter.com/AyubXrfwNZ",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1646765550553505792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 945,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1646765533780426800,
+					"id_str": "1646765533780426753",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/Ftp8hy1WwAE1QMP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ftp8hy1WwAE1QMP.jpg",
+					"url": "https://t.co/AyubXrfwNZ",
+					"display_url": "pic.twitter.com/AyubXrfwNZ",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1646765550553505792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 945,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1646765539912478700,
+					"id_str": "1646765539912478721",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/Ftp8iJrWcAENHT7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ftp8iJrWcAENHT7.jpg",
+					"url": "https://t.co/AyubXrfwNZ",
+					"display_url": "pic.twitter.com/AyubXrfwNZ",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1646765550553505792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 945,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1646765544907890700,
+					"id_str": "1646765544907890691",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/Ftp8icSWYAMlc9s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ftp8icSWYAMlc9s.jpg",
+					"url": "https://t.co/AyubXrfwNZ",
+					"display_url": "pic.twitter.com/AyubXrfwNZ",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1646765550553505792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 945,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 214,
+			"friends_count": 383,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1792,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks for watching, #Buddhism the Law of Silence also known as Buddhism the Unspeakable Truth, don't forget to subscribe, to like and share, it will help algorithms suggest this documentary to more people and hopefully disrupt the business as usual for the abuses to stop. https://t.co/AyubXrfwNZ"
+	},
+	{
+		"created_at": "Thu Apr 13 19:24:42 +0000 2023",
+		"id": 1646592237831180300,
+		"id_str": "1646595284925906944",
+		"full_text": "Survivor of Tibetan Buddhist abuse call to DalaiLama to drop OKC cult https://t.co/alEuPo3BhV  #IStandWithDalaiLama #DalaiLama https://t.co/E56Cv80Zo8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IStandWithDalaiLama",
+					"indices": [
+						95,
+						115
+					]
+				},
+				{
+					"text": "DalaiLama",
+					"indices": [
+						116,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/alEuPo3BhV",
+					"expanded_url": "https://www.youtube.com/watch?v=9qK4X2G3v_4",
+					"display_url": "youtube.com/watch?v=9qK4X2…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1646592172278403000,
+					"id_str": "1646592172278403080",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/Ftne206X0AgkTxA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ftne206X0AgkTxA.jpg",
+					"url": "https://t.co/E56Cv80Zo8",
+					"display_url": "pic.twitter.com/E56Cv80Zo8",
+					"expanded_url": "https://twitter.com/BuddhistLeaks/status/1646592237831180293/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1447,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1646592172278403000,
+					"id_str": "1646592172278403080",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/Ftne206X0AgkTxA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ftne206X0AgkTxA.jpg",
+					"url": "https://t.co/E56Cv80Zo8",
+					"display_url": "pic.twitter.com/E56Cv80Zo8",
+					"expanded_url": "https://twitter.com/BuddhistLeaks/status/1646592237831180293/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1447,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 890549322240196600,
+			"id_str": "890549322240196612",
+			"name": "Tibetan Buddhism Leaks",
+			"screen_name": "BuddhistLeaks",
+			"location": "Dharamsala",
+			"description": "Amplifying comments & news regarding Tibetan Buddhism sexual abuses crimes : ⛔ FPMT, Shambhala, RIGPA, FWBO, NKT, Triratna, Ogyen Kunzang Choling/OKC",
+			"url": "https://t.co/hUPUjKxcfs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hUPUjKxcfs",
+							"expanded_url": "https://AbusesInTibetanBuddhism.info",
+							"display_url": "AbusesInTibetanBuddhism.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 850,
+			"friends_count": 1714,
+			"listed_count": 0,
+			"created_at": "Thu Jul 27 12:27:58 +0000 2017",
+			"favourites_count": 409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13517,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340250942374105089/kAd0Uc3w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/890549322240196612/1608375674",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Survivor of Tibetan Buddhist abuse call to DalaiLama to drop OKC cult https://t.co/alEuPo3BhV  #IStandWithDalaiLama #DalaiLama https://t.co/E56Cv80Zo8"
+	},
+	{
+		"created_at": "Thu Apr 13 16:20:00 +0000 2023",
+		"id": 1646545291737198600,
+		"id_str": "1646548801958694913",
+		"full_text": "🚨 Notre film « Bouddhisme, la loi du silence » est sélectionné au FiGRA dans la catégorie « COMPÉTITION INTERNATIONALE DE + 40 MIN »\n\nUn film de Wandrille Lanos et Elodie Emery\n\nUne production StudioFact / TV Presse https://t.co/oZYvKUKOJB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1646545283008872400,
+					"id_str": "1646545283008872450",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/Ftm0NgxWwAInDX6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ftm0NgxWwAInDX6.jpg",
+					"url": "https://t.co/oZYvKUKOJB",
+					"display_url": "pic.twitter.com/oZYvKUKOJB",
+					"expanded_url": "https://twitter.com/StudioFactOff/status/1646545291737198592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1646545283008872400,
+					"id_str": "1646545283008872450",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/Ftm0NgxWwAInDX6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ftm0NgxWwAInDX6.jpg",
+					"url": "https://t.co/oZYvKUKOJB",
+					"display_url": "pic.twitter.com/oZYvKUKOJB",
+					"expanded_url": "https://twitter.com/StudioFactOff/status/1646545291737198592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1384183023130742800,
+			"id_str": "1384183023130742787",
+			"name": "StudioFact Media Group",
+			"screen_name": "StudioFactOff",
+			"location": "",
+			"description": "🎙️🎥  Documentaire • Fiction • Podcast • Edition • Spectacle vivant : 1er groupe audiovisuel français à produire du contenu original issu d’histoires vraies.",
+			"url": "https://t.co/Pq6lZ3VInu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Pq6lZ3VInu",
+							"expanded_url": "https://www.studiofactmediagroup.com/",
+							"display_url": "studiofactmediagroup.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 516,
+			"friends_count": 188,
+			"listed_count": 0,
+			"created_at": "Mon Apr 19 16:32:09 +0000 2021",
+			"favourites_count": 697,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384467299785052160/zKbvy6dI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384467299785052160/zKbvy6dI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1384183023130742787/1679482961",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "🚨 Notre film « Bouddhisme, la loi du silence » est sélectionné au FiGRA dans la catégorie « COMPÉTITION INTERNATIONALE DE + 40 MIN »\n\nUn film de Wandrille Lanos et Elodie Emery\n\nUne production StudioFact / TV Presse https://t.co/oZYvKUKOJB"
+	},
+	{
+		"created_at": "Thu Apr 13 13:52:12 +0000 2023",
+		"id": 1646452595215548400,
+		"id_str": "1646511606548037637",
+		"full_text": "Ricardo Mendes, qui a déclaré avoir été victime d'abus physiques pendant son enfance au sein d'une secte bouddhiste en Belgique, s'est dit heureux que le dalaï-lama ait semblé ému par les récits qu'ils ont échangés.\nhttps://t.co/IrOctZ7lef https://t.co/4BVkSZwgG9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IrOctZ7lef",
+					"expanded_url": "https://apnews.com/article/europe-asia-pacific-religion-netherlands-international-news-b6c4535313234fa4b5cc41a97c41da98",
+					"display_url": "apnews.com/article/europe…",
+					"indices": [
+						216,
+						239
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1646451074268643300,
+					"id_str": "1646451074268643328",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/Ftleh13XwAAFg5V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ftleh13XwAAFg5V.jpg",
+					"url": "https://t.co/4BVkSZwgG9",
+					"display_url": "pic.twitter.com/4BVkSZwgG9",
+					"expanded_url": "https://twitter.com/rMdes_/status/1646452595215548416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 909,
+							"h": 351,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 909,
+							"h": 351,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 263,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1646451074268643300,
+					"id_str": "1646451074268643328",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/Ftleh13XwAAFg5V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ftleh13XwAAFg5V.jpg",
+					"url": "https://t.co/4BVkSZwgG9",
+					"display_url": "pic.twitter.com/4BVkSZwgG9",
+					"expanded_url": "https://twitter.com/rMdes_/status/1646452595215548416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 909,
+							"h": 351,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 909,
+							"h": 351,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 263,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉💉",
+			"description": "Geek sur la Tech, l'information, la démocratie, la Justice et le discernement | Partie civile 🇧🇪 et Porte-parole @OKCinfor 🇫🇷 ¦   \n🐘@rmdes@mstdn.social",
+			"url": "https://t.co/1vdpwc9JYy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1vdpwc9JYy",
+							"expanded_url": "https://blog.rmendes.net/",
+							"display_url": "blog.rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2910,
+			"friends_count": 4461,
+			"listed_count": 316,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 15547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46664,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1641853637939822610/OQBRLhbH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1641853637939822610/OQBRLhbH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1677575068",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Ricardo Mendes, qui a déclaré avoir été victime d'abus physiques pendant son enfance au sein d'une secte bouddhiste en Belgique, s'est dit heureux que le dalaï-lama ait semblé ému par les récits qu'ils ont échangés.\nhttps://t.co/IrOctZ7lef https://t.co/4BVkSZwgG9"
+	},
+	{
 		"created_at": "Tue Apr 11 22:34:15 +0000 2023",
 		"id": 1645916243226919000,
 		"id_str": "1645918208279314433",
