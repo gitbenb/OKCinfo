@@ -1,6 +1,1146 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Sun Apr 16 06:27:47 +0000 2023",
+		"id": 1647486929976393700,
+		"id_str": "1647486929976393728",
+		"full_text": "Et ça ne s'est pas passé qu'une fois... https://t.co/ShdQe4MRvV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ShdQe4MRvV",
+					"expanded_url": "https://twitter.com/rMdes_/status/1647378151125680128",
+					"display_url": "twitter.com/rMdes_/status/…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 214,
+			"friends_count": 382,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1800,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1647378151125680000,
+		"quoted_status_id_str": "1647378151125680128",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ShdQe4MRvV",
+			"expanded": "https://twitter.com/rMdes_/status/1647378151125680128",
+			"display": "twitter.com/rMdes_/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 15 23:15:32 +0000 2023",
+			"id": 1647378151125680000,
+			"id_str": "1647378151125680128",
+			"full_text": "C'est une partie de notre histoire qui est très peu connue et dont on a un mal de chien à parler.. Mais je me rappelle qu'on nous pendait par les bras, avec une ceinture de karaté (pour ne pas laisser de trace) à un poteau qui était utilisé pour accrocher un punching-ball. https://t.co/V37UaCN3bZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/V37UaCN3bZ",
+						"expanded_url": "https://twitter.com/OKCinfor/status/1647354609915113473",
+						"display_url": "twitter.com/OKCinfor/statu…",
+						"indices": [
+							274,
+							297
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1562961949,
+				"id_str": "1562961949",
+				"name": "Ricardo Mendes",
+				"screen_name": "rMdes_",
+				"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉💉",
+				"description": "Geek sur la Tech, l'information, la démocratie, la Justice et le discernement | Partie civile 🇧🇪 et Porte-parole @OKCinfor 🇫🇷 ¦   \n🐘@rmdes@mstdn.social",
+				"url": "https://t.co/1vdpwc9JYy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1vdpwc9JYy",
+								"expanded_url": "https://blog.rmendes.net/",
+								"display_url": "blog.rmendes.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2922,
+				"friends_count": 4468,
+				"listed_count": 316,
+				"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+				"favourites_count": 15555,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 46711,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1641853637939822610/OQBRLhbH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1641853637939822610/OQBRLhbH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1677575068",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1647354609915113500,
+			"quoted_status_id_str": "1647354609915113473",
+			"quoted_status_permalink": {
+				"url": "https://t.co/V37UaCN3bZ",
+				"expanded": "https://twitter.com/OKCinfor/status/1647354609915113473",
+				"display": "twitter.com/OKCinfor/statu…"
+			},
+			"retweet_count": 13,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Et ça ne s'est pas passé qu'une fois... https://t.co/ShdQe4MRvV"
+	},
+	{
+		"created_at": "Sat Apr 15 23:36:18 +0000 2023",
+		"id": 1647378151125680000,
+		"id_str": "1647383378293825539",
+		"full_text": "C'est une partie de notre histoire qui est très peu connue et dont on a un mal de chien à parler.. Mais je me rappelle qu'on nous pendait par les bras, avec une ceinture de karaté (pour ne pas laisser de trace) à un poteau qui était utilisé pour accrocher un punching-ball. https://t.co/V37UaCN3bZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V37UaCN3bZ",
+					"expanded_url": "https://twitter.com/OKCinfor/status/1647354609915113473",
+					"display_url": "twitter.com/OKCinfor/statu…",
+					"indices": [
+						274,
+						297
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉💉",
+			"description": "Geek sur la Tech, l'information, la démocratie, la Justice et le discernement | Partie civile 🇧🇪 et Porte-parole @OKCinfor 🇫🇷 ¦   \n🐘@rmdes@mstdn.social",
+			"url": "https://t.co/1vdpwc9JYy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1vdpwc9JYy",
+							"expanded_url": "https://blog.rmendes.net/",
+							"display_url": "blog.rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2922,
+			"friends_count": 4468,
+			"listed_count": 316,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 15555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46711,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1641853637939822610/OQBRLhbH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1641853637939822610/OQBRLhbH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1677575068",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1647354609915113500,
+		"quoted_status_id_str": "1647354609915113473",
+		"quoted_status_permalink": {
+			"url": "https://t.co/V37UaCN3bZ",
+			"expanded": "https://twitter.com/OKCinfor/status/1647354609915113473",
+			"display": "twitter.com/OKCinfor/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 15 21:42:00 +0000 2023",
+			"id": 1647354609915113500,
+			"id_str": "1647354609915113473",
+			"full_text": "Ricardo Mendes, dans une interview avec SIC, a déclaré que c’était dans le soi-disant temple Humkara Dzong, en Algarve, que certains de ces abus ont eu lieu. \n\nhttps://t.co/24HkP8apPC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				183
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/24HkP8apPC",
+						"expanded_url": "https://sicnoticias.pt/mundo/2023-04-15-Portugues-denunciou-casos-de-abusos-a-Dalai-Lama-mas-nada-foi-feito-9a3a1604",
+						"display_url": "sicnoticias.pt/mundo/2023-04-…",
+						"indices": [
+							160,
+							183
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1097520031955587100,
+				"id_str": "1097520031955587073",
+				"name": "Initiative de Justice OKCinfo",
+				"screen_name": "OKCinfor",
+				"location": " 🇫🇷🇧🇪🇪🇸🇵🇹",
+				"description": "2023🇫🇷Instruction en cours | \n2022🇧🇪Rejet du pourvoi en cassation des accusés | \n2020🇧🇪Condamné 5 ans sursis | \n2017🇧🇪Condamné 4 ans sursis | \n📞@rMdes_",
+				"url": "https://t.co/uRVeG10LP3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uRVeG10LP3",
+								"expanded_url": "https://okcinfo.news",
+								"display_url": "okcinfo.news",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 285,
+				"friends_count": 412,
+				"listed_count": 2,
+				"created_at": "Mon Feb 18 15:35:41 +0000 2019",
+				"favourites_count": 446,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1539,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487025431396114438/_3Em3Zfy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097520031955587073/1667149629",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 13,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "C'est une partie de notre histoire qui est très peu connue et dont on a un mal de chien à parler.. Mais je me rappelle qu'on nous pendait par les bras, avec une ceinture de karaté (pour ne pas laisser de trace) à un poteau qui était utilisé pour accrocher un punching-ball. https://t.co/V37UaCN3bZ"
+	},
+	{
+		"created_at": "Sat Apr 15 21:42:46 +0000 2023",
+		"id": 1647354806556586000,
+		"id_str": "1647354806556585984",
+		"full_text": "Ricardo Mendes, in an interview with SIC, said that it was in the so-called Humkara Dzong temple, in the #Algarve, that some of these abuses occurred. \n\nhttps://t.co/2wyXBdHpRi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Algarve",
+					"indices": [
+						105,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2wyXBdHpRi",
+					"expanded_url": "https://sicnoticias.pt/mundo/2023-04-15-Portugues-denunciou-casos-de-abusos-a-Dalai-Lama-mas-nada-foi-feito-9a3a1604",
+					"display_url": "sicnoticias.pt/mundo/2023-04-…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 214,
+			"friends_count": 382,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1800,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ricardo Mendes, in an interview with SIC, said that it was in the so-called Humkara Dzong temple, in the #Algarve, that some of these abuses occurred. \n\nhttps://t.co/2wyXBdHpRi"
+	},
+	{
+		"created_at": "Sat Apr 15 09:49:47 +0000 2023",
+		"id": 1628033264232300500,
+		"id_str": "1647175374667694080",
+		"full_text": "Tibetan Buddhism, the Unspeakable Truth (🇫🇷 but English subtitles) \n\nhttps://t.co/dd0v3XgOTZ\n\n#Documentary #ARTE #Buddhism \n\nBouddhisme Tibétain, la Loi du Silence \n\nhttps://t.co/N5cXR6IbXk\n\n#bouddhisme  #BouddhismeLoiduSilence #documentaire #ARTE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Documentary",
+					"indices": [
+						94,
+						106
+					]
+				},
+				{
+					"text": "ARTE",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "Buddhism",
+					"indices": [
+						113,
+						122
+					]
+				},
+				{
+					"text": "bouddhisme",
+					"indices": [
+						191,
+						202
+					]
+				},
+				{
+					"text": "BouddhismeLoiduSilence",
+					"indices": [
+						204,
+						227
+					]
+				},
+				{
+					"text": "documentaire",
+					"indices": [
+						228,
+						241
+					]
+				},
+				{
+					"text": "ARTE",
+					"indices": [
+						242,
+						247
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dd0v3XgOTZ",
+					"expanded_url": "https://youtu.be/Sg-5CDOcsTM",
+					"display_url": "youtu.be/Sg-5CDOcsTM",
+					"indices": [
+						69,
+						92
+					]
+				},
+				{
+					"url": "https://t.co/N5cXR6IbXk",
+					"expanded_url": "https://youtu.be/XcbpwOzoejw",
+					"display_url": "youtu.be/XcbpwOzoejw",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 214,
+			"friends_count": 382,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1800,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Tibetan Buddhism, the Unspeakable Truth (🇫🇷 but English subtitles) \n\nhttps://t.co/dd0v3XgOTZ\n\n#Documentary #ARTE #Buddhism \n\nBouddhisme Tibétain, la Loi du Silence \n\nhttps://t.co/N5cXR6IbXk\n\n#bouddhisme  #BouddhismeLoiduSilence #documentaire #ARTE"
+	},
+	{
+		"created_at": "Sat Apr 15 09:49:28 +0000 2023",
+		"id": 1646768720319004700,
+		"id_str": "1647175297584836613",
+		"full_text": "Sorti en catimini de la OKC le 10/03/2023, son directeur spirituel Rabjam Rinpoche n'a toujours pas fait de communication officielle et sa photo, son nom est toujours sur le site de la OKC https://t.co/NqLbI3MjPf\n#shechen https://t.co/5KdqLPDn9h https://t.co/IucsJPEaCT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "shechen",
+					"indices": [
+						213,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NqLbI3MjPf",
+					"expanded_url": "http://fr.OKC-net.org",
+					"display_url": "fr.OKC-net.org",
+					"indices": [
+						189,
+						212
+					]
+				},
+				{
+					"url": "https://t.co/5KdqLPDn9h",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1636087033469849601",
+					"display_url": "twitter.com/OKCinformation…",
+					"indices": [
+						222,
+						245
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1646768714723860500,
+					"id_str": "1646768714723860481",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/Ftp_a8xXoAEGlEb.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ftp_a8xXoAEGlEb.png",
+					"url": "https://t.co/IucsJPEaCT",
+					"display_url": "pic.twitter.com/IucsJPEaCT",
+					"expanded_url": "https://twitter.com/rMdes_/status/1646768720319004678/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1086,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1646768714723860500,
+					"id_str": "1646768714723860481",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/Ftp_a8xXoAEGlEb.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ftp_a8xXoAEGlEb.png",
+					"url": "https://t.co/IucsJPEaCT",
+					"display_url": "pic.twitter.com/IucsJPEaCT",
+					"expanded_url": "https://twitter.com/rMdes_/status/1646768720319004678/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1086,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉💉",
+			"description": "Geek sur la Tech, l'information, la démocratie, la Justice et le discernement | Partie civile 🇧🇪 et Porte-parole @OKCinfor 🇫🇷 ¦   \n🐘@rmdes@mstdn.social",
+			"url": "https://t.co/1vdpwc9JYy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1vdpwc9JYy",
+							"expanded_url": "https://blog.rmendes.net/",
+							"display_url": "blog.rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2922,
+			"friends_count": 4468,
+			"listed_count": 316,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 15555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46711,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1641853637939822610/OQBRLhbH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1641853637939822610/OQBRLhbH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1677575068",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1636087033469849600,
+		"quoted_status_id_str": "1636087033469849601",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5KdqLPDn9h",
+			"expanded": "https://twitter.com/OKCinformation/status/1636087033469849601",
+			"display": "twitter.com/OKCinformation…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 15 19:28:40 +0000 2023",
+			"id": 1636087033469849600,
+			"id_str": "1636087033469849601",
+			"full_text": "As long as there is no official Publication on the communication organs of @ShechenDkf   \n@DKFShechen  and on the communication organs of the 3 Kangyur brothers of #Dordogne, (KRF Foundation) with a formal announcement to the OKC by registered letter in its center in Brussels, https://t.co/cJg97XFdN3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Dordogne",
+						"indices": [
+							164,
+							173
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ShechenDkf",
+						"name": "Dilgo Khyentse",
+						"id": 3344578300,
+						"id_str": "3344578300",
+						"indices": [
+							75,
+							86
+						]
+					},
+					{
+						"screen_name": "DKFShechen",
+						"name": "Shechen",
+						"id": 633755800,
+						"id_str": "633755800",
+						"indices": [
+							90,
+							101
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1636086299080761300,
+						"id_str": "1636086299080761344",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/FrSL0haXoAAodm0.png",
+						"media_url_https": "https://pbs.twimg.com/media/FrSL0haXoAAodm0.png",
+						"url": "https://t.co/cJg97XFdN3",
+						"display_url": "pic.twitter.com/cJg97XFdN3",
+						"expanded_url": "https://twitter.com/OKCinformation/status/1636087033469849601/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 745,
+								"h": 813,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 623,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 745,
+								"h": 813,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1636086299080761300,
+						"id_str": "1636086299080761344",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/FrSL0haXoAAodm0.png",
+						"media_url_https": "https://pbs.twimg.com/media/FrSL0haXoAAodm0.png",
+						"url": "https://t.co/cJg97XFdN3",
+						"display_url": "pic.twitter.com/cJg97XFdN3",
+						"expanded_url": "https://twitter.com/OKCinformation/status/1636087033469849601/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 745,
+								"h": 813,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 623,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 745,
+								"h": 813,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3309353195,
+				"id_str": "3309353195",
+				"name": "OKCinfo Research",
+				"screen_name": "OKCinformation",
+				"location": "Belgique",
+				"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+				"url": "https://t.co/zYcyQtvumv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zYcyQtvumv",
+								"expanded_url": "https://okcinfo.news/en",
+								"display_url": "okcinfo.news/en",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 214,
+				"friends_count": 382,
+				"listed_count": 7,
+				"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+				"favourites_count": 358,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1800,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Sorti en catimini de la OKC le 10/03/2023, son directeur spirituel Rabjam Rinpoche n'a toujours pas fait de communication officielle et sa photo, son nom est toujours sur le site de la OKC https://t.co/NqLbI3MjPf\n#shechen https://t.co/5KdqLPDn9h https://t.co/IucsJPEaCT"
+	},
+	{
 		"created_at": "Fri Apr 14 09:32:40 +0000 2023",
 		"id": 1646808164325548000,
 		"id_str": "1646808679230894081",
