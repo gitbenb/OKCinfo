@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Sun Apr 16 23:04:27 +0000 2023",
+		"id": 1647737748667629600,
+		"id_str": "1647737748667629573",
+		"full_text": "@PeljorTenzin @Viivi22211508 @hridayartha This is what he does.. He pose as an authority on this and all he does is keeping the status quo, lapping his master like a dog.\n\nSome of us honestly felt used in the way he turned out to be in action, just another piece of what's wrong with Tibetan Buddhism and \"monks\".",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			313
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PeljorTenzin",
+					"name": "Tenzin Peljor",
+					"id": 2873081511,
+					"id_str": "2873081511",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Viivi22211508",
+					"name": "Viivi",
+					"id": 1321418777502900200,
+					"id_str": "1321418777502900224",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "hridayartha",
+					"name": "hridayartha",
+					"id": 565518712,
+					"id_str": "565518712",
+					"indices": [
+						29,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1647714146073362400,
+		"in_reply_to_status_id_str": "1647714146073362432",
+		"in_reply_to_user_id": 2873081511,
+		"in_reply_to_user_id_str": "2873081511",
+		"in_reply_to_screen_name": "PeljorTenzin",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 214,
+			"friends_count": 382,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1803,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PeljorTenzin @Viivi22211508 @hridayartha This is what he does.. He pose as an authority on this and all he does is keeping the status quo, lapping his master like a dog.\n\nSome of us honestly felt used in the way he turned out to be in action, just another piece of what's wrong with Tibetan Buddhism and \"monks\"."
+	},
+	{
+		"created_at": "Sun Apr 16 21:35:20 +0000 2023",
+		"id": 1647715322873430000,
+		"id_str": "1647715322873430017",
+		"full_text": "@Viivi22211508 @PeljorTenzin @hridayartha We don't think Tenzin Peljor is an opinion worth taking in this matter, he is part of the \"Buddhists\" that even though he runs a blog about tibetan buddhism abuses, his views on DL and Institutions make him unable to actually drop his support for a system that he needs to survive",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			322
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Viivi22211508",
+					"name": "Viivi",
+					"id": 1321418777502900200,
+					"id_str": "1321418777502900224",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "PeljorTenzin",
+					"name": "Tenzin Peljor",
+					"id": 2873081511,
+					"id_str": "2873081511",
+					"indices": [
+						15,
+						28
+					]
+				},
+				{
+					"screen_name": "hridayartha",
+					"name": "hridayartha",
+					"id": 565518712,
+					"id_str": "565518712",
+					"indices": [
+						29,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1647693042067882000,
+		"in_reply_to_status_id_str": "1647693042067881986",
+		"in_reply_to_user_id": 1321418777502900200,
+		"in_reply_to_user_id_str": "1321418777502900224",
+		"in_reply_to_screen_name": "Viivi22211508",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 214,
+			"friends_count": 382,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1803,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			1562961949
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Viivi22211508 @PeljorTenzin @hridayartha We don't think Tenzin Peljor is an opinion worth taking in this matter, he is part of the \"Buddhists\" that even though he runs a blog about tibetan buddhism abuses, his views on DL and Institutions make him unable to actually drop his support for a system that he needs to survive"
+	},
+	{
 		"created_at": "Sun Apr 16 06:27:47 +0000 2023",
 		"id": 1647486929976393700,
 		"id_str": "1647486929976393728",
