@@ -1,6 +1,561 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Thu Apr 20 16:34:04 +0000 2023",
+		"id": 1649088866673115100,
+		"id_str": "1649089056561856512",
+		"full_text": "Down voting wars in the /r/Buddhism @reddit to make sure \"mundane issues\" such as sexual abuses inside Tibetan Buddhist centers are not front-page.\n\nMeanwhile thousands of people do see the posts and the comments.\n\nSycophants will be sycophants.\n\nWhat a disgrace.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Reddit",
+					"name": "Reddit",
+					"id": 811377,
+					"id_str": "811377",
+					"indices": [
+						36,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉💉",
+			"description": "Geek sur la Tech, l'information, la démocratie, la Justice et le discernement | Partie civile 🇧🇪 et Porte-parole @OKCinfor 🇫🇷 ¦   \n🐘@rmdes@mstdn.social",
+			"url": "https://t.co/1vdpwc9JYy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1vdpwc9JYy",
+							"expanded_url": "https://blog.rmendes.net/",
+							"display_url": "blog.rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2931,
+			"friends_count": 4472,
+			"listed_count": 317,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 15584,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1641853637939822610/OQBRLhbH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1641853637939822610/OQBRLhbH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1677575068",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Down voting wars in the /r/Buddhism @reddit to make sure \"mundane issues\" such as sexual abuses inside Tibetan Buddhist centers are not front-page.\n\nMeanwhile thousands of people do see the posts and the comments.\n\nSycophants will be sycophants.\n\nWhat a disgrace."
+	},
+	{
+		"created_at": "Thu Apr 20 11:26:55 +0000 2023",
+		"id": 1649011762316951600,
+		"id_str": "1649011762316951555",
+		"full_text": "@rMdes_ @DalaiLama Dalai Lama legitimacy attestation given to @OgyenKun in 94 after the 92 visit, that was never rescinded, even after allegations of abuses were known, even after 2x Judicial convictions in 2016 and 2020. It's time to pivot.\nhttps://t.co/GCQP0uth5Q",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rMdes_",
+					"name": "Ricardo Mendes",
+					"id": 1562961949,
+					"id_str": "1562961949",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "DalaiLama",
+					"name": "Dalai Lama",
+					"id": 20609518,
+					"id_str": "20609518",
+					"indices": [
+						8,
+						18
+					]
+				},
+				{
+					"screen_name": "OgyenKun",
+					"name": "OKC",
+					"id": 3665270417,
+					"id_str": "3665270417",
+					"indices": [
+						62,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GCQP0uth5Q",
+					"expanded_url": "https://twitter.com/rMdes_/status/1648964437309571072?t=BuDqf-IHhbslPI0pRWzX5g&s=19",
+					"display_url": "twitter.com/rMdes_/status/…",
+					"indices": [
+						242,
+						265
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1648962716604743700,
+		"in_reply_to_status_id_str": "1648962716604743680",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 384,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 363,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1806,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1648964437309571000,
+		"quoted_status_id_str": "1648964437309571072",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GCQP0uth5Q",
+			"expanded": "https://twitter.com/rMdes_/status/1648964437309571072?t=BuDqf-IHhbslPI0pRWzX5g&s=19",
+			"display": "twitter.com/rMdes_/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 20 08:18:52 +0000 2023",
+			"id": 1648964437309571000,
+			"id_str": "1648964437309571072",
+			"full_text": "Quand une institution tel que @NetTibet Kashag émet une attestation de légitimité et que l'individu fondateur est aujourd'hui accusé et condamné pour abus sexuels et tortures, n'est il pas normal et logique de la retirer ? @DalaiLama https://t.co/D5IG1vdeeM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				233
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NetTibet",
+						"name": "Tibet.net",
+						"id": 918420895495946200,
+						"id_str": "918420895495946240",
+						"indices": [
+							30,
+							39
+						]
+					},
+					{
+						"screen_name": "DalaiLama",
+						"name": "Dalai Lama",
+						"id": 20609518,
+						"id_str": "20609518",
+						"indices": [
+							223,
+							233
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1648964362638438400,
+						"id_str": "1648964362638438401",
+						"indices": [
+							234,
+							257
+						],
+						"media_url": "http://pbs.twimg.com/media/FuJMWepXsAErLD9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FuJMWepXsAErLD9.jpg",
+						"url": "https://t.co/D5IG1vdeeM",
+						"display_url": "pic.twitter.com/D5IG1vdeeM",
+						"expanded_url": "https://twitter.com/rMdes_/status/1648964437309571072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1270,
+								"h": 1797,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 848,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1648964362638438400,
+						"id_str": "1648964362638438401",
+						"indices": [
+							234,
+							257
+						],
+						"media_url": "http://pbs.twimg.com/media/FuJMWepXsAErLD9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FuJMWepXsAErLD9.jpg",
+						"url": "https://t.co/D5IG1vdeeM",
+						"display_url": "pic.twitter.com/D5IG1vdeeM",
+						"expanded_url": "https://twitter.com/rMdes_/status/1648964437309571072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1270,
+								"h": 1797,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 848,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1648964368980222000,
+						"id_str": "1648964368980221952",
+						"indices": [
+							234,
+							257
+						],
+						"media_url": "http://pbs.twimg.com/media/FuJMW2RXoAA0bZF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FuJMW2RXoAA0bZF.jpg",
+						"url": "https://t.co/D5IG1vdeeM",
+						"display_url": "pic.twitter.com/D5IG1vdeeM",
+						"expanded_url": "https://twitter.com/rMdes_/status/1648964437309571072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1270,
+								"h": 1797,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 848,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1648964377272254500,
+						"id_str": "1648964377272254465",
+						"indices": [
+							234,
+							257
+						],
+						"media_url": "http://pbs.twimg.com/media/FuJMXVKWAAEx52c.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FuJMXVKWAAEx52c.jpg",
+						"url": "https://t.co/D5IG1vdeeM",
+						"display_url": "pic.twitter.com/D5IG1vdeeM",
+						"expanded_url": "https://twitter.com/rMdes_/status/1648964437309571072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1387,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 460,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 812,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1648964407861432300,
+						"id_str": "1648964407861432321",
+						"indices": [
+							234,
+							257
+						],
+						"media_url": "http://pbs.twimg.com/media/FuJMZHHX0AEMMsB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FuJMZHHX0AEMMsB.jpg",
+						"url": "https://t.co/D5IG1vdeeM",
+						"display_url": "pic.twitter.com/D5IG1vdeeM",
+						"expanded_url": "https://twitter.com/rMdes_/status/1648964437309571072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 828,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1413,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 469,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1648925824307933200,
+			"in_reply_to_status_id_str": "1648925824307933186",
+			"in_reply_to_user_id": 1562961949,
+			"in_reply_to_user_id_str": "1562961949",
+			"in_reply_to_screen_name": "rMdes_",
+			"user": {
+				"id": 1562961949,
+				"id_str": "1562961949",
+				"name": "Ricardo Mendes",
+				"screen_name": "rMdes_",
+				"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉💉",
+				"description": "Geek sur la Tech, l'information, la démocratie, la Justice et le discernement | Partie civile 🇧🇪 et Porte-parole @OKCinfor 🇫🇷 ¦   \n🐘@rmdes@mstdn.social",
+				"url": "https://t.co/1vdpwc9JYy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1vdpwc9JYy",
+								"expanded_url": "https://blog.rmendes.net/",
+								"display_url": "blog.rmendes.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2931,
+				"friends_count": 4472,
+				"listed_count": 317,
+				"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+				"favourites_count": 15584,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 46854,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1641853637939822610/OQBRLhbH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1641853637939822610/OQBRLhbH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1677575068",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rMdes_ @DalaiLama Dalai Lama legitimacy attestation given to @OgyenKun in 94 after the 92 visit, that was never rescinded, even after allegations of abuses were known, even after 2x Judicial convictions in 2016 and 2020. It's time to pivot.\nhttps://t.co/GCQP0uth5Q"
+	},
+	{
 		"created_at": "Thu Apr 20 08:12:02 +0000 2023",
 		"id": 1648962716604743700,
 		"id_str": "1648962716604743680",
