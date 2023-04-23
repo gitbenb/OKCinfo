@@ -1,6 +1,3268 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Sun Apr 23 07:27:51 +0000 2023",
+		"id": 1649922381153026000,
+		"id_str": "1650038760044634113",
+		"full_text": "@OKCinformation @DalaiLama @NetTibet In 2018, didn't he claim not to even know OKC?",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinformation",
+					"name": "OKCinfo Research",
+					"id": 3309353195,
+					"id_str": "3309353195",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "DalaiLama",
+					"name": "Dalai Lama",
+					"id": 20609518,
+					"id_str": "20609518",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "NetTibet",
+					"name": "Tibet.net",
+					"id": 918420895495946200,
+					"id_str": "918420895495946240",
+					"indices": [
+						27,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1649746605061316600,
+		"in_reply_to_status_id_str": "1649746605061316609",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 44013577,
+			"id_str": "44013577",
+			"name": "ClaudiaK",
+			"screen_name": "claudiakathryn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14,
+			"friends_count": 75,
+			"listed_count": 0,
+			"created_at": "Tue Jun 02 00:21:49 +0000 2009",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/713203363689541632/MkwsW-hI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/713203363689541632/MkwsW-hI_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@OKCinformation @DalaiLama @NetTibet In 2018, didn't he claim not to even know OKC?"
+	},
+	{
+		"created_at": "Sun Apr 23 07:27:45 +0000 2023",
+		"id": 1650038737517125600,
+		"id_str": "1650038737517125640",
+		"full_text": "@claudiakathryn @DalaiLama @NetTibet Correct.",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "claudiakathryn",
+					"name": "ClaudiaK",
+					"id": 44013577,
+					"id_str": "44013577",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "DalaiLama",
+					"name": "Dalai Lama",
+					"id": 20609518,
+					"id_str": "20609518",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "NetTibet",
+					"name": "Tibet.net",
+					"id": 918420895495946200,
+					"id_str": "918420895495946240",
+					"indices": [
+						27,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1649922381153026000,
+		"in_reply_to_status_id_str": "1649922381153026051",
+		"in_reply_to_user_id": 44013577,
+		"in_reply_to_user_id_str": "44013577",
+		"in_reply_to_screen_name": "claudiakathryn",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 385,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@claudiakathryn @DalaiLama @NetTibet Correct."
+	},
+	{
+		"created_at": "Sat Apr 22 21:30:18 +0000 2023",
+		"id": 1649883442375532500,
+		"id_str": "1649888383458504705",
+		"full_text": "Dernier article publié dans la presse au Portugal, qui reprend des abus sur 2 portuguaises @OKCinfor et une des premières plaignantes en Belgique et Portugal en 1997, avec une réaction de UBP qui n'était au courant de rien.\n\nVenez en privé pour l'article en full. https://t.co/Ub7kAbpGTl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinfor",
+					"name": "Initiative de Justice OKCinfo",
+					"id": 1097520031955587100,
+					"id_str": "1097520031955587073",
+					"indices": [
+						91,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ub7kAbpGTl",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1649854460175187970",
+					"display_url": "twitter.com/OKCinformation…",
+					"indices": [
+						264,
+						287
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉💉",
+			"description": "Geek sur la Tech, l'information, la démocratie, la Justice et le discernement | Partie civile 🇧🇪 et Porte-parole @OKCinfor 🇫🇷 ¦   \n🐘@rmdes@mstdn.social",
+			"url": "https://t.co/1vdpwc9JYy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1vdpwc9JYy",
+							"expanded_url": "https://blog.rmendes.net/",
+							"display_url": "blog.rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2935,
+			"friends_count": 4471,
+			"listed_count": 317,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 15599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1649342752532905984/GMcVQDRx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1649342752532905984/GMcVQDRx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1677575068",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1649854460175188000,
+		"quoted_status_id_str": "1649854460175187970",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ub7kAbpGTl",
+			"expanded": "https://twitter.com/OKCinformation/status/1649854460175187970",
+			"display": "twitter.com/OKCinformation…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 22 19:15:30 +0000 2023",
+			"id": 1649854460175188000,
+			"id_str": "1649854460175187970",
+			"full_text": "Os #abusos do guru do #Algarve que o budismo não viu:  “Obrigados a caminhar no gelo, fechados em quartos com ratos“ e a  masturbar o mestre https://t.co/00VcUZcwYC #budismo #portugal #algarve #OKC #okcinfo https://t.co/toa3LADN7E",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				206
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "abusos",
+						"indices": [
+							3,
+							10
+						]
+					},
+					{
+						"text": "Algarve",
+						"indices": [
+							22,
+							30
+						]
+					},
+					{
+						"text": "budismo",
+						"indices": [
+							165,
+							173
+						]
+					},
+					{
+						"text": "portugal",
+						"indices": [
+							174,
+							183
+						]
+					},
+					{
+						"text": "algarve",
+						"indices": [
+							184,
+							192
+						]
+					},
+					{
+						"text": "OKC",
+						"indices": [
+							193,
+							197
+						]
+					},
+					{
+						"text": "okcinfo",
+						"indices": [
+							198,
+							206
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/00VcUZcwYC",
+						"expanded_url": "https://expresso.pt/sociedade/2023-04-22-Os-abusos-do-guru-do-Algarve-que-o-budismo-nao-viu-Obrigados-a-caminhar-no-gelo-fechados-em-quartos-com-ratos-e-a-masturbar-o-mestre-ec1499b5",
+						"display_url": "expresso.pt/sociedade/2023…",
+						"indices": [
+							141,
+							164
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1649854206898053000,
+						"id_str": "1649854206898053121",
+						"indices": [
+							207,
+							230
+						],
+						"media_url": "http://pbs.twimg.com/media/FuV1qO1XoAENd8q.png",
+						"media_url_https": "https://pbs.twimg.com/media/FuV1qO1XoAENd8q.png",
+						"url": "https://t.co/toa3LADN7E",
+						"display_url": "pic.twitter.com/toa3LADN7E",
+						"expanded_url": "https://twitter.com/OKCinformation/status/1649854460175187970/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 860,
+								"h": 860,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 860,
+								"h": 860,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1649854206898053000,
+						"id_str": "1649854206898053121",
+						"indices": [
+							207,
+							230
+						],
+						"media_url": "http://pbs.twimg.com/media/FuV1qO1XoAENd8q.png",
+						"media_url_https": "https://pbs.twimg.com/media/FuV1qO1XoAENd8q.png",
+						"url": "https://t.co/toa3LADN7E",
+						"display_url": "pic.twitter.com/toa3LADN7E",
+						"expanded_url": "https://twitter.com/OKCinformation/status/1649854460175187970/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 860,
+								"h": 860,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 860,
+								"h": 860,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3309353195,
+				"id_str": "3309353195",
+				"name": "OKCinfo Research",
+				"screen_name": "OKCinformation",
+				"location": "Belgique",
+				"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+				"url": "https://t.co/zYcyQtvumv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zYcyQtvumv",
+								"expanded_url": "https://okcinfo.news/en",
+								"display_url": "okcinfo.news/en",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 215,
+				"friends_count": 385,
+				"listed_count": 7,
+				"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+				"favourites_count": 366,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1827,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "pt"
+		},
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Dernier article publié dans la presse au Portugal, qui reprend des abus sur 2 portuguaises @OKCinfor et une des premières plaignantes en Belgique et Portugal en 1997, avec une réaction de UBP qui n'était au courant de rien.\n\nVenez en privé pour l'article en full. https://t.co/Ub7kAbpGTl"
+	},
+	{
+		"created_at": "Sat Apr 22 20:22:18 +0000 2023",
+		"id": 1649871271017037800,
+		"id_str": "1649871271017037829",
+		"full_text": "@Viivi22211508 @RFI_Br i don't think so, book name is Buddhism, the law of silence, written by the documentary film makers, the book has more details and parts that could not be included in the documentary. it's only available in french for now, but I can ask the writers if there are plans for it",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			297
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Viivi22211508",
+					"name": "Viivi",
+					"id": 1321418777502900200,
+					"id_str": "1321418777502900224",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "RFI_Br",
+					"name": "RFI Brasil",
+					"id": 27856959,
+					"id_str": "27856959",
+					"indices": [
+						15,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1649869592834064400,
+		"in_reply_to_status_id_str": "1649869592834064387",
+		"in_reply_to_user_id": 1321418777502900200,
+		"in_reply_to_user_id_str": "1321418777502900224",
+		"in_reply_to_screen_name": "Viivi22211508",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 385,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Viivi22211508 @RFI_Br i don't think so, book name is Buddhism, the law of silence, written by the documentary film makers, the book has more details and parts that could not be included in the documentary. it's only available in french for now, but I can ask the writers if there are plans for it"
+	},
+	{
+		"created_at": "Sat Apr 22 19:15:30 +0000 2023",
+		"id": 1649854460175188000,
+		"id_str": "1649854460175187970",
+		"full_text": "Os #abusos do guru do #Algarve que o budismo não viu:  “Obrigados a caminhar no gelo, fechados em quartos com ratos“ e a  masturbar o mestre https://t.co/00VcUZcwYC #budismo #portugal #algarve #OKC #okcinfo https://t.co/toa3LADN7E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "abusos",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"text": "Algarve",
+					"indices": [
+						22,
+						30
+					]
+				},
+				{
+					"text": "budismo",
+					"indices": [
+						165,
+						173
+					]
+				},
+				{
+					"text": "portugal",
+					"indices": [
+						174,
+						183
+					]
+				},
+				{
+					"text": "algarve",
+					"indices": [
+						184,
+						192
+					]
+				},
+				{
+					"text": "OKC",
+					"indices": [
+						193,
+						197
+					]
+				},
+				{
+					"text": "okcinfo",
+					"indices": [
+						198,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/00VcUZcwYC",
+					"expanded_url": "https://expresso.pt/sociedade/2023-04-22-Os-abusos-do-guru-do-Algarve-que-o-budismo-nao-viu-Obrigados-a-caminhar-no-gelo-fechados-em-quartos-com-ratos-e-a-masturbar-o-mestre-ec1499b5",
+					"display_url": "expresso.pt/sociedade/2023…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1649854206898053000,
+					"id_str": "1649854206898053121",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/FuV1qO1XoAENd8q.png",
+					"media_url_https": "https://pbs.twimg.com/media/FuV1qO1XoAENd8q.png",
+					"url": "https://t.co/toa3LADN7E",
+					"display_url": "pic.twitter.com/toa3LADN7E",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1649854460175187970/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 860,
+							"h": 860,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 860,
+							"h": 860,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1649854206898053000,
+					"id_str": "1649854206898053121",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/FuV1qO1XoAENd8q.png",
+					"media_url_https": "https://pbs.twimg.com/media/FuV1qO1XoAENd8q.png",
+					"url": "https://t.co/toa3LADN7E",
+					"display_url": "pic.twitter.com/toa3LADN7E",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1649854460175187970/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 860,
+							"h": 860,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 860,
+							"h": 860,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 385,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "pt",
+		"text": "Os #abusos do guru do #Algarve que o budismo não viu:  “Obrigados a caminhar no gelo, fechados em quartos com ratos“ e a  masturbar o mestre https://t.co/00VcUZcwYC #budismo #portugal #algarve #OKC #okcinfo https://t.co/toa3LADN7E"
+	},
+	{
+		"created_at": "Sat Apr 22 19:13:09 +0000 2023",
+		"id": 1649853866815504400,
+		"id_str": "1649853866815504390",
+		"full_text": "Investigação inédita revela escândalo de proporções planetárias no budismo e omissão do Dalai Lama https://t.co/cQLTAIqFwa via @RFI_Br",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RFI_Br",
+					"name": "RFI Brasil",
+					"id": 27856959,
+					"id_str": "27856959",
+					"indices": [
+						127,
+						134
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cQLTAIqFwa",
+					"expanded_url": "https://rfi.my/8jv8.T",
+					"display_url": "rfi.my/8jv8.T",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 385,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "pt",
+		"text": "Investigação inédita revela escândalo de proporções planetárias no budismo e omissão do Dalai Lama https://t.co/cQLTAIqFwa via @RFI_Br"
+	},
+	{
+		"created_at": "Sat Apr 22 19:10:37 +0000 2023",
+		"id": 1649853230594109400,
+		"id_str": "1649853230594109442",
+		"full_text": "Agressões sexuais em templo budista no Algarve denunciadas a Dalai Lama. “Nada foi feito” https://t.co/TwgmvIvSeA #dalailama #ogyenkunzangcholing",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dalailama",
+					"indices": [
+						114,
+						124
+					]
+				},
+				{
+					"text": "ogyenkunzangcholing",
+					"indices": [
+						125,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TwgmvIvSeA",
+					"expanded_url": "https://postal.pt/sociedade/agressoes-sexuais-em-templo-budista-no-algarve-denunciadas-a-dalai-lama-nada-foi-feito/",
+					"display_url": "postal.pt/sociedade/agre…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 385,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "pt",
+		"text": "Agressões sexuais em templo budista no Algarve denunciadas a Dalai Lama. “Nada foi feito” https://t.co/TwgmvIvSeA #dalailama #ogyenkunzangcholing"
+	},
+	{
+		"created_at": "Sat Apr 22 15:56:10 +0000 2023",
+		"id": 1649795261995024400,
+		"id_str": "1649804293350866949",
+		"full_text": "J'avais complètement zappé ces photos du procès OKC, une partie à Bruxelles, l'autre à Liège.. Bizarrement aucune photo de notre avocat, il y a bien quelques photos d'avocats de partie civile mais pas le nôtre. #procesokc #okcinfo https://t.co/tiR0OtGSUd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "procesokc",
+					"indices": [
+						211,
+						221
+					]
+				},
+				{
+					"text": "okcinfo",
+					"indices": [
+						222,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tiR0OtGSUd",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1649794331568488449",
+					"display_url": "twitter.com/OKCinformation…",
+					"indices": [
+						231,
+						254
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉💉",
+			"description": "Geek sur la Tech, l'information, la démocratie, la Justice et le discernement | Partie civile 🇧🇪 et Porte-parole @OKCinfor 🇫🇷 ¦   \n🐘@rmdes@mstdn.social",
+			"url": "https://t.co/1vdpwc9JYy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1vdpwc9JYy",
+							"expanded_url": "https://blog.rmendes.net/",
+							"display_url": "blog.rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2935,
+			"friends_count": 4471,
+			"listed_count": 317,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 15599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1649342752532905984/GMcVQDRx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1649342752532905984/GMcVQDRx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1677575068",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1649794331568488400,
+		"quoted_status_id_str": "1649794331568488449",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tiR0OtGSUd",
+			"expanded": "https://twitter.com/OKCinformation/status/1649794331568488449",
+			"display": "twitter.com/OKCinformation…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 22 15:16:34 +0000 2023",
+			"id": 1649794331568488400,
+			"id_str": "1649794331568488449",
+			"full_text": "Trop bizarre de revoir ces photos : https://t.co/mhvMfJCX0x #procesOKC #okcinfo https://t.co/ZQdasIYH8j",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				79
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "procesOKC",
+						"indices": [
+							60,
+							70
+						]
+					},
+					{
+						"text": "okcinfo",
+						"indices": [
+							71,
+							79
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mhvMfJCX0x",
+						"expanded_url": "https://www.imago-images.de/search?suchtext=ogyen+kunzang+choling&imagepage=on&db=stock",
+						"display_url": "imago-images.de/search?suchtex…",
+						"indices": [
+							36,
+							59
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1649794044237578200,
+						"id_str": "1649794044237578243",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/FuU-8TdWAAMSQMa.png",
+						"media_url_https": "https://pbs.twimg.com/media/FuU-8TdWAAMSQMa.png",
+						"url": "https://t.co/ZQdasIYH8j",
+						"display_url": "pic.twitter.com/ZQdasIYH8j",
+						"expanded_url": "https://twitter.com/OKCinformation/status/1649794331568488449/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 768,
+								"h": 549,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 768,
+								"h": 549,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 486,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1649794044237578200,
+						"id_str": "1649794044237578243",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/FuU-8TdWAAMSQMa.png",
+						"media_url_https": "https://pbs.twimg.com/media/FuU-8TdWAAMSQMa.png",
+						"url": "https://t.co/ZQdasIYH8j",
+						"display_url": "pic.twitter.com/ZQdasIYH8j",
+						"expanded_url": "https://twitter.com/OKCinformation/status/1649794331568488449/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 768,
+								"h": 549,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 768,
+								"h": 549,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 486,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1649794139829960700,
+						"id_str": "1649794139829960704",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/FuU_B3kWAAAS-dm.png",
+						"media_url_https": "https://pbs.twimg.com/media/FuU_B3kWAAAS-dm.png",
+						"url": "https://t.co/ZQdasIYH8j",
+						"display_url": "pic.twitter.com/ZQdasIYH8j",
+						"expanded_url": "https://twitter.com/OKCinformation/status/1649794331568488449/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 542,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 768,
+								"h": 542,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1649794186911051800,
+						"id_str": "1649794186911051776",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/FuU_Em9WcAAMktc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FuU_Em9WcAAMktc.jpg",
+						"url": "https://t.co/ZQdasIYH8j",
+						"display_url": "pic.twitter.com/ZQdasIYH8j",
+						"expanded_url": "https://twitter.com/OKCinformation/status/1649794331568488449/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 693,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 693,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 471,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1649794254556856300,
+						"id_str": "1649794254556856322",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/FuU_Ii9XgAI1cGs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FuU_Ii9XgAI1cGs.jpg",
+						"url": "https://t.co/ZQdasIYH8j",
+						"display_url": "pic.twitter.com/ZQdasIYH8j",
+						"expanded_url": "https://twitter.com/OKCinformation/status/1649794331568488449/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 466,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 685,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 685,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3309353195,
+				"id_str": "3309353195",
+				"name": "OKCinfo Research",
+				"screen_name": "OKCinformation",
+				"location": "Belgique",
+				"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+				"url": "https://t.co/zYcyQtvumv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zYcyQtvumv",
+								"expanded_url": "https://okcinfo.news/en",
+								"display_url": "okcinfo.news/en",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 215,
+				"friends_count": 385,
+				"listed_count": 7,
+				"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+				"favourites_count": 366,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1827,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "J'avais complètement zappé ces photos du procès OKC, une partie à Bruxelles, l'autre à Liège.. Bizarrement aucune photo de notre avocat, il y a bien quelques photos d'avocats de partie civile mais pas le nôtre. #procesokc #okcinfo https://t.co/tiR0OtGSUd"
+	},
+	{
+		"created_at": "Sat Apr 22 15:16:34 +0000 2023",
+		"id": 1649794331568488400,
+		"id_str": "1649794331568488449",
+		"full_text": "Trop bizarre de revoir ces photos : https://t.co/mhvMfJCX0x #procesOKC #okcinfo https://t.co/ZQdasIYH8j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "procesOKC",
+					"indices": [
+						60,
+						70
+					]
+				},
+				{
+					"text": "okcinfo",
+					"indices": [
+						71,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mhvMfJCX0x",
+					"expanded_url": "https://www.imago-images.de/search?suchtext=ogyen+kunzang+choling&imagepage=on&db=stock",
+					"display_url": "imago-images.de/search?suchtex…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1649794044237578200,
+					"id_str": "1649794044237578243",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/FuU-8TdWAAMSQMa.png",
+					"media_url_https": "https://pbs.twimg.com/media/FuU-8TdWAAMSQMa.png",
+					"url": "https://t.co/ZQdasIYH8j",
+					"display_url": "pic.twitter.com/ZQdasIYH8j",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1649794331568488449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 768,
+							"h": 549,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 549,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1649794044237578200,
+					"id_str": "1649794044237578243",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/FuU-8TdWAAMSQMa.png",
+					"media_url_https": "https://pbs.twimg.com/media/FuU-8TdWAAMSQMa.png",
+					"url": "https://t.co/ZQdasIYH8j",
+					"display_url": "pic.twitter.com/ZQdasIYH8j",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1649794331568488449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 768,
+							"h": 549,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 549,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1649794139829960700,
+					"id_str": "1649794139829960704",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/FuU_B3kWAAAS-dm.png",
+					"media_url_https": "https://pbs.twimg.com/media/FuU_B3kWAAAS-dm.png",
+					"url": "https://t.co/ZQdasIYH8j",
+					"display_url": "pic.twitter.com/ZQdasIYH8j",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1649794331568488449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 542,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 542,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1649794186911051800,
+					"id_str": "1649794186911051776",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/FuU_Em9WcAAMktc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuU_Em9WcAAMktc.jpg",
+					"url": "https://t.co/ZQdasIYH8j",
+					"display_url": "pic.twitter.com/ZQdasIYH8j",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1649794331568488449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 693,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 693,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 471,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1649794254556856300,
+					"id_str": "1649794254556856322",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/FuU_Ii9XgAI1cGs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuU_Ii9XgAI1cGs.jpg",
+					"url": "https://t.co/ZQdasIYH8j",
+					"display_url": "pic.twitter.com/ZQdasIYH8j",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1649794331568488449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 685,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 685,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 385,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Trop bizarre de revoir ces photos : https://t.co/mhvMfJCX0x #procesOKC #okcinfo https://t.co/ZQdasIYH8j"
+	},
+	{
+		"created_at": "Sat Apr 22 14:55:25 +0000 2023",
+		"id": 1649788935910969300,
+		"id_str": "1649789005699981315",
+		"full_text": "Le Bureau du Dalai-Lama à #Paris a été contacté par @OKCinfor et de son côté aussi par @MatthieuRicard pour que l'attestation de légitimité utilisée par la OKC depuis 1994 soit révoquée et la OKC condamnée sur le plan religieux. #dalailama #bouddhisme #bouddhismeTibétain https://t.co/TkFTg8eQdz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Paris",
+					"indices": [
+						26,
+						32
+					]
+				},
+				{
+					"text": "dalailama",
+					"indices": [
+						229,
+						239
+					]
+				},
+				{
+					"text": "bouddhisme",
+					"indices": [
+						240,
+						251
+					]
+				},
+				{
+					"text": "bouddhismeTibétain",
+					"indices": [
+						252,
+						271
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCinfor",
+					"name": "Initiative de Justice OKCinfo",
+					"id": 1097520031955587100,
+					"id_str": "1097520031955587073",
+					"indices": [
+						52,
+						61
+					]
+				},
+				{
+					"screen_name": "MatthieuRicard",
+					"name": "Matthieu Ricard",
+					"id": 181228051,
+					"id_str": "181228051",
+					"indices": [
+						87,
+						102
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1649788884904038400,
+					"id_str": "1649788884904038403",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FuU6P_cX0AM4-zu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuU6P_cX0AM4-zu.jpg",
+					"url": "https://t.co/TkFTg8eQdz",
+					"display_url": "pic.twitter.com/TkFTg8eQdz",
+					"expanded_url": "https://twitter.com/rMdes_/status/1649788935910969344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1270,
+							"h": 1797,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1649788884904038400,
+					"id_str": "1649788884904038403",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FuU6P_cX0AM4-zu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuU6P_cX0AM4-zu.jpg",
+					"url": "https://t.co/TkFTg8eQdz",
+					"display_url": "pic.twitter.com/TkFTg8eQdz",
+					"expanded_url": "https://twitter.com/rMdes_/status/1649788935910969344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1270,
+							"h": 1797,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1649788893254807600,
+					"id_str": "1649788893254807552",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FuU6QejWcAA5HCH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuU6QejWcAA5HCH.jpg",
+					"url": "https://t.co/TkFTg8eQdz",
+					"display_url": "pic.twitter.com/TkFTg8eQdz",
+					"expanded_url": "https://twitter.com/rMdes_/status/1649788935910969344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1270,
+							"h": 1797,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1649788900783661000,
+					"id_str": "1649788900783661057",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FuU6Q6mXoAE3aIO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuU6Q6mXoAE3aIO.jpg",
+					"url": "https://t.co/TkFTg8eQdz",
+					"display_url": "pic.twitter.com/TkFTg8eQdz",
+					"expanded_url": "https://twitter.com/rMdes_/status/1649788935910969344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 828,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1413,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉💉",
+			"description": "Geek sur la Tech, l'information, la démocratie, la Justice et le discernement | Partie civile 🇧🇪 et Porte-parole @OKCinfor 🇫🇷 ¦   \n🐘@rmdes@mstdn.social",
+			"url": "https://t.co/1vdpwc9JYy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1vdpwc9JYy",
+							"expanded_url": "https://blog.rmendes.net/",
+							"display_url": "blog.rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2935,
+			"friends_count": 4471,
+			"listed_count": 317,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 15599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1649342752532905984/GMcVQDRx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1649342752532905984/GMcVQDRx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1677575068",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Le Bureau du Dalai-Lama à #Paris a été contacté par @OKCinfor et de son côté aussi par @MatthieuRicard pour que l'attestation de légitimité utilisée par la OKC depuis 1994 soit révoquée et la OKC condamnée sur le plan religieux. #dalailama #bouddhisme #bouddhismeTibétain https://t.co/TkFTg8eQdz"
+	},
+	{
+		"created_at": "Sat Apr 22 12:39:06 +0000 2023",
+		"id": 1649468014675337200,
+		"id_str": "1649754700739215361",
+		"full_text": "C'est quand même dingue, en relisant le communiqué de presse de l'Union Bouddhique Belge (UBB) que malgré tout, malgré la prise de position tardive, en partie expliquée parce qu'il ne fallait pas faire de vague pour ne pas mettre d'obstacle à la reconnaissance du Bouddhisme en… https://t.co/cM2qFYyhvL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			302
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cM2qFYyhvL",
+					"expanded_url": "https://twitter.com/i/web/status/1649468014675337216",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉💉",
+			"description": "Geek sur la Tech, l'information, la démocratie, la Justice et le discernement | Partie civile 🇧🇪 et Porte-parole @OKCinfor 🇫🇷 ¦   \n🐘@rmdes@mstdn.social",
+			"url": "https://t.co/1vdpwc9JYy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1vdpwc9JYy",
+							"expanded_url": "https://blog.rmendes.net/",
+							"display_url": "blog.rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2935,
+			"friends_count": 4471,
+			"listed_count": 317,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 15599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1649342752532905984/GMcVQDRx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1649342752532905984/GMcVQDRx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1677575068",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "C'est quand même dingue, en relisant le communiqué de presse de l'Union Bouddhique Belge (UBB) que malgré tout, malgré la prise de position tardive, en partie expliquée parce qu'il ne fallait pas faire de vague pour ne pas mettre d'obstacle à la reconnaissance du Bouddhisme en… https://t.co/cM2qFYyhvL"
+	},
+	{
+		"created_at": "Sat Apr 22 12:07:00 +0000 2023",
+		"id": 1649746621935104000,
+		"id_str": "1649746621935104001",
+		"full_text": "VISION April 2, 1998 \nSource PDF : https://t.co/TeI3vsGvit",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TeI3vsGvit",
+					"expanded_url": "https://drive.google.com/file/d/1Yc85Jg4Od-cc3ORRLxQ6faXqXNDVpXoG/view?usp=sharing",
+					"display_url": "drive.google.com/file/d/1Yc85Jg…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1649746619980476400,
+		"in_reply_to_status_id_str": "1649746619980476418",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 385,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "VISION April 2, 1998 \nSource PDF : https://t.co/TeI3vsGvit"
+	},
+	{
+		"created_at": "Sat Apr 22 12:06:59 +0000 2023",
+		"id": 1649746619980476400,
+		"id_str": "1649746619980476418",
+		"full_text": "\"We refused that offer. We contacted directly a secretary of the foundation, precisely three weeks before the police operations in Belgium and France. Up to now, we have not had any reaction. His holiness, however, never travels without well-defined programs.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1649746617900179500,
+		"in_reply_to_status_id_str": "1649746617900179457",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 385,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "\"We refused that offer. We contacted directly a secretary of the foundation, precisely three weeks before the police operations in Belgium and France. Up to now, we have not had any reaction. His holiness, however, never travels without well-defined programs.\""
+	},
+	{
+		"created_at": "Sat Apr 22 12:06:59 +0000 2023",
+		"id": 1649746617900179500,
+		"id_str": "1649746617900179457",
+		"full_text": "Also according to Wangpo Bashi, the OKC of Portugal tried to broker, in May 1997, a visit by the Dalai Lama to the Mário Soares Foundation.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1649746615752704000,
+		"in_reply_to_status_id_str": "1649746615752704002",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 385,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Also according to Wangpo Bashi, the OKC of Portugal tried to broker, in May 1997, a visit by the Dalai Lama to the Mário Soares Foundation."
+	},
+	{
+		"created_at": "Sat Apr 22 12:06:58 +0000 2023",
+		"id": 1649746615752704000,
+		"id_str": "1649746615752704002",
+		"full_text": "As for the imposition of monastic life on children, he refers to the thoughts of the Dalai Lama himself, commenting, \"His Holiness considers this regime wrong. It makes no sense in today's world.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1649746613299019800,
+		"in_reply_to_status_id_str": "1649746613299019779",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 385,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "As for the imposition of monastic life on children, he refers to the thoughts of the Dalai Lama himself, commenting, \"His Holiness considers this regime wrong. It makes no sense in today's world.\""
+	},
+	{
+		"created_at": "Sat Apr 22 12:06:58 +0000 2023",
+		"id": 1649746613299019800,
+		"id_str": "1649746613299019779",
+		"full_text": "On the Dalai Lama's possible relations with OKC, Wangpo Bashi clarifies, \"His holiness was once in one of the community's restaurants in Brussels in 1992. But that was before the existence of the Bureau in Paris.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1649746611226943500,
+		"in_reply_to_status_id_str": "1649746611226943489",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 385,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "On the Dalai Lama's possible relations with OKC, Wangpo Bashi clarifies, \"His holiness was once in one of the community's restaurants in Brussels in 1992. But that was before the existence of the Bureau in Paris.\""
+	},
+	{
+		"created_at": "Sat Apr 22 12:06:57 +0000 2023",
+		"id": 1649746611226943500,
+		"id_str": "1649746611226943489",
+		"full_text": "Wangpo Bashi, secretary of Tibet Office in Paris (the representation of Dalai Lama's in exile for 🇫🇷🇧🇪🇵🇹,  acknowledged knowing of the existence of a lawsuit against OKC. \"Justice is slow, but if the crimes they are accused of are valid, we will not fail to condemn them publicly\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1649746609020760000,
+		"in_reply_to_status_id_str": "1649746609020760064",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 385,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Wangpo Bashi, secretary of Tibet Office in Paris (the representation of Dalai Lama's in exile for 🇫🇷🇧🇪🇵🇹,  acknowledged knowing of the existence of a lawsuit against OKC. \"Justice is slow, but if the crimes they are accused of are valid, we will not fail to condemn them publicly\""
+	},
+	{
+		"created_at": "Sat Apr 22 12:06:57 +0000 2023",
+		"id": 1649746609020760000,
+		"id_str": "1649746609020760064",
+		"full_text": "DALAI LAMA aware of OKC\n\"According to the secretary of the Bureau du Tibet,in Paris, His Holiness may come to publicly condemn OKC. All that is needed is to prove the accusations\".",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1649746605061316600,
+		"in_reply_to_status_id_str": "1649746605061316609",
+		"in_reply_to_user_id": 3309353195,
+		"in_reply_to_user_id_str": "3309353195",
+		"in_reply_to_screen_name": "OKCinformation",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 385,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "DALAI LAMA aware of OKC\n\"According to the secretary of the Bureau du Tibet,in Paris, His Holiness may come to publicly condemn OKC. All that is needed is to prove the accusations\"."
+	},
+	{
+		"created_at": "Sat Apr 22 12:06:56 +0000 2023",
+		"id": 1649746605061316600,
+		"id_str": "1649746605061316609",
+		"full_text": "#DalaiLama knew about the legal proceedings against OKC in 1998, never withdrew the legitimacy certifications given to OKC in 1994, when alerted in 2018, didn't do anything\n2020, Robert Spatz is convicted, so when @DalaiLama and @NetTibet will finally make a public condemnation? https://t.co/0wceStmJuc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DalaiLama",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DalaiLama",
+					"name": "Dalai Lama",
+					"id": 20609518,
+					"id_str": "20609518",
+					"indices": [
+						214,
+						224
+					]
+				},
+				{
+					"screen_name": "NetTibet",
+					"name": "Tibet.net",
+					"id": 918420895495946200,
+					"id_str": "918420895495946240",
+					"indices": [
+						229,
+						238
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1649745562013401000,
+					"id_str": "1649745562013401088",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FuUS2RGWAAAKwYh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuUS2RGWAAAKwYh.jpg",
+					"url": "https://t.co/0wceStmJuc",
+					"display_url": "pic.twitter.com/0wceStmJuc",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1649746605061316609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 866,
+							"h": 456,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 358,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 866,
+							"h": 456,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1649745562013401000,
+					"id_str": "1649745562013401088",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FuUS2RGWAAAKwYh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuUS2RGWAAAKwYh.jpg",
+					"url": "https://t.co/0wceStmJuc",
+					"display_url": "pic.twitter.com/0wceStmJuc",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1649746605061316609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 866,
+							"h": 456,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 358,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 866,
+							"h": 456,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1649745584905937000,
+					"id_str": "1649745584905936897",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FuUS3mYWYAEYMvd.png",
+					"media_url_https": "https://pbs.twimg.com/media/FuUS3mYWYAEYMvd.png",
+					"url": "https://t.co/0wceStmJuc",
+					"display_url": "pic.twitter.com/0wceStmJuc",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1649746605061316609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1447,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 385,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#DalaiLama knew about the legal proceedings against OKC in 1998, never withdrew the legitimacy certifications given to OKC in 1994, when alerted in 2018, didn't do anything\n2020, Robert Spatz is convicted, so when @DalaiLama and @NetTibet will finally make a public condemnation? https://t.co/0wceStmJuc"
+	},
+	{
 		"created_at": "Fri Apr 21 20:38:13 +0000 2023",
 		"id": 1649511924667756500,
 		"id_str": "1649512889357672451",
