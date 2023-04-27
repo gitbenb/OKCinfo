@@ -1,6 +1,614 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Thu Apr 27 07:00:32 +0000 2023",
+		"id": 1651481221048696800,
+		"id_str": "1651481436568920064",
+		"full_text": "Ya des bouddhistes qui me disent, le @DalaiLama est trop occupé pour s'occuper d'un détail comme OKC dans la grande marche des choses, que les souffrances des Tibétains sont autrement plus importante, moi je leurs réponds à ces Bouddhistes, que les souffrances sont toutes aussi… https://t.co/PsyqLCMXXT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			303
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DalaiLama",
+					"name": "Dalai Lama",
+					"id": 20609518,
+					"id_str": "20609518",
+					"indices": [
+						37,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PsyqLCMXXT",
+					"expanded_url": "https://twitter.com/i/web/status/1651481221048696832",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷💉💉💉💉",
+			"description": "Geek sur la Tech, l'information, la démocratie, la Justice et le discernement | Partie civile 🇧🇪 et Porte-parole @OKCinfor 🇫🇷 ¦   \n🐘@rmdes@mstdn.social",
+			"url": "https://t.co/1vdpwc9JYy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1vdpwc9JYy",
+							"expanded_url": "https://blog.rmendes.net/",
+							"display_url": "blog.rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2937,
+			"friends_count": 4474,
+			"listed_count": 316,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 15650,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47048,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1649342752532905984/GMcVQDRx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1649342752532905984/GMcVQDRx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1677575068",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1651478108971622400,
+		"quoted_status_id_str": "1651478108971622403",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UzVNBdOBiL",
+			"expanded": "https://twitter.com/OKCinformation/status/1651478108971622403",
+			"display": "twitter.com/OKCinformation…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 27 06:47:18 +0000 2023",
+			"id": 1651478108971622400,
+			"id_str": "1651478108971622403",
+			"full_text": "Sometimes, Karma is about undoing things.\n\n@NetTibet @DalaiLama \nhttps://t.co/98WfMRMdGs https://t.co/9KERIozymH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				88
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NetTibet",
+						"name": "Tibet.net",
+						"id": 918420895495946200,
+						"id_str": "918420895495946240",
+						"indices": [
+							43,
+							52
+						]
+					},
+					{
+						"screen_name": "DalaiLama",
+						"name": "Dalai Lama",
+						"id": 20609518,
+						"id_str": "20609518",
+						"indices": [
+							53,
+							63
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/98WfMRMdGs",
+						"expanded_url": "https://drive.google.com/file/d/0B7ZZBZAiuR-zazdPa1Qwb0VvRkE/view?usp=drivesdk&resourcekey=0-rp1-mGtg0m1L3TAdqT4t_Q",
+						"display_url": "drive.google.com/file/d/0B7ZZBZ…",
+						"indices": [
+							65,
+							88
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1651478095965085700,
+						"id_str": "1651478095965085696",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/Fus6lBBWYAAZoTj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fus6lBBWYAAZoTj.jpg",
+						"url": "https://t.co/9KERIozymH",
+						"display_url": "pic.twitter.com/9KERIozymH",
+						"expanded_url": "https://twitter.com/OKCinformation/status/1651478108971622403/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1270,
+								"h": 1797,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 848,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1651478095965085700,
+						"id_str": "1651478095965085696",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/Fus6lBBWYAAZoTj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fus6lBBWYAAZoTj.jpg",
+						"url": "https://t.co/9KERIozymH",
+						"display_url": "pic.twitter.com/9KERIozymH",
+						"expanded_url": "https://twitter.com/OKCinformation/status/1651478108971622403/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1270,
+								"h": 1797,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 848,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1651478102273405000,
+						"id_str": "1651478102273404930",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/Fus6lYhXsAIG2GU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fus6lYhXsAIG2GU.jpg",
+						"url": "https://t.co/9KERIozymH",
+						"display_url": "pic.twitter.com/9KERIozymH",
+						"expanded_url": "https://twitter.com/OKCinformation/status/1651478108971622403/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1270,
+								"h": 1797,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 848,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3309353195,
+				"id_str": "3309353195",
+				"name": "OKCinfo Research",
+				"screen_name": "OKCinformation",
+				"location": "Belgique",
+				"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+				"url": "https://t.co/zYcyQtvumv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zYcyQtvumv",
+								"expanded_url": "https://okcinfo.news/en",
+								"display_url": "okcinfo.news/en",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 215,
+				"friends_count": 385,
+				"listed_count": 7,
+				"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+				"favourites_count": 369,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1833,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Ya des bouddhistes qui me disent, le @DalaiLama est trop occupé pour s'occuper d'un détail comme OKC dans la grande marche des choses, que les souffrances des Tibétains sont autrement plus importante, moi je leurs réponds à ces Bouddhistes, que les souffrances sont toutes aussi… https://t.co/PsyqLCMXXT"
+	},
+	{
+		"created_at": "Thu Apr 27 06:47:18 +0000 2023",
+		"id": 1651478108971622400,
+		"id_str": "1651478108971622403",
+		"full_text": "Sometimes, Karma is about undoing things.\n\n@NetTibet @DalaiLama \nhttps://t.co/98WfMRMdGs https://t.co/9KERIozymH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NetTibet",
+					"name": "Tibet.net",
+					"id": 918420895495946200,
+					"id_str": "918420895495946240",
+					"indices": [
+						43,
+						52
+					]
+				},
+				{
+					"screen_name": "DalaiLama",
+					"name": "Dalai Lama",
+					"id": 20609518,
+					"id_str": "20609518",
+					"indices": [
+						53,
+						63
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/98WfMRMdGs",
+					"expanded_url": "https://drive.google.com/file/d/0B7ZZBZAiuR-zazdPa1Qwb0VvRkE/view?usp=drivesdk&resourcekey=0-rp1-mGtg0m1L3TAdqT4t_Q",
+					"display_url": "drive.google.com/file/d/0B7ZZBZ…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1651478095965085700,
+					"id_str": "1651478095965085696",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/Fus6lBBWYAAZoTj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fus6lBBWYAAZoTj.jpg",
+					"url": "https://t.co/9KERIozymH",
+					"display_url": "pic.twitter.com/9KERIozymH",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1651478108971622403/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1270,
+							"h": 1797,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1651478095965085700,
+					"id_str": "1651478095965085696",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/Fus6lBBWYAAZoTj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fus6lBBWYAAZoTj.jpg",
+					"url": "https://t.co/9KERIozymH",
+					"display_url": "pic.twitter.com/9KERIozymH",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1651478108971622403/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1270,
+							"h": 1797,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1651478102273405000,
+					"id_str": "1651478102273404930",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/Fus6lYhXsAIG2GU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fus6lYhXsAIG2GU.jpg",
+					"url": "https://t.co/9KERIozymH",
+					"display_url": "pic.twitter.com/9KERIozymH",
+					"expanded_url": "https://twitter.com/OKCinformation/status/1651478108971622403/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1270,
+							"h": 1797,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 385,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 369,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1833,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sometimes, Karma is about undoing things.\n\n@NetTibet @DalaiLama \nhttps://t.co/98WfMRMdGs https://t.co/9KERIozymH"
+	},
+	{
 		"created_at": "Wed Apr 26 08:12:13 +0000 2023",
 		"id": 1651134883761119200,
 		"id_str": "1651137088840949760",
