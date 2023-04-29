@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Fri Apr 28 17:25:16 +0000 2023",
+		"id": 1651989368599457800,
+		"id_str": "1652001046267408404",
+		"full_text": "le Dalai-Lama visite OKC en 1990 lors d'un passage à Bruxelles, la OKC va l'accueillir en grande pompe, opération réussie, avec des attestations déployées en 1994 qui vont booster la réputation et la légitimité de la OKC jusqu'au perquisition de 1997. https://t.co/gDgvMT4A3M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gDgvMT4A3M",
+					"expanded_url": "https://okcinfo.news/2021/individus/dalai-lama-et-son-incapacite-totale-a-discerner-a-qui-donner-son-soutien/?preview_id=12162",
+					"display_url": "okcinfo.news/2021/individus…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷",
+			"description": "Geek sur la Tech, l'information, la démocratie, la Justice et le discernement | Partie civile 🇧🇪 et Porte-parole @OKCinfor 🇫🇷 ¦   \n🐘@rmdes@mstdn.social",
+			"url": "https://t.co/1vdpwc9JYy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1vdpwc9JYy",
+							"expanded_url": "https://blog.rmendes.net/",
+							"display_url": "blog.rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2941,
+			"friends_count": 4477,
+			"listed_count": 316,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 15658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1649342752532905984/GMcVQDRx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1649342752532905984/GMcVQDRx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1677575068",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "le Dalai-Lama visite OKC en 1990 lors d'un passage à Bruxelles, la OKC va l'accueillir en grande pompe, opération réussie, avec des attestations déployées en 1994 qui vont booster la réputation et la légitimité de la OKC jusqu'au perquisition de 1997. https://t.co/gDgvMT4A3M"
+	},
+	{
+		"created_at": "Fri Apr 28 12:25:28 +0000 2023",
+		"id": 1651925597940064300,
+		"id_str": "1651925597940064257",
+		"full_text": "@philipgilberts @DalaiLama Watch the documentary to have, even just an ounce of context, and then you come back here with generic trolling without taking into account whom you're talking to.\n\nTibetan Buddhism, the law of Silence\n\nhttps://t.co/dd0v3XgOTZ\n\n#Buddhism #DalaiLama #metooguru",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			286
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Buddhism",
+					"indices": [
+						255,
+						264
+					]
+				},
+				{
+					"text": "DalaiLama",
+					"indices": [
+						265,
+						275
+					]
+				},
+				{
+					"text": "metooguru",
+					"indices": [
+						276,
+						286
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "philipgilberts",
+					"name": "马朝旭",
+					"id": 1282302855739781000,
+					"id_str": "1282302855739781122",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "DalaiLama",
+					"name": "Dalai Lama",
+					"id": 20609518,
+					"id_str": "20609518",
+					"indices": [
+						16,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dd0v3XgOTZ",
+					"expanded_url": "https://youtu.be/Sg-5CDOcsTM",
+					"display_url": "youtu.be/Sg-5CDOcsTM",
+					"indices": [
+						230,
+						253
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1651918627124158500,
+		"in_reply_to_status_id_str": "1651918627124158465",
+		"in_reply_to_user_id": 1282302855739781000,
+		"in_reply_to_user_id_str": "1282302855739781122",
+		"in_reply_to_screen_name": "philipgilberts",
+		"user": {
+			"id": 3309353195,
+			"id_str": "3309353195",
+			"name": "OKCinfo Research",
+			"screen_name": "OKCinformation",
+			"location": "Belgique",
+			"description": "#OKCinfo is an ongoing Justice initiative from ex-OKC born kids now civil parties to drag Ogyen Kunzang Choling/Robert Spatz Lama Kunzang to justice & jail it!",
+			"url": "https://t.co/zYcyQtvumv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zYcyQtvumv",
+							"expanded_url": "https://okcinfo.news/en",
+							"display_url": "okcinfo.news/en",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 385,
+			"listed_count": 7,
+			"created_at": "Fri Jun 05 15:00:16 +0000 2015",
+			"favourites_count": 369,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656530168312262656/Ujovmh2w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309353195/1625149299",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@philipgilberts @DalaiLama Watch the documentary to have, even just an ounce of context, and then you come back here with generic trolling without taking into account whom you're talking to.\n\nTibetan Buddhism, the law of Silence\n\nhttps://t.co/dd0v3XgOTZ\n\n#Buddhism #DalaiLama #metooguru"
+	},
+	{
 		"created_at": "Thu Apr 27 07:00:32 +0000 2023",
 		"id": 1651481221048696800,
 		"id_str": "1651481436568920064",
