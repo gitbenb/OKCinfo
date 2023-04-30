@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Sat Apr 29 18:47:33 +0000 2023",
+		"id": 1652384055155892200,
+		"id_str": "1652384139104985094",
+		"full_text": "Qu'est-ce qui ne va pas avec le Dalaï Lama ? - Partie 1\n\nhttps://t.co/CS04YQ05iE https://t.co/JFnQxantSN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CS04YQ05iE",
+					"expanded_url": "https://openbuddhism-org.translate.goog/what-on-earth-is-wrong-with-the-dalai-lama-part-1/?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=en-US",
+					"display_url": "openbuddhism-org.translate.goog/what-on-earth-…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1652384047883071500,
+					"id_str": "1652384047883071488",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Fu5yiW6XsAAIO52.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fu5yiW6XsAAIO52.jpg",
+					"url": "https://t.co/JFnQxantSN",
+					"display_url": "pic.twitter.com/JFnQxantSN",
+					"expanded_url": "https://twitter.com/rMdes_/status/1652384055155892225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1140,
+							"h": 761,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1140,
+							"h": 761,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1652384047883071500,
+					"id_str": "1652384047883071488",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Fu5yiW6XsAAIO52.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fu5yiW6XsAAIO52.jpg",
+					"url": "https://t.co/JFnQxantSN",
+					"display_url": "pic.twitter.com/JFnQxantSN",
+					"expanded_url": "https://twitter.com/rMdes_/status/1652384055155892225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1140,
+							"h": 761,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1140,
+							"h": 761,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1562961949,
+			"id_str": "1562961949",
+			"name": "Ricardo Mendes",
+			"screen_name": "rMdes_",
+			"location": "🇪🇺🇵🇹🇺🇦🇧🇪😷",
+			"description": "Geek sur la Tech, l'information, la démocratie, la Justice et le discernement | Partie civile 🇧🇪 et Porte-parole @OKCinfor 🇫🇷 ¦   \n🐘@rmdes@mstdn.social",
+			"url": "https://t.co/1vdpwc9JYy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1vdpwc9JYy",
+							"expanded_url": "https://blog.rmendes.net/",
+							"display_url": "blog.rmendes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2940,
+			"friends_count": 4478,
+			"listed_count": 316,
+			"created_at": "Tue Jul 02 11:30:45 +0000 2013",
+			"favourites_count": 15666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1649342752532905984/GMcVQDRx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1649342752532905984/GMcVQDRx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562961949/1677575068",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Qu'est-ce qui ne va pas avec le Dalaï Lama ? - Partie 1\n\nhttps://t.co/CS04YQ05iE https://t.co/JFnQxantSN"
+	},
+	{
 		"created_at": "Fri Apr 28 17:25:16 +0000 2023",
 		"id": 1651989368599457800,
 		"id_str": "1652001046267408404",
